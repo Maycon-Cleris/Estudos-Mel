@@ -12,24 +12,38 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// Quantidade de questões sorteadas em cada prova
+const QUIZ_LENGTH = 15;
+
+// Embaralha uma cópia do array (Fisher-Yates), sem alterar o original
+function shuffle(array) {
+  const copy = [...array];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
 // Lista de matérias e quantas questões cada uma tem
 app.get("/api/subjects", (req, res) => {
   res.json(getSubjects());
 });
 
-// Questões de uma matéria, sem revelar a resposta correta nem a explicação
+// Sorteia QUIZ_LENGTH questões da matéria, embaralha a ordem das perguntas
+// e das alternativas, e não revela a resposta correta nem a explicação.
+// Assim, cada prova fica diferente, mesmo repetindo a matéria na mesma semana.
 app.get("/api/questions/:subjectId", (req, res) => {
-  const questions = getQuestionsBySubject(req.params.subjectId);
-  const safeQuestions = questions.map(
-    ({ id, materia, topico, pergunta, alternativas }) => ({
-      id,
-      materia,
-      topico,
-      pergunta,
-      alternativas,
-    })
-  );
-  res.json(safeQuestions);
+  const bank = getQuestionsBySubject(req.params.subjectId);
+  const selected = shuffle(bank).slice(0, QUIZ_LENGTH);
+  const quizQuestions = selected.map(({ id, materia, topico, pergunta, alternativas }) => ({
+    id,
+    materia,
+    topico,
+    pergunta,
+    alternativas: shuffle(alternativas),
+  }));
+  res.json(quizQuestions);
 });
 
 // Salva o resultado de uma prova finalizada
@@ -40,7 +54,7 @@ app.post("/api/results", async (req, res) => {
     return res.status(400).json({ error: "Dados incompletos para salvar o resultado." });
   }
 
-  const detailedAnswers = answers.map(({ questionId, selectedIndex }) => {
+  const detailedAnswers = answers.map(({ questionId, selectedIndex, alternativas }) => {
     const question = getQuestionById(subject, questionId);
     if (!question) {
       return {
@@ -54,13 +68,24 @@ app.post("/api/results", async (req, res) => {
         explicacao: "",
       };
     }
-    const isCorrect = question.respostaCorreta === selectedIndex;
+    // As alternativas foram embaralhadas ao gerar a prova, então a ordem que o
+    // aluno viu (enviada de volta pelo cliente) pode não bater com a ordem
+    // original do banco. Comparamos pelo texto da resposta, não pelo índice.
+    const shownAlternativas =
+      Array.isArray(alternativas) && alternativas.length === question.alternativas.length
+        ? alternativas
+        : question.alternativas;
+    const correctText = question.alternativas[question.respostaCorreta];
+    const selectedText = shownAlternativas[selectedIndex];
+    const respostaCorretaIndex = shownAlternativas.indexOf(correctText);
+    const isCorrect = selectedText === correctText;
+
     return {
       questionId,
       topico: question.topico,
       pergunta: question.pergunta,
-      alternativas: question.alternativas,
-      respostaCorreta: question.respostaCorreta,
+      alternativas: shownAlternativas,
+      respostaCorreta: respostaCorretaIndex,
       selectedIndex,
       isCorrect,
       explicacao: question.explicacao,

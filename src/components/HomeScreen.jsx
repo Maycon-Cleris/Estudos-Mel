@@ -2,6 +2,14 @@ import { useEffect, useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { getSubjects } from "../api/client.js";
 
+const QUIZ_LENGTH = 15;
+
+function questionsCountLabel(totalQuestoes) {
+  if (totalQuestoes === 0) return "(em breve)";
+  if (totalQuestoes > QUIZ_LENGTH) return `(${QUIZ_LENGTH} sorteadas de ${totalQuestoes})`;
+  return `(${totalQuestoes} questões)`;
+}
+
 export default function HomeScreen() {
   const navigate = useNavigate();
   const [subjects, setSubjects] = useState([]);
@@ -69,7 +77,7 @@ export default function HomeScreen() {
               <select value={subjectId} onChange={(e) => setSubjectId(e.target.value)}>
                 {subjects.map((s) => (
                   <option key={s.id} value={s.id}>
-                    {s.label} {s.totalQuestoes === 0 ? "(em breve)" : `(${s.totalQuestoes} questões)`}
+                    {s.label} {questionsCountLabel(s.totalQuestoes)}
                   </option>
                 ))}
               </select>

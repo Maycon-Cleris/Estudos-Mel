@@ -79,6 +79,7 @@ export default function QuizScreen() {
       const answers = questions.map((q) => ({
         questionId: q.id,
         selectedIndex: selectedAnswers[q.id],
+        alternativas: q.alternativas,
       }));
       const result = await saveResult({
         studentName: state.studentName,

@@ -2,15 +2,24 @@
 
 Aplicativo web para treinar para provas, feito para uma aluna do 7º ano. Escolha a matéria, responda as questões de múltipla escolha e veja a correção detalhada ao final. Os responsáveis podem acompanhar o histórico de todas as provas realizadas, de qualquer lugar.
 
-Matérias já com 15 questões cada, cobrindo o currículo do 7º ano (BNCC): **Ciências, Matemática, Português, História e Geografia**.
+Matérias com banco de até 50 questões cada, cobrindo o currículo do 7º ano (BNCC): **Ciências, Matemática, Português, História e Geografia**. A cada prova, o app sorteia 15 questões do banco da matéria e embaralha a ordem das perguntas e das alternativas — então repetir a mesma matéria em semanas diferentes normalmente não cai exatamente nas mesmas questões.
 
 ## Como funciona
 
-- **Frontend**: React + Vite
+- **Frontend**: React + Vite, instalável como app (PWA) no celular
 - **Backend**: Express, rodando como função serverless na Vercel
 - **Persistência**: banco de dados Postgres (recomendado: [Neon](https://neon.tech), integrado direto pela Vercel)
 
 O app é feito para rodar online, acessível por um link, de qualquer aparelho (computador ou celular).
+
+## Instalando como app no celular (PWA)
+
+O app é uma PWA (Progressive Web App): dá para "instalar" no celular sem passar pela loja de aplicativos, e ele abre em tela cheia como um app nativo.
+
+- **Android (Chrome)**: abra o link do app, toque no menu (⋮) e depois em **"Adicionar à tela inicial"** ou **"Instalar app"**.
+- **iPhone (Safari)**: abra o link do app, toque no ícone de compartilhar (□↑) e depois em **"Adicionar à Tela de Início"**.
+
+Depois disso, um ícone do Quiz de Estudos aparece na tela inicial do celular, igual a qualquer outro app.
 
 ## Colocando o app no ar (Vercel + Neon)
 
@@ -49,20 +58,23 @@ Sem o `.env` configurado, o app inicia normalmente e o quiz funciona, mas salvar
 ```
 questions/            -> banco de questões (fonte da verdade, usado só pelo servidor)
   subjects.js          -> lista de matérias disponíveis
-  ciencias.json         -> 15 questões de Ciências
-  matematica.json       -> 15 questões de Matemática
-  portugues.json        -> 15 questões de Português
-  historia.json         -> 15 questões de História
-  geografia.json        -> 15 questões de Geografia
+  ciencias.json         -> até 50 questões de Ciências
+  matematica.json       -> até 50 questões de Matemática
+  portugues.json        -> até 50 questões de Português
+  historia.json         -> até 50 questões de História
+  geografia.json        -> até 50 questões de Geografia
   index.js              -> junta tudo e expõe funções auxiliares
 
 server/
-  app.js                -> API Express (rotas /api/...), sem depender de porta fixa
+  app.js                -> API Express (rotas /api/...). Sorteia e embaralha as questões a cada prova (constante QUIZ_LENGTH)
   db.js                  -> conexão com o Postgres e funções de leitura/escrita
   index.js               -> só para rodar localmente (npm run dev), inicia o Express numa porta
 
 api/
   index.js               -> ponto de entrada usado pela Vercel (função serverless que reaproveita server/app.js), todo /api/* é reescrito para cá via vercel.json
+
+public/
+  pwa-192.png, pwa-512.png, maskable-512.png -> ícones do app instalável
 
 src/
   components/           -> telas do app (Home, Quiz, Resultado, Correção, Área do responsável)
@@ -70,6 +82,7 @@ src/
   App.jsx, main.jsx, index.css
 
 vercel.json             -> redirecionamentos para o app funcionar como SPA na Vercel
+vite.config.js          -> inclui a configuração da PWA (manifesto, ícones, service worker)
 ```
 
 ## Como adicionar novas questões
@@ -78,7 +91,7 @@ Cada matéria tem seu próprio arquivo `.json` dentro da pasta `questions/`. Par
 
 ```json
 {
-  "id": "mat-16",
+  "id": "mat-51",
   "materia": "matematica",
   "topico": "Frações",
   "pergunta": "Quanto é 1/2 + 1/4?",
@@ -90,10 +103,12 @@ Cada matéria tem seu próprio arquivo `.json` dentro da pasta `questions/`. Par
 
 Regras importantes:
 
-- `id`: precisa ser único dentro do arquivo (sugestão: prefixo da matéria + número, ex: `mat-16`, `mat-17`)
+- `id`: precisa ser único dentro do arquivo (sugestão: prefixo da matéria + número, seguindo a numeração já usada, ex: `mat-51`, `mat-52`)
 - `alternativas`: sempre um array com exatamente 4 opções
 - `respostaCorreta`: índice (0, 1, 2 ou 3) da alternativa certa dentro do array `alternativas`
 - `explicacao`: texto curto que aparece na correção, explicando o conteúdo
+
+Não precisa se preocupar com quantas questões caem em cada prova — o servidor sempre sorteia 15 do banco da matéria (constante `QUIZ_LENGTH` em `server/app.js`, ajustável se quiser outro número). Se a matéria tiver 15 ou menos questões, todas aparecem, só que embaralhadas.
 
 Depois de editar o arquivo, salve, rode `npm run dev` de novo localmente para conferir, e depois faça `git push` — a Vercel publica a atualização automaticamente.
 
