@@ -62,7 +62,7 @@ server/
   index.js               -> só para rodar localmente (npm run dev), inicia o Express numa porta
 
 api/
-  [...path].js           -> ponto de entrada usado pela Vercel (função serverless que reaproveita server/app.js)
+  index.js               -> ponto de entrada usado pela Vercel (função serverless que reaproveita server/app.js), todo /api/* é reescrito para cá via vercel.json
 
 src/
   components/           -> telas do app (Home, Quiz, Resultado, Correção, Área do responsável)
