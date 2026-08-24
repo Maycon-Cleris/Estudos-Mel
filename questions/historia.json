@@ -1,0 +1,197 @@
+[
+  {
+    "id": "his-01",
+    "materia": "historia",
+    "topico": "Grandes Navegações",
+    "pergunta": "Qual foi uma das principais motivações de Portugal e Espanha para as Grandes Navegações nos séculos XV e XVI?",
+    "alternativas": [
+      "Buscar novas rotas comerciais para as especiarias do Oriente",
+      "Explorar o espaço e outros planetas",
+      "Fugir de guerras internas na Europa",
+      "Encontrar novas fontes de petróleo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "As especiarias vindas do Oriente (como pimenta e cravo) eram muito valiosas na Europa. Como as rotas terrestres eram controladas por outros povos, Portugal e Espanha buscaram rotas marítimas alternativas."
+  },
+  {
+    "id": "his-02",
+    "materia": "historia",
+    "topico": "Grandes Navegações - Tecnologia",
+    "pergunta": "Qual embarcação, desenvolvida pelos portugueses, foi fundamental para as Grandes Navegações por ser mais rápida e manobrável?",
+    "alternativas": ["O navio a vapor", "A caravela", "O submarino", "O trirreme"],
+    "respostaCorreta": 1,
+    "explicacao": "A caravela era uma embarcação leve e veloz, com velas que aproveitavam melhor os ventos, o que permitiu aos portugueses explorar rotas marítimas mais longas com segurança."
+  },
+  {
+    "id": "his-03",
+    "materia": "historia",
+    "topico": "Tratado de Tordesilhas",
+    "pergunta": "O que estabelecia o Tratado de Tordesilhas, assinado em 1494?",
+    "alternativas": [
+      "O fim da escravidão nas colônias",
+      "A divisão das terras recém-descobertas entre Portugal e Espanha",
+      "A independência do Brasil",
+      "A criação da primeira universidade das Américas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O Tratado de Tordesilhas dividiu as terras a serem descobertas fora da Europa entre Portugal e Espanha por meio de uma linha imaginária, definindo qual território pertenceria a cada reino."
+  },
+  {
+    "id": "his-04",
+    "materia": "historia",
+    "topico": "Chegada dos portugueses ao Brasil",
+    "pergunta": "Em que ano a esquadra comandada por Pedro Álvares Cabral chegou ao território que hoje é o Brasil?",
+    "alternativas": ["1450", "1500", "1550", "1600"],
+    "respostaCorreta": 1,
+    "explicacao": "A esquadra portuguesa comandada por Pedro Álvares Cabral chegou ao litoral da Bahia em abril de 1500, marco tradicionalmente usado para o início da colonização portuguesa no Brasil."
+  },
+  {
+    "id": "his-05",
+    "materia": "historia",
+    "topico": "Escravidão indígena",
+    "pergunta": "No início da colonização, os portugueses tentaram escravizar os povos indígenas principalmente para qual finalidade?",
+    "alternativas": [
+      "Trabalhar na extração de pau-brasil e depois nos engenhos",
+      "Servir no exército português na Europa",
+      "Trabalhar em fábricas de tecidos",
+      "Construir estradas de ferro"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "No início da colonização, os indígenas foram usados para extrair pau-brasil e, depois, para trabalhar nos engenhos de açúcar, embora essa mão de obra tenha sofrido forte resistência e alta mortalidade."
+  },
+  {
+    "id": "his-06",
+    "materia": "historia",
+    "topico": "Tráfico de escravizados africanos",
+    "pergunta": "Por que os portugueses passaram a trazer pessoas escravizadas da África para trabalhar no Brasil colonial?",
+    "alternativas": [
+      "Porque não havia pessoas para trabalhar em Portugal",
+      "Diante da resistência indígena e de doenças, buscaram mão de obra forçada africana, já usada em outras colônias",
+      "Porque os africanos pediram para vir trabalhar no Brasil",
+      "Porque era proibido usar mão de obra indígena por lei desde o início"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Diante das dificuldades em escravizar indígenas (resistência, fugas e doenças) e do lucro do comércio de pessoas escravizadas vindas da África, os portugueses intensificaram o tráfico transatlântico para suprir a mão de obra das colônias."
+  },
+  {
+    "id": "his-07",
+    "materia": "historia",
+    "topico": "Economia açucareira",
+    "pergunta": "O que caracterizava o \"ciclo do açúcar\" no Brasil colonial?",
+    "alternativas": [
+      "A produção de açúcar em pequenas fazendas para consumo local",
+      "A produção de açúcar em larga escala nos engenhos, voltada para exportação à Europa",
+      "A proibição da venda de açúcar para outros países",
+      "A substituição total do açúcar pelo café"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Durante o período colonial, principalmente nos séculos XVI e XVII, o açúcar produzido nos engenhos (sobretudo no Nordeste) tornou-se o principal produto de exportação do Brasil para a Europa."
+  },
+  {
+    "id": "his-08",
+    "materia": "historia",
+    "topico": "Capitanias hereditárias",
+    "pergunta": "O que foram as capitanias hereditárias, criadas por Portugal na década de 1530?",
+    "alternativas": [
+      "Escolas fundadas pelos jesuítas",
+      "Divisões do território brasileiro doadas a nobres portugueses para colonizar e administrar",
+      "Tribunais que julgavam crimes na colônia",
+      "Um sistema de transporte marítimo entre Brasil e Portugal"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "As capitanias hereditárias foram grandes faixas de terra doadas pela Coroa portuguesa a nobres (donatários), que tinham a responsabilidade de colonizar, administrar e defender essas terras."
+  },
+  {
+    "id": "his-09",
+    "materia": "historia",
+    "topico": "Ciclo do ouro",
+    "pergunta": "A descoberta de ouro em Minas Gerais, no final do século XVII, provocou qual mudança importante na colônia?",
+    "alternativas": [
+      "O fim total da produção de açúcar no Brasil",
+      "Uma grande migração de pessoas para a região das minas e o deslocamento do centro econômico para o Sudeste",
+      "A independência imediata do Brasil",
+      "A proibição de exploração de metais preciosos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A descoberta de ouro atraiu um grande número de colonos e escravizados para Minas Gerais, gerando urbanização na região e deslocando o eixo econômico da colônia do Nordeste para o Sudeste."
+  },
+  {
+    "id": "his-10",
+    "materia": "historia",
+    "topico": "Renascimento",
+    "pergunta": "O Renascimento, movimento cultural que floresceu na Europa entre os séculos XIV e XVI, valorizava principalmente:",
+    "alternativas": [
+      "O retorno aos valores da Idade Média e à vida no campo",
+      "O racionalismo, o humanismo e a valorização das artes e ciências inspiradas na Antiguidade Clássica",
+      "A proibição total da arte e da literatura",
+      "O isolamento total entre os países europeus"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O Renascimento valorizava a razão, o ser humano (humanismo) e resgatava referências da cultura greco-romana, impulsionando avanços nas artes, na ciência e na filosofia."
+  },
+  {
+    "id": "his-11",
+    "materia": "historia",
+    "topico": "Reforma Protestante",
+    "pergunta": "Quem foi o principal responsável por iniciar a Reforma Protestante em 1517?",
+    "alternativas": ["Martinho Lutero", "Napoleão Bonaparte", "Cristóvão Colombo", "Galileu Galilei"],
+    "respostaCorreta": 0,
+    "explicacao": "Martinho Lutero, monge alemão, iniciou a Reforma Protestante ao publicar suas 95 teses criticando práticas da Igreja Católica, como a venda de indulgências, dando origem ao protestantismo."
+  },
+  {
+    "id": "his-12",
+    "materia": "historia",
+    "topico": "Absolutismo",
+    "pergunta": "O que caracteriza o Absolutismo Monárquico, sistema político comum na Europa entre os séculos XVI e XVIII?",
+    "alternativas": [
+      "O poder do rei era limitado por eleições populares",
+      "O rei concentrava todo o poder político, considerado de origem divina",
+      "Não existiam reis, apenas repúblicas",
+      "O poder era dividido igualmente entre todos os cidadãos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "No Absolutismo, o rei concentrava em suas mãos todo o poder político, muitas vezes justificado pela teoria do direito divino, segundo a qual sua autoridade viria diretamente de Deus."
+  },
+  {
+    "id": "his-13",
+    "materia": "historia",
+    "topico": "Iluminismo",
+    "pergunta": "O Iluminismo, movimento intelectual do século XVIII, defendia principalmente:",
+    "alternativas": [
+      "O fortalecimento do poder absoluto dos reis",
+      "A razão, a liberdade individual e a crítica aos privilégios da nobreza e do clero",
+      "O retorno ao sistema feudal",
+      "A proibição da educação para o povo"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Os pensadores iluministas defendiam o uso da razão, a igualdade perante a lei e criticavam os privilégios da nobreza e do clero, influenciando revoluções como a Francesa e a Independência dos EUA."
+  },
+  {
+    "id": "his-14",
+    "materia": "historia",
+    "topico": "Invasões holandesas no Brasil",
+    "pergunta": "Por que os holandeses invadiram partes do território brasileiro no século XVII?",
+    "alternativas": [
+      "Para ajudar Portugal a se defender de outros invasores",
+      "Para controlar a lucrativa produção de açúcar no Nordeste",
+      "Para libertar os povos indígenas",
+      "Para construir a primeira cidade do Brasil"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Os holandeses, através da Companhia das Índias Ocidentais, invadiram regiões como Pernambuco buscando controlar diretamente a lucrativa produção açucareira, driblando os portugueses no comércio do produto."
+  },
+  {
+    "id": "his-15",
+    "materia": "historia",
+    "topico": "Mercantilismo",
+    "pergunta": "O que era o mercantilismo, política econômica adotada pelas metrópoles europeias durante o período colonial?",
+    "alternativas": [
+      "Um sistema que permitia às colônias comercializar livremente com qualquer país",
+      "Um conjunto de práticas que buscava acumular riquezas para a metrópole, controlando o comércio das colônias",
+      "Uma lei que proibia qualquer tipo de comércio",
+      "Um sistema de trocas sem uso de dinheiro"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O mercantilismo era baseado na ideia de que a colônia deveria servir aos interesses econômicos da metrópole, fornecendo matérias-primas e comprando produtos manufaturados exclusivamente dela, para acumular riqueza (metais preciosos)."
+  }
+]

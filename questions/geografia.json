@@ -1,0 +1,177 @@
+[
+  {
+    "id": "geo-01",
+    "materia": "geografia",
+    "topico": "Regiões do Brasil",
+    "pergunta": "Segundo a divisão oficial do IBGE, em quantas regiões o território brasileiro é dividido?",
+    "alternativas": ["3", "5", "7", "9"],
+    "respostaCorreta": 1,
+    "explicacao": "O Brasil é dividido oficialmente em 5 regiões pelo IBGE: Norte, Nordeste, Centro-Oeste, Sudeste e Sul, que agrupam estados com características econômicas, sociais e físicas semelhantes."
+  },
+  {
+    "id": "geo-02",
+    "materia": "geografia",
+    "topico": "Relevo brasileiro",
+    "pergunta": "Qual é a forma de relevo predominante no território brasileiro?",
+    "alternativas": ["Montanhas muito altas", "Planaltos", "Desertos", "Vulcões ativos"],
+    "respostaCorreta": 1,
+    "explicacao": "A maior parte do relevo brasileiro é formada por planaltos, áreas mais antigas e erodidas, sem grandes cadeias de montanhas jovens como os Andes ou o Himalaia."
+  },
+  {
+    "id": "geo-03",
+    "materia": "geografia",
+    "topico": "Clima do Brasil",
+    "pergunta": "Qual tipo de clima predomina na região amazônica, caracterizado por altas temperaturas e chuvas abundantes o ano todo?",
+    "alternativas": ["Clima semiárido", "Clima temperado", "Clima equatorial", "Clima polar"],
+    "respostaCorreta": 2,
+    "explicacao": "O clima equatorial, presente na região Norte, tem temperaturas altas e constantes, além de chuvas frequentes durante praticamente todo o ano, favorecendo a vegetação densa da floresta amazônica."
+  },
+  {
+    "id": "geo-04",
+    "materia": "geografia",
+    "topico": "Hidrografia - Bacias hidrográficas",
+    "pergunta": "Qual é a maior bacia hidrográfica do Brasil e do mundo em volume de água?",
+    "alternativas": ["Bacia do São Francisco", "Bacia do Paraná", "Bacia Amazônica", "Bacia do Tocantins-Araguaia"],
+    "respostaCorreta": 2,
+    "explicacao": "A Bacia Amazônica é a maior do mundo em volume de água e extensão, formada pelo Rio Amazonas e seus afluentes, cobrindo grande parte da região Norte do Brasil."
+  },
+  {
+    "id": "geo-05",
+    "materia": "geografia",
+    "topico": "Biomas brasileiros - Amazônia",
+    "pergunta": "Qual bioma brasileiro é conhecido por abrigar a maior floresta tropical do planeta, com grande biodiversidade?",
+    "alternativas": ["Caatinga", "Pampa", "Amazônia", "Pantanal"],
+    "respostaCorreta": 2,
+    "explicacao": "O bioma Amazônia concentra a maior floresta tropical do mundo, com clima quente e úmido, sendo um dos ambientes com maior biodiversidade do planeta."
+  },
+  {
+    "id": "geo-06",
+    "materia": "geografia",
+    "topico": "Biomas brasileiros - Mata Atlântica",
+    "pergunta": "Qual bioma brasileiro, hoje muito reduzido devido à ocupação urbana desde o período colonial, se estende principalmente pelo litoral do país?",
+    "alternativas": ["Mata Atlântica", "Cerrado", "Caatinga", "Amazônia"],
+    "respostaCorreta": 0,
+    "explicacao": "A Mata Atlântica se estendia originalmente por boa parte do litoral brasileiro, mas foi muito desmatada desde a colonização por conta da ocupação urbana e agrícola, restando hoje pequenos fragmentos preservados."
+  },
+  {
+    "id": "geo-07",
+    "materia": "geografia",
+    "topico": "População - Densidade demográfica",
+    "pergunta": "O que significa a densidade demográfica de uma região?",
+    "alternativas": [
+      "A quantidade total de habitantes de um país",
+      "A relação entre o número de habitantes e a área do território (habitantes por km²)",
+      "A quantidade de chuva que cai em uma região por ano",
+      "O número de cidades que uma região possui"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A densidade demográfica mede quantos habitantes existem, em média, por quilômetro quadrado (km²) de um território, indicando se a área é mais ou menos povoada."
+  },
+  {
+    "id": "geo-08",
+    "materia": "geografia",
+    "topico": "Urbanização brasileira",
+    "pergunta": "O que caracteriza o processo de urbanização, muito intenso no Brasil a partir do século XX?",
+    "alternativas": [
+      "O aumento da população vivendo em áreas rurais",
+      "O crescimento da população vivendo em cidades em relação à população rural",
+      "A diminuição do número total de habitantes do país",
+      "A construção de estradas apenas no campo"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Urbanização é o processo em que a proporção da população vivendo em cidades aumenta em relação à população do campo. No Brasil, esse processo se intensificou muito a partir da industrialização no século XX."
+  },
+  {
+    "id": "geo-09",
+    "materia": "geografia",
+    "topico": "Migrações internas - Êxodo rural",
+    "pergunta": "O que é o êxodo rural, fenômeno importante para entender a urbanização brasileira?",
+    "alternativas": [
+      "A migração de pessoas das cidades para o campo",
+      "A saída de pessoas do campo em direção às cidades, geralmente em busca de emprego",
+      "A troca de moradores entre duas cidades grandes",
+      "A imigração de estrangeiros para o Brasil"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O êxodo rural é o deslocamento de pessoas que saem da área rural (campo) para viver nas cidades, geralmente em busca de melhores oportunidades de trabalho, renda e serviços."
+  },
+  {
+    "id": "geo-10",
+    "materia": "geografia",
+    "topico": "Agropecuária brasileira",
+    "pergunta": "O que caracteriza o agronegócio, setor importante da economia brasileira atual?",
+    "alternativas": [
+      "A produção agrícola apenas para consumo da própria família",
+      "A produção agropecuária em larga escala, com uso de tecnologia, voltada principalmente para exportação",
+      "A proibição do uso de máquinas agrícolas",
+      "O cultivo exclusivo de hortas urbanas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O agronegócio envolve a produção agropecuária em larga escala, com forte uso de tecnologia e mecanização, sendo responsável por grande parte das exportações brasileiras, como soja, milho e carne."
+  },
+  {
+    "id": "geo-11",
+    "materia": "geografia",
+    "topico": "Industrialização brasileira",
+    "pergunta": "Qual região brasileira concentrou historicamente o maior polo industrial do país, com destaque para o estado de São Paulo?",
+    "alternativas": ["Norte", "Nordeste", "Sudeste", "Centro-Oeste"],
+    "respostaCorreta": 2,
+    "explicacao": "A região Sudeste, especialmente o estado de São Paulo, concentrou historicamente o maior parque industrial do Brasil, favorecido por fatores como infraestrutura, mão de obra e proximidade de mercados consumidores."
+  },
+  {
+    "id": "geo-12",
+    "materia": "geografia",
+    "topico": "Fusos horários",
+    "pergunta": "Por que o Brasil, por ter um território muito extenso no sentido leste-oeste, possui mais de um fuso horário?",
+    "alternativas": [
+      "Porque cada estado escolhe seu próprio horário livremente",
+      "Porque a Terra gira e diferentes longitudes recebem a luz do sol em momentos diferentes do dia",
+      "Porque o governo decidiu criar horários diferentes sem motivo geográfico",
+      "Porque o Brasil fica muito próximo da linha do Equador"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Como a Terra gira sobre seu eixo, regiões em diferentes longitudes recebem a luz solar em horários diferentes. Por ter grande extensão leste-oeste, o Brasil abrange mais de um fuso horário."
+  },
+  {
+    "id": "geo-13",
+    "materia": "geografia",
+    "topico": "Cartografia - Coordenadas geográficas",
+    "pergunta": "Quais são as duas coordenadas usadas para localizar exatamente qualquer ponto na superfície da Terra?",
+    "alternativas": [
+      "Altitude e profundidade",
+      "Latitude e longitude",
+      "Escala e legenda",
+      "Norte e sul apenas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A latitude indica a distância de um ponto em relação à Linha do Equador (norte-sul), e a longitude indica a distância em relação ao Meridiano de Greenwich (leste-oeste). Juntas, localizam qualquer ponto no planeta."
+  },
+  {
+    "id": "geo-14",
+    "materia": "geografia",
+    "topico": "Cartografia - Escala",
+    "pergunta": "Para que serve a escala em um mapa?",
+    "alternativas": [
+      "Para indicar as cores usadas no mapa",
+      "Para mostrar a relação entre as distâncias no mapa e as distâncias reais no terreno",
+      "Para indicar apenas o nome do país representado",
+      "Para mostrar a temperatura média da região"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A escala indica a proporção entre uma medida no mapa (reduzida) e a medida real correspondente no terreno, permitindo calcular distâncias reais a partir do mapa."
+  },
+  {
+    "id": "geo-15",
+    "materia": "geografia",
+    "topico": "América Latina",
+    "pergunta": "O que caracteriza os países que compõem a América Latina?",
+    "alternativas": [
+      "Países da América colonizados majoritariamente por Portugal, Espanha ou França, com línguas derivadas do latim",
+      "Todos os países que ficam ao norte da linha do Equador",
+      "Apenas países que falam inglês",
+      "Países localizados exclusivamente na Europa"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A América Latina reúne países do continente americano colonizados principalmente por Portugal, Espanha e França, cujas línguas oficiais (como português, espanhol e francês) derivam do latim."
+  }
+]

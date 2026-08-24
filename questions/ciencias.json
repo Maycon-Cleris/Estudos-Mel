@@ -1,0 +1,187 @@
+[
+  {
+    "id": "cie-01",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema digestório",
+    "pergunta": "Qual é a principal função do sistema digestório?",
+    "alternativas": [
+      "Transportar oxigênio para as células do corpo",
+      "Transformar os alimentos em nutrientes que o corpo pode absorver",
+      "Filtrar o sangue e produzir urina",
+      "Bombear o sangue para todo o corpo"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O sistema digestório quebra os alimentos em partes menores (nutrientes) que podem ser absorvidos pelo intestino e usados pelas células como fonte de energia e matéria-prima."
+  },
+  {
+    "id": "cie-02",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema respiratório",
+    "pergunta": "Onde ocorrem as trocas gasosas (entrada de oxigênio e saída de gás carbônico) no sistema respiratório?",
+    "alternativas": [
+      "Na traqueia",
+      "Nos brônquios",
+      "Nos alvéolos pulmonares",
+      "Na laringe"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Os alvéolos pulmonares são pequenas bolsas cercadas por capilares sanguíneos, onde o oxigênio passa para o sangue e o gás carbônico sai do sangue para ser expirado."
+  },
+  {
+    "id": "cie-03",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema circulatório",
+    "pergunta": "Qual órgão é o principal responsável por bombear o sangue por todo o corpo?",
+    "alternativas": ["O fígado", "O coração", "O pulmão", "O rim"],
+    "respostaCorreta": 1,
+    "explicacao": "O coração é uma bomba muscular que se contrai ritmicamente para impulsionar o sangue pelas artérias, levando oxigênio e nutrientes a todo o corpo."
+  },
+  {
+    "id": "cie-04",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema excretor",
+    "pergunta": "Qual é a função principal dos rins no sistema excretor?",
+    "alternativas": [
+      "Produzir hormônios do crescimento",
+      "Digerir gorduras presentes nos alimentos",
+      "Filtrar o sangue e eliminar substâncias que o corpo não precisa, formando a urina",
+      "Armazenar o ar que respiramos"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Os rins filtram o sangue continuamente, retirando resíduos e excesso de água, que são eliminados na forma de urina, mantendo o equilíbrio do corpo."
+  },
+  {
+    "id": "cie-05",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Cadeia alimentar",
+    "pergunta": "Em uma cadeia alimentar, qual é o papel dos seres decompositores, como fungos e bactérias?",
+    "alternativas": [
+      "Produzir seu próprio alimento através da fotossíntese",
+      "Caçar outros animais para se alimentar",
+      "Decompor restos de seres vivos, devolvendo nutrientes ao ambiente",
+      "Transformar energia solar em energia química"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Os decompositores se alimentam de matéria orgânica morta e, ao decompô-la, liberam nutrientes de volta ao solo, permitindo que os produtores os utilizem novamente."
+  },
+  {
+    "id": "cie-06",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Efeito estufa",
+    "pergunta": "O efeito estufa é um fenômeno natural importante para manter a vida na Terra. O que tem agravado esse efeito nas últimas décadas?",
+    "alternativas": [
+      "A diminuição da temperatura dos oceanos",
+      "O aumento da emissão de gases como o gás carbônico (CO2) por atividades humanas",
+      "A redução da quantidade de raios solares que chegam à Terra",
+      "O crescimento das geleiras nos polos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A queima de combustíveis fósseis e o desmatamento aumentam a concentração de gases do efeito estufa na atmosfera, intensificando a retenção de calor e contribuindo para o aquecimento global."
+  },
+  {
+    "id": "cie-07",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Biodiversidade",
+    "pergunta": "O que é biodiversidade?",
+    "alternativas": [
+      "A quantidade de água doce disponível em um ecossistema",
+      "A variedade de seres vivos (animais, plantas, fungos e microrganismos) que existe em um ambiente",
+      "A camada de gases que envolve o planeta Terra",
+      "O processo de formação das rochas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Biodiversidade é a diversidade de vida em todas as suas formas em um determinado ambiente. Quanto maior a biodiversidade, mais equilibrado e resistente tende a ser o ecossistema."
+  },
+  {
+    "id": "cie-08",
+    "materia": "ciencias",
+    "topico": "Energia - Fontes renováveis",
+    "pergunta": "Qual das opções abaixo é considerada uma fonte de energia renovável?",
+    "alternativas": ["Petróleo", "Carvão mineral", "Energia eólica", "Gás natural"],
+    "respostaCorreta": 2,
+    "explicacao": "A energia eólica é obtida a partir do vento, um recurso natural que se renova constantemente e não se esgota com o uso, ao contrário dos combustíveis fósseis."
+  },
+  {
+    "id": "cie-09",
+    "materia": "ciencias",
+    "topico": "Energia - Fontes não renováveis",
+    "pergunta": "Por que o petróleo é classificado como uma fonte de energia não renovável?",
+    "alternativas": [
+      "Porque ele se forma rapidamente, em poucos dias",
+      "Porque sua formação leva milhões de anos e seu estoque na natureza é limitado",
+      "Porque ele não pode ser transformado em nenhum outro tipo de energia",
+      "Porque ele é encontrado apenas em rios e lagos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Combustíveis fósseis como o petróleo levam milhões de anos para se formar a partir de matéria orgânica soterrada, por isso são consumidos muito mais rápido do que a natureza consegue repor."
+  },
+  {
+    "id": "cie-10",
+    "materia": "ciencias",
+    "topico": "Energia - Máquinas simples",
+    "pergunta": "Uma gangorra é um exemplo de qual tipo de máquina simples?",
+    "alternativas": ["Roldana", "Plano inclinado", "Alavanca", "Parafuso"],
+    "respostaCorreta": 2,
+    "explicacao": "A gangorra funciona como uma alavanca: possui um ponto de apoio fixo no centro, e a força aplicada em uma extremidade movimenta a outra, facilitando o levantamento de peso."
+  },
+  {
+    "id": "cie-11",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Placas tectônicas",
+    "pergunta": "Os terremotos e a formação de cadeias de montanhas estão frequentemente relacionados a qual fenômeno?",
+    "alternativas": [
+      "O movimento das placas tectônicas",
+      "As fases da Lua",
+      "A rotação da Terra em torno do próprio eixo",
+      "As correntes marítimas"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A litosfera terrestre é dividida em grandes placas tectônicas que se movem lentamente. O choque, afastamento ou atrito entre elas pode causar terremotos, vulcões e formar cadeias de montanhas."
+  },
+  {
+    "id": "cie-12",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Camadas da Terra",
+    "pergunta": "Qual é a camada mais externa da estrutura da Terra, onde vivemos?",
+    "alternativas": ["Núcleo", "Manto", "Crosta terrestre", "Mesosfera"],
+    "respostaCorreta": 2,
+    "explicacao": "A crosta terrestre é a camada sólida e mais fina que envolve o planeta por fora. É nela que estão os continentes, os oceanos e onde a vida se desenvolve."
+  },
+  {
+    "id": "cie-13",
+    "materia": "ciencias",
+    "topico": "Matéria - Misturas",
+    "pergunta": "A água do mar é um exemplo de qual tipo de mistura?",
+    "alternativas": [
+      "Mistura heterogênea, pois é possível ver as diferentes partes a olho nu",
+      "Mistura homogênea, pois seus componentes não podem ser distinguidos visualmente",
+      "Substância pura, pois é formada por apenas um tipo de material",
+      "Mistura coloidal, pois forma uma espécie de gel"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A água do mar é uma mistura homogênea (solução) porque o sal está totalmente dissolvido na água, formando um sistema visualmente uniforme, com uma única fase."
+  },
+  {
+    "id": "cie-14",
+    "materia": "ciencias",
+    "topico": "Matéria - Separação de misturas",
+    "pergunta": "Qual método é mais indicado para separar areia (sólido) de água (líquido)?",
+    "alternativas": ["Destilação", "Filtração", "Decantação seguida de evaporação apenas", "Ventilação"],
+    "respostaCorreta": 1,
+    "explicacao": "A filtração usa um filtro (como papel de filtro) para reter as partículas sólidas de areia enquanto a água passa, sendo o método mais simples e eficiente para esse tipo de mistura."
+  },
+  {
+    "id": "cie-15",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Sustentabilidade",
+    "pergunta": "A prática dos 3 Rs (Reduzir, Reutilizar, Reciclar) tem como principal objetivo:",
+    "alternativas": [
+      "Aumentar a produção industrial de plásticos",
+      "Diminuir a quantidade de lixo produzido e o impacto ambiental do consumo",
+      "Acelerar o derretimento das geleiras",
+      "Substituir totalmente a agricultura por indústrias"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Reduzir o consumo, reutilizar materiais e reciclar resíduos ajudam a diminuir a quantidade de lixo gerado, economizar recursos naturais e reduzir a poluição do ambiente."
+  }
+]

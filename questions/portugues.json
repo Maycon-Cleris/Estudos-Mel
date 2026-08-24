@@ -1,0 +1,172 @@
+[
+  {
+    "id": "por-01",
+    "materia": "portugues",
+    "topico": "Classes gramaticais - Substantivo",
+    "pergunta": "Na frase \"A menina alegre correu pelo jardim\", qual palavra é um substantivo?",
+    "alternativas": ["Alegre", "Correu", "Menina", "Pelo"],
+    "respostaCorreta": 2,
+    "explicacao": "Substantivo é a classe de palavras que nomeia seres, objetos, lugares ou sentimentos. \"Menina\" nomeia uma pessoa, por isso é o substantivo da frase."
+  },
+  {
+    "id": "por-02",
+    "materia": "portugues",
+    "topico": "Classes gramaticais - Adjetivo",
+    "pergunta": "Na frase \"O cachorro peludo latiu alto\", qual palavra é um adjetivo?",
+    "alternativas": ["Cachorro", "Peludo", "Latiu", "Alto"],
+    "respostaCorreta": 1,
+    "explicacao": "Adjetivo é a palavra que atribui uma característica a um substantivo. \"Peludo\" descreve como é o cachorro, por isso é o adjetivo."
+  },
+  {
+    "id": "por-03",
+    "materia": "portugues",
+    "topico": "Verbo - Tempo verbal",
+    "pergunta": "Na frase \"Amanhã eu viajarei para a praia\", em que tempo verbal está o verbo destacado?",
+    "alternativas": ["Pretérito perfeito", "Presente", "Futuro do presente", "Pretérito imperfeito"],
+    "respostaCorreta": 2,
+    "explicacao": "O verbo \"viajarei\" indica uma ação que ainda vai acontecer, característica do futuro do presente do indicativo."
+  },
+  {
+    "id": "por-04",
+    "materia": "portugues",
+    "topico": "Sujeito e predicado",
+    "pergunta": "Na frase \"Os alunos entregaram o trabalho ontem\", qual é o sujeito da oração?",
+    "alternativas": ["Entregaram", "O trabalho", "Os alunos", "Ontem"],
+    "respostaCorreta": 2,
+    "explicacao": "O sujeito é quem pratica a ação verbal. Quem entregou o trabalho foram \"os alunos\", portanto esse é o sujeito da oração."
+  },
+  {
+    "id": "por-05",
+    "materia": "portugues",
+    "topico": "Concordância verbal",
+    "pergunta": "Qual frase está com a concordância verbal correta?",
+    "alternativas": [
+      "Os meninos chegou cedo.",
+      "Os meninos chegaram cedo.",
+      "Os menino chegaram cedo.",
+      "O meninos chegaram cedo."
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O verbo deve concordar em número (singular/plural) com o sujeito. Como \"os meninos\" está no plural, o verbo também deve estar: \"chegaram\"."
+  },
+  {
+    "id": "por-06",
+    "materia": "portugues",
+    "topico": "Concordância nominal",
+    "pergunta": "Qual frase está com a concordância nominal correta?",
+    "alternativas": [
+      "As casas amarela são bonitas.",
+      "As casa amarelas são bonitas.",
+      "As casas amarelas são bonitas.",
+      "As casas amarelo são bonitas."
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O adjetivo deve concordar em gênero e número com o substantivo a que se refere. Como \"casas\" está no feminino plural, o adjetivo deve ser \"amarelas\"."
+  },
+  {
+    "id": "por-07",
+    "materia": "portugues",
+    "topico": "Acentuação gráfica",
+    "pergunta": "Qual das palavras abaixo é acentuada por ser uma palavra proparoxítona?",
+    "alternativas": ["Café", "Árvore", "Última", "Você"],
+    "respostaCorreta": 2,
+    "explicacao": "Todas as palavras proparoxítonas (com a sílaba tônica na antepenúltima sílaba) são acentuadas. \"Última\" (úl-ti-ma) é proparoxítona, por isso recebe acento."
+  },
+  {
+    "id": "por-08",
+    "materia": "portugues",
+    "topico": "Figuras de linguagem - Metáfora",
+    "pergunta": "Qual frase é um exemplo de metáfora?",
+    "alternativas": [
+      "Ele correu como um raio.",
+      "Seus olhos são estrelas brilhantes.",
+      "O vento sussurrou baixinho.",
+      "Choveu muito ontem à noite."
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A metáfora compara duas coisas sem usar conectivos como \"como\", afirmando que uma coisa É a outra. Dizer que os olhos SÃO estrelas é uma metáfora."
+  },
+  {
+    "id": "por-09",
+    "materia": "portugues",
+    "topico": "Figuras de linguagem - Personificação",
+    "pergunta": "Qual frase é um exemplo de personificação (dar características humanas a algo que não é humano)?",
+    "alternativas": [
+      "O vento sussurrou segredos para as árvores.",
+      "Ela é rápida como um foguete.",
+      "Choveu bastante na cidade.",
+      "O carro é vermelho e novo."
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Personificação é atribuir ações ou sentimentos humanos a seres inanimados ou animais. Dizer que o vento \"sussurrou segredos\" dá a ele uma ação humana."
+  },
+  {
+    "id": "por-10",
+    "materia": "portugues",
+    "topico": "Figuras de linguagem - Hipérbole",
+    "pergunta": "Qual frase é um exemplo de hipérbole (exagero proposital)?",
+    "alternativas": [
+      "Já te falei isso mil vezes!",
+      "O céu estava azul hoje.",
+      "Ela comprou um livro novo.",
+      "O jogo terminou empatado."
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A hipérbole é uma figura de linguagem que exagera intencionalmente uma ideia para dar ênfase. Ninguém realmente fala algo \"mil vezes\", é um exagero para expressar repetição."
+  },
+  {
+    "id": "por-11",
+    "materia": "portugues",
+    "topico": "Sinônimos",
+    "pergunta": "Qual palavra é sinônimo de \"contente\"?",
+    "alternativas": ["Triste", "Feliz", "Cansado", "Nervoso"],
+    "respostaCorreta": 1,
+    "explicacao": "Sinônimos são palavras com significado semelhante. \"Feliz\" tem o mesmo sentido de \"contente\"."
+  },
+  {
+    "id": "por-12",
+    "materia": "portugues",
+    "topico": "Antônimos",
+    "pergunta": "Qual palavra é antônimo de \"generoso\"?",
+    "alternativas": ["Bondoso", "Gentil", "Egoísta", "Simpático"],
+    "respostaCorreta": 2,
+    "explicacao": "Antônimos são palavras com significado oposto. \"Egoísta\" é o oposto de \"generoso\", que significa se importar apenas consigo mesmo."
+  },
+  {
+    "id": "por-13",
+    "materia": "portugues",
+    "topico": "Denotação e conotação",
+    "pergunta": "Na frase \"Meu coração está partido\", a palavra \"partido\" está sendo usada em qual sentido?",
+    "alternativas": [
+      "Sentido denotativo (literal, o coração quebrou de verdade)",
+      "Sentido conotativo (figurado, representando tristeza)",
+      "Sentido científico",
+      "Sentido nenhum, é um erro de português"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O sentido conotativo é o sentido figurado de uma palavra. Dizer que o coração está \"partido\" não é literal, mas representa a sensação de tristeza ou sofrimento."
+  },
+  {
+    "id": "por-14",
+    "materia": "portugues",
+    "topico": "Gêneros textuais",
+    "pergunta": "Um texto que relata um fato atual, com informações objetivas sobre o que aconteceu, onde e quando, é chamado de:",
+    "alternativas": ["Poema", "Notícia", "Fábula", "Receita culinária"],
+    "respostaCorreta": 1,
+    "explicacao": "A notícia é um gênero textual jornalístico que informa fatos reais e atuais de forma objetiva, geralmente respondendo o quê, quem, quando, onde e por quê."
+  },
+  {
+    "id": "por-15",
+    "materia": "portugues",
+    "topico": "Pontuação",
+    "pergunta": "Qual é a função principal da vírgula em uma frase como \"Comprei maçã, banana e uva\"?",
+    "alternativas": [
+      "Separar itens de uma enumeração",
+      "Indicar o fim da frase",
+      "Fazer uma pergunta",
+      "Indicar surpresa"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A vírgula é usada para separar elementos de uma enumeração (lista de itens), como no exemplo em que ela separa maçã, banana e uva."
+  }
+]
