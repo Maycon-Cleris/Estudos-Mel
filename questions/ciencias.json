@@ -183,5 +183,495 @@
     ],
     "respostaCorreta": 1,
     "explicacao": "Reduzir o consumo, reutilizar materiais e reciclar resíduos ajudam a diminuir a quantidade de lixo gerado, economizar recursos naturais e reduzir a poluição do ambiente."
+  },
+  {
+    "id": "cie-16",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema nervoso",
+    "pergunta": "Qual é a principal função do sistema nervoso central (encéfalo e medula espinhal)?",
+    "alternativas": [
+      "Produzir hormônios que controlam o crescimento do corpo",
+      "Filtrar o sangue e eliminar toxinas",
+      "Coordenar as ações do corpo, processando as informações captadas pelos órgãos dos sentidos",
+      "Transportar oxigênio para todas as células"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O sistema nervoso central recebe estímulos captados pelos órgãos dos sentidos, processa essas informações no encéfalo e comanda as respostas do corpo, como movimentos, pensamentos e reações."
+  },
+  {
+    "id": "cie-17",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema locomotor (ossos)",
+    "pergunta": "Além de sustentar o corpo, qual é outra importante função do esqueleto humano?",
+    "alternativas": [
+      "Produzir bile para digerir gorduras",
+      "Proteger órgãos internos, como o encéfalo e o coração, além de servir de apoio para os músculos",
+      "Realizar as trocas gasosas com o ambiente",
+      "Controlar a temperatura do corpo"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Os ossos, além de sustentar e dar forma ao corpo, protegem órgãos vitais (o crânio protege o encéfalo, as costelas protegem o coração e os pulmões) e servem de ponto de fixação para os músculos, permitindo o movimento."
+  },
+  {
+    "id": "cie-18",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema locomotor (músculos)",
+    "pergunta": "Como os músculos esqueléticos permitem o movimento do corpo?",
+    "alternativas": [
+      "Eles se contraem e relaxam, tracionando os ossos aos quais estão presos por tendões",
+      "Eles produzem hormônios que fazem os ossos crescerem",
+      "Eles absorvem nutrientes diretamente do sangue para os ossos",
+      "Eles se transformam em cartilagem para facilitar o deslizamento das articulações"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Os músculos esqueléticos estão presos aos ossos por tendões. Quando se contraem, puxam os ossos, permitindo movimentos como caminhar, correr e segurar objetos."
+  },
+  {
+    "id": "cie-19",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema imunológico",
+    "pergunta": "Qual é o principal papel do sistema imunológico no corpo humano?",
+    "alternativas": [
+      "Transportar nutrientes até os músculos",
+      "Produzir células sanguíneas na medula óssea",
+      "Defender o corpo contra microrganismos invasores, como vírus e bactérias",
+      "Regular a temperatura corporal"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O sistema imunológico é formado por células e órgãos que reconhecem e combatem agentes invasores, protegendo o corpo de doenças. As vacinas ajudam esse sistema a criar defesas (anticorpos) contra doenças específicas, sem que a pessoa precise contrair a doença de fato."
+  },
+  {
+    "id": "cie-20",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Saúde bucal",
+    "pergunta": "Qual é a principal causa da cárie dentária?",
+    "alternativas": [
+      "O consumo de água em excesso",
+      "A ação de bactérias da placa bacteriana, que produzem ácidos ao se alimentar de açúcares e destroem o esmalte dos dentes",
+      "A escovação dos dentes após as refeições",
+      "O uso de fio dental diariamente"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "As bactérias presentes na boca se alimentam de restos de açúcar e produzem ácidos que corroem o esmalte dos dentes, formando as cáries. Escovar os dentes e usar fio dental regularmente ajuda a prevenir esse problema."
+  },
+  {
+    "id": "cie-21",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema reprodutor e puberdade",
+    "pergunta": "O que caracteriza a puberdade no desenvolvimento humano?",
+    "alternativas": [
+      "O período em que ocorrem transformações físicas e hormonais que levam à maturidade sexual",
+      "A fase em que o corpo para de crescer completamente",
+      "O momento em que os primeiros dentes de leite nascem",
+      "A etapa em que o sistema nervoso termina de se formar"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A puberdade é o período de mudanças físicas e hormonais (como crescimento, mudança na voz e desenvolvimento dos órgãos reprodutores) que preparam o corpo para a capacidade de reprodução, geralmente entre os 9 e 14 anos."
+  },
+  {
+    "id": "cie-22",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Poluição da água",
+    "pergunta": "Qual é uma das principais consequências do despejo de esgoto não tratado em rios?",
+    "alternativas": [
+      "O aumento da quantidade de peixes no rio",
+      "A purificação natural da água",
+      "A contaminação da água e a proliferação de microrganismos que podem causar doenças",
+      "O resfriamento da temperatura da água"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O esgoto não tratado contém matéria orgânica e microrganismos que, ao serem despejados em rios, contaminam a água, reduzem o oxigênio disponível e podem transmitir doenças a pessoas e animais."
+  },
+  {
+    "id": "cie-23",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Poluição do solo",
+    "pergunta": "O descarte inadequado de pilhas e baterias no solo é prejudicial principalmente porque:",
+    "alternativas": [
+      "Elas se decompõem rapidamente sem causar danos",
+      "Contêm metais pesados tóxicos que podem contaminar o solo e a água subterrânea",
+      "Aumentam a fertilidade do solo",
+      "Atraem insetos benéficos para a agricultura"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Pilhas e baterias contêm metais pesados, como chumbo, mercúrio e cádmio, que contaminam o solo e podem infiltrar-se em lençóis freáticos, prejudicando plantas, animais e a saúde humana."
+  },
+  {
+    "id": "cie-24",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Reciclagem",
+    "pergunta": "Qual é o principal benefício da reciclagem de materiais como papel, vidro e plástico?",
+    "alternativas": [
+      "Aumentar a extração de matérias-primas da natureza",
+      "Reduzir a necessidade de extrair novas matérias-primas e diminuir a quantidade de lixo enviada a aterros",
+      "Elevar a produção de lixo orgânico",
+      "Substituir totalmente a coleta de lixo"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Reciclar transforma materiais usados em novos produtos, economizando recursos naturais e energia, além de reduzir o volume de resíduos descartados em aterros e lixões."
+  },
+  {
+    "id": "cie-25",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Camada de ozônio",
+    "pergunta": "Qual é a importância da camada de ozônio para a vida na Terra?",
+    "alternativas": [
+      "Ela produz o oxigênio que respiramos",
+      "Ela regula a força da gravidade",
+      "Ela absorve grande parte da radiação ultravioleta (UV) prejudicial vinda do Sol",
+      "Ela controla a direção dos ventos"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A camada de ozônio, localizada na estratosfera, filtra a maior parte dos raios ultravioleta do Sol, protegendo os seres vivos de danos como queimaduras e câncer de pele."
+  },
+  {
+    "id": "cie-26",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Extinção de espécies",
+    "pergunta": "Qual é uma das principais causas da extinção de espécies atualmente?",
+    "alternativas": [
+      "O aumento da biodiversidade nas florestas",
+      "A destruição e fragmentação dos habitats naturais pela ação humana",
+      "A criação de novas unidades de conservação",
+      "A migração natural dos animais entre continentes"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O desmatamento, a caça predatória, a poluição e a urbanização destroem os habitats naturais, reduzindo os recursos disponíveis para os animais e plantas, o que pode levá-los à extinção."
+  },
+  {
+    "id": "cie-27",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Unidades de conservação",
+    "pergunta": "Qual é o objetivo principal das unidades de conservação, como parques nacionais e reservas biológicas?",
+    "alternativas": [
+      "Permitir a exploração comercial irrestrita dos recursos naturais",
+      "Proteger áreas naturais e a biodiversidade nelas existente",
+      "Servir exclusivamente para a construção de indústrias",
+      "Aumentar a extração de minérios do subsolo"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Unidades de conservação são áreas legalmente protegidas criadas para preservar ecossistemas, espécies da fauna e flora e recursos naturais, algumas permitindo uso sustentável e outras com proteção mais restrita."
+  },
+  {
+    "id": "cie-28",
+    "materia": "ciencias",
+    "topico": "Energia - Energia nuclear",
+    "pergunta": "Como a energia nuclear é gerada nas usinas nucleares?",
+    "alternativas": [
+      "Pela queima direta de carvão mineral",
+      "Pela fissão do núcleo de átomos de urânio, que libera grande quantidade de energia na forma de calor",
+      "Pela força das marés dos oceanos",
+      "Pela fotossíntese realizada em grandes estufas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Nas usinas nucleares, o núcleo de átomos de urânio é dividido (fissão nuclear), liberando grande quantidade de energia térmica, usada para aquecer água, gerar vapor e movimentar turbinas que produzem eletricidade."
+  },
+  {
+    "id": "cie-29",
+    "materia": "ciencias",
+    "topico": "Energia - Energia solar",
+    "pergunta": "Como as células fotovoltaicas presentes nas placas solares funcionam?",
+    "alternativas": [
+      "Convertem diretamente a luz do Sol em energia elétrica",
+      "Armazenam vento para gerar eletricidade posteriormente",
+      "Queimam materiais orgânicos para produzir calor",
+      "Transformam a força das ondas do mar em energia mecânica"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "As células fotovoltaicas são feitas de materiais semicondutores (como o silício) que, ao receberem luz solar, liberam elétrons e geram corrente elétrica, convertendo energia solar diretamente em energia elétrica."
+  },
+  {
+    "id": "cie-30",
+    "materia": "ciencias",
+    "topico": "Energia - Energia hidrelétrica",
+    "pergunta": "Nas usinas hidrelétricas, qual é a fonte de energia utilizada para gerar eletricidade?",
+    "alternativas": [
+      "O calor liberado pela queima de combustíveis fósseis",
+      "A energia liberada pela fissão de átomos",
+      "A força da água em movimento, que gira turbinas conectadas a geradores",
+      "O calor proveniente do interior da Terra"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Nas usinas hidrelétricas, a água represada é liberada com força e faz girar as turbinas, que estão conectadas a geradores responsáveis por transformar essa energia mecânica em energia elétrica."
+  },
+  {
+    "id": "cie-31",
+    "materia": "ciencias",
+    "topico": "Energia - Transformação de energia",
+    "pergunta": "Quando uma lâmpada incandescente acesa emite luz e fica quente, quais transformações de energia estão ocorrendo?",
+    "alternativas": [
+      "Energia química em energia nuclear",
+      "Energia elétrica em energia luminosa e térmica",
+      "Energia potencial em energia sonora",
+      "Energia mecânica em energia química"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A lâmpada recebe energia elétrica e a transforma em energia luminosa (luz) e energia térmica (calor), ilustrando o princípio de que a energia não é criada nem destruída, apenas transformada."
+  },
+  {
+    "id": "cie-32",
+    "materia": "ciencias",
+    "topico": "Energia - Alavancas",
+    "pergunta": "Em uma alavanca, o ponto fixo sobre o qual ela gira, permitindo multiplicar a força aplicada, é chamado de:",
+    "alternativas": [
+      "Força potente",
+      "Fulcro (ponto de apoio)",
+      "Resistência",
+      "Eixo motor"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O fulcro, ou ponto de apoio, é o local fixo em torno do qual a alavanca gira. Ele permite que uma força aplicada em uma extremidade movimente uma resistência na outra extremidade."
+  },
+  {
+    "id": "cie-33",
+    "materia": "ciencias",
+    "topico": "Energia - Roldanas",
+    "pergunta": "Qual é a principal utilidade de uma roldana (polia) como máquina simples?",
+    "alternativas": [
+      "Aumentar o atrito entre duas superfícies",
+      "Mudar a direção da força aplicada ou reduzir o esforço necessário para levantar um objeto",
+      "Transformar energia elétrica em energia mecânica",
+      "Aumentar a velocidade de rotação da Terra"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A roldana é uma roda com um sulco por onde passa uma corda ou cabo. Ela facilita o trabalho ao mudar a direção da força aplicada (como em um poço) ou, quando associada a outras roldanas, reduzir o esforço necessário para erguer um peso."
+  },
+  {
+    "id": "cie-34",
+    "materia": "ciencias",
+    "topico": "Energia - Plano inclinado",
+    "pergunta": "Por que é mais fácil empurrar um objeto pesado por uma rampa (plano inclinado) do que levantá-lo diretamente na vertical?",
+    "alternativas": [
+      "Porque a rampa elimina totalmente a força da gravidade",
+      "Porque o plano inclinado distribui o esforço ao longo de uma distância maior, reduzindo a força necessária a cada instante",
+      "Porque o atrito desaparece completamente em rampas",
+      "Porque a rampa aumenta o peso do objeto"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O plano inclinado permite deslocar um objeto por um caminho mais longo, porém com menos força aplicada a cada momento, facilitando o trabalho, mesmo que a energia total gasta seja semelhante."
+  },
+  {
+    "id": "cie-35",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Vulcões",
+    "pergunta": "O que provoca a erupção de um vulcão?",
+    "alternativas": [
+      "O resfriamento excessivo do magma no interior da Terra",
+      "A liberação de magma, gases e outros materiais do interior da Terra através de uma abertura na crosta terrestre",
+      "O choque de meteoros contra a superfície terrestre",
+      "A evaporação da água dos oceanos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Vulcões são aberturas na crosta terrestre por onde o magma (rocha derretida), gases e cinzas armazenados no interior da Terra são expelidos, geralmente devido à pressão acumulada e ao movimento das placas tectônicas."
+  },
+  {
+    "id": "cie-36",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Terremotos",
+    "pergunta": "O que causa a maioria dos terremotos?",
+    "alternativas": [
+      "O acúmulo de nuvens na atmosfera",
+      "A liberação repentina de energia acumulada pelo atrito entre placas tectônicas",
+      "O derretimento das geleiras nos polos",
+      "A variação da temperatura do ar"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Terremotos ocorrem principalmente quando a energia acumulada pelo atrito entre placas tectônicas é liberada repentinamente, fazendo a superfície da Terra tremer e vibrar."
+  },
+  {
+    "id": "cie-37",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Rochas sedimentares",
+    "pergunta": "Como se formam as rochas sedimentares, como o calcário e o arenito?",
+    "alternativas": [
+      "Pelo resfriamento e solidificação do magma",
+      "Pela transformação de outras rochas sob altas temperaturas e pressões",
+      "Pelo acúmulo e compactação de sedimentos (fragmentos de rochas, restos de seres vivos) ao longo do tempo",
+      "Pela fusão instantânea de minerais durante erupções vulcânicas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As rochas sedimentares se formam pelo depósito, acúmulo e compactação de sedimentos, como areia, argila e restos de organismos, que se consolidam ao longo de muitos anos, geralmente em camadas."
+  },
+  {
+    "id": "cie-38",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Rochas ígneas",
+    "pergunta": "As rochas ígneas, como o granito e o basalto, se originam de qual processo?",
+    "alternativas": [
+      "Do resfriamento e solidificação do magma ou da lava",
+      "Da compactação de sedimentos no fundo dos oceanos",
+      "Da ação de ventos sobre outras rochas",
+      "Da decomposição de restos de plantas e animais"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Rochas ígneas (ou magmáticas) se formam quando o magma esfria e se solidifica, seja no interior da Terra (formando rochas como o granito) ou na superfície, após uma erupção vulcânica (como o basalto)."
+  },
+  {
+    "id": "cie-39",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Rochas metamórficas",
+    "pergunta": "O que caracteriza a formação de uma rocha metamórfica, como o mármore?",
+    "alternativas": [
+      "A rocha se forma diretamente do resfriamento da lava",
+      "Uma rocha já existente é transformada pela ação de altas temperaturas e pressões, sem chegar a derreter completamente",
+      "A rocha se forma pelo acúmulo de conchas no fundo do mar",
+      "A rocha surge da mistura de água e areia"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Rochas metamórficas se formam quando rochas preexistentes (sedimentares, ígneas ou até outras metamórficas) são submetidas a grandes pressões e temperaturas no interior da Terra, alterando sua estrutura sem derretê-las totalmente. O mármore, por exemplo, se forma a partir do calcário."
+  },
+  {
+    "id": "cie-40",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Formação do solo",
+    "pergunta": "O solo é formado principalmente a partir de qual processo?",
+    "alternativas": [
+      "Da condensação do vapor de água na atmosfera",
+      "Do intemperismo (desgaste) das rochas ao longo do tempo, combinado com matéria orgânica em decomposição",
+      "Da precipitação de cinzas vulcânicas apenas",
+      "Da evaporação da água dos rios"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O solo se forma pelo intemperismo, um processo lento de fragmentação e decomposição das rochas causado por vento, água, variação de temperatura e seres vivos, somado à matéria orgânica de plantas e animais em decomposição (o húmus)."
+  },
+  {
+    "id": "cie-41",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Camadas da atmosfera",
+    "pergunta": "Em qual camada da atmosfera terrestre ocorrem os fenômenos climáticos, como chuva e vento, e onde vivemos?",
+    "alternativas": [
+      "Estratosfera",
+      "Troposfera",
+      "Mesosfera",
+      "Termosfera"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A troposfera é a camada mais próxima da superfície terrestre, onde se concentra a maior parte do ar que respiramos e onde ocorrem os fenômenos meteorológicos, como formação de nuvens, chuva e vento."
+  },
+  {
+    "id": "cie-42",
+    "materia": "ciencias",
+    "topico": "Matéria - Estados físicos",
+    "pergunta": "Qual característica diferencia o estado líquido do estado sólido da matéria?",
+    "alternativas": [
+      "No estado líquido, as partículas têm forma fixa e volume fixo, como no sólido",
+      "No estado líquido, as partículas se movimentam mais livremente e o material assume a forma do recipiente, mantendo o volume",
+      "No estado líquido, a matéria não ocupa espaço",
+      "No estado líquido, as partículas ficam completamente paradas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "No estado sólido, as partículas ficam bem próximas e organizadas, mantendo forma e volume fixos. No estado líquido, as partículas têm mais liberdade de movimento, por isso o material toma a forma do recipiente, mas mantém o volume constante."
+  },
+  {
+    "id": "cie-43",
+    "materia": "ciencias",
+    "topico": "Matéria - Mudanças de estado",
+    "pergunta": "Como se chama a mudança do estado gasoso diretamente para o estado sólido, sem passar pelo estado líquido?",
+    "alternativas": [
+      "Sublimação",
+      "Fusão",
+      "Solidificação",
+      "Ressublimação (ou deposição)"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A ressublimação, também chamada de deposição, é a passagem direta do estado gasoso para o sólido. Já a sublimação é o processo inverso: a passagem direta do estado sólido para o gasoso, como ocorre com o gelo-seco."
+  },
+  {
+    "id": "cie-44",
+    "materia": "ciencias",
+    "topico": "Matéria - Densidade",
+    "pergunta": "Por que o óleo flutua sobre a água quando os dois são misturados?",
+    "alternativas": [
+      "Porque o óleo tem densidade menor que a da água",
+      "Porque o óleo tem densidade maior que a da água",
+      "Porque o óleo se dissolve completamente na água",
+      "Porque a água evapora ao entrar em contato com o óleo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A densidade é a relação entre a massa e o volume de uma substância. Como o óleo é menos denso que a água, ele flutua na superfície, formando duas camadas visíveis quando os líquidos não se misturam."
+  },
+  {
+    "id": "cie-45",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Fotossíntese",
+    "pergunta": "O que as plantas produzem por meio da fotossíntese, utilizando luz solar, água e gás carbônico?",
+    "alternativas": [
+      "Apenas gás carbônico",
+      "Glicose (fonte de energia) e oxigênio",
+      "Apenas água",
+      "Nitrogênio e metano"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Na fotossíntese, as plantas usam a energia da luz solar para transformar água e gás carbônico em glicose, uma substância rica em energia, liberando oxigênio para a atmosfera como subproduto."
+  },
+  {
+    "id": "cie-46",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Respiração celular",
+    "pergunta": "Qual é a principal finalidade da respiração celular, realizada pelas células dos seres vivos?",
+    "alternativas": [
+      "Produzir gás carbônico para ser usado na fotossíntese das plantas",
+      "Liberar energia armazenada na glicose para as atividades celulares, consumindo oxigênio",
+      "Eliminar o excesso de água do corpo",
+      "Transformar luz solar em energia química"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Na respiração celular, as células quebram moléculas de glicose na presença de oxigênio para liberar energia, que é usada nas atividades vitais, produzindo gás carbônico e água como resíduos desse processo."
+  },
+  {
+    "id": "cie-47",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Teia alimentar (níveis tróficos)",
+    "pergunta": "Em uma teia alimentar, um animal que se alimenta de outro animal que, por sua vez, se alimenta de um herbívoro (como uma cobra que come um sapo) pertence a qual nível trófico?",
+    "alternativas": [
+      "Produtor",
+      "Consumidor primário",
+      "Consumidor secundário",
+      "Decompositor"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Os produtores (plantas) formam a base da cadeia alimentar. Os consumidores primários se alimentam diretamente dos produtores, e os consumidores secundários, como a cobra do exemplo, se alimentam dos consumidores primários, ocupando um nível trófico acima deles."
+  },
+  {
+    "id": "cie-48",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Fauna e flora brasileira",
+    "pergunta": "Qual destes animais é uma espécie nativa da fauna brasileira, encontrada especialmente no Pantanal e na Amazônia?",
+    "alternativas": [
+      "Panda-gigante",
+      "Onça-pintada",
+      "Canguru",
+      "Urso-polar"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A onça-pintada é o maior felino das Américas e uma espécie nativa do Brasil, encontrada principalmente em biomas como o Pantanal e a Amazônia, onde atua como importante predadora no topo da cadeia alimentar."
+  },
+  {
+    "id": "cie-49",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Biomas do Brasil",
+    "pergunta": "Qual bioma brasileiro é caracterizado por árvores de troncos retorcidos, arbustos e gramíneas, adaptado a solos ácidos e a queimadas naturais?",
+    "alternativas": [
+      "Amazônia",
+      "Mata Atlântica",
+      "Cerrado",
+      "Pantanal"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Cerrado é o segundo maior bioma brasileiro, marcado por vegetação com árvores de troncos retorcidos e cascas grossas, arbustos e gramíneas, adaptada a solos ácidos, longos períodos de seca e queimadas naturais."
+  },
+  {
+    "id": "cie-50",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Ciclo da água",
+    "pergunta": "No ciclo da água, qual é o nome do processo em que a água passa do estado líquido para o gasoso devido ao calor do Sol?",
+    "alternativas": [
+      "Condensação",
+      "Precipitação",
+      "Evaporação",
+      "Infiltração"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A evaporação ocorre quando o calor do Sol aquece a água de rios, lagos e oceanos, fazendo com que ela passe do estado líquido para o gasoso (vapor de água), subindo para a atmosfera e dando início ao ciclo da água."
   }
 ]

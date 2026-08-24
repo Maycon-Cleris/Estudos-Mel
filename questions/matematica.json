@@ -133,5 +133,320 @@
     "alternativas": ["9 cm²", "18 cm²", "20 cm²", "40 cm²"],
     "respostaCorreta": 2,
     "explicacao": "A área do retângulo é calculada multiplicando a largura pela altura: 5 cm x 4 cm = 20 cm²."
+  },
+  {
+    "id": "mat-16",
+    "materia": "matematica",
+    "topico": "Números inteiros - Divisão",
+    "pergunta": "Qual é o resultado de (-36) ÷ (-4)?",
+    "alternativas": ["-9", "-4", "4", "9"],
+    "respostaCorreta": 3,
+    "explicacao": "Quando dividimos dois números com o mesmo sinal (ambos negativos), o resultado é positivo. Logo, (-36) ÷ (-4) = 9."
+  },
+  {
+    "id": "mat-17",
+    "materia": "matematica",
+    "topico": "Módulo de um número",
+    "pergunta": "Qual é o valor de |-7| + |3|?",
+    "alternativas": ["4", "-10", "-4", "10"],
+    "respostaCorreta": 3,
+    "explicacao": "O módulo (ou valor absoluto) de um número é sua distância até o zero, sempre positiva. |-7| = 7 e |3| = 3, logo 7 + 3 = 10."
+  },
+  {
+    "id": "mat-18",
+    "materia": "matematica",
+    "topico": "Expressões numéricas - Ordem das operações",
+    "pergunta": "Qual é o resultado de 2 + 3 x (4 - 1)?",
+    "alternativas": ["15", "9", "11", "5"],
+    "respostaCorreta": 2,
+    "explicacao": "Resolvemos primeiro o que está dentro dos parênteses (4 - 1 = 3), depois a multiplicação (3 x 3 = 9) e por último a adição (2 + 9 = 11), seguindo a ordem das operações."
+  },
+  {
+    "id": "mat-19",
+    "materia": "matematica",
+    "topico": "Frações - Subtração",
+    "pergunta": "Quanto é 3/4 - 1/6?",
+    "alternativas": ["1/2", "2/12", "7/12", "5/12"],
+    "respostaCorreta": 2,
+    "explicacao": "O mínimo múltiplo comum entre 4 e 6 é 12. Convertendo: 3/4 = 9/12 e 1/6 = 2/12. Subtraindo: 9/12 - 2/12 = 7/12."
+  },
+  {
+    "id": "mat-20",
+    "materia": "matematica",
+    "topico": "Frações - Multiplicação",
+    "pergunta": "Quanto é 2/3 x 3/5?",
+    "alternativas": ["9/10", "5/8", "2/5", "1/5"],
+    "respostaCorreta": 2,
+    "explicacao": "Para multiplicar frações, multiplicamos numerador por numerador e denominador por denominador: (2 x 3)/(3 x 5) = 6/15, que simplificado (dividindo por 3) resulta em 2/5."
+  },
+  {
+    "id": "mat-21",
+    "materia": "matematica",
+    "topico": "Frações - Divisão",
+    "pergunta": "Quanto é 1/2 ÷ 1/4?",
+    "alternativas": ["1/8", "1/2", "2", "8"],
+    "respostaCorreta": 2,
+    "explicacao": "Para dividir frações, multiplicamos a primeira pelo inverso da segunda: 1/2 x 4/1 = 4/2 = 2."
+  },
+  {
+    "id": "mat-22",
+    "materia": "matematica",
+    "topico": "Número misto",
+    "pergunta": "Qual fração imprópria corresponde ao número misto 2 3/5?",
+    "alternativas": ["10/5", "13/5", "6/5", "23/5"],
+    "respostaCorreta": 1,
+    "explicacao": "Para transformar um número misto em fração imprópria, multiplicamos o inteiro pelo denominador e somamos o numerador, mantendo o mesmo denominador: (2 x 5 + 3)/5 = 13/5."
+  },
+  {
+    "id": "mat-23",
+    "materia": "matematica",
+    "topico": "Dízima periódica",
+    "pergunta": "Qual é a representação decimal da fração 1/3?",
+    "alternativas": ["0,3", "0,33", "0,333...", "3,33"],
+    "respostaCorreta": 2,
+    "explicacao": "Dividindo 1 por 3, obtemos uma dízima periódica: 0,333..., em que o algarismo 3 se repete infinitamente."
+  },
+  {
+    "id": "mat-24",
+    "materia": "matematica",
+    "topico": "Números decimais - Arredondamento",
+    "pergunta": "Arredondando o número 7,268 para duas casas decimais, qual é o resultado?",
+    "alternativas": ["7,26", "7,20", "7,27", "7,3"],
+    "respostaCorreta": 2,
+    "explicacao": "Para arredondar para duas casas decimais, observamos o terceiro algarismo decimal (8). Como é maior ou igual a 5, aumentamos o segundo algarismo decimal em 1: 7,268 arredonda para 7,27."
+  },
+  {
+    "id": "mat-25",
+    "materia": "matematica",
+    "topico": "Raiz quadrada exata",
+    "pergunta": "Qual é o valor de √81?",
+    "alternativas": ["8", "40,5", "9", "18"],
+    "respostaCorreta": 2,
+    "explicacao": "A raiz quadrada de 81 é o número que, multiplicado por ele mesmo, resulta em 81. Como 9 x 9 = 81, √81 = 9."
+  },
+  {
+    "id": "mat-26",
+    "materia": "matematica",
+    "topico": "Equação do 1º grau - Termos nos dois lados",
+    "pergunta": "Qual é o valor de x na equação 3x - 4 = 2x + 7?",
+    "alternativas": ["3", "-11", "11", "1"],
+    "respostaCorreta": 2,
+    "explicacao": "Juntando os termos com x de um lado e os números do outro: 3x - 2x = 7 + 4, logo x = 11."
+  },
+  {
+    "id": "mat-27",
+    "materia": "matematica",
+    "topico": "Inequação do 1º grau",
+    "pergunta": "Qual é o conjunto solução da inequação x + 5 > 9?",
+    "alternativas": ["x < 4", "x > 4", "x > 14", "x > 5"],
+    "respostaCorreta": 1,
+    "explicacao": "Isolando x, subtraímos 5 dos dois lados da desigualdade: x > 9 - 5, ou seja, x > 4."
+  },
+  {
+    "id": "mat-28",
+    "materia": "matematica",
+    "topico": "Proporcionalidade direta",
+    "pergunta": "Um carro percorre 60 km com 5 litros de combustível. Mantendo a mesma proporção, quantos km percorrerá com 8 litros?",
+    "alternativas": ["75 km", "96 km", "480 km", "68 km"],
+    "respostaCorreta": 1,
+    "explicacao": "Como a distância é diretamente proporcional à quantidade de combustível, calculamos o consumo por litro: 60 ÷ 5 = 12 km/l. Com 8 litros: 12 x 8 = 96 km."
+  },
+  {
+    "id": "mat-29",
+    "materia": "matematica",
+    "topico": "Proporcionalidade inversa",
+    "pergunta": "4 pedreiros constroem um muro em 12 dias, todos trabalhando na mesma velocidade. Quantos dias 6 pedreiros levariam para construir o mesmo muro?",
+    "alternativas": ["18 dias", "8 dias", "6 dias", "16 dias"],
+    "respostaCorreta": 1,
+    "explicacao": "Como o número de pedreiros e o tempo são grandezas inversamente proporcionais, o produto entre eles se mantém constante: 4 x 12 = 48. Com 6 pedreiros: 48 ÷ 6 = 8 dias."
+  },
+  {
+    "id": "mat-30",
+    "materia": "matematica",
+    "topico": "Escala (mapas)",
+    "pergunta": "Em um mapa com escala 1:100.000, uma distância de 3 cm representa quantos km na realidade?",
+    "alternativas": ["30 km", "3 km", "300 km", "0,3 km"],
+    "respostaCorreta": 1,
+    "explicacao": "Na escala 1:100.000, cada 1 cm no mapa corresponde a 100.000 cm (1 km) na realidade. Logo, 3 cm representam 3 x 1 km = 3 km."
+  },
+  {
+    "id": "mat-31",
+    "materia": "matematica",
+    "topico": "Juros simples",
+    "pergunta": "Qual é o juro simples de um capital de R$ 1.000,00 aplicado a uma taxa de 2% ao mês, durante 3 meses?",
+    "alternativas": ["R$ 20,00", "R$ 60,00", "R$ 30,00", "R$ 600,00"],
+    "respostaCorreta": 1,
+    "explicacao": "No juro simples, usamos a fórmula J = C x i x t. Substituindo: J = 1.000 x 0,02 x 3 = R$ 60,00."
+  },
+  {
+    "id": "mat-32",
+    "materia": "matematica",
+    "topico": "Porcentagem - Aumento",
+    "pergunta": "Um produto custava R$ 80,00 e teve um aumento de 15%. Qual é o novo preço?",
+    "alternativas": ["R$ 95,00", "R$ 92,00", "R$ 12,00", "R$ 88,00"],
+    "respostaCorreta": 1,
+    "explicacao": "Calculamos 15% de R$ 80,00: 80 x 0,15 = R$ 12,00. Somando ao valor original: 80 + 12 = R$ 92,00."
+  },
+  {
+    "id": "mat-33",
+    "materia": "matematica",
+    "topico": "Porcentagem - Desconto",
+    "pergunta": "Uma calça de R$ 120,00 está com 25% de desconto. Qual é o valor a ser pago?",
+    "alternativas": ["R$ 95,00", "R$ 90,00", "R$ 100,00", "R$ 30,00"],
+    "respostaCorreta": 1,
+    "explicacao": "Calculamos 25% de R$ 120,00: 120 x 0,25 = R$ 30,00 de desconto. Subtraindo do valor original: 120 - 30 = R$ 90,00."
+  },
+  {
+    "id": "mat-34",
+    "materia": "matematica",
+    "topico": "MMC - Situação-problema",
+    "pergunta": "Dois ônibus saem juntos de uma rodoviária. Um retorna a cada 8 dias e o outro a cada 12 dias. Depois de quantos dias eles sairão juntos novamente?",
+    "alternativas": ["20 dias", "24 dias", "96 dias", "12 dias"],
+    "respostaCorreta": 1,
+    "explicacao": "Para saber quando os dois eventos coincidem novamente, calculamos o MMC entre 8 e 12, que é 24. Portanto, eles sairão juntos novamente depois de 24 dias."
+  },
+  {
+    "id": "mat-35",
+    "materia": "matematica",
+    "topico": "MDC - Situação-problema",
+    "pergunta": "Uma pessoa quer dividir 30 balas e 45 chocolates em pacotes iguais, com a maior quantidade possível de pacotes, sem sobrar nada. Quantos pacotes serão formados?",
+    "alternativas": ["5 pacotes", "15 pacotes", "10 pacotes", "75 pacotes"],
+    "respostaCorreta": 1,
+    "explicacao": "A maior quantidade de pacotes iguais é dada pelo MDC entre 30 e 45, que é 15. Assim, serão formados 15 pacotes, cada um com 2 balas e 3 chocolates."
+  },
+  {
+    "id": "mat-36",
+    "materia": "matematica",
+    "topico": "Números primos",
+    "pergunta": "Qual dos números a seguir é primo?",
+    "alternativas": ["29", "21", "27", "33"],
+    "respostaCorreta": 0,
+    "explicacao": "Um número primo possui exatamente dois divisores: 1 e ele mesmo. Entre as opções, apenas 29 não é divisível por nenhum número além de 1 e 29; os demais (21, 27, 33) são divisíveis por 3."
+  },
+  {
+    "id": "mat-37",
+    "materia": "matematica",
+    "topico": "Decomposição em fatores primos",
+    "pergunta": "Qual é a decomposição de 60 em fatores primos?",
+    "alternativas": ["2 x 3 x 5 x 5", "2 x 2 x 3 x 3", "2 x 5 x 6", "2 x 2 x 3 x 5"],
+    "respostaCorreta": 3,
+    "explicacao": "Dividindo 60 sucessivamente por números primos: 60÷2=30, 30÷2=15, 15÷3=5, 5÷5=1. Logo, 60 = 2 x 2 x 3 x 5."
+  },
+  {
+    "id": "mat-38",
+    "materia": "matematica",
+    "topico": "Geometria - Perímetro do quadrado",
+    "pergunta": "Qual é o perímetro de um quadrado com 7 cm de lado?",
+    "alternativas": ["49 cm", "14 cm", "21 cm", "28 cm"],
+    "respostaCorreta": 3,
+    "explicacao": "O perímetro do quadrado é a soma dos 4 lados iguais: 4 x 7 cm = 28 cm."
+  },
+  {
+    "id": "mat-39",
+    "materia": "matematica",
+    "topico": "Geometria - Área do triângulo",
+    "pergunta": "Qual é a área de um triângulo com base 10 cm e altura 6 cm?",
+    "alternativas": ["60 cm²", "16 cm²", "30 cm²", "8 cm²"],
+    "respostaCorreta": 2,
+    "explicacao": "A área do triângulo é calculada por (base x altura) ÷ 2. Substituindo: (10 x 6) ÷ 2 = 60 ÷ 2 = 30 cm²."
+  },
+  {
+    "id": "mat-40",
+    "materia": "matematica",
+    "topico": "Geometria - Área do círculo",
+    "pergunta": "Qual é a área aproximada de um círculo com raio 3 cm? (use π ≈ 3,14)",
+    "alternativas": ["18,84 cm²", "28,26 cm²", "9,42 cm²", "56,52 cm²"],
+    "respostaCorreta": 1,
+    "explicacao": "A área do círculo é dada por A = π x r². Substituindo: A = 3,14 x 3² = 3,14 x 9 = 28,26 cm²."
+  },
+  {
+    "id": "mat-41",
+    "materia": "matematica",
+    "topico": "Geometria - Volume do cubo",
+    "pergunta": "Qual é o volume de um cubo com aresta de 4 cm?",
+    "alternativas": ["16 cm³", "48 cm³", "12 cm³", "64 cm³"],
+    "respostaCorreta": 3,
+    "explicacao": "O volume do cubo é calculado elevando a medida da aresta ao cubo: 4³ = 4 x 4 x 4 = 64 cm³."
+  },
+  {
+    "id": "mat-42",
+    "materia": "matematica",
+    "topico": "Geometria - Tipos de ângulos",
+    "pergunta": "Um ângulo que mede 120° é classificado como?",
+    "alternativas": ["Ângulo agudo", "Ângulo reto", "Ângulo obtuso", "Ângulo raso"],
+    "respostaCorreta": 2,
+    "explicacao": "Ângulos entre 90° e 180° são chamados de obtusos. Como 120° está nesse intervalo, ele é um ângulo obtuso."
+  },
+  {
+    "id": "mat-43",
+    "materia": "matematica",
+    "topico": "Geometria - Ângulos complementares",
+    "pergunta": "Dois ângulos são complementares e um deles mede 35°. Qual é a medida do outro ângulo?",
+    "alternativas": ["145°", "65°", "55°", "125°"],
+    "respostaCorreta": 2,
+    "explicacao": "Ângulos complementares são aqueles cuja soma é 90°. Se um deles mede 35°, o outro mede 90° - 35° = 55°."
+  },
+  {
+    "id": "mat-44",
+    "materia": "matematica",
+    "topico": "Geometria - Ângulos internos de quadriláteros",
+    "pergunta": "Qual é a soma dos ângulos internos de qualquer quadrilátero?",
+    "alternativas": ["180°", "270°", "360°", "400°"],
+    "respostaCorreta": 2,
+    "explicacao": "A soma dos ângulos internos de um quadrilátero é sempre 360°, pois ele pode ser dividido em dois triângulos (180° + 180°)."
+  },
+  {
+    "id": "mat-45",
+    "materia": "matematica",
+    "topico": "Geometria - Classificação de triângulos",
+    "pergunta": "Um triângulo que possui os três lados com medidas diferentes é chamado de?",
+    "alternativas": ["Triângulo equilátero", "Triângulo isósceles", "Triângulo retângulo", "Triângulo escaleno"],
+    "respostaCorreta": 3,
+    "explicacao": "Um triângulo é classificado como escaleno quando todos os seus três lados possuem medidas diferentes entre si."
+  },
+  {
+    "id": "mat-46",
+    "materia": "matematica",
+    "topico": "Estatística - Média aritmética",
+    "pergunta": "Qual é a média aritmética das notas 6, 7, 8 e 9?",
+    "alternativas": ["7", "8", "30", "7,5"],
+    "respostaCorreta": 3,
+    "explicacao": "A média aritmética é a soma dos valores dividida pela quantidade deles: (6 + 7 + 8 + 9) ÷ 4 = 30 ÷ 4 = 7,5."
+  },
+  {
+    "id": "mat-47",
+    "materia": "matematica",
+    "topico": "Estatística - Moda",
+    "pergunta": "Qual é a moda do conjunto de dados: 4, 5, 5, 6, 7, 5, 8?",
+    "alternativas": ["4", "6", "5", "7"],
+    "respostaCorreta": 2,
+    "explicacao": "A moda é o valor que aparece com maior frequência em um conjunto de dados. No conjunto dado, o número 5 aparece 3 vezes, mais que qualquer outro valor."
+  },
+  {
+    "id": "mat-48",
+    "materia": "matematica",
+    "topico": "Probabilidade simples",
+    "pergunta": "Em um dado comum de 6 faces, qual é a probabilidade de sair um número par ao lançá-lo uma vez?",
+    "alternativas": ["1/6", "1/3", "2/3", "1/2"],
+    "respostaCorreta": 3,
+    "explicacao": "Os números pares em um dado são 2, 4 e 6, totalizando 3 resultados favoráveis entre 6 possíveis. A probabilidade é 3/6, que simplificado é 1/2."
+  },
+  {
+    "id": "mat-49",
+    "materia": "matematica",
+    "topico": "Plano cartesiano - Coordenadas",
+    "pergunta": "No plano cartesiano, quais são as coordenadas do ponto que está 3 unidades à direita do eixo y e 5 unidades acima do eixo x?",
+    "alternativas": ["(5, 3)", "(-3, 5)", "(3, 5)", "(3, -5)"],
+    "respostaCorreta": 2,
+    "explicacao": "No plano cartesiano, o primeiro número do par ordenado (x) indica o deslocamento horizontal e o segundo (y) o deslocamento vertical. Assim, 3 unidades à direita e 5 acima correspondem ao ponto (3, 5)."
+  },
+  {
+    "id": "mat-50",
+    "materia": "matematica",
+    "topico": "Conversão de unidades de medida",
+    "pergunta": "Quantos metros há em 2,5 km?",
+    "alternativas": ["250 m", "25.000 m", "2.500 m", "2,5 m"],
+    "respostaCorreta": 2,
+    "explicacao": "Para converter quilômetros em metros, multiplicamos por 1.000, pois 1 km = 1.000 m. Logo, 2,5 km = 2,5 x 1.000 = 2.500 m."
   }
 ]

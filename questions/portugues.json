@@ -168,5 +168,375 @@
     ],
     "respostaCorreta": 0,
     "explicacao": "A vírgula é usada para separar elementos de uma enumeração (lista de itens), como no exemplo em que ela separa maçã, banana e uva."
+  },
+  {
+    "id": "por-16",
+    "materia": "portugues",
+    "topico": "Classes gramaticais - Pronome",
+    "pergunta": "Na frase \"Ela entregou o presente para mim\", qual palavra é um pronome?",
+    "alternativas": ["Ela", "Entregou", "Presente", "Para"],
+    "respostaCorreta": 0,
+    "explicacao": "Pronome é a palavra que substitui ou acompanha o substantivo, indicando pessoa sem nomeá-la diretamente. \"Ela\" substitui o nome da pessoa que entregou o presente, sendo um pronome pessoal do caso reto."
+  },
+  {
+    "id": "por-17",
+    "materia": "portugues",
+    "topico": "Classes gramaticais - Advérbio",
+    "pergunta": "Na frase \"O menino correu rapidamente até a escola\", qual palavra é um advérbio?",
+    "alternativas": ["Menino", "Rapidamente", "Correu", "Escola"],
+    "respostaCorreta": 1,
+    "explicacao": "Advérbio é a palavra que modifica o verbo, o adjetivo ou outro advérbio, indicando uma circunstância. \"Rapidamente\" indica o modo como o menino correu, por isso é um advérbio de modo."
+  },
+  {
+    "id": "por-18",
+    "materia": "portugues",
+    "topico": "Classes gramaticais - Preposição",
+    "pergunta": "Na frase \"O livro está sobre a mesa\", qual palavra é uma preposição?",
+    "alternativas": ["Livro", "Está", "Sobre", "Mesa"],
+    "respostaCorreta": 2,
+    "explicacao": "Preposição é a palavra invariável que liga dois termos da oração, estabelecendo uma relação de sentido entre eles. \"Sobre\" liga \"está\" a \"mesa\", indicando a relação de lugar entre os termos."
+  },
+  {
+    "id": "por-19",
+    "materia": "portugues",
+    "topico": "Classes gramaticais - Conjunção",
+    "pergunta": "Na frase \"Estudei bastante, mas não passei na prova\", qual palavra é uma conjunção?",
+    "alternativas": ["Estudei", "Bastante", "Passei", "Mas"],
+    "respostaCorreta": 3,
+    "explicacao": "Conjunção é a palavra que liga orações ou termos semelhantes, estabelecendo uma relação entre eles. \"Mas\" liga as duas orações da frase, indicando ideia de oposição (conjunção adversativa)."
+  },
+  {
+    "id": "por-20",
+    "materia": "portugues",
+    "topico": "Classes gramaticais - Numeral",
+    "pergunta": "Na frase \"Comprei três cadernos e um lápis\", quais palavras são numerais?",
+    "alternativas": ["Três e um", "Cadernos e lápis", "Comprei e um", "Três e cadernos"],
+    "respostaCorreta": 0,
+    "explicacao": "Numeral é a classe de palavras que indica quantidade, ordem, multiplicação ou fração. \"Três\" e \"um\" indicam a quantidade exata dos objetos comprados, por isso são numerais."
+  },
+  {
+    "id": "por-21",
+    "materia": "portugues",
+    "topico": "Classes gramaticais - Artigo",
+    "pergunta": "Na frase \"A menina encontrou um gatinho na rua\", quais palavras são artigos?",
+    "alternativas": ["Menina e gatinho", "A e um", "Encontrou e rua", "Na e rua"],
+    "respostaCorreta": 1,
+    "explicacao": "Artigo é a palavra que antecede o substantivo, indicando gênero e número, podendo ser definido ou indefinido. \"A\" é artigo definido feminino e \"um\" é artigo indefinido masculino."
+  },
+  {
+    "id": "por-22",
+    "materia": "portugues",
+    "topico": "Classes gramaticais - Interjeição",
+    "pergunta": "Em qual frase há uma interjeição?",
+    "alternativas": [
+      "Ela caminhou devagar até a porta.",
+      "O jantar já está pronto.",
+      "Nossa! Que susto você me deu!",
+      "Amanhã irei ao médico."
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Interjeição é a palavra ou expressão que exprime emoções, sentimentos ou estados de espírito, como surpresa, alegria ou dor. \"Nossa!\" expressa surpresa, por isso é uma interjeição."
+  },
+  {
+    "id": "por-23",
+    "materia": "portugues",
+    "topico": "Verbo - Modo indicativo",
+    "pergunta": "Na frase \"Eu estudo todos os dias para as provas\", o verbo está em qual modo verbal?",
+    "alternativas": ["Modo subjuntivo", "Modo imperativo", "Modo infinitivo", "Modo indicativo"],
+    "respostaCorreta": 3,
+    "explicacao": "O modo indicativo expressa fatos certos, reais ou considerados verdadeiros pelo falante. Em \"eu estudo\", a ação é apresentada como um fato real e habitual, por isso o verbo está no indicativo."
+  },
+  {
+    "id": "por-24",
+    "materia": "portugues",
+    "topico": "Verbo - Modo subjuntivo",
+    "pergunta": "Na frase \"Espero que você estude para a prova\", o verbo destacado está em qual modo verbal?",
+    "alternativas": ["Modo subjuntivo", "Modo indicativo", "Modo imperativo", "Modo gerúndio"],
+    "respostaCorreta": 0,
+    "explicacao": "O modo subjuntivo expressa dúvida, desejo, possibilidade ou hipótese. Em \"espero que você estude\", a ação não é certa, mas desejada, por isso o verbo está no subjuntivo."
+  },
+  {
+    "id": "por-25",
+    "materia": "portugues",
+    "topico": "Verbo - Modo imperativo",
+    "pergunta": "Qual frase apresenta um verbo no modo imperativo?",
+    "alternativas": [
+      "Eu estudei bastante ontem.",
+      "Estude bastante para a prova!",
+      "Se eu estudasse, passaria.",
+      "Ele estuda todos os dias."
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O modo imperativo é usado para dar ordens, conselhos, pedidos ou instruções. \"Estude bastante para a prova!\" expressa uma ordem ou conselho diretamente a alguém."
+  },
+  {
+    "id": "por-26",
+    "materia": "portugues",
+    "topico": "Verbo regular x irregular",
+    "pergunta": "Qual dos verbos abaixo é irregular, pois sofre alteração em seu radical ao ser conjugado?",
+    "alternativas": ["Cantar", "Correr", "Fazer", "Vender"],
+    "respostaCorreta": 2,
+    "explicacao": "Verbos irregulares sofrem alterações no radical ou nas terminações ao serem conjugados, fugindo do padrão do modelo regular. \"Fazer\" é irregular (eu faço, ele fez), enquanto os demais seguem a conjugação regular."
+  },
+  {
+    "id": "por-27",
+    "materia": "portugues",
+    "topico": "Predicado verbal x nominal",
+    "pergunta": "Na frase \"O céu está nublado\", o predicado é classificado como:",
+    "alternativas": ["Predicado verbal", "Predicado verbo-nominal", "A frase não tem predicado", "Predicado nominal"],
+    "respostaCorreta": 3,
+    "explicacao": "O predicado nominal tem como núcleo um verbo de ligação (como \"estar\") e atribui uma característica ao sujeito por meio de um predicativo. \"Nublado\" é o predicativo do sujeito \"céu\", ligado pelo verbo de ligação \"está\"."
+  },
+  {
+    "id": "por-28",
+    "materia": "portugues",
+    "topico": "Objeto direto",
+    "pergunta": "Na frase \"Maria comprou um presente\", qual é o objeto direto da oração?",
+    "alternativas": ["Um presente", "Maria", "Comprou", "Não há objeto direto"],
+    "respostaCorreta": 0,
+    "explicacao": "Objeto direto é o termo que completa o sentido do verbo sem uso de preposição obrigatória. \"Um presente\" completa o sentido de \"comprou\" diretamente, por isso é o objeto direto."
+  },
+  {
+    "id": "por-29",
+    "materia": "portugues",
+    "topico": "Objeto indireto",
+    "pergunta": "Na frase \"Os alunos obedeceram ao professor\", qual é o objeto indireto da oração?",
+    "alternativas": ["Os alunos", "Ao professor", "Obedeceram", "Não há objeto indireto"],
+    "respostaCorreta": 1,
+    "explicacao": "Objeto indireto é o termo que completa o sentido do verbo por meio de uma preposição obrigatória. \"Ao professor\" completa o verbo \"obedeceram\" com a preposição \"a\", por isso é o objeto indireto."
+  },
+  {
+    "id": "por-30",
+    "materia": "portugues",
+    "topico": "Termos da oração - Vocativo",
+    "pergunta": "Na frase \"Pedro, venha almoçar agora!\", o termo \"Pedro\" exerce a função de:",
+    "alternativas": ["Sujeito", "Objeto direto", "Vocativo", "Predicativo"],
+    "respostaCorreta": 2,
+    "explicacao": "Vocativo é o termo usado para chamar ou interpelar diretamente alguém na frase, geralmente isolado por vírgula. \"Pedro\" está sendo chamado, sem exercer função sintática ligada ao verbo, por isso é um vocativo."
+  },
+  {
+    "id": "por-31",
+    "materia": "portugues",
+    "topico": "Termos da oração - Aposto",
+    "pergunta": "Na frase \"Machado de Assis, autor de Dom Casmurro, nasceu no Rio de Janeiro\", o trecho \"autor de Dom Casmurro\" é classificado como:",
+    "alternativas": ["Sujeito", "Vocativo", "Objeto direto", "Aposto"],
+    "respostaCorreta": 3,
+    "explicacao": "Aposto é o termo que explica, esclarece ou detalha outro termo da oração, geralmente isolado por vírgulas. \"Autor de Dom Casmurro\" explica quem foi Machado de Assis, por isso é um aposto."
+  },
+  {
+    "id": "por-32",
+    "materia": "portugues",
+    "topico": "Orações coordenadas",
+    "pergunta": "Na frase \"Ele estudou muito e passou no exame\", as duas orações estão ligadas por uma conjunção que indica:",
+    "alternativas": ["Adição (soma de ideias)", "Oposição", "Alternância", "Conclusão"],
+    "respostaCorreta": 0,
+    "explicacao": "Orações coordenadas sindéticas aditivas são ligadas por conjunções como \"e\", que somam ideias sem que uma dependa gramaticalmente da outra. Nessa frase, as duas orações têm sentido completo e são somadas pela conjunção \"e\"."
+  },
+  {
+    "id": "por-33",
+    "materia": "portugues",
+    "topico": "Figuras de linguagem - Comparação",
+    "pergunta": "Qual frase é um exemplo de comparação (símile)?",
+    "alternativas": [
+      "Seus olhos são duas estrelas.",
+      "Ela é ágil como uma gazela.",
+      "O tempo urrava lá fora.",
+      "O sol beijava a montanha."
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A comparação, ou símile, aproxima dois elementos usando conectivos como \"como\", \"tal qual\" ou \"feito\". \"Ágil como uma gazela\" compara explicitamente a agilidade da pessoa à do animal usando a palavra \"como\"."
+  },
+  {
+    "id": "por-34",
+    "materia": "portugues",
+    "topico": "Figuras de linguagem - Ironia",
+    "pergunta": "Um aluno chega uma hora atrasado e o professor diz: \"Que pontualidade admirável!\". Essa fala é um exemplo de qual figura de linguagem?",
+    "alternativas": ["Metáfora", "Hipérbole", "Ironia", "Eufemismo"],
+    "respostaCorreta": 2,
+    "explicacao": "Ironia é a figura de linguagem que expressa o contrário do que realmente se quer dizer, geralmente com tom crítico ou sarcástico. O professor diz o oposto do que pensa, criticando o atraso do aluno de forma irônica."
+  },
+  {
+    "id": "por-35",
+    "materia": "portugues",
+    "topico": "Figuras de linguagem - Eufemismo",
+    "pergunta": "Dizer que uma pessoa \"partiu para uma vida melhor\" em vez de dizer que ela morreu é um exemplo de qual figura de linguagem?",
+    "alternativas": ["Ironia", "Metonímia", "Hipérbole", "Eufemismo"],
+    "respostaCorreta": 3,
+    "explicacao": "Eufemismo é a figura de linguagem usada para suavizar uma informação desagradável, dolorosa ou chocante. \"Partiu para uma vida melhor\" é uma forma mais suave de dizer que alguém morreu."
+  },
+  {
+    "id": "por-36",
+    "materia": "portugues",
+    "topico": "Figuras de linguagem - Metonímia",
+    "pergunta": "Na frase \"Ele lê Machado de Assis todas as noites\", a figura de linguagem usada é a:",
+    "alternativas": ["Metonímia", "Metáfora", "Antítese", "Personificação"],
+    "respostaCorreta": 0,
+    "explicacao": "Metonímia é a figura de linguagem que substitui uma palavra por outra com a qual mantém relação de proximidade de sentido, como o autor pela obra. \"Ler Machado de Assis\" significa ler os livros escritos por ele, o autor no lugar da obra."
+  },
+  {
+    "id": "por-37",
+    "materia": "portugues",
+    "topico": "Figuras de linguagem - Aliteração",
+    "pergunta": "No verso \"O rato roeu a roupa do rei de Roma\", qual figura de linguagem se destaca?",
+    "alternativas": [
+      "Rima toante",
+      "Aliteração (repetição de sons consonantais)",
+      "Metáfora",
+      "Antítese"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Aliteração é a repetição proposital de um mesmo som consonantal no início ou no interior das palavras, criando efeito sonoro. A repetição do som \"r\" ao longo da frase é um exemplo claro de aliteração."
+  },
+  {
+    "id": "por-38",
+    "materia": "portugues",
+    "topico": "Figuras de linguagem - Onomatopeia",
+    "pergunta": "Na frase \"O relógio fazia tic-tac na parede silenciosa\", a palavra \"tic-tac\" é um exemplo de:",
+    "alternativas": ["Metáfora", "Comparação", "Onomatopeia", "Eufemismo"],
+    "respostaCorreta": 2,
+    "explicacao": "Onomatopeia é a figura de linguagem que reproduz na escrita um som da natureza ou de objetos. \"Tic-tac\" imita o som produzido pelo relógio, por isso é uma onomatopeia."
+  },
+  {
+    "id": "por-39",
+    "materia": "portugues",
+    "topico": "Ambiguidade",
+    "pergunta": "Qual frase apresenta ambiguidade (duplo sentido não intencional)?",
+    "alternativas": [
+      "O menino viu o cachorro correndo pela rua.",
+      "Maria comprou um vestido novo ontem.",
+      "Choveu muito durante toda a tarde.",
+      "O guarda encontrou o ladrão com o revólver."
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Ambiguidade ocorre quando uma frase permite mais de uma interpretação. Em \"o guarda encontrou o ladrão com o revólver\", não fica claro se quem tinha o revólver era o guarda ou o ladrão, gerando duplo sentido."
+  },
+  {
+    "id": "por-40",
+    "materia": "portugues",
+    "topico": "Sujeito oculto (desinencial)",
+    "pergunta": "Na frase \"Estudamos bastante para a prova de matemática\", o sujeito é classificado como:",
+    "alternativas": [
+      "Sujeito oculto (elíptico ou desinencial)",
+      "Sujeito indeterminado",
+      "Oração sem sujeito",
+      "Sujeito composto"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Sujeito oculto, elíptico ou desinencial é aquele que não aparece escrito na frase, mas pode ser identificado pela terminação do verbo. A desinência \"-amos\" indica que o sujeito é \"nós\", mesmo sem estar explícito."
+  },
+  {
+    "id": "por-41",
+    "materia": "portugues",
+    "topico": "Sujeito indeterminado",
+    "pergunta": "Na frase \"Falaram mal de você na festa\", o sujeito é classificado como:",
+    "alternativas": ["Sujeito simples", "Sujeito indeterminado", "Sujeito composto", "Oração sem sujeito"],
+    "respostaCorreta": 1,
+    "explicacao": "O sujeito indeterminado ocorre quando não se sabe ou não se quer identificar quem pratica a ação, geralmente com o verbo na 3ª pessoa do plural sem referência anterior. Em \"falaram mal de você\", não se sabe quem falou."
+  },
+  {
+    "id": "por-42",
+    "materia": "portugues",
+    "topico": "Oração sem sujeito",
+    "pergunta": "Na frase \"Havia muitas pessoas na festa\", a oração é classificada como:",
+    "alternativas": ["Sujeito simples", "Sujeito oculto", "Oração sem sujeito", "Sujeito indeterminado"],
+    "respostaCorreta": 2,
+    "explicacao": "Oração sem sujeito ocorre com verbos impessoais, como \"haver\" no sentido de existir, que não possuem sujeito. Em \"havia muitas pessoas\", o verbo \"haver\" é impessoal, portanto a oração não tem sujeito."
+  },
+  {
+    "id": "por-43",
+    "materia": "portugues",
+    "topico": "Uso da crase",
+    "pergunta": "Em qual frase o uso do acento indicativo de crase está correto?",
+    "alternativas": [
+      "Entreguei o livro à ela.",
+      "Vou à qualquer lugar nas férias.",
+      "Vou à pé até a escola.",
+      "Fomos à praia no fim de semana."
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A crase é a fusão da preposição \"a\" exigida por um termo com o artigo feminino \"a\". Em \"fomos à praia\", há a preposição pedida pelo verbo \"ir\" mais o artigo \"a\" antes de \"praia\" (palavra feminina), formando corretamente a crase; não se usa crase antes de pronomes pessoais, pronomes indefinidos ou palavras masculinas."
+  },
+  {
+    "id": "por-44",
+    "materia": "portugues",
+    "topico": "Ortografia - Por que, porque, por quê, porquê",
+    "pergunta": "Qual frase usa corretamente \"porque\" (junto e sem acento)?",
+    "alternativas": [
+      "Ele não veio porque estava doente.",
+      "Não sei por que você fez isso.",
+      "Qual é o motivo? Não entendi o porquê.",
+      "Ela chorou, mas por quê?"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "\"Porque\" (junto e sem acento) é usado para explicar ou justificar algo, geralmente em respostas. Em \"não veio porque estava doente\", a palavra introduz o motivo da ausência."
+  },
+  {
+    "id": "por-45",
+    "materia": "portugues",
+    "topico": "Homônimos e parônimos",
+    "pergunta": "As palavras \"cessão\" (ato de ceder) e \"sessão\" (reunião, período) são exemplos de:",
+    "alternativas": ["Sinônimos", "Homônimos (homófonos)", "Antônimos", "Hipérbole"],
+    "respostaCorreta": 1,
+    "explicacao": "Homônimos homófonos são palavras que têm a mesma pronúncia, mas grafia e significado diferentes. \"Cessão\" e \"sessão\" soam igual, mas têm sentidos totalmente distintos."
+  },
+  {
+    "id": "por-46",
+    "materia": "portugues",
+    "topico": "Pontuação - Dois-pontos",
+    "pergunta": "Qual é a função dos dois-pontos na frase \"Comprei três frutas: maçã, banana e uva\"?",
+    "alternativas": [
+      "Indicar uma pergunta",
+      "Separar orações opostas",
+      "Introduzir uma enumeração",
+      "Indicar hesitação na fala"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Os dois-pontos podem ser usados para introduzir uma enumeração, uma citação ou uma explicação. Nesse caso, eles anunciam a lista de frutas que foram compradas."
+  },
+  {
+    "id": "por-47",
+    "materia": "portugues",
+    "topico": "Pontuação - Travessão no discurso direto",
+    "pergunta": "Em textos narrativos, qual é a função do travessão em uma fala como \"— Vamos embora agora! — disse a menina.\"?",
+    "alternativas": [
+      "Indicar operações matemáticas",
+      "Substituir a vírgula em enumerações",
+      "Indicar o fim do texto",
+      "Marcar a fala de um personagem no discurso direto"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O travessão é usado no discurso direto para indicar a fala dos personagens e marcar a mudança de interlocutor em um diálogo. No exemplo, ele sinaliza o início da fala e o comentário sobre ela."
+  },
+  {
+    "id": "por-48",
+    "materia": "portugues",
+    "topico": "Gêneros textuais - Crônica",
+    "pergunta": "Um texto curto, de linguagem simples, que narra com humor ou reflexão um fato do cotidiano, muitas vezes publicado em jornais e revistas, é chamado de:",
+    "alternativas": ["Crônica", "Notícia", "Receita culinária", "Anúncio publicitário"],
+    "respostaCorreta": 0,
+    "explicacao": "A crônica é um gênero textual que aborda, de forma breve e muitas vezes com humor ou reflexão, situações do cotidiano, misturando narração e opinião do autor."
+  },
+  {
+    "id": "por-49",
+    "materia": "portugues",
+    "topico": "Elementos da narrativa - Tipos de narrador",
+    "pergunta": "Quando o narrador participa da história como personagem e conta os fatos usando \"eu\", ele é chamado de:",
+    "alternativas": [
+      "Narrador onisciente",
+      "Narrador-personagem (1ª pessoa)",
+      "Narrador observador",
+      "Narrador em 3ª pessoa"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O narrador-personagem, ou narrador em 1ª pessoa, participa diretamente dos acontecimentos da história e os relata sob seu próprio ponto de vista, usando \"eu\"."
+  },
+  {
+    "id": "por-50",
+    "materia": "portugues",
+    "topico": "Elementos da narrativa - Enredo",
+    "pergunta": "Em um conto, o conjunto de acontecimentos organizados que formam a história contada é chamado de:",
+    "alternativas": ["Narrador", "Espaço", "Enredo", "Foco narrativo"],
+    "respostaCorreta": 2,
+    "explicacao": "Enredo é o conjunto de fatos e acontecimentos que compõem a trama de uma narrativa, geralmente organizados em introdução, desenvolvimento, clímax e desfecho."
   }
 ]

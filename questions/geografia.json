@@ -173,5 +173,465 @@
     ],
     "respostaCorreta": 0,
     "explicacao": "A América Latina reúne países do continente americano colonizados principalmente por Portugal, Espanha e França, cujas línguas oficiais (como português, espanhol e francês) derivam do latim."
+  },
+  {
+    "id": "geo-16",
+    "materia": "geografia",
+    "topico": "Biomas brasileiros - Cerrado",
+    "pergunta": "Qual bioma brasileiro, conhecido como a 'savana brasileira', ocupa grande parte do Planalto Central e é caracterizado por árvores de troncos tortuosos e vegetação rasteira adaptada ao fogo?",
+    "alternativas": ["Pantanal", "Pampa", "Cerrado", "Mata Atlântica"],
+    "respostaCorreta": 2,
+    "explicacao": "O Cerrado é o segundo maior bioma do Brasil, presente principalmente na região Centro-Oeste. Sua vegetação de árvores baixas e retorcidas e gramíneas é adaptada a solos ácidos e a queimadas naturais."
+  },
+  {
+    "id": "geo-17",
+    "materia": "geografia",
+    "topico": "Biomas brasileiros - Caatinga",
+    "pergunta": "Qual bioma exclusivamente brasileiro, típico do interior do Nordeste, apresenta vegetação adaptada à seca, com plantas de espinhos e caules que armazenam água?",
+    "alternativas": ["Caatinga", "Amazônia", "Pantanal", "Cerrado"],
+    "respostaCorreta": 0,
+    "explicacao": "A Caatinga é o único bioma exclusivamente brasileiro, presente no interior do Nordeste sob clima semiárido. Suas plantas, como cactos e xique-xiques, são adaptadas a longos períodos de estiagem."
+  },
+  {
+    "id": "geo-18",
+    "materia": "geografia",
+    "topico": "Biomas brasileiros - Pampa",
+    "pergunta": "Qual bioma brasileiro é formado principalmente por campos de vegetação rasteira (gramíneas), concentrando-se no Rio Grande do Sul, e é tradicionalmente associado à pecuária?",
+    "alternativas": ["Pantanal", "Cerrado", "Caatinga", "Pampa"],
+    "respostaCorreta": 3,
+    "explicacao": "O Pampa é o menor bioma brasileiro em extensão, restrito principalmente ao Rio Grande do Sul. Sua paisagem de campos abertos favoreceu historicamente a criação de gado, tradição da cultura gaúcha."
+  },
+  {
+    "id": "geo-19",
+    "materia": "geografia",
+    "topico": "Biomas brasileiros - Pantanal",
+    "pergunta": "Qual bioma brasileiro é a maior planície alagável contínua do planeta, sofrendo cheias e secas periódicas que moldam sua rica fauna, como jacarés e aves aquáticas?",
+    "alternativas": ["Cerrado", "Pantanal", "Mata Atlântica", "Amazônia"],
+    "respostaCorreta": 1,
+    "explicacao": "O Pantanal, localizado principalmente em Mato Grosso e Mato Grosso do Sul, é a maior planície alagável contínua do mundo. Suas cheias sazonais renovam os nutrientes do solo e sustentam grande biodiversidade."
+  },
+  {
+    "id": "geo-20",
+    "materia": "geografia",
+    "topico": "Clima do Brasil - Tropical",
+    "pergunta": "O clima tropical, predominante em boa parte do território brasileiro, caracteriza-se por:",
+    "alternativas": [
+      "Temperaturas baixas o ano todo e neve frequente",
+      "Chuvas abundantes e constantes durante todo o ano, sem estação seca",
+      "Duas estações bem definidas: verão chuvoso e inverno seco, com temperaturas elevadas",
+      "Grande amplitude térmica diária semelhante à dos desertos"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O clima tropical típico apresenta temperaturas médias elevadas e duas estações bem marcadas: um verão chuvoso e um inverno mais seco, sendo o tipo climático mais comum no território brasileiro."
+  },
+  {
+    "id": "geo-21",
+    "materia": "geografia",
+    "topico": "Clima do Brasil - Semiárido",
+    "pergunta": "O clima semiárido, presente no interior do Nordeste brasileiro, é marcado principalmente por:",
+    "alternativas": [
+      "Irregularidade e escassez de chuvas, com longos períodos de estiagem",
+      "Chuvas regulares e abundantes durante todo o ano",
+      "Baixas temperaturas e presença de geadas frequentes",
+      "Umidade constante do ar, típica de florestas tropicais"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O clima semiárido é caracterizado pela irregularidade e baixo volume de chuvas, resultando em longos períodos de seca. É o clima predominante no Sertão nordestino, favorecendo a vegetação da Caatinga."
+  },
+  {
+    "id": "geo-22",
+    "materia": "geografia",
+    "topico": "Clima do Brasil - Subtropical",
+    "pergunta": "Em qual região do Brasil predomina o clima subtropical, que apresenta as quatro estações do ano bem definidas e temperaturas mais baixas, com possibilidade de geadas no inverno?",
+    "alternativas": ["Norte", "Nordeste", "Centro-Oeste", "Sul"],
+    "respostaCorreta": 3,
+    "explicacao": "A região Sul do Brasil é a única onde predomina o clima subtropical, com as quatro estações bem marcadas e invernos mais frios, podendo ocorrer geadas e, ocasionalmente, neve nas áreas mais altas."
+  },
+  {
+    "id": "geo-23",
+    "materia": "geografia",
+    "topico": "Relevo brasileiro - Planície",
+    "pergunta": "O que caracteriza uma planície, uma das formas de relevo encontradas no território brasileiro?",
+    "alternativas": [
+      "Uma área muito elevada e recortada por vales profundos",
+      "Uma área plana ou pouco ondulada, geralmente de baixa altitude, formada por sedimentação",
+      "Uma cadeia de montanhas muito altas e pontiagudas",
+      "Uma área totalmente coberta por gelo permanente"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Planícies são áreas de superfície plana ou levemente ondulada e baixa altitude, formadas principalmente pelo acúmulo de sedimentos trazidos por rios, como ocorre na Planície Amazônica."
+  },
+  {
+    "id": "geo-24",
+    "materia": "geografia",
+    "topico": "Relevo brasileiro - Depressão",
+    "pergunta": "Em geografia, o que é uma depressão relativa, forma de relevo comum em áreas do território brasileiro?",
+    "alternativas": [
+      "Uma área elevada e plana, formada por rochas resistentes",
+      "Uma cratera formada pelo impacto de um meteorito",
+      "Uma área mais baixa que os terrenos ao seu redor, resultante principalmente do desgaste (erosão) ao longo do tempo",
+      "Uma ilha localizada no meio do oceano"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A depressão relativa é uma área rebaixada em relação aos terrenos vizinhos, formada principalmente pela ação erosiva ao longo de milhões de anos, sendo comum em diversas áreas do interior do Brasil."
+  },
+  {
+    "id": "geo-25",
+    "materia": "geografia",
+    "topico": "Hidrografia - Bacia do São Francisco",
+    "pergunta": "O Rio São Francisco, conhecido como 'Rio da Integração Nacional', é especialmente importante porque:",
+    "alternativas": [
+      "Nasce em Minas Gerais e atravessa o semiárido nordestino, levando água a uma região de clima seco",
+      "Fica totalmente dentro da Floresta Amazônica",
+      "É o único rio do Brasil que deságua no Oceano Pacífico",
+      "Serve apenas para navegação internacional entre países vizinhos"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Rio São Francisco nasce em Minas Gerais e percorre estados do Nordeste, atravessando áreas de clima semiárido. Por isso é chamado de 'rio da integração nacional', sendo essencial para o abastecimento de água da região."
+  },
+  {
+    "id": "geo-26",
+    "materia": "geografia",
+    "topico": "Hidrografia - Bacia do Paraná",
+    "pergunta": "A Bacia Hidrográfica do Paraná tem grande importância econômica para o Brasil principalmente por:",
+    "alternativas": [
+      "Concentrar a maior parte da floresta amazônica",
+      "Ser a região com clima mais frio do país",
+      "Ser a única bacia hidrográfica localizada fora do território brasileiro",
+      "Possuir grande potencial para geração de energia hidrelétrica, incluindo a usina de Itaipu"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Bacia do Paraná banha regiões densamente povoadas e industrializadas do Sul e Sudeste, apresentando grande potencial hidrelétrico, com destaque para a Usina de Itaipu, uma das maiores do mundo."
+  },
+  {
+    "id": "geo-27",
+    "materia": "geografia",
+    "topico": "Relação entre vegetação e clima",
+    "pergunta": "Por que existe uma forte relação entre o tipo de clima de uma região e o tipo de vegetação (bioma) que se desenvolve nela?",
+    "alternativas": [
+      "Porque o governo decide onde cada planta deve crescer",
+      "Porque fatores como temperatura e volume de chuvas influenciam diretamente quais plantas conseguem se desenvolver em cada área",
+      "Porque a vegetação não tem nenhuma relação com fatores climáticos",
+      "Porque todas as plantas do mundo crescem da mesma forma, independente do clima"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Elementos climáticos como temperatura, volume e distribuição das chuvas ao longo do ano determinam quais espécies vegetais conseguem se adaptar e se desenvolver em cada região, explicando a diversidade de biomas."
+  },
+  {
+    "id": "geo-28",
+    "materia": "geografia",
+    "topico": "Desmatamento na Amazônia",
+    "pergunta": "Qual das atividades abaixo é apontada como uma das principais causas do desmatamento na Amazônia brasileira?",
+    "alternativas": [
+      "O turismo ecológico controlado",
+      "O aumento da preservação ambiental por parques nacionais",
+      "A expansão de áreas de pecuária e agricultura, além da extração ilegal de madeira",
+      "A diminuição da população nas cidades da região"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A abertura de áreas para pecuária e agricultura, somada à extração ilegal de madeira e à grilagem de terras, está entre as principais causas do desmatamento na Amazônia, ameaçando a floresta e sua biodiversidade."
+  },
+  {
+    "id": "geo-29",
+    "materia": "geografia",
+    "topico": "Queimadas",
+    "pergunta": "Qual é uma das principais consequências ambientais das queimadas florestais, comuns em algumas regiões do Brasil?",
+    "alternativas": [
+      "A liberação de gases poluentes na atmosfera e a perda de biodiversidade local",
+      "O aumento imediato da umidade do solo",
+      "O crescimento acelerado e saudável da vegetação nativa",
+      "A redução da temperatura do ar na região afetada"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "As queimadas liberam grandes quantidades de gases poluentes, como o dióxido de carbono, na atmosfera, além de destruir a vegetação nativa e prejudicar a fauna, contribuindo também para o efeito estufa."
+  },
+  {
+    "id": "geo-30",
+    "materia": "geografia",
+    "topico": "Aquecimento global",
+    "pergunta": "Do ponto de vista geográfico, o que é o aquecimento global?",
+    "alternativas": [
+      "A diminuição gradual da temperatura média do planeta",
+      "Um fenômeno que ocorre apenas nos polos, sem afetar o restante do planeta",
+      "A variação normal e sem causas humanas do clima ao longo dos séculos",
+      "O aumento da temperatura média da Terra, associado principalmente ao acúmulo de gases de efeito estufa na atmosfera"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O aquecimento global é o aumento da temperatura média do planeta, intensificado pela emissão de gases de efeito estufa (como o CO2) por atividades humanas, como queima de combustíveis fósseis e desmatamento."
+  },
+  {
+    "id": "geo-31",
+    "materia": "geografia",
+    "topico": "Região Norte - características",
+    "pergunta": "Qual característica marca a região Norte do Brasil, a maior em extensão territorial entre as cinco regiões?",
+    "alternativas": [
+      "Ser a região mais densamente povoada do país",
+      "Abrigar a maior parte da Floresta Amazônica e apresentar a menor densidade demográfica entre as regiões",
+      "Concentrar o maior parque industrial do Brasil",
+      "Ter clima predominantemente frio, com neve no inverno"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A região Norte é a maior em área do Brasil e abriga a maior parte da Floresta Amazônica. Apesar de sua grande extensão, é a região com menor densidade demográfica do país."
+  },
+  {
+    "id": "geo-32",
+    "materia": "geografia",
+    "topico": "Região Nordeste - características",
+    "pergunta": "Qual das alternativas abaixo apresenta corretamente uma característica marcante da região Nordeste do Brasil?",
+    "alternativas": [
+      "É a região que possui a maior área de floresta de araucárias do país",
+      "É a única região brasileira sem litoral",
+      "Reúne grande diversidade de paisagens, incluindo o litoral, a zona da mata, o agreste e o sertão semiárido",
+      "Concentra a maior parte da produção de energia eólica do mundo"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Nordeste apresenta grande diversidade interna de paisagens, geralmente divididas em zona da mata (litorânea e úmida), agreste (transição) e sertão (interior semiárido), cada uma com características próprias."
+  },
+  {
+    "id": "geo-33",
+    "materia": "geografia",
+    "topico": "Região Centro-Oeste - características",
+    "pergunta": "Qual atividade econômica se destaca atualmente na região Centro-Oeste do Brasil, marcada pela presença do bioma Cerrado?",
+    "alternativas": [
+      "A agropecuária moderna, com grande produção de grãos como soja e milho, e criação de gado",
+      "A pesca industrial em alto-mar",
+      "A extração de petróleo em plataformas marítimas",
+      "A produção de energia geotérmica"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A região Centro-Oeste, onde predomina o bioma Cerrado, tornou-se uma das principais áreas agropecuárias do Brasil, com grande produção de grãos, especialmente soja e milho, além da pecuária de corte."
+  },
+  {
+    "id": "geo-34",
+    "materia": "geografia",
+    "topico": "Região Sudeste - características",
+    "pergunta": "Além de ser a região mais industrializada, qual outra característica marca a região Sudeste do Brasil?",
+    "alternativas": [
+      "É a região menos populosa do país",
+      "É a única região sem grandes centros urbanos",
+      "Possui a menor densidade demográfica entre as cinco regiões",
+      "É a região mais populosa do Brasil e concentra grande parte do Produto Interno Bruto (PIB) nacional"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Além de historicamente concentrar a industrialização, o Sudeste é a região mais populosa do Brasil e responde pela maior parcela do Produto Interno Bruto (PIB) do país, reunindo grandes centros urbanos como São Paulo e Rio de Janeiro."
+  },
+  {
+    "id": "geo-35",
+    "materia": "geografia",
+    "topico": "Região Sul - características",
+    "pergunta": "Qual característica é associada à região Sul do Brasil, formada pelos estados do Paraná, Santa Catarina e Rio Grande do Sul?",
+    "alternativas": [
+      "Ser a região brasileira com clima predominantemente equatorial",
+      "Apresentar os melhores indicadores sociais médios do país, forte presença da agricultura familiar e influência da colonização europeia",
+      "Concentrar a maior parte da Floresta Amazônica",
+      "Ser a região com maior número de estados do Brasil"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A região Sul, formada por apenas três estados, destaca-se por apresentar bons indicadores sociais médios, forte presença da agricultura familiar e marcante influência cultural de imigrantes europeus, como italianos e alemães."
+  },
+  {
+    "id": "geo-36",
+    "materia": "geografia",
+    "topico": "População absoluta e relativa",
+    "pergunta": "Qual é a diferença entre população absoluta e população relativa (densidade demográfica) de um lugar?",
+    "alternativas": [
+      "Não existe diferença, são sempre o mesmo número",
+      "População absoluta se refere apenas a crianças; população relativa, apenas a adultos",
+      "População absoluta é o número total de habitantes; população relativa é a quantidade de habitantes dividida pela área do território",
+      "População absoluta é medida em km²; população relativa, em número de habitantes"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A população absoluta corresponde ao número total de habitantes de um lugar, enquanto a população relativa (densidade demográfica) resulta da divisão desse total pela área do território, indicando o grau de ocupação do espaço."
+  },
+  {
+    "id": "geo-37",
+    "materia": "geografia",
+    "topico": "Pirâmide etária",
+    "pergunta": "Para que serve uma pirâmide etária na análise da população de um país ou região?",
+    "alternativas": [
+      "Para representar a distribuição da população por idade e sexo, ajudando a entender características como envelhecimento populacional",
+      "Para mostrar apenas a localização geográfica da população",
+      "Para indicar exclusivamente a renda média dos habitantes",
+      "Para mostrar o relevo de uma determinada área"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A pirâmide etária é um gráfico que representa a distribuição da população por faixas de idade e sexo, permitindo analisar tendências como o envelhecimento populacional ou o crescimento acelerado de um país."
+  },
+  {
+    "id": "geo-38",
+    "materia": "geografia",
+    "topico": "Migração e imigração no Brasil",
+    "pergunta": "Qual é a diferença entre migração interna e imigração, dois conceitos importantes para entender os deslocamentos populacionais no Brasil?",
+    "alternativas": [
+      "Os dois termos significam exatamente a mesma coisa",
+      "Migração interna só pode ocorrer entre países vizinhos; imigração só ocorre dentro de uma mesma cidade",
+      "Imigração se refere apenas à saída de brasileiros para outros países",
+      "Migração interna ocorre dentro do próprio país; imigração é a entrada de pessoas vindas de outros países"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Migração interna é o deslocamento de pessoas dentro das fronteiras de um mesmo país, como o histórico êxodo rural. Já a imigração é a entrada de pessoas vindas de outros países, como ocorreu com italianos, japoneses e alemães no Brasil."
+  },
+  {
+    "id": "geo-39",
+    "materia": "geografia",
+    "topico": "Favelas e questão urbana",
+    "pergunta": "O surgimento e crescimento das favelas nas grandes cidades brasileiras está relacionado principalmente a:",
+    "alternativas": [
+      "Um planejamento urbano cuidadoso feito pelos governos municipais",
+      "A falta de moradia digna e acessível para a população de baixa renda, associada ao rápido crescimento urbano",
+      "A decisão da população em morar longe do centro por lazer",
+      "O excesso de áreas verdes preservadas nas cidades"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "As favelas surgiram e cresceram principalmente pela falta de moradia digna e acessível para a população de baixa renda, em um contexto de urbanização acelerada e desigual nas grandes cidades brasileiras."
+  },
+  {
+    "id": "geo-40",
+    "materia": "geografia",
+    "topico": "Saneamento básico",
+    "pergunta": "O que compreende o conceito de saneamento básico, um dos grandes desafios urbanos do Brasil?",
+    "alternativas": [
+      "Apenas a construção de ruas e avenidas",
+      "Somente a distribuição de energia elétrica",
+      "O conjunto de serviços de abastecimento de água tratada, coleta e tratamento de esgoto, drenagem e coleta de lixo",
+      "Exclusivamente a construção de hospitais"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Saneamento básico envolve o abastecimento de água potável, a coleta e o tratamento de esgoto, a drenagem de águas pluviais e a coleta de resíduos sólidos. Muitas cidades brasileiras ainda enfrentam déficits nesses serviços."
+  },
+  {
+    "id": "geo-41",
+    "materia": "geografia",
+    "topico": "Infraestrutura de transportes no Brasil",
+    "pergunta": "Qual modal de transporte é o mais utilizado para o deslocamento de cargas dentro do território brasileiro?",
+    "alternativas": [
+      "Transporte rodoviário",
+      "Transporte ferroviário",
+      "Transporte aquaviário",
+      "Transporte dutoviário"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Apesar das desvantagens em longas distâncias, o transporte rodoviário é historicamente o modal predominante no Brasil para o deslocamento de cargas, ao contrário de países como os Estados Unidos, que utilizam mais o modal ferroviário."
+  },
+  {
+    "id": "geo-42",
+    "materia": "geografia",
+    "topico": "Matriz energética brasileira",
+    "pergunta": "O que caracteriza a matriz energética elétrica do Brasil em comparação com a de muitos outros países do mundo?",
+    "alternativas": [
+      "É baseada quase totalmente no carvão mineral",
+      "Depende exclusivamente da energia nuclear",
+      "Não utiliza nenhuma fonte renovável de energia",
+      "Tem forte participação de fontes renováveis, com destaque para a energia hidrelétrica"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A matriz elétrica brasileira se destaca mundialmente pela alta participação de fontes renováveis, principalmente a energia hidrelétrica, favorecida pela grande quantidade de rios de planalto com potencial para geração de energia."
+  },
+  {
+    "id": "geo-43",
+    "materia": "geografia",
+    "topico": "Usina hidrelétrica de Itaipu",
+    "pergunta": "A Usina Hidrelétrica de Itaipu, uma das maiores do mundo em geração de energia, está localizada no rio Paraná, na fronteira entre o Brasil e qual outro país?",
+    "alternativas": ["Argentina", "Paraguai", "Uruguai", "Bolívia"],
+    "respostaCorreta": 1,
+    "explicacao": "A Usina de Itaipu foi construída em parceria entre Brasil e Paraguai, no rio Paraná, e é uma das maiores hidrelétricas do mundo em geração de energia, fornecendo eletricidade para os dois países."
+  },
+  {
+    "id": "geo-44",
+    "materia": "geografia",
+    "topico": "Comércio exterior - Exportações brasileiras",
+    "pergunta": "Nas últimas décadas, quais tipos de produtos têm predominado na pauta de exportações do Brasil?",
+    "alternativas": [
+      "Produtos de alta tecnologia, como componentes eletrônicos avançados",
+      "Exclusivamente produtos artesanais",
+      "Principalmente commodities, como soja, minério de ferro e petróleo",
+      "Somente produtos têxteis e de vestuário"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A pauta de exportações brasileira é fortemente marcada por commodities, ou seja, produtos primários com baixo grau de industrialização, como soja, minério de ferro e petróleo, vendidos principalmente para países como China e Estados Unidos."
+  },
+  {
+    "id": "geo-45",
+    "materia": "geografia",
+    "topico": "Mercosul",
+    "pergunta": "O que é o Mercosul, bloco econômico do qual o Brasil faz parte?",
+    "alternativas": [
+      "Um bloco econômico regional formado por países da América do Sul, criado para facilitar o comércio entre seus membros",
+      "Uma organização que reúne apenas países da Europa",
+      "Uma agência das Nações Unidas voltada ao meio ambiente",
+      "Um acordo exclusivo entre Brasil e Estados Unidos"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Mercosul (Mercado Comum do Sul) é um bloco econômico formado por países sul-americanos, como Brasil, Argentina, Uruguai e Paraguai, criado para reduzir barreiras comerciais e fortalecer a integração econômica regional."
+  },
+  {
+    "id": "geo-46",
+    "materia": "geografia",
+    "topico": "Globalização (conceito geográfico)",
+    "pergunta": "Do ponto de vista geográfico, o que caracteriza o processo de globalização?",
+    "alternativas": [
+      "O isolamento cada vez maior entre os países do mundo",
+      "A proibição do comércio entre países diferentes",
+      "A diminuição do uso de tecnologias de comunicação",
+      "A intensificação das conexões econômicas, culturais e tecnológicas entre diferentes lugares do planeta"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A globalização é o processo de intensificação das relações econômicas, culturais, políticas e tecnológicas entre diferentes países e regiões do mundo, facilitado pelo avanço dos transportes e das telecomunicações."
+  },
+  {
+    "id": "geo-47",
+    "materia": "geografia",
+    "topico": "Rede urbana e hierarquia de cidades",
+    "pergunta": "O que é a hierarquia urbana, conceito usado para entender a rede de cidades de um país?",
+    "alternativas": [
+      "A ordem alfabética dos nomes das cidades",
+      "A classificação das cidades conforme sua importância econômica, política e a quantidade de serviços que oferecem à população",
+      "A divisão das cidades apenas pela quantidade de bairros",
+      "A lista de cidades organizadas por data de fundação"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A hierarquia urbana organiza as cidades conforme seu grau de influência e a variedade de serviços e funções que oferecem, indo de metrópoles com grande influência regional até cidades pequenas com funções mais locais."
+  },
+  {
+    "id": "geo-48",
+    "materia": "geografia",
+    "topico": "Orientação - Pontos cardeais e colaterais",
+    "pergunta": "Além dos quatro pontos cardeais (Norte, Sul, Leste e Oeste), quais são os pontos colaterais usados para orientação?",
+    "alternativas": [
+      "Alto, baixo, frente e trás",
+      "Zênite, nadir, polo e equador",
+      "Nordeste, Sudeste, Sudoeste e Noroeste",
+      "Primeiro, segundo, terceiro e quarto"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Os pontos colaterais (Nordeste, Sudeste, Sudoeste e Noroeste) ficam localizados entre os pontos cardeais e ajudam a tornar a orientação espacial mais precisa, sendo muito usados na leitura de mapas e bússolas."
+  },
+  {
+    "id": "geo-49",
+    "materia": "geografia",
+    "topico": "Hemisférios (Norte, Sul, Leste, Oeste)",
+    "pergunta": "O território brasileiro está localizado, em sua maior parte, em quais hemisférios?",
+    "alternativas": [
+      "Hemisfério Sul e Hemisfério Oeste",
+      "Hemisfério Norte e Hemisfério Leste",
+      "Hemisfério Norte e Hemisfério Oeste",
+      "Hemisfério Sul e Hemisfério Leste"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Brasil está localizado majoritariamente no Hemisfério Sul (abaixo da Linha do Equador, com uma pequena parte ao norte) e no Hemisfério Ocidental/Oeste (a oeste do Meridiano de Greenwich)."
+  },
+  {
+    "id": "geo-50",
+    "materia": "geografia",
+    "topico": "Cartografia - Projeções cartográficas",
+    "pergunta": "Por que os mapas-múndi sempre apresentam algum tipo de distorção (de área, forma ou distância) em relação à Terra real?",
+    "alternativas": [
+      "Porque os cartógrafos cometem erros de cálculo",
+      "Porque os mapas são feitos apenas para fins decorativos",
+      "Porque a Terra muda de formato constantemente",
+      "Porque é impossível representar uma superfície esférica, como o planeta Terra, em uma superfície plana sem gerar distorções"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Como a Terra é uma esfera (na verdade um geoide), qualquer tentativa de representá-la em uma superfície plana, como um mapa, exige uma projeção cartográfica que necessariamente gera algum tipo de distorção de área, forma, distância ou direção."
   }
 ]

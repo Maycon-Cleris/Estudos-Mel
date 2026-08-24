@@ -193,5 +193,485 @@
     ],
     "respostaCorreta": 1,
     "explicacao": "O mercantilismo era baseado na ideia de que a colônia deveria servir aos interesses econômicos da metrópole, fornecendo matérias-primas e comprando produtos manufaturados exclusivamente dela, para acumular riqueza (metais preciosos)."
+  },
+  {
+    "id": "his-16",
+    "materia": "historia",
+    "topico": "Contrarreforma",
+    "pergunta": "O que foi a Contrarreforma, reação da Igreja Católica à Reforma Protestante no século XVI?",
+    "alternativas": [
+      "Um movimento católico de reafirmação da doutrina, reforma interna e combate ao protestantismo",
+      "A aceitação total das ideias de Martinho Lutero pela Igreja Católica",
+      "Um movimento para acabar com a monarquia na Europa",
+      "A criação do protestantismo por ordem do Papa"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A Contrarreforma incluiu o Concílio de Trento, a reafirmação de dogmas, a criação de novas ordens religiosas (como os jesuítas) e o fortalecimento da Inquisição para combater o avanço do protestantismo."
+  },
+  {
+    "id": "his-17",
+    "materia": "historia",
+    "topico": "Governo-Geral no Brasil",
+    "pergunta": "Por que a Coroa portuguesa criou o Governo-Geral do Brasil em 1548?",
+    "alternativas": [
+      "Para substituir totalmente o sistema de capitanias hereditárias, que já não existiam",
+      "Devido ao fracasso de várias capitanias hereditárias e à necessidade de centralizar a administração colonial",
+      "Para dar autonomia total às capitanias",
+      "Para transferir a capital do Império Português para o Brasil"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Como muitas capitanias hereditárias não prosperaram, Portugal criou o Governo-Geral, com sede em Salvador, para centralizar a administração, a defesa e a fiscalização da colônia, mantendo ainda algumas capitanias."
+  },
+  {
+    "id": "his-18",
+    "materia": "historia",
+    "topico": "União Ibérica",
+    "pergunta": "O que foi a União Ibérica (1580-1640) e como afetou o Brasil colonial?",
+    "alternativas": [
+      "A união entre Brasil e Portugal contra a Espanha",
+      "A independência conjunta de Portugal e Espanha",
+      "A unificação de Portugal e Espanha sob um mesmo rei, o que tornou o Brasil alvo de ataques de inimigos da Espanha, como holandeses e ingleses",
+      "Um tratado comercial entre Portugal e Holanda"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Entre 1580 e 1640, Portugal e Espanha tiveram o mesmo rei. Como o Brasil passou a ser associado à Espanha, tornou-se alvo de ataques de países rivais dos espanhóis, como Holanda e Inglaterra."
+  },
+  {
+    "id": "his-19",
+    "materia": "historia",
+    "topico": "Bandeirantes e bandeiras",
+    "pergunta": "Quais eram os principais objetivos das expedições dos bandeirantes paulistas nos séculos XVII e XVIII?",
+    "alternativas": [
+      "Catequizar pacificamente os povos indígenas",
+      "Explorar o litoral brasileiro em busca de portos",
+      "Estabelecer comércio direto com a Europa",
+      "Capturar indígenas para escravizar e, depois, procurar metais e pedras preciosas no interior"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As bandeiras partiam principalmente de São Paulo com o objetivo de capturar e escravizar indígenas e, posteriormente, de encontrar ouro, prata e pedras preciosas, contribuindo para a expansão territorial da colônia rumo ao interior."
+  },
+  {
+    "id": "his-20",
+    "materia": "historia",
+    "topico": "Missões jesuíticas e catequese",
+    "pergunta": "Qual era o principal objetivo das missões jesuíticas (reduções) na América portuguesa e espanhola?",
+    "alternativas": [
+      "Catequizar e converter os povos indígenas ao catolicismo, reunindo-os em aldeamentos",
+      "Explorar minérios nas regiões de fronteira",
+      "Organizar o comércio de pessoas escravizadas africanas",
+      "Fundar as primeiras capitanias hereditárias"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Padres jesuítas, da Companhia de Jesus, fundaram missões (reduções) para catequizar os indígenas, ensinando-lhes a língua e a religião católica, muitas vezes tentando protegê-los da escravização por colonos."
+  },
+  {
+    "id": "his-21",
+    "materia": "historia",
+    "topico": "Organização social indígena",
+    "pergunta": "Antes da chegada dos europeus, como estavam organizados muitos povos indígenas que viviam no atual território brasileiro?",
+    "alternativas": [
+      "Em grandes impérios centralizados com um único imperador, como os astecas",
+      "Em diversos povos e línguas distintos, organizados em aldeias, geralmente sem um Estado centralizado, com organização social baseada no parentesco",
+      "Em sociedades com escrita própria e moeda oficial",
+      "Em colônias subordinadas a reinos europeus"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Diferentemente dos impérios asteca e inca, os povos indígenas do atual Brasil eram numerosos e diversos, falando línguas distintas (como as do tronco tupi) e organizados principalmente em aldeias autônomas, sem formar um único império centralizado."
+  },
+  {
+    "id": "his-22",
+    "materia": "historia",
+    "topico": "Quilombo dos Palmares",
+    "pergunta": "O que foi o Quilombo dos Palmares, e quem foi seu principal líder na fase final de resistência?",
+    "alternativas": [
+      "Uma vila de colonizadores portugueses liderada por Tiradentes",
+      "Uma capitania hereditária administrada por africanos livres",
+      "Um grande agrupamento de escravizados fugitivos que resistiu por décadas na região da atual Alagoas, liderado por Zumbi",
+      "Uma missão jesuítica fundada por padres espanhóis"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Quilombo dos Palmares foi um dos maiores e mais duradouros quilombos do Brasil colonial, reunindo escravizados fugidos. Zumbi dos Palmares liderou a resistência até sua morte em 1695, tornando-se símbolo da luta contra a escravidão."
+  },
+  {
+    "id": "his-23",
+    "materia": "historia",
+    "topico": "Guerra dos Emboabas",
+    "pergunta": "A Guerra dos Emboabas (1708-1709), em Minas Gerais, foi um conflito entre quais grupos?",
+    "alternativas": [
+      "Portugueses e holandeses pela posse do Nordeste",
+      "Indígenas e jesuítas pelo controle das missões",
+      "Senhores de engenho e a Coroa portuguesa pelo preço do açúcar",
+      "Paulistas (que descobriram as minas) e forasteiros (\"emboabas\", vindos de outras regiões e de Portugal) pela disputa do ouro"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Guerra dos Emboabas foi uma disputa pelo controle da exploração aurífera em Minas Gerais entre os paulistas, que haviam descoberto o ouro, e os \"emboabas\", forasteiros de outras regiões da colônia e de Portugal atraídos pela riqueza mineral."
+  },
+  {
+    "id": "his-24",
+    "materia": "historia",
+    "topico": "Guerra dos Mascates",
+    "pergunta": "O que motivou a Guerra dos Mascates (1710-1711), em Pernambuco?",
+    "alternativas": [
+      "A rivalidade entre os senhores de engenho de Olinda e os comerciantes (\"mascates\") de Recife, que buscavam mais autonomia política",
+      "A disputa entre portugueses e franceses pelo litoral nordestino",
+      "Um conflito entre jesuítas e bandeirantes",
+      "A revolta de escravizados contra os senhores de engenho"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A Guerra dos Mascates opôs a tradicional elite açucareira de Olinda aos comerciantes (\"mascates\", muitos deles portugueses) de Recife, que havia crescido economicamente e buscava autonomia política e elevação a vila, gerando tensão social."
+  },
+  {
+    "id": "his-25",
+    "materia": "historia",
+    "topico": "Pecuária no sertão nordestino",
+    "pergunta": "Qual foi o papel da pecuária (criação de gado) no interior do Nordeste durante o período colonial?",
+    "alternativas": [
+      "Foi proibida pela Coroa portuguesa por concorrer com o açúcar",
+      "Serviu como atividade complementar à economia açucareira, ocupando o sertão e fornecendo animais de tração e alimento",
+      "Substituiu totalmente a produção de açúcar no litoral",
+      "Foi a principal atividade econômica da região amazônica"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Como a pecuária concorria por terras com a cana-de-açúcar no litoral, ela foi empurrada para o sertão nordestino, onde forneceu bois para tração dos engenhos, carne e couro, contribuindo para o povoamento do interior."
+  },
+  {
+    "id": "his-26",
+    "materia": "historia",
+    "topico": "Tratado de Madrid",
+    "pergunta": "Qual princípio o Tratado de Madrid (1750) adotou para definir as fronteiras entre as colônias portuguesa e espanhola na América, substituindo o Tratado de Tordesilhas?",
+    "alternativas": [
+      "A divisão por uma linha reta única, como em Tordesilhas",
+      "A divisão igualitária de todo o continente entre as duas coroas",
+      "O princípio do \"uti possidetis\", que reconhecia como legítimas as terras efetivamente ocupadas",
+      "O fim de qualquer fronteira entre as colônias"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Tratado de Madrid usou o princípio do uti possidetis (\"quem possui, continua a possuir\"), reconhecendo a ocupação efetiva do território pelos portugueses, que já haviam expandido muito além da linha de Tordesilhas, ampliando as fronteiras do Brasil."
+  },
+  {
+    "id": "his-27",
+    "materia": "historia",
+    "topico": "Jesuítas e educação colonial",
+    "pergunta": "Além da catequese, qual outra importante contribuição os jesuítas deram à colônia portuguesa na América?",
+    "alternativas": [
+      "A criação do primeiro jornal impresso no Brasil",
+      "A introdução da mineração de ouro",
+      "A criação das capitanias hereditárias",
+      "A fundação dos primeiros colégios e a organização da educação formal na colônia"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Os jesuítas fundaram colégios (como o de São Paulo de Piratininga) e foram responsáveis por boa parte da educação formal no Brasil colonial durante quase dois séculos, até serem expulsos em 1759."
+  },
+  {
+    "id": "his-28",
+    "materia": "historia",
+    "topico": "Escravidão urbana",
+    "pergunta": "Além do trabalho rural nos engenhos e nas minas, qual era uma função comum de pessoas escravizadas nas cidades coloniais brasileiras?",
+    "alternativas": [
+      "Trabalhar como \"escravos de ganho\", realizando serviços e vendendo mercadorias nas ruas, revertendo parte do lucro aos senhores",
+      "Somente atuar como soldados do exército português",
+      "Ocupar cargos de governo nas câmaras municipais",
+      "Administrar as capitanias hereditárias"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Nas cidades, muitos escravizados eram alugados ou trabalhavam como \"escravos de ganho\", exercendo ofícios como carregadores, vendedores ambulantes e artesãos, repassando parte dos ganhos a seus senhores."
+  },
+  {
+    "id": "his-29",
+    "materia": "historia",
+    "topico": "Conquista do México",
+    "pergunta": "Quem liderou a conquista espanhola do Império Asteca, no México, derrotando o imperador Montezuma II por volta de 1521?",
+    "alternativas": ["Francisco Pizarro", "Hernán Cortés", "Cristóvão Colombo", "Fernão de Magalhães"],
+    "respostaCorreta": 1,
+    "explicacao": "Hernán Cortés liderou a expedição espanhola que conquistou o Império Asteca, com capital em Tenochtitlán, aproveitando-se de alianças com povos rivais dos astecas e do impacto de doenças europeias."
+  },
+  {
+    "id": "his-30",
+    "materia": "historia",
+    "topico": "Conquista do Peru",
+    "pergunta": "Quem liderou a conquista espanhola do Império Inca, na região dos Andes, capturando o imperador Atahualpa em 1532?",
+    "alternativas": ["Hernán Cortés", "Vasco da Gama", "Francisco Pizarro", "Américo Vespúcio"],
+    "respostaCorreta": 2,
+    "explicacao": "Francisco Pizarro liderou a conquista espanhola do Império Inca, capturando e depois executando o imperador Atahualpa, o que possibilitou a dominação espanhola sobre a região andina, rica em prata."
+  },
+  {
+    "id": "his-31",
+    "materia": "historia",
+    "topico": "Sistema de encomienda",
+    "pergunta": "O que era o sistema de encomienda, utilizado pelos espanhóis em suas colônias americanas?",
+    "alternativas": [
+      "Um sistema de correspondência entre a colônia e a metrópole",
+      "Um imposto cobrado sobre a exportação de prata",
+      "Uma forma de comércio livre entre colônias espanholas",
+      "A concessão a colonizadores do direito de utilizar o trabalho forçado de indígenas, em troca da suposta catequização e \"proteção\" deles"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Na encomienda, a Coroa espanhola concedia a colonos o direito de exigir trabalho e tributos de grupos indígenas, sob a justificativa de catequizá-los e protegê-los, o que na prática resultou em intensa exploração da mão de obra indígena."
+  },
+  {
+    "id": "his-32",
+    "materia": "historia",
+    "topico": "Humanismo renascentista",
+    "pergunta": "O que defendia o humanismo, importante corrente de pensamento do Renascimento?",
+    "alternativas": [
+      "A valorização do ser humano, de sua razão e de suas capacidades, sem necessariamente negar a fé religiosa",
+      "Que Deus deveria ser o único tema possível na arte e na ciência",
+      "O retorno completo aos costumes medievais",
+      "A defesa de que a Terra era o centro imóvel do universo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O humanismo renascentista colocava o ser humano e a razão no centro das reflexões sobre o mundo, valorizando o conhecimento, as artes e a ciência, muitas vezes inspirado nos autores da Antiguidade Clássica."
+  },
+  {
+    "id": "his-33",
+    "materia": "historia",
+    "topico": "Invenção da imprensa",
+    "pergunta": "Qual foi o impacto da invenção da prensa de tipos móveis, por Johannes Gutenberg, por volta de 1450?",
+    "alternativas": [
+      "Impediu a circulação de livros religiosos",
+      "Permitiu a produção em massa de livros, barateando-os e facilitando a difusão de ideias renascentistas e reformistas",
+      "Serviu apenas para imprimir mapas de navegação",
+      "Foi usada exclusivamente pela Igreja Católica"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A prensa de Gutenberg possibilitou a reprodução rápida e em maior quantidade de textos, reduzindo custos e ampliando o acesso a livros, o que ajudou a difundir as ideias do Renascimento e, depois, da Reforma Protestante."
+  },
+  {
+    "id": "his-34",
+    "materia": "historia",
+    "topico": "Absolutismo francês",
+    "pergunta": "Qual frase é associada ao rei absolutista francês Luís XIV, simbolizando a concentração de poder na figura do monarca?",
+    "alternativas": [
+      "\"Liberdade, Igualdade, Fraternidade\"",
+      "\"Vim, vi, venci\"",
+      "\"O Estado sou eu\"",
+      "\"Deus, Pátria e Rei\""
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Luís XIV, conhecido como o \"Rei Sol\", governou a França por décadas concentrando amplos poderes em suas mãos. A frase \"o Estado sou eu\" simboliza bem o auge do absolutismo francês."
+  },
+  {
+    "id": "his-35",
+    "materia": "historia",
+    "topico": "Formação das monarquias nacionais",
+    "pergunta": "A formação das monarquias nacionais europeias, entre os séculos XIV e XVI, esteve associada a qual processo?",
+    "alternativas": [
+      "A fragmentação ainda maior do poder entre senhores feudais",
+      "O fim de todas as fronteiras entre países europeus",
+      "A criação imediata de repúblicas democráticas",
+      "A centralização do poder político nas mãos dos reis, com o apoio da burguesia, enfraquecendo a nobreza feudal"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Para superar a fragmentação do feudalismo, reis se aliaram à burguesia em ascensão para centralizar o poder político e enfraquecer a autonomia dos senhores feudais, dando origem aos primeiros Estados nacionais modernos."
+  },
+  {
+    "id": "his-36",
+    "materia": "historia",
+    "topico": "Crise do feudalismo",
+    "pergunta": "Quais fatores contribuíram para a crise do sistema feudal na Europa entre os séculos XIV e XV?",
+    "alternativas": [
+      "A Peste Negra, o crescimento do comércio e das cidades, e o fortalecimento da burguesia",
+      "A invenção da imprensa e o fim do cristianismo na Europa",
+      "A chegada dos europeus à América em 1300",
+      "A unificação política de toda a Europa sob um único império"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Fatores como a Peste Negra (que reduziu a mão de obra e abalou a estrutura feudal), o crescimento do comércio e das cidades e a ascensão da burguesia contribuíram para o enfraquecimento do sistema feudal, abrindo caminho para a Idade Moderna."
+  },
+  {
+    "id": "his-37",
+    "materia": "historia",
+    "topico": "Ascensão da burguesia mercantil",
+    "pergunta": "Quem formava a burguesia mercantil que ganhou força ao final da Idade Média e início da Idade Moderna?",
+    "alternativas": [
+      "Os senhores feudais donos de terras",
+      "Comerciantes, artesãos e banqueiros que enriqueceram com o comércio e as atividades urbanas",
+      "Os camponeses servos que trabalhavam nas terras dos nobres",
+      "Exclusivamente os membros do clero católico"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A burguesia mercantil era formada por comerciantes, artesãos e banqueiros que acumularam riqueza com o comércio urbano, tornando-se uma classe social cada vez mais influente, capaz de financiar reis e apoiar a centralização política."
+  },
+  {
+    "id": "his-38",
+    "materia": "historia",
+    "topico": "Rotas comerciais medievais",
+    "pergunta": "Por que o controle das rotas comerciais do Mediterrâneo e do Oriente era disputado antes das Grandes Navegações?",
+    "alternativas": [
+      "Porque ali ficavam as únicas fontes de água doce da Europa",
+      "Porque eram as únicas rotas usadas para peregrinações religiosas",
+      "Porque davam acesso a produtos valiosos, como especiarias e sedas, vindos da Ásia",
+      "Porque garantiam o controle sobre a produção de ouro europeu"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Antes das Grandes Navegações, produtos valiosos como especiarias, sedas e pedras preciosas vindos da Ásia chegavam à Europa por rotas terrestres e marítimas no Mediterrâneo, controladas por comerciantes italianos e árabes, o que encarecia as mercadorias."
+  },
+  {
+    "id": "his-39",
+    "materia": "historia",
+    "topico": "Piratas e corsários",
+    "pergunta": "Qual era a diferença entre piratas e corsários que atuavam no Atlântico durante o período colonial?",
+    "alternativas": [
+      "Não havia diferença, os termos eram sinônimos",
+      "Corsários agiam por conta própria roubando qualquer embarcação, enquanto piratas serviam a um governo",
+      "Piratas atuavam apenas no Oceano Pacífico",
+      "Corsários tinham autorização de um governo para atacar embarcações de nações inimigas, enquanto piratas agiam por conta própria, sem autorização oficial"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Corsários possuíam autorização oficial (\"carta de corso\") de um governo para atacar navios de países inimigos, revertendo parte do saque à coroa que os autorizava, enquanto os piratas agiam de forma independente e ilegal, atacando qualquer embarcação."
+  },
+  {
+    "id": "his-40",
+    "materia": "historia",
+    "topico": "Tráfico triangular",
+    "pergunta": "Como funcionava o chamado \"comércio triangular\" do período colonial, envolvendo Europa, África e América?",
+    "alternativas": [
+      "Produtos manufaturados europeus eram trocados por pessoas escravizadas na África, que eram levadas à América para produzir matérias-primas exportadas à Europa",
+      "A Europa vendia pessoas escravizadas para a África em troca de ouro",
+      "A América exportava produtos manufaturados para a África",
+      "O comércio ocorria apenas entre países europeus"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "No comércio triangular, navios europeus levavam produtos manufaturados à África para trocar por pessoas escravizadas, que eram transportadas à América para trabalhar na produção de matérias-primas (como açúcar), enviadas de volta à Europa."
+  },
+  {
+    "id": "his-41",
+    "materia": "historia",
+    "topico": "Américo Vespúcio",
+    "pergunta": "Qual foi a contribuição do navegador Américo Vespúcio, que deu origem ao nome \"América\"?",
+    "alternativas": [
+      "Foi o primeiro europeu a chegar ao continente americano",
+      "Percebeu e divulgou que as terras encontradas por Colombo eram um novo continente, e não a Ásia",
+      "Comandou a primeira expedição a dar a volta ao mundo",
+      "Descobriu o caminho marítimo para a Índia contornando a África"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Diferentemente de Colombo, que acreditava ter chegado à Ásia, Américo Vespúcio defendeu que as terras eram, na verdade, um \"Novo Mundo\", contribuição que levou cartógrafos a nomearem o continente em sua homenagem."
+  },
+  {
+    "id": "his-42",
+    "materia": "historia",
+    "topico": "Avanços náuticos",
+    "pergunta": "Qual era a função de instrumentos como o astrolábio e a bússola nas Grandes Navegações?",
+    "alternativas": [
+      "Medir a temperatura da água do mar",
+      "Comunicar-se com outras embarcações a distância",
+      "Ajudar os navegadores a se orientar no mar, calculando posição e direção",
+      "Armazenar água potável durante as viagens"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O astrolábio permitia calcular a latitude com base na posição de astros, e a bússola indicava direções usando o magnetismo terrestre. Esses avanços náuticos foram fundamentais para viagens marítimas de longa distância com mais segurança."
+  },
+  {
+    "id": "his-43",
+    "materia": "historia",
+    "topico": "Doenças e conquista da América",
+    "pergunta": "Qual foi um dos impactos mais devastadores da chegada dos europeus sobre as populações indígenas americanas?",
+    "alternativas": [
+      "A introdução de novas tecnologias agrícolas que aumentaram a expectativa de vida indígena",
+      "O controle da natalidade imposto pelos europeus",
+      "A imunização em massa contra doenças tropicais",
+      "A introdução de doenças como varíola e sarampo, contra as quais os indígenas não tinham imunidade, causando grande mortalidade"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Doenças trazidas pelos europeus, como varíola, sarampo e gripe, encontraram populações indígenas sem imunidade prévia, causando epidemias devastadoras que, somadas à violência da colonização, dizimaram grande parte da população nativa."
+  },
+  {
+    "id": "his-44",
+    "materia": "historia",
+    "topico": "Hierarquia social colonial",
+    "pergunta": "De forma geral, como era organizada a hierarquia da sociedade colonial brasileira?",
+    "alternativas": [
+      "No topo estavam grandes proprietários de terras e comerciantes portugueses; na base, a maioria era formada por escravizados e trabalhadores livres pobres",
+      "Todos tinham os mesmos direitos, independentemente de origem",
+      "Os escravizados ocupavam o topo da hierarquia social",
+      "Não havia distinção social, apenas religiosa"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A sociedade colonial era profundamente desigual e hierarquizada: no topo estavam os grandes senhores de terras e comerciantes, seguidos por camadas intermediárias livres, enquanto a base, numericamente maior, era composta majoritariamente por pessoas escravizadas."
+  },
+  {
+    "id": "his-45",
+    "materia": "historia",
+    "topico": "Currais e expansão para o sertão",
+    "pergunta": "Como a criação de currais de gado contribuiu para a ocupação do interior do Brasil colonial?",
+    "alternativas": [
+      "Impediu que os colonizadores avançassem para o sertão",
+      "Os currais, afastados do litoral açucareiro, favoreceram a penetração e o povoamento do interior nordestino",
+      "Foi proibida pela Coroa até o século XIX",
+      "Concentrou-se exclusivamente na região amazônica"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Como a pecuária foi afastada da faixa litorânea (reservada à cana-de-açúcar), a criação de gado avançou para o sertão, criando currais e povoados que ajudaram a expandir a ocupação portuguesa para o interior do território."
+  },
+  {
+    "id": "his-46",
+    "materia": "historia",
+    "topico": "Extração de pau-brasil e escambo",
+    "pergunta": "Como funcionava, no início da colonização, a relação de escambo entre portugueses e indígenas para a extração do pau-brasil?",
+    "alternativas": [
+      "Os portugueses pagavam em moedas de ouro pelos serviços indígenas",
+      "Os indígenas trocavam o trabalho de corte e transporte do pau-brasil por objetos como ferramentas, tecidos e espelhos",
+      "Os indígenas compravam o pau-brasil dos portugueses",
+      "O escambo envolvia apenas troca de alimentos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "No escambo, os indígenas trocavam seu trabalho na extração e transporte do pau-brasil por objetos de metal, tecidos e outros itens europeus, uma relação de troca (sem uso de moeda) que caracterizou o início da exploração da colônia."
+  },
+  {
+    "id": "his-47",
+    "materia": "historia",
+    "topico": "Tordesilhas e Tratado de Zaragoza",
+    "pergunta": "Qual foi a diferença entre o Tratado de Tordesilhas (1494) e o Tratado de Zaragoza (1529)?",
+    "alternativas": [
+      "Os dois tratados tratavam exatamente da mesma linha divisória",
+      "Zaragoza aboliu o Tratado de Tordesilhas por completo",
+      "Tordesilhas dividia a África entre as potências europeias",
+      "Tordesilhas tratava do Atlântico e da América; Zaragoza definiu os domínios de Portugal e Espanha no Oceano Pacífico e no sudeste asiático"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Enquanto o Tratado de Tordesilhas dividiu terras no Atlântico e na América entre Portugal e Espanha, o Tratado de Zaragoza definiu, décadas depois, os domínios dos dois reinos no Oceano Pacífico e no arquipélago das Molucas, na Ásia."
+  },
+  {
+    "id": "his-48",
+    "materia": "historia",
+    "topico": "Primeiros colonizadores - degredados",
+    "pergunta": "Quem eram os \"degredados\" enviados por Portugal para o Brasil nos primeiros anos da colonização?",
+    "alternativas": [
+      "Condenados pela Justiça portuguesa, enviados como forma de pena para povoar e explorar o novo território",
+      "Nobres portugueses que vinham a passeio",
+      "Padres jesuítas responsáveis pela catequese",
+      "Comerciantes espanhóis autorizados pela Coroa portuguesa"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Os degredados eram pessoas condenadas pela Justiça de Portugal que cumpriam parte da pena sendo enviadas à colônia, servindo como uma das primeiras formas de povoamento europeu do território, muitas vezes aprendendo línguas indígenas e atuando como intermediários."
+  },
+  {
+    "id": "his-49",
+    "materia": "historia",
+    "topico": "Cartografia das navegações",
+    "pergunta": "Qual foi a importância do desenvolvimento da cartografia durante a Época das Grandes Navegações?",
+    "alternativas": [
+      "Os mapas eram usados apenas como obras de arte decorativas",
+      "Mapas e cartas náuticas cada vez mais precisos ajudaram a orientar as expedições marítimas e a registrar as novas terras descobertas",
+      "A cartografia impediu o avanço das navegações por ser imprecisa",
+      "Os mapas da época eram idênticos aos atuais, sem erros"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O aperfeiçoamento das cartas náuticas e dos mapas, com base nas informações trazidas pelos navegadores, foi essencial para orientar novas expedições, registrar rotas, costas e territórios recém-descobertos com mais precisão."
+  },
+  {
+    "id": "his-50",
+    "materia": "historia",
+    "topico": "Vasco da Gama e a rota para a Índia",
+    "pergunta": "Qual foi o feito de Vasco da Gama, realizado em 1498?",
+    "alternativas": [
+      "Foi o primeiro europeu a chegar ao Brasil",
+      "Comandou a expedição que deu a volta ao mundo",
+      "Abriu o caminho marítimo para a Índia, contornando o continente africano pelo Cabo da Boa Esperança",
+      "Descobriu o Tratado de Tordesilhas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Vasco da Gama comandou a expedição portuguesa que, em 1498, chegou à Índia contornando a África pelo Cabo da Boa Esperança, abrindo uma rota marítima direta para o comércio de especiarias, sem depender de intermediários árabes e italianos."
   }
 ]
