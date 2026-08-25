@@ -32,7 +32,12 @@
     "materia": "ciencias",
     "topico": "Corpo humano - Sistema circulatório",
     "pergunta": "Qual órgão é o principal responsável por bombear o sangue por todo o corpo?",
-    "alternativas": ["O fígado", "O coração", "O pulmão", "O rim"],
+    "alternativas": [
+      "O fígado",
+      "O coração",
+      "O pulmão",
+      "O rim"
+    ],
     "respostaCorreta": 1,
     "explicacao": "O coração é uma bomba muscular que se contrai ritmicamente para impulsionar o sangue pelas artérias, levando oxigênio e nutrientes a todo o corpo."
   },
@@ -97,7 +102,12 @@
     "materia": "ciencias",
     "topico": "Energia - Fontes renováveis",
     "pergunta": "Qual das opções abaixo é considerada uma fonte de energia renovável?",
-    "alternativas": ["Petróleo", "Carvão mineral", "Energia eólica", "Gás natural"],
+    "alternativas": [
+      "Petróleo",
+      "Carvão mineral",
+      "Energia eólica",
+      "Gás natural"
+    ],
     "respostaCorreta": 2,
     "explicacao": "A energia eólica é obtida a partir do vento, um recurso natural que se renova constantemente e não se esgota com o uso, ao contrário dos combustíveis fósseis."
   },
@@ -120,7 +130,12 @@
     "materia": "ciencias",
     "topico": "Energia - Máquinas simples",
     "pergunta": "Uma gangorra é um exemplo de qual tipo de máquina simples?",
-    "alternativas": ["Roldana", "Plano inclinado", "Alavanca", "Parafuso"],
+    "alternativas": [
+      "Roldana",
+      "Plano inclinado",
+      "Alavanca",
+      "Parafuso"
+    ],
     "respostaCorreta": 2,
     "explicacao": "A gangorra funciona como uma alavanca: possui um ponto de apoio fixo no centro, e a força aplicada em uma extremidade movimenta a outra, facilitando o levantamento de peso."
   },
@@ -143,7 +158,12 @@
     "materia": "ciencias",
     "topico": "Terra e Universo - Camadas da Terra",
     "pergunta": "Qual é a camada mais externa da estrutura da Terra, onde vivemos?",
-    "alternativas": ["Núcleo", "Manto", "Crosta terrestre", "Mesosfera"],
+    "alternativas": [
+      "Núcleo",
+      "Manto",
+      "Crosta terrestre",
+      "Mesosfera"
+    ],
     "respostaCorreta": 2,
     "explicacao": "A crosta terrestre é a camada sólida e mais fina que envolve o planeta por fora. É nela que estão os continentes, os oceanos e onde a vida se desenvolve."
   },
@@ -166,7 +186,12 @@
     "materia": "ciencias",
     "topico": "Matéria - Separação de misturas",
     "pergunta": "Qual método é mais indicado para separar areia (sólido) de água (líquido)?",
-    "alternativas": ["Destilação", "Filtração", "Decantação seguida de evaporação apenas", "Ventilação"],
+    "alternativas": [
+      "Destilação",
+      "Filtração",
+      "Decantação seguida de evaporação apenas",
+      "Ventilação"
+    ],
     "respostaCorreta": 1,
     "explicacao": "A filtração usa um filtro (como papel de filtro) para reter as partículas sólidas de areia enquanto a água passa, sendo o método mais simples e eficiente para esse tipo de mistura."
   },
@@ -673,5 +698,3505 @@
     ],
     "respostaCorreta": 2,
     "explicacao": "A evaporação ocorre quando o calor do Sol aquece a água de rios, lagos e oceanos, fazendo com que ela passe do estado líquido para o gasoso (vapor de água), subindo para a atmosfera e dando início ao ciclo da água."
+  },
+  {
+    "id": "cie-51",
+    "materia": "ciencias",
+    "topico": "Nutrição - Carboidratos",
+    "pergunta": "Qual é a principal função dos carboidratos (como arroz, pão e massas) na alimentação?",
+    "alternativas": [
+      "Transportar oxigênio pelo sangue",
+      "Fornecer a principal fonte de energia rápida para o corpo",
+      "Construir e reparar os tecidos do corpo",
+      "Regular reações químicas sem fornecer energia"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Os carboidratos são a principal fonte de energia rápida utilizada pelo corpo nas atividades diárias, sendo convertidos em glicose durante a digestão."
+  },
+  {
+    "id": "cie-52",
+    "materia": "ciencias",
+    "topico": "Nutrição - Proteínas",
+    "pergunta": "Alimentos como carne, ovos e feijão são ricos em proteínas. Qual é a principal função das proteínas no organismo?",
+    "alternativas": [
+      "Fornecer a maior parte da energia imediata do corpo",
+      "Regular a temperatura corporal isoladamente",
+      "Servir apenas como reserva de energia de longo prazo",
+      "Construir e reparar tecidos do corpo, como músculos"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As proteínas são essenciais para a construção, o crescimento e o reparo dos tecidos do corpo, como músculos, pele e órgãos, além de participarem da formação de enzimas e anticorpos."
+  },
+  {
+    "id": "cie-53",
+    "materia": "ciencias",
+    "topico": "Nutrição - Lipídios (gorduras)",
+    "pergunta": "Além de serem uma reserva de energia, qual é outra importante função das gorduras (lipídios) no corpo humano?",
+    "alternativas": [
+      "Servir de isolante térmico e proteger órgãos internos",
+      "Transformar-se em glicose imediatamente após a ingestão",
+      "Substituir a função da água no corpo",
+      "Combater diretamente infecções bacterianas"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Além de serem uma importante reserva energética, as gorduras ajudam a isolar o corpo termicamente e a proteger órgãos internos, funcionando como um amortecedor contra impactos."
+  },
+  {
+    "id": "cie-54",
+    "materia": "ciencias",
+    "topico": "Nutrição - Vitaminas",
+    "pergunta": "Diferentemente dos carboidratos e das gorduras, qual é a principal característica das vitaminas na alimentação?",
+    "alternativas": [
+      "Elas fornecem grande quantidade de energia ao corpo",
+      "Elas são consumidas em pequenas quantidades e regulam funções do corpo, sem fornecer energia",
+      "Elas servem exclusivamente para dar sabor aos alimentos",
+      "Elas substituem totalmente a necessidade de proteínas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "As vitaminas são necessárias em pequenas quantidades, mas são fundamentais para regular diversas funções do organismo, como o sistema imunológico e a visão, sem fornecerem energia (calorias)."
+  },
+  {
+    "id": "cie-55",
+    "materia": "ciencias",
+    "topico": "Nutrição - Vitamina C",
+    "pergunta": "A falta de vitamina C na alimentação, encontrada em frutas cítricas como laranja e limão, pode causar qual doença?",
+    "alternativas": [
+      "Raquitismo",
+      "Cegueira noturna",
+      "Escorbuto",
+      "Anemia ferropriva"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A deficiência de vitamina C causa o escorbuto, doença que provoca sangramento nas gengivas, fraqueza e dificuldade de cicatrização, pois essa vitamina é essencial para a produção de colágeno."
+  },
+  {
+    "id": "cie-56",
+    "materia": "ciencias",
+    "topico": "Nutrição - Vitamina A",
+    "pergunta": "A vitamina A, presente em alimentos como cenoura e abóbora, é especialmente importante para qual função do corpo?",
+    "alternativas": [
+      "A coagulação do sangue",
+      "A absorção de cálcio pelos ossos",
+      "A saúde da visão, principalmente em ambientes com pouca luz",
+      "A produção de hemácias no sangue"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A vitamina A é fundamental para a saúde dos olhos, participando da formação de pigmentos usados na visão. Sua deficiência pode causar cegueira noturna, dificuldade de enxergar em ambientes escuros."
+  },
+  {
+    "id": "cie-57",
+    "materia": "ciencias",
+    "topico": "Nutrição - Vitamina D",
+    "pergunta": "Qual é o principal papel da vitamina D no organismo, sendo produzida pela pele quando exposta ao sol?",
+    "alternativas": [
+      "Combater diretamente vírus e bactérias no sangue",
+      "Fornecer energia rápida para os músculos",
+      "Produzir hemoglobina nas hemácias",
+      "Ajudar na absorção de cálcio, fortalecendo ossos e dentes"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A vitamina D favorece a absorção de cálcio pelo intestino, sendo essencial para ossos e dentes fortes. Sua deficiência em crianças pode causar raquitismo, doença que enfraquece os ossos."
+  },
+  {
+    "id": "cie-58",
+    "materia": "ciencias",
+    "topico": "Nutrição - Sais minerais",
+    "pergunta": "Cálcio, ferro e potássio são exemplos de quais nutrientes essenciais, necessários em pequenas quantidades para diversas funções do corpo?",
+    "alternativas": [
+      "Fibras alimentares",
+      "Carboidratos",
+      "Sais minerais",
+      "Lipídios"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Os sais minerais são nutrientes inorgânicos necessários em pequenas quantidades, atuando em funções como a formação de ossos e dentes (cálcio), o transporte de oxigênio (ferro) e o funcionamento muscular (potássio)."
+  },
+  {
+    "id": "cie-59",
+    "materia": "ciencias",
+    "topico": "Nutrição - Ferro e anemia",
+    "pergunta": "A deficiência de ferro na alimentação está diretamente relacionada a qual problema de saúde?",
+    "alternativas": [
+      "Bócio",
+      "Escorbuto",
+      "Anemia ferropriva, causada pela redução da produção de hemoglobina",
+      "Raquitismo"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O ferro é essencial para a produção de hemoglobina, proteína das hemácias responsável por transportar oxigênio. Sua falta causa a anemia ferropriva, provocando cansaço e fraqueza."
+  },
+  {
+    "id": "cie-60",
+    "materia": "ciencias",
+    "topico": "Nutrição - Cálcio",
+    "pergunta": "Leite e seus derivados são importantes fontes de qual sal mineral fundamental para a formação de ossos e dentes fortes?",
+    "alternativas": [
+      "Iodo",
+      "Cálcio",
+      "Sódio",
+      "Ferro"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O cálcio é o principal mineral responsável pela formação e manutenção da densidade óssea e dos dentes, sendo especialmente importante durante a infância e a adolescência, fases de intenso crescimento."
+  },
+  {
+    "id": "cie-61",
+    "materia": "ciencias",
+    "topico": "Nutrição - Fibras alimentares",
+    "pergunta": "Alimentos ricos em fibras, como frutas com casca, verduras e grãos integrais, contribuem principalmente para:",
+    "alternativas": [
+      "Substituir a necessidade de proteínas na dieta",
+      "Aumentar a absorção de gorduras pelo intestino",
+      "Fornecer grande quantidade de energia imediata",
+      "Facilitar o funcionamento do intestino e a eliminação das fezes"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As fibras não são digeridas pelo corpo, mas ajudam a regular o funcionamento do intestino, facilitando o trânsito intestinal e prevenindo problemas como a prisão de ventre."
+  },
+  {
+    "id": "cie-62",
+    "materia": "ciencias",
+    "topico": "Nutrição - Alimentação balanceada",
+    "pergunta": "Por que uma alimentação variada e balanceada, com diferentes grupos de alimentos, é importante para a saúde?",
+    "alternativas": [
+      "Porque quanto mais variada a dieta, menor a necessidade de água",
+      "Porque alimentos variados eliminam a necessidade de exercícios físicos",
+      "Porque um único alimento pode fornecer todos os nutrientes necessários ao corpo",
+      "Porque cada grupo de alimentos fornece nutrientes diferentes, necessários em conjunto para o bom funcionamento do corpo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Nenhum alimento sozinho fornece todos os nutrientes necessários. Uma dieta variada, com carboidratos, proteínas, gorduras, vitaminas, sais minerais e fibras, garante o equilíbrio nutricional do corpo."
+  },
+  {
+    "id": "cie-63",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Fígado",
+    "pergunta": "Qual é a função do fígado no processo de digestão?",
+    "alternativas": [
+      "Absorver a maior parte da água dos alimentos digeridos",
+      "Triturar mecanicamente os alimentos",
+      "Produzir a bile, substância que ajuda a digerir as gorduras",
+      "Produzir o suco gástrico ácido"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O fígado produz a bile, que é armazenada na vesícula biliar e liberada no intestino delgado para ajudar a quebrar (emulsionar) as gorduras, facilitando sua digestão."
+  },
+  {
+    "id": "cie-64",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Pâncreas",
+    "pergunta": "No sistema digestório, qual é o papel do pâncreas?",
+    "alternativas": [
+      "Armazenar a urina antes de sua eliminação",
+      "Produzir enzimas digestivas que são liberadas no intestino delgado para digerir nutrientes",
+      "Absorver oxigênio do ar inspirado",
+      "Bombear sangue para o corpo"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O pâncreas produz o suco pancreático, rico em enzimas que ajudam a digerir carboidratos, proteínas e gorduras no intestino delgado. Ele também produz hormônios, como a insulina."
+  },
+  {
+    "id": "cie-65",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Intestino delgado",
+    "pergunta": "Qual é a principal função do intestino delgado no processo digestivo?",
+    "alternativas": [
+      "Absorver a maior parte dos nutrientes digeridos, que passam para o sangue",
+      "Formar e armazenar as fezes",
+      "Produzir a saliva",
+      "Filtrar o sangue e produzir urina"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O intestino delgado é o principal local de absorção de nutrientes. Suas paredes internas possuem vilosidades que aumentam a área de contato, permitindo que os nutrientes digeridos passem para o sangue."
+  },
+  {
+    "id": "cie-66",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Intestino grosso",
+    "pergunta": "Qual é a principal função do intestino grosso?",
+    "alternativas": [
+      "Absorver água e formar as fezes a partir dos restos alimentares não digeridos",
+      "Produzir enzimas para digerir proteínas",
+      "Absorver a maior parte dos nutrientes dos alimentos",
+      "Produzir bile para digerir gorduras"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O intestino grosso absorve a água e alguns sais minerais que restaram do processo digestivo, compactando os restos alimentares não digeridos e formando as fezes, que são eliminadas pelo ânus."
+  },
+  {
+    "id": "cie-67",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Estômago",
+    "pergunta": "O que o suco gástrico, produzido pelo estômago, contém para ajudar na digestão dos alimentos?",
+    "alternativas": [
+      "Ácido clorídrico e enzimas que digerem proteínas",
+      "Oxigênio dissolvido",
+      "Apenas água pura",
+      "Bile e sais minerais"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O suco gástrico contém ácido clorídrico, que ajuda a matar micro-organismos e ativa enzimas como a pepsina, responsável por iniciar a digestão das proteínas presentes nos alimentos."
+  },
+  {
+    "id": "cie-68",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Boca e mastigação",
+    "pergunta": "Além da trituração mecânica feita pelos dentes, o que a saliva realiza durante a mastigação?",
+    "alternativas": [
+      "Inicia a digestão química de carboidratos por meio de uma enzima chamada amilase",
+      "Digere completamente as proteínas dos alimentos",
+      "Absorve nutrientes diretamente para o sangue",
+      "Produz ácido clorídrico para digerir gorduras"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A saliva contém a enzima amilase salivar, que começa a quebrar o amido (um carboidrato) ainda na boca, além de umedecer o alimento para facilitar a deglutição."
+  },
+  {
+    "id": "cie-69",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Esôfago",
+    "pergunta": "Como o alimento é conduzido do esôfago até o estômago, mesmo contra a força da gravidade, como quando bebemos deitados?",
+    "alternativas": [
+      "Pelo batimento cardíaco",
+      "Por meio de movimentos de contração muscular chamados peristaltismo",
+      "Pela ação de cílios que empurram o alimento",
+      "Pela pressão do ar dos pulmões"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O esôfago realiza movimentos peristálticos, contrações musculares em ondas que empurram o alimento em direção ao estômago, independentemente da posição do corpo."
+  },
+  {
+    "id": "cie-70",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Gastrite",
+    "pergunta": "A gastrite, inflamação da parede do estômago, pode ser causada principalmente por:",
+    "alternativas": [
+      "Excesso de exercícios físicos",
+      "Bactérias, uso excessivo de certos remédios ou alimentação inadequada",
+      "Falta de vitamina C na dieta",
+      "Excesso de água ingerida"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A gastrite pode ser causada pela bactéria Helicobacter pylori, pelo uso frequente de anti-inflamatórios, por estresse ou por hábitos alimentares inadequados, como o consumo excessivo de alimentos ácidos ou muito condimentados."
+  },
+  {
+    "id": "cie-71",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Laringe",
+    "pergunta": "Qual estrutura do sistema respiratório é responsável pela produção da voz?",
+    "alternativas": [
+      "A laringe, que contém as cordas vocais",
+      "Os brônquios",
+      "O diafragma",
+      "A traqueia"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A laringe contém as cordas vocais, estruturas que vibram com a passagem do ar expirado, produzindo os sons que, moldados pela boca e língua, formam a voz e a fala."
+  },
+  {
+    "id": "cie-72",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Diafragma",
+    "pergunta": "Qual é a função do diafragma no processo de respiração?",
+    "alternativas": [
+      "Contrair-se e relaxar, ajudando a expandir e contrair os pulmões durante a respiração",
+      "Realizar as trocas gasosas diretamente",
+      "Filtrar impurezas do ar inspirado",
+      "Produzir muco para proteger as vias respiratórias"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O diafragma é um músculo localizado abaixo dos pulmões que se contrai (descendo) durante a inspiração, aumentando o espaço para os pulmões se expandirem, e relaxa (subindo) durante a expiração."
+  },
+  {
+    "id": "cie-73",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Traqueia",
+    "pergunta": "Como a traqueia ajuda a proteger o sistema respiratório contra partículas e poeira do ar inspirado?",
+    "alternativas": [
+      "Fechando-se completamente quando há poeira no ar",
+      "Produzindo ácido clorídrico que destrói as partículas",
+      "Possuindo cílios e muco que retêm partículas e as empurram para fora",
+      "Aumentando a temperatura do ar até destruir as partículas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A traqueia é revestida internamente por células que produzem muco (que retém partículas e micro-organismos) e possuem cílios, pequenos pelos que se movem para empurrar esse muco para fora das vias respiratórias."
+  },
+  {
+    "id": "cie-74",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Asma",
+    "pergunta": "A asma é uma doença respiratória caracterizada por:",
+    "alternativas": [
+      "Inflamação e estreitamento das vias respiratórias, dificultando a passagem do ar",
+      "Aumento permanente do tamanho dos pulmões",
+      "Ausência total de alvéolos pulmonares",
+      "Produção excessiva de oxigênio pelo corpo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Na asma, as vias respiratórias ficam inflamadas e se estreitam, muitas vezes em reação a alérgenos, poluição ou esforço físico, dificultando a respiração e causando falta de ar e chiado no peito."
+  },
+  {
+    "id": "cie-75",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Pneumonia",
+    "pergunta": "A pneumonia é uma infecção que afeta principalmente qual estrutura do sistema respiratório?",
+    "alternativas": [
+      "Os alvéolos pulmonares, que ficam inflamados e podem se encher de líquido",
+      "Apenas as cordas vocais",
+      "Somente a pele ao redor do nariz",
+      "Exclusivamente os ossos do tórax"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A pneumonia é uma infecção, geralmente causada por bactérias ou vírus, que inflama os alvéolos pulmonares, podendo preenchê-los com líquido ou pus e dificultar as trocas gasosas."
+  },
+  {
+    "id": "cie-76",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Artérias e veias",
+    "pergunta": "Qual é a principal diferença entre artérias e veias no sistema circulatório?",
+    "alternativas": [
+      "Artérias são encontradas apenas nos pulmões, e veias apenas no coração",
+      "Artérias transportam apenas nutrientes, e veias transportam apenas oxigênio",
+      "Artérias sempre levam sangue rico em oxigênio, e veias sempre levam sangue pobre em oxigênio",
+      "Artérias levam sangue do coração para o corpo, e veias trazem sangue de volta ao coração"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "De modo geral, as artérias transportam o sangue que sai do coração em direção ao corpo, enquanto as veias trazem o sangue de volta ao coração. (A relação com oxigênio é exceção nos vasos pulmonares.)"
+  },
+  {
+    "id": "cie-77",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Hemácias",
+    "pergunta": "Qual é a principal função das hemácias (glóbulos vermelhos) no sangue?",
+    "alternativas": [
+      "Promover a coagulação do sangue em ferimentos",
+      "Produzir anticorpos",
+      "Defender o corpo contra infecções",
+      "Transportar oxigênio dos pulmões para as células do corpo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As hemácias contêm hemoglobina, uma proteína que se liga ao oxigênio nos pulmões e o transporta até as células de todo o corpo, além de ajudar a remover o gás carbônico."
+  },
+  {
+    "id": "cie-78",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Leucócitos",
+    "pergunta": "Qual é a função dos leucócitos (glóbulos brancos) presentes no sangue?",
+    "alternativas": [
+      "Transportar oxigênio para as células",
+      "Formar coágulos para estancar sangramentos",
+      "Defender o corpo contra microrganismos invasores, como vírus e bactérias",
+      "Transportar gás carbônico até os pulmões"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Os leucócitos são as células de defesa do sangue, responsáveis por identificar e combater agentes invasores, como vírus, bactérias e outros microrganismos causadores de doenças."
+  },
+  {
+    "id": "cie-79",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Plaquetas",
+    "pergunta": "Qual é o papel das plaquetas no sangue?",
+    "alternativas": [
+      "Transportar nutrientes para o fígado",
+      "Produzir anticorpos específicos",
+      "Participar do processo de coagulação sanguínea, estancando sangramentos",
+      "Transportar hormônios pelo corpo"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As plaquetas são fragmentos celulares que se agrupam no local de um ferimento, ajudando a formar um coágulo que estanca o sangramento e inicia o processo de cicatrização."
+  },
+  {
+    "id": "cie-80",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Tipos sanguíneos",
+    "pergunta": "O sistema ABO classifica o sangue humano em quais tipos principais?",
+    "alternativas": [
+      "Alfa, beta e gama",
+      "Claro e escuro",
+      "Positivo e negativo apenas",
+      "A, B, AB e O"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O sistema ABO classifica o sangue em quatro tipos (A, B, AB e O), de acordo com a presença ou ausência de certas substâncias (antígenos) na superfície das hemácias. Esse sistema é essencial para transfusões seguras."
+  },
+  {
+    "id": "cie-81",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Hipertensão",
+    "pergunta": "A hipertensão arterial (pressão alta) representa qual condição do sistema circulatório?",
+    "alternativas": [
+      "O aumento persistente da pressão exercida pelo sangue contra as paredes das artérias",
+      "A ausência total de glóbulos vermelhos no sangue",
+      "A parada temporária do batimento cardíaco",
+      "A diminuição excessiva da força com que o sangue circula pelas artérias"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A hipertensão ocorre quando a pressão do sangue contra as paredes das artérias fica constantemente elevada, o que pode sobrecarregar o coração e aumentar o risco de doenças cardiovasculares."
+  },
+  {
+    "id": "cie-82",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Bexiga urinária",
+    "pergunta": "Qual é a função da bexiga urinária no sistema excretor?",
+    "alternativas": [
+      "Produzir a urina a partir da filtragem do sangue",
+      "Armazenar a urina produzida pelos rins até sua eliminação",
+      "Transportar a urina dos rins até os ureteres",
+      "Filtrar impurezas do ar inspirado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A bexiga urinária é um órgão muscular oco que armazena a urina produzida pelos rins até que ela seja eliminada do corpo pela uretra, durante a micção."
+  },
+  {
+    "id": "cie-83",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Ureteres",
+    "pergunta": "Qual é a função dos ureteres no sistema excretor?",
+    "alternativas": [
+      "Armazenar a urina antes de sua eliminação",
+      "Conduzir a urina da bexiga para fora do corpo",
+      "Filtrar o sangue para formar a urina",
+      "Conduzir a urina dos rins até a bexiga"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Os ureteres são dois tubos finos que conduzem a urina produzida nos rins até a bexiga urinária, onde ela fica armazenada temporariamente."
+  },
+  {
+    "id": "cie-84",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Pele como órgão excretor",
+    "pergunta": "Por que a pele também é considerada um órgão do sistema excretor?",
+    "alternativas": [
+      "Porque filtra diretamente o sangue como os rins",
+      "Porque armazena fezes temporariamente",
+      "Porque produz urina em pequena quantidade",
+      "Porque elimina substâncias e água por meio do suor, produzido pelas glândulas sudoríparas"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A pele possui glândulas sudoríparas que produzem o suor, eliminando água, sais minerais e outras substâncias, o que também ajuda a regular a temperatura corporal."
+  },
+  {
+    "id": "cie-85",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Neurônios",
+    "pergunta": "Qual é a unidade básica responsável por transmitir impulsos nervosos no sistema nervoso?",
+    "alternativas": [
+      "A fibra muscular",
+      "O neurônio",
+      "A hemácia",
+      "O osso"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Os neurônios são células especializadas em receber, processar e transmitir impulsos nervosos (sinais elétricos e químicos) entre diferentes partes do corpo e o sistema nervoso central."
+  },
+  {
+    "id": "cie-86",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Ato reflexo",
+    "pergunta": "Ao tocar acidentalmente em algo muito quente, retiramos a mão rapidamente, antes mesmo de perceber a dor. Esse tipo de resposta rápida e involuntária é chamado de:",
+    "alternativas": [
+      "Ato voluntário",
+      "Digestão",
+      "Fotossíntese",
+      "Ato reflexo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O ato reflexo é uma resposta rápida e involuntária a um estímulo, processada principalmente pela medula espinhal, sem a necessidade de o cérebro analisar conscientemente a situação antes de agir."
+  },
+  {
+    "id": "cie-87",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema nervoso periférico",
+    "pergunta": "Enquanto o sistema nervoso central é formado pelo encéfalo e pela medula espinhal, o que compõe o sistema nervoso periférico?",
+    "alternativas": [
+      "Os nervos que conectam o sistema nervoso central ao restante do corpo",
+      "Somente os órgãos dos sentidos",
+      "Apenas os músculos esqueléticos",
+      "Apenas o coração e os pulmões"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O sistema nervoso periférico é formado pelos nervos que se ramificam pelo corpo, conectando o sistema nervoso central aos músculos, órgãos e órgãos dos sentidos, permitindo a comunicação entre eles."
+  },
+  {
+    "id": "cie-88",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Cérebro e cerebelo",
+    "pergunta": "Qual é a principal função do cerebelo, uma das partes do encéfalo?",
+    "alternativas": [
+      "Controlar o equilíbrio e a coordenação dos movimentos do corpo",
+      "Processar exclusivamente as emoções",
+      "Filtrar o sangue e produzir urina",
+      "Bombear sangue para o corpo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O cerebelo é responsável principalmente por coordenar os movimentos voluntários e manter o equilíbrio do corpo, trabalhando em conjunto com outras áreas do encéfalo."
+  },
+  {
+    "id": "cie-89",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Articulações",
+    "pergunta": "O que são as articulações do corpo humano, como o joelho e o cotovelo?",
+    "alternativas": [
+      "Regiões onde dois ou mais ossos se encontram, permitindo movimento",
+      "Órgãos responsáveis pela digestão de gorduras",
+      "Estruturas que armazenam ar durante a respiração",
+      "Tecidos que produzem células sanguíneas"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "As articulações são as regiões onde dois ou mais ossos se conectam, muitas vezes permitindo movimento entre eles, como dobrar o braço ou a perna, graças à presença de cartilagens e ligamentos."
+  },
+  {
+    "id": "cie-90",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Tipos de ossos",
+    "pergunta": "O fêmur, osso da coxa, é um exemplo de qual tipo de osso, caracterizado por ser mais comprido do que largo?",
+    "alternativas": [
+      "Osso irregular",
+      "Osso curto",
+      "Osso longo",
+      "Osso plano"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Ossos longos, como o fêmur e o úmero, têm o comprimento maior que a largura e atuam como alavancas, sendo importantes para a sustentação e o movimento do corpo."
+  },
+  {
+    "id": "cie-91",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Postura e escoliose",
+    "pergunta": "A escoliose é um problema de saúde relacionado à coluna vertebral, caracterizado por:",
+    "alternativas": [
+      "A ausência de músculos nas costas",
+      "Uma curvatura anormal da coluna para os lados",
+      "A falta total de ossos na coluna",
+      "O excesso de cálcio nos ossos da coluna"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A escoliose é um desvio lateral anormal da coluna vertebral. Manter uma boa postura ao sentar e carregar peso de forma equilibrada ajuda a prevenir problemas na coluna."
+  },
+  {
+    "id": "cie-92",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Vacinas",
+    "pergunta": "Como as vacinas ajudam o sistema imunológico a proteger o corpo contra doenças?",
+    "alternativas": [
+      "Aumentando a temperatura corporal de forma definitiva",
+      "Eliminando diretamente todos os microrganismos do corpo",
+      "Estimulando o corpo a produzir anticorpos contra um agente sem causar a doença completa",
+      "Substituindo a função dos leucócitos permanentemente"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As vacinas apresentam ao sistema imunológico uma versão enfraquecida, inativada ou parte de um agente infeccioso, estimulando a produção de anticorpos e a chamada 'memória imunológica', que protege o corpo em um contato futuro real."
+  },
+  {
+    "id": "cie-93",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Anticorpos",
+    "pergunta": "O que são os anticorpos produzidos pelo sistema imunológico?",
+    "alternativas": [
+      "Hormônios que controlam o crescimento ósseo",
+      "Estruturas que filtram o sangue nos rins",
+      "Células que transportam oxigênio no sangue",
+      "Proteínas que reconhecem e ajudam a neutralizar agentes invasores específicos, como vírus e bactérias"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Os anticorpos são proteínas produzidas por certas células de defesa (linfócitos) que reconhecem substâncias estranhas específicas (antígenos) e ajudam a neutralizá-las ou marcá-las para destruição."
+  },
+  {
+    "id": "cie-94",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Febre",
+    "pergunta": "Por que o corpo apresenta febre durante algumas infecções?",
+    "alternativas": [
+      "Porque o coração para de bombear sangue temporariamente",
+      "Porque é uma resposta natural de defesa que dificulta a multiplicação de muitos microrganismos",
+      "Porque os pulmões deixam de funcionar corretamente",
+      "Porque os ossos ficam inflamados"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A febre é uma resposta do sistema imunológico que eleva a temperatura corporal, dificultando a multiplicação de vários microrganismos e ajudando as células de defesa a agirem com mais eficiência."
+  },
+  {
+    "id": "cie-95",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema endócrino (hipófise)",
+    "pergunta": "A hipófise é uma glândula do sistema endócrino frequentemente chamada de 'glândula mestra' porque:",
+    "alternativas": [
+      "Ela produz apenas insulina",
+      "Ela regula o funcionamento de várias outras glândulas do corpo, além de produzir o hormônio do crescimento",
+      "Ela é responsável exclusivamente pela digestão",
+      "Ela bombeia sangue para o corpo"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A hipófise, localizada na base do encéfalo, produz hormônios que regulam a atividade de outras glândulas endócrinas, além de produzir o hormônio do crescimento (GH), essencial para o desenvolvimento do corpo."
+  },
+  {
+    "id": "cie-96",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Tireoide",
+    "pergunta": "Qual é a principal função dos hormônios produzidos pela glândula tireoide?",
+    "alternativas": [
+      "Produzir células de defesa",
+      "Filtrar toxinas do sangue",
+      "Controlar a coagulação do sangue",
+      "Regular o metabolismo do corpo, controlando a velocidade com que ele usa energia"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A tireoide produz hormônios que regulam o metabolismo, ou seja, a velocidade com que o corpo transforma alimentos em energia. Problemas na tireoide podem causar ganho ou perda de peso, entre outros sintomas."
+  },
+  {
+    "id": "cie-97",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Insulina e diabetes",
+    "pergunta": "A insulina, produzida pelo pâncreas, tem qual função relacionada aos níveis de açúcar no sangue?",
+    "alternativas": [
+      "Produzir mais glóbulos vermelhos",
+      "Aumentar a quantidade de açúcar no sangue sempre",
+      "Ajudar as células a absorverem a glicose do sangue, controlando seus níveis",
+      "Eliminar totalmente o açúcar da alimentação"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A insulina é um hormônio que permite que as células absorvam a glicose presente no sangue para produzir energia. Quando o corpo não produz ou não usa insulina corretamente, pode ocorrer o diabetes."
+  },
+  {
+    "id": "cie-98",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Glândulas adrenais",
+    "pergunta": "A adrenalina, hormônio liberado pelas glândulas adrenais em situações de perigo ou estresse, tem qual efeito no corpo?",
+    "alternativas": [
+      "Diminui a quantidade de oxigênio no sangue",
+      "Interrompe a atividade do sistema nervoso",
+      "Reduz os batimentos cardíacos e relaxa o corpo profundamente",
+      "Aumenta os batimentos cardíacos e prepara o corpo para reações rápidas, como fugir ou reagir"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A adrenalina é liberada em momentos de estresse ou perigo, aumentando a frequência cardíaca, a pressão arterial e o estado de alerta, preparando o corpo para reagir rapidamente."
+  },
+  {
+    "id": "cie-99",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema reprodutor masculino",
+    "pergunta": "Qual é a função dos testículos no sistema reprodutor masculino?",
+    "alternativas": [
+      "Produzir óvulos e hormônios femininos",
+      "Produzir espermatozoides e o hormônio testosterona",
+      "Armazenar a urina antes da eliminação",
+      "Realizar a fecundação do óvulo"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Os testículos são as gônadas masculinas, responsáveis pela produção de espermatozoides (células reprodutivas) e pela produção do hormônio testosterona, que controla as características sexuais masculinas."
+  },
+  {
+    "id": "cie-100",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema reprodutor feminino",
+    "pergunta": "O que ocorre durante a ovulação, no ciclo menstrual feminino?",
+    "alternativas": [
+      "As trompas de Falópio param de funcionar",
+      "A menstruação começa imediatamente",
+      "Um óvulo maduro é liberado por um dos ovários",
+      "O útero produz espermatozoides"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Durante a ovulação, um óvulo maduro é liberado por um dos ovários e segue pelas tubas uterinas (trompas de Falópio). Se não houver fecundação, ocorre a menstruação cerca de duas semanas depois."
+  },
+  {
+    "id": "cie-101",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Ciclo do carbono",
+    "pergunta": "No ciclo do carbono, de que forma as plantas retiram carbono da atmosfera?",
+    "alternativas": [
+      "Liberando gás carbônico durante a respiração apenas",
+      "Absorvendo diretamente o carbono sólido do solo",
+      "Produzindo oxigênio a partir do carbono da água",
+      "Absorvendo gás carbônico (CO2) durante a fotossíntese"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As plantas absorvem o gás carbônico da atmosfera durante a fotossíntese e o utilizam para produzir glicose, incorporando o carbono à matéria orgânica, que pode retornar à atmosfera pela respiração ou decomposição."
+  },
+  {
+    "id": "cie-102",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Ciclo do nitrogênio",
+    "pergunta": "Por que o nitrogênio, apesar de ser o gás mais abundante na atmosfera, precisa ser transformado por bactérias antes de ser usado pelas plantas?",
+    "alternativas": [
+      "Porque as plantas absorvem apenas oxigênio da atmosfera",
+      "Porque a maioria das plantas não consegue usar diretamente o nitrogênio gasoso do ar, precisando dele em formas como o nitrato",
+      "Porque o nitrogênio da atmosfera é tóxico para todas as plantas",
+      "Porque o nitrogênio só existe no solo, nunca na atmosfera"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Bactérias fixadoras de nitrogênio transformam o nitrogênio gasoso (N2) do ar em compostos como nitratos, que podem ser absorvidos pelas raízes das plantas e usados na produção de proteínas."
+  },
+  {
+    "id": "cie-103",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Cadeia alimentar aquática",
+    "pergunta": "Em uma cadeia alimentar aquática, qual organismo geralmente ocupa a posição de produtor, na base da cadeia?",
+    "alternativas": [
+      "O fitoplâncton (microalgas)",
+      "O golfinho",
+      "A lula",
+      "O tubarão"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O fitoplâncton, formado por microalgas capazes de realizar fotossíntese, é o principal produtor dos ambientes aquáticos, servindo de base alimentar para o zooplâncton e, indiretamente, para peixes maiores."
+  },
+  {
+    "id": "cie-104",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Poluição do ar",
+    "pergunta": "A queima de combustíveis fósseis por veículos e indústrias libera poluentes que afetam principalmente qual parte do ambiente?",
+    "alternativas": [
+      "Apenas o solo",
+      "O ar, contribuindo para a poluição atmosférica e problemas respiratórios",
+      "Apenas as águas subterrâneas",
+      "Apenas a camada de ozônio, sem afetar outros fatores"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A queima de combustíveis fósseis libera gases e partículas poluentes na atmosfera, contribuindo para a poluição do ar, o que pode causar problemas respiratórios em pessoas e agravar o efeito estufa."
+  },
+  {
+    "id": "cie-105",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Chuva ácida",
+    "pergunta": "A chuva ácida é formada quando poluentes lançados na atmosfera, como o dióxido de enxofre, reagem com:",
+    "alternativas": [
+      "A luz solar apenas, sem formar novas substâncias",
+      "O gelo das geleiras polares",
+      "O oxigênio produzido pelas plantas",
+      "O vapor de água presente no ar, formando ácidos que caem com a chuva"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Poluentes como óxidos de enxofre e de nitrogênio, liberados principalmente por indústrias e veículos, reagem com a água presente na atmosfera, formando ácidos que caem na forma de chuva ácida, prejudicando solos, plantas e construções."
+  },
+  {
+    "id": "cie-106",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Efeito estufa x camada de ozônio",
+    "pergunta": "Qual é a principal diferença entre o problema do efeito estufa intensificado e o da destruição da camada de ozônio?",
+    "alternativas": [
+      "A camada de ozônio causa o aquecimento global, e o efeito estufa protege contra os raios UV",
+      "Não há diferença: são exatamente o mesmo fenômeno",
+      "O efeito estufa está relacionado ao aquecimento por retenção de calor, enquanto a destruição da camada de ozônio reduz a proteção contra raios ultravioleta",
+      "O efeito estufa ocorre apenas nos polos, e a camada de ozônio apenas no equador"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O efeito estufa intensificado está ligado ao acúmulo de gases que retêm calor na atmosfera, aumentando a temperatura do planeta. Já a destruição da camada de ozônio reduz a filtragem da radiação ultravioleta do Sol, embora ambos os problemas sejam causados por poluentes."
+  },
+  {
+    "id": "cie-107",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Biomas mundiais (savana)",
+    "pergunta": "A savana africana é um bioma caracterizado principalmente por:",
+    "alternativas": [
+      "Vastas áreas de vegetação rasteira e arbustos, com árvores esparsas e grande diversidade de grandes mamíferos herbívoros",
+      "Gelo permanente e ausência quase total de vegetação",
+      "Vegetação exclusivamente aquática",
+      "Florestas densas e fechadas, com pouca luz no solo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A savana é um bioma tropical com vegetação predominante de gramíneas e arbustos, árvores espaçadas e clima com estações seca e chuvosa bem definidas, abrigando grandes herbívoros como zebras e elefantes."
+  },
+  {
+    "id": "cie-108",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Biomas mundiais (tundra)",
+    "pergunta": "A tundra, bioma encontrado em regiões próximas aos polos, é caracterizada por:",
+    "alternativas": [
+      "Florestas tropicais úmidas",
+      "Clima muito quente e vegetação densa de grandes árvores",
+      "Solo permanentemente congelado (permafrost) e vegetação baixa, como musgos e líquens",
+      "Grandes desertos de areia quente"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A tundra apresenta clima muito frio, com o solo congelado na maior parte do ano (permafrost), o que impede o crescimento de árvores grandes, predominando musgos, líquens e vegetação rasteira adaptada ao frio."
+  },
+  {
+    "id": "cie-109",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Biomas mundiais (deserto)",
+    "pergunta": "Quais são as principais adaptações dos seres vivos que habitam biomas desérticos, como cactos e camelos?",
+    "alternativas": [
+      "Adaptações para viver submersos permanentemente na água",
+      "Adaptações exclusivas para sobreviver ao frio intenso",
+      "Adaptações para viver apenas em grandes altitudes com muita neve",
+      "Adaptações para armazenar água e resistir a temperaturas extremas com pouca chuva"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Nos desertos, a escassez de água e as temperaturas extremas exigem adaptações como armazenamento de água em tecidos (cactos), hábitos noturnos e capacidade de passar longos períodos sem beber água (camelos)."
+  },
+  {
+    "id": "cie-110",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Biomas mundiais (floresta temperada)",
+    "pergunta": "As florestas temperadas, encontradas em regiões como partes da Europa e América do Norte, são caracterizadas por:",
+    "alternativas": [
+      "Árvores que perdem as folhas no outono/inverno e estações do ano bem definidas",
+      "Calor extremo durante todo o ano, sem variação de estações",
+      "Ausência completa de chuvas ao longo do ano",
+      "Vegetação exclusivamente aquática submersa"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "As florestas temperadas possuem quatro estações bem definidas, e muitas de suas árvores (caducifólias) perdem as folhas no outono e inverno como forma de economizar água e energia durante o frio."
+  },
+  {
+    "id": "cie-111",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Espécies invasoras",
+    "pergunta": "O que caracteriza uma espécie exótica invasora em um ecossistema?",
+    "alternativas": [
+      "Uma espécie que só existe em cativeiro",
+      "Uma espécie nativa que sempre viveu naquele ambiente",
+      "Uma espécie introduzida em um novo ambiente que se prolifera e causa desequilíbrios ecológicos, competindo com espécies nativas",
+      "Uma espécie que está em processo de extinção"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Espécies exóticas invasoras são introduzidas (muitas vezes pela ação humana) em ambientes onde não ocorriam naturalmente e podem se reproduzir descontroladamente, competindo com espécies nativas por recursos e alterando o equilíbrio do ecossistema."
+  },
+  {
+    "id": "cie-112",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Aquecimento global",
+    "pergunta": "Qual é uma consequência direta do aquecimento global relacionada às geleiras e ao nível dos oceanos?",
+    "alternativas": [
+      "O nível dos oceanos permanece sempre constante, independente da temperatura",
+      "As geleiras aumentam de tamanho e o nível do mar diminui",
+      "O derretimento das geleiras contribui para a elevação do nível dos oceanos",
+      "As geleiras se transformam diretamente em petróleo"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O aumento da temperatura média do planeta acelera o derretimento de geleiras e calotas polares, o que, somado à expansão térmica da água do mar, contribui para a elevação do nível dos oceanos."
+  },
+  {
+    "id": "cie-113",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Animais em extinção no Brasil",
+    "pergunta": "O mico-leão-dourado é um exemplo de espécie brasileira que já esteve gravemente ameaçada de extinção, tendo como principal causa histórica:",
+    "alternativas": [
+      "A introdução de espécies invasoras na Amazônia",
+      "A caça exclusivamente para consumo",
+      "A destruição de seu habitat natural, a Mata Atlântica",
+      "A poluição dos oceanos"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O mico-leão-dourado é nativo da Mata Atlântica e teve sua população drasticamente reduzida principalmente pelo desmatamento e fragmentação de seu habitat. Projetos de conservação ajudaram a recuperar parte de sua população."
+  },
+  {
+    "id": "cie-114",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Peixe-boi",
+    "pergunta": "O peixe-boi-marinho, animal ameaçado de extinção no litoral brasileiro, se alimenta principalmente de:",
+    "alternativas": [
+      "Outros mamíferos marinhos",
+      "Plantas aquáticas, como algas e vegetação submersa",
+      "Peixes de pequeno porte",
+      "Plâncton exclusivamente"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O peixe-boi-marinho é um mamífero aquático herbívoro que se alimenta de plantas aquáticas. Está ameaçado principalmente por caça ilegal, poluição e degradação de seu habitat costeiro."
+  },
+  {
+    "id": "cie-115",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Relações ecológicas (mutualismo)",
+    "pergunta": "A relação entre abelhas e flores, em que as abelhas coletam néctar e ajudam na polinização, é um exemplo de qual tipo de relação ecológica?",
+    "alternativas": [
+      "Predatismo",
+      "Mutualismo, benéfica para ambas as espécies",
+      "Parasitismo",
+      "Competição"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "No mutualismo, ambas as espécies envolvidas se beneficiam da relação: as abelhas obtêm alimento (néctar) e as flores são polinizadas, o que ajuda na reprodução das plantas."
+  },
+  {
+    "id": "cie-116",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Relações ecológicas (parasitismo)",
+    "pergunta": "Um carrapato que se alimenta do sangue de um cachorro, prejudicando-o, é um exemplo de qual relação ecológica?",
+    "alternativas": [
+      "Parasitismo",
+      "Competição",
+      "Mutualismo",
+      "Comensalismo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "No parasitismo, uma espécie (o parasita, como o carrapato) se beneficia às custas de outra (o hospedeiro, como o cachorro), que é prejudicada pela relação."
+  },
+  {
+    "id": "cie-117",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Relações ecológicas (comensalismo)",
+    "pergunta": "Certas espécies de peixes pequenos se alimentam de restos de comida deixados por tubarões, sem prejudicá-los nem ajudá-los diretamente. Esse tipo de relação é chamado de:",
+    "alternativas": [
+      "Mutualismo",
+      "Predatismo",
+      "Comensalismo, em que uma espécie se beneficia e a outra não é afetada",
+      "Parasitismo"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "No comensalismo, uma espécie se beneficia da relação (obtendo alimento ou abrigo, por exemplo), enquanto a outra não é significativamente prejudicada nem beneficiada."
+  },
+  {
+    "id": "cie-118",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Relações ecológicas (competição)",
+    "pergunta": "Quando duas espécies de plantas disputam o mesmo espaço, água e luz solar em um ambiente, essa relação é chamada de:",
+    "alternativas": [
+      "Parasitismo",
+      "Competição",
+      "Comensalismo",
+      "Mutualismo"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A competição ocorre quando duas ou mais espécies (ou indivíduos da mesma espécie) disputam os mesmos recursos limitados de um ambiente, como alimento, água, luz ou espaço."
+  },
+  {
+    "id": "cie-119",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Pirâmide alimentar (energia)",
+    "pergunta": "Em uma pirâmide de energia, por que a quantidade de energia disponível diminui a cada nível trófico, do produtor para os consumidores?",
+    "alternativas": [
+      "Porque os decompositores impedem toda a passagem de energia",
+      "Porque parte da energia é perdida na forma de calor durante os processos vitais em cada nível",
+      "Porque a energia se multiplica a cada nível",
+      "Porque os produtores não utilizam energia nenhuma"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A cada nível trófico, parte da energia obtida dos alimentos é usada nas atividades vitais dos organismos e perdida na forma de calor, por isso apenas uma fração da energia passa para o nível seguinte."
+  },
+  {
+    "id": "cie-120",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Decompositores no ciclo da matéria",
+    "pergunta": "Além de se alimentarem de matéria orgânica morta, qual é a importância ecológica dos decompositores (fungos e bactérias) para os ciclos da natureza?",
+    "alternativas": [
+      "Eles são sempre predadores de topo de cadeia",
+      "Eles impedem que os nutrientes retornem ao solo",
+      "Eles reciclam a matéria orgânica, devolvendo nutrientes ao solo que poderão ser reaproveitados pelos produtores",
+      "Eles produzem oxigênio por meio da fotossíntese"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Os decompositores desempenham papel fundamental na reciclagem de nutrientes: ao decompor restos de seres vivos, liberam substâncias como nitrogênio e carbono de volta ao solo e à atmosfera, permitindo que sejam reutilizados pelos produtores."
+  },
+  {
+    "id": "cie-121",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Desmatamento",
+    "pergunta": "Além da perda de biodiversidade, qual é outra consequência importante do desmatamento em larga escala?",
+    "alternativas": [
+      "O aumento da absorção de gás carbônico pela atmosfera",
+      "A redução da capacidade de absorção de CO2 pelas florestas, agravando o efeito estufa",
+      "A diminuição da erosão do solo",
+      "O aumento imediato da fertilidade do solo"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "As florestas absorvem grandes quantidades de gás carbônico durante a fotossíntese. Ao serem desmatadas, essa capacidade de absorção diminui, além de o carbono armazenado nas árvores poder ser liberado, agravando o efeito estufa."
+  },
+  {
+    "id": "cie-122",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Eutrofização",
+    "pergunta": "O excesso de nutrientes, como fertilizantes agrícolas, despejados em rios e lagos pode causar um fenômeno chamado eutrofização, que provoca:",
+    "alternativas": [
+      "A redução do crescimento de algas na água",
+      "O crescimento excessivo de algas, que pode reduzir o oxigênio disponível na água e prejudicar outros seres vivos",
+      "O aumento imediato da transparência da água",
+      "A purificação natural e completa da água"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O excesso de nutrientes (como nitrogênio e fósforo) provoca o crescimento descontrolado de algas. Quando essas algas morrem e são decompostas, o processo consome grande parte do oxigênio da água, prejudicando peixes e outros organismos aquáticos."
+  },
+  {
+    "id": "cie-123",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Bioma Mata Atlântica",
+    "pergunta": "A Mata Atlântica, um dos biomas brasileiros mais devastados, originalmente se estendia principalmente por qual região do país?",
+    "alternativas": [
+      "Somente na fronteira com a Argentina",
+      "Exclusivamente pela região Norte",
+      "Ao longo de boa parte do litoral brasileiro",
+      "Apenas no interior do Centro-Oeste"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A Mata Atlântica originalmente cobria grande parte do litoral brasileiro, mas restam hoje pequenos fragmentos devido ao intenso desmatamento causado pela ocupação humana ao longo dos séculos."
+  },
+  {
+    "id": "cie-124",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Bioma Caatinga",
+    "pergunta": "A Caatinga, bioma exclusivamente brasileiro encontrado principalmente no Nordeste, é caracterizada por:",
+    "alternativas": [
+      "Vegetação adaptada à seca, como cactos e plantas de caule grosso para armazenar água",
+      "Grandes áreas permanentemente alagadas",
+      "Predomínio de árvores altas e densas típicas de florestas tropicais úmidas",
+      "Clima úmido e chuvas constantes durante todo o ano"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A Caatinga é um bioma exclusivamente brasileiro, com clima semiárido e vegetação adaptada à escassez de água, incluindo cactos e plantas que perdem as folhas na seca para reduzir a perda de água."
+  },
+  {
+    "id": "cie-125",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Bioma Pampa",
+    "pergunta": "O Pampa, bioma encontrado principalmente no Rio Grande do Sul, é caracterizado predominantemente por:",
+    "alternativas": [
+      "Grandes áreas desérticas",
+      "Recifes de corais",
+      "Extensas florestas tropicais densas",
+      "Campos com vegetação de gramíneas, importantes para a pecuária"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O Pampa é caracterizado por extensas planícies cobertas de vegetação rasteira (gramíneas), sendo uma região historicamente importante para a criação de gado no Brasil."
+  },
+  {
+    "id": "cie-126",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Bioma Amazônia",
+    "pergunta": "A Floresta Amazônica é frequentemente destacada por qual característica ecológica de grande importância global?",
+    "alternativas": [
+      "Ser composta majoritariamente por vegetação rasteira",
+      "Não possuir rios importantes em sua extensão",
+      "Ser o bioma com menor biodiversidade do planeta",
+      "Abrigar uma das maiores biodiversidades do mundo e desempenhar papel importante na regulação do clima global"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Amazônia é o maior bioma brasileiro e abriga uma enorme diversidade de espécies. Além disso, influencia o clima regional e global por meio da liberação de umidade e da absorção de grandes quantidades de gás carbônico."
+  },
+  {
+    "id": "cie-127",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Bioma Pantanal",
+    "pergunta": "O Pantanal, bioma brasileiro conhecido por sua rica fauna, é caracterizado principalmente por:",
+    "alternativas": [
+      "Ser formado majoritariamente por dunas de areia",
+      "Ser uma extensa planície sujeita a alagamentos sazonais",
+      "Ter clima extremamente frio durante todo o ano",
+      "Não possuir nenhuma variação entre período seco e período de cheias"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O Pantanal é uma vasta planície que sofre inundações sazonais causadas pelo transbordamento de rios, criando um ambiente rico em nutrientes que sustenta grande diversidade de aves, peixes e mamíferos, como a onça-pintada."
+  },
+  {
+    "id": "cie-128",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Poluição sonora",
+    "pergunta": "A poluição sonora, comum em grandes centros urbanos, pode causar quais efeitos à saúde humana?",
+    "alternativas": [
+      "Melhora imediata da audição",
+      "Nenhum efeito, pois o som não afeta o corpo",
+      "Estresse, perda auditiva e distúrbios do sono, entre outros problemas",
+      "Apenas efeitos positivos, como maior concentração"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A exposição frequente a ruídos altos, comuns no trânsito e em ambientes urbanos, pode causar estresse, dificuldade de concentração, distúrbios do sono e, em casos de exposição prolongada a sons muito intensos, perda auditiva."
+  },
+  {
+    "id": "cie-129",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Ilhas de calor urbanas",
+    "pergunta": "Por que as grandes cidades costumam apresentar temperaturas mais altas do que áreas rurais próximas, fenômeno chamado de 'ilha de calor'?",
+    "alternativas": [
+      "Porque o asfalto, o concreto e a menor quantidade de áreas verdes absorvem e retêm mais calor",
+      "Porque as cidades ficam sempre mais próximas do Sol",
+      "Porque não existe poluição do ar nas cidades",
+      "Porque há mais árvores nas cidades do que no campo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Materiais como asfalto e concreto absorvem e retêm mais calor do que áreas vegetadas, e a menor presença de árvores e vegetação nas cidades reduz o sombreamento e a evapotranspiração, elevando a temperatura urbana."
+  },
+  {
+    "id": "cie-130",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Água doce e escassez",
+    "pergunta": "Apesar de a maior parte da superfície da Terra ser coberta por água, por que a escassez de água doce é uma preocupação ambiental importante?",
+    "alternativas": [
+      "Porque a água doce não é necessária para a agricultura",
+      "Porque não há água doce em nenhum lugar do planeta",
+      "Porque quase toda a água do planeta é doce e está disponível para consumo",
+      "Porque a maior parte da água do planeta é salgada, e apenas uma pequena fração de água doce está disponível e acessível para consumo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Cerca de 97% da água do planeta é salgada. Da pequena parcela de água doce, boa parte está congelada em geleiras ou é subterrânea, tornando a água doce facilmente acessível um recurso relativamente escasso e que precisa ser preservado."
+  },
+  {
+    "id": "cie-131",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Consumo consciente",
+    "pergunta": "O que caracteriza o 'consumo consciente', prática incentivada para reduzir impactos ambientais?",
+    "alternativas": [
+      "Comprar produtos sem considerar sua real necessidade",
+      "Refletir sobre a real necessidade de um produto antes de comprá-lo, considerando seu impacto ambiental e social",
+      "Aumentar ao máximo o consumo de produtos descartáveis",
+      "Evitar completamente o uso de qualquer recurso natural"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O consumo consciente envolve avaliar a real necessidade de compra, optar por produtos duráveis ou reutilizáveis e considerar o impacto ambiental e social da produção e do descarte dos itens consumidos."
+  },
+  {
+    "id": "cie-132",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Compostagem",
+    "pergunta": "A compostagem, que transforma restos orgânicos de alimentos em adubo, é um processo realizado principalmente por:",
+    "alternativas": [
+      "Queima controlada dos resíduos",
+      "Reações nucleares",
+      "Micro-organismos decompositores que degradam a matéria orgânica",
+      "Congelamento dos resíduos"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Na compostagem, micro-organismos como bactérias e fungos decompõem restos orgânicos (como cascas de frutas e folhas), transformando-os em um adubo rico em nutrientes que pode ser usado para fertilizar o solo."
+  },
+  {
+    "id": "cie-133",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Impacto do plástico nos oceanos",
+    "pergunta": "Qual é um dos principais problemas causados pelo acúmulo de plástico nos oceanos para a vida marinha?",
+    "alternativas": [
+      "O plástico se decompõe rapidamente na água do mar, sem causar danos",
+      "O plástico aumenta a quantidade de oxigênio disponível na água",
+      "O plástico fornece alimento nutritivo para os animais marinhos",
+      "Animais marinhos podem ingerir ou ficar presos em fragmentos de plástico, o que pode causar ferimentos ou morte"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Muitos animais marinhos confundem fragmentos de plástico com alimento ou ficam presos neles, o que pode causar ferimentos, obstrução do sistema digestivo e morte. Além disso, o plástico demora centenas de anos para se decompor."
+  },
+  {
+    "id": "cie-134",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Microplásticos",
+    "pergunta": "O que são os microplásticos, cada vez mais encontrados em oceanos e até em alimentos?",
+    "alternativas": [
+      "Uma substância totalmente inofensiva ao meio ambiente",
+      "Pequenas partículas de plástico, geralmente menores que 5 milímetros, resultantes da degradação de plásticos maiores",
+      "Um tipo de plástico biodegradável em poucos dias",
+      "Organismos microscópicos que produzem plástico naturalmente"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Microplásticos são pequenos fragmentos de plástico, formados pela fragmentação de itens maiores ou já fabricados em tamanho reduzido, que se espalham pelo ambiente e podem ser ingeridos por organismos aquáticos, entrando na cadeia alimentar."
+  },
+  {
+    "id": "cie-135",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Áreas de preservação permanente",
+    "pergunta": "As matas ciliares, vegetação presente às margens de rios e nascentes, têm qual importante função ambiental?",
+    "alternativas": [
+      "Impedir totalmente a existência de peixes no rio",
+      "Diminuir a quantidade de água disponível no rio",
+      "Aumentar a erosão das margens dos rios",
+      "Proteger o solo contra erosão, filtrar sedimentos e ajudar a manter a qualidade da água"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As matas ciliares protegem as margens dos rios contra a erosão, funcionam como filtro natural para sedimentos e poluentes que escoam da terra, e ajudam a manter a qualidade da água e o equilíbrio do ecossistema aquático."
+  },
+  {
+    "id": "cie-136",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Queimadas",
+    "pergunta": "Além da destruição da vegetação, qual é um dos impactos das queimadas florestais na qualidade do ar?",
+    "alternativas": [
+      "As queimadas não afetam a composição da atmosfera",
+      "As queimadas purificam o ar removendo poluentes",
+      "As queimadas liberam grandes quantidades de fumaça e gases poluentes, prejudicando a qualidade do ar e a saúde respiratória",
+      "As queimadas aumentam permanentemente o nível de oxigênio no ar"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As queimadas liberam fumaça, fuligem e gases como o gás carbônico na atmosfera, o que piora a qualidade do ar, pode causar problemas respiratórios na população e contribui para o efeito estufa."
+  },
+  {
+    "id": "cie-137",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Assoreamento",
+    "pergunta": "O assoreamento de rios, causado principalmente pelo acúmulo de sedimentos, está frequentemente relacionado a qual atividade humana?",
+    "alternativas": [
+      "O desmatamento das margens dos rios, que facilita a erosão do solo e o acúmulo de sedimentos no leito do rio",
+      "A reciclagem de materiais",
+      "O plantio de matas ciliares",
+      "A criação de unidades de conservação"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Quando a vegetação das margens é retirada, o solo fica mais exposto à erosão, e os sedimentos carregados pela chuva se acumulam no leito dos rios, processo conhecido como assoreamento, que pode reduzir a profundidade e alterar o curso dos rios."
+  },
+  {
+    "id": "cie-138",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Agrotóxicos",
+    "pergunta": "O uso excessivo de agrotóxicos na agricultura pode causar qual impacto ambiental?",
+    "alternativas": [
+      "Contaminação do solo, da água e prejuízo a organismos como abelhas polinizadoras",
+      "Aumento garantido e permanente da biodiversidade local",
+      "Purificação da água dos rios próximos",
+      "Nenhum impacto, pois os agrotóxicos se decompõem instantaneamente"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O uso excessivo de agrotóxicos pode contaminar o solo e cursos d'água, além de prejudicar organismos benéficos, como abelhas e outros polinizadores, afetando o equilíbrio do ecossistema e até a produção agrícola no longo prazo."
+  },
+  {
+    "id": "cie-139",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Corredores ecológicos",
+    "pergunta": "O que são corredores ecológicos, usados como estratégia de conservação ambiental?",
+    "alternativas": [
+      "Estradas construídas exclusivamente para o tráfego de veículos",
+      "Áreas que conectam fragmentos de habitat, permitindo o deslocamento de animais e trocas genéticas entre populações",
+      "Cercas que impedem totalmente a passagem de qualquer animal",
+      "Áreas exclusivamente urbanas sem vegetação"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Corredores ecológicos são faixas de vegetação que conectam fragmentos isolados de habitat natural, permitindo que os animais se desloquem entre eles, o que favorece a diversidade genética e reduz os riscos de extinção local."
+  },
+  {
+    "id": "cie-140",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Manejo sustentável",
+    "pergunta": "O manejo florestal sustentável tem como objetivo principal:",
+    "alternativas": [
+      "Desmatar rapidamente toda a área disponível",
+      "Impedir qualquer uso econômico das florestas",
+      "Substituir todas as florestas nativas por monoculturas",
+      "Explorar recursos florestais de forma que garanta sua disponibilidade também para gerações futuras"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O manejo sustentável busca equilibrar o uso econômico dos recursos florestais com a conservação ambiental, garantindo que a exploração ocorra em um ritmo que permita a regeneração natural e a manutenção da floresta a longo prazo."
+  },
+  {
+    "id": "cie-141",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Recife de coral",
+    "pergunta": "Os recifes de coral, importantes ecossistemas marinhos, estão sendo ameaçados principalmente pelo fenômeno do branqueamento, causado por:",
+    "alternativas": [
+      "A diminuição da temperatura da água do mar",
+      "O aumento da temperatura da água, que causa a expulsão das algas que vivem em associação com os corais",
+      "O aumento da quantidade de peixes no recife",
+      "A diminuição da luz solar sobre o oceano"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O branqueamento dos corais ocorre principalmente devido ao estresse térmico causado pelo aquecimento da água do mar, que faz com que os corais expulsem as algas (zooxantelas) que vivem em seus tecidos e lhes dão cor e nutrientes, podendo levá-los à morte."
+  },
+  {
+    "id": "cie-142",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Cadeia alimentar terrestre",
+    "pergunta": "Em uma cadeia alimentar terrestre típica de campo, qual é a sequência correta, do produtor ao consumidor secundário?",
+    "alternativas": [
+      "Rato → capim → gavião",
+      "Capim → gavião → rato",
+      "Gavião → rato → capim",
+      "Capim → rato → gavião"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Na cadeia alimentar, o capim (produtor) é consumido pelo rato (consumidor primário/herbívoro), que por sua vez é consumido pelo gavião (consumidor secundário/carnívoro), mostrando o fluxo de energia entre os níveis tróficos."
+  },
+  {
+    "id": "cie-143",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Extinção de espécies marinhas",
+    "pergunta": "A pesca predatória, que captura peixes além da capacidade de reposição natural das espécies, pode levar a qual consequência?",
+    "alternativas": [
+      "A redução drástica das populações de peixes, podendo levar espécies à extinção",
+      "A melhora automática da qualidade da água do mar",
+      "Nenhuma consequência ecológica relevante",
+      "O aumento infinito da quantidade de peixes no oceano"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Quando a pesca remove peixes em ritmo mais rápido do que as populações conseguem se reproduzir, ocorre a sobrepesca, que reduz drasticamente as populações e pode comprometer o equilíbrio de todo o ecossistema marinho, além de ameaçar espécies de extinção."
+  },
+  {
+    "id": "cie-144",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Educação ambiental",
+    "pergunta": "Qual é o principal objetivo da educação ambiental nas escolas?",
+    "alternativas": [
+      "Incentivar o aumento do consumo de recursos naturais",
+      "Formar cidadãos conscientes sobre a importância de preservar o meio ambiente e adotar práticas sustentáveis",
+      "Ensinar exclusivamente sobre a extração de minérios",
+      "Substituir totalmente as demais disciplinas escolares"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A educação ambiental busca desenvolver a consciência sobre a relação entre seres humanos e meio ambiente, incentivando comportamentos sustentáveis e a preservação dos recursos naturais para as gerações presentes e futuras."
+  },
+  {
+    "id": "cie-145",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Biopirataria",
+    "pergunta": "O que é a biopirataria, prática que ameaça a biodiversidade brasileira?",
+    "alternativas": [
+      "A criação legal de reservas ambientais",
+      "A exploração e o transporte ilegal de recursos genéticos e biológicos de um país sem autorização, muitas vezes para fins comerciais",
+      "O plantio sustentável de espécies nativas",
+      "A reciclagem de materiais biológicos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A biopirataria é a apropriação ilegal de espécies da fauna e da flora, ou de conhecimentos tradicionais associados a elas, sem autorização e sem repartição justa dos benefícios, o que pode prejudicar a biodiversidade e as comunidades locais."
+  },
+  {
+    "id": "cie-146",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Fauna do Cerrado",
+    "pergunta": "O lobo-guará, animal característico do bioma Cerrado, é reconhecido principalmente por qual característica?",
+    "alternativas": [
+      "Possuir pernas longas, adaptadas para enxergar por cima da vegetação alta do Cerrado",
+      "Viver exclusivamente em ambientes aquáticos",
+      "Ser uma ave de rapina",
+      "Ser um réptil de grande porte"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O lobo-guará é um canídeo característico do Cerrado, com pernas longas que o ajudam a enxergar por cima da vegetação alta e densa típica desse bioma, além de facilitar seu deslocamento na busca por alimento."
+  },
+  {
+    "id": "cie-147",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Impacto da urbanização",
+    "pergunta": "A impermeabilização do solo nas cidades, causada pelo asfalto e pelo concreto, contribui para qual problema ambiental comum em áreas urbanas?",
+    "alternativas": [
+      "A redução do risco de enchentes",
+      "O aumento do risco de enchentes, já que a água da chuva tem mais dificuldade de infiltrar no solo",
+      "O aumento da infiltração de água no subsolo",
+      "A diminuição da temperatura das cidades"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Quando o solo é coberto por asfalto e concreto, a água da chuva não consegue infiltrar-se normalmente, escoando rapidamente pela superfície e sobrecarregando o sistema de drenagem, o que aumenta o risco de enchentes."
+  },
+  {
+    "id": "cie-148",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Energia e emissão de CO2",
+    "pergunta": "Comparando as fontes de energia, por que a geração de eletricidade a partir do carvão mineral geralmente emite mais gás carbônico do que a energia eólica ou solar?",
+    "alternativas": [
+      "Porque não existe diferença nas emissões entre essas fontes",
+      "Porque o carvão é queimado, liberando CO2 armazenado há milhões de anos, enquanto o vento e o sol não envolvem combustão",
+      "Porque o carvão não libera nenhum tipo de gás",
+      "Porque a energia eólica e solar também dependem de combustão de combustíveis fósseis"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A queima do carvão mineral, um combustível fóssil, libera grandes quantidades de gás carbônico armazenado há milhões de anos. Já a energia eólica e a solar geram eletricidade sem processos de combustão, emitindo muito menos gases de efeito estufa durante sua operação."
+  },
+  {
+    "id": "cie-149",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Fauna em extinção (mico-leão)",
+    "pergunta": "Qual estratégia foi fundamental para a recuperação da população do mico-leão-dourado, retirando-o da lista de espécies criticamente ameaçadas?",
+    "alternativas": [
+      "O abandono total de qualquer ação de proteção",
+      "O aumento do desmatamento em seu habitat",
+      "Programas de conservação, reflorestamento e criação de reservas protegidas",
+      "A introdução de espécies invasoras em seu habitat"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Programas de conservação que incluíram reflorestamento, criação de reservas protegidas, reintrodução de indivíduos criados em cativeiro e conscientização ambiental ajudaram a recuperar parte da população selvagem do mico-leão-dourado na Mata Atlântica."
+  },
+  {
+    "id": "cie-150",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Camada de ozônio e Protocolo de Montreal",
+    "pergunta": "O Protocolo de Montreal, um acordo internacional, teve como principal objetivo:",
+    "alternativas": [
+      "Proibir totalmente o uso de energia solar",
+      "Aumentar a produção de gases que destroem a camada de ozônio",
+      "Reduzir e eliminar o uso de substâncias que destroem a camada de ozônio, como os CFCs",
+      "Incentivar o desmatamento das florestas tropicais"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Protocolo de Montreal, assinado por diversos países, estabeleceu metas para reduzir e eliminar gradualmente a produção e o uso de substâncias como os CFCs (clorofluorcarbonos), que danificam a camada de ozônio, contribuindo para sua recuperação ao longo das décadas."
+  },
+  {
+    "id": "cie-151",
+    "materia": "ciencias",
+    "topico": "Energia - Biomassa",
+    "pergunta": "A energia de biomassa, obtida a partir da queima de materiais como bagaço de cana e restos de madeira, é classificada como:",
+    "alternativas": [
+      "Uma fonte de energia que não pode ser transformada em eletricidade",
+      "Uma fonte de energia não renovável, como o petróleo",
+      "Uma fonte de energia renovável, pois vem de matéria orgânica que pode ser reposta",
+      "Uma fonte de energia nuclear"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A biomassa é considerada uma fonte de energia renovável porque provém de matéria orgânica (como resíduos agrícolas e florestais) que pode ser reposta em um curto período de tempo, ao contrário dos combustíveis fósseis."
+  },
+  {
+    "id": "cie-152",
+    "materia": "ciencias",
+    "topico": "Energia - Energia maremotriz",
+    "pergunta": "A energia maremotriz é obtida a partir de qual fenômeno natural?",
+    "alternativas": [
+      "Do calor liberado pelo interior da Terra",
+      "Do movimento das marés, causado principalmente pela atração gravitacional da Lua",
+      "Da fissão de átomos de urânio",
+      "Da queima de combustíveis fósseis extraídos do fundo do mar"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A energia maremotriz aproveita o movimento das marés, causado principalmente pela força gravitacional da Lua (e, em menor grau, do Sol) sobre os oceanos, para gerar eletricidade por meio de turbinas."
+  },
+  {
+    "id": "cie-153",
+    "materia": "ciencias",
+    "topico": "Energia - Energia geotérmica",
+    "pergunta": "A energia geotérmica é obtida a partir de qual fonte?",
+    "alternativas": [
+      "Do movimento das ondas do mar",
+      "Da força do vento",
+      "Do calor proveniente do interior da Terra",
+      "Da luz do Sol captada por painéis"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A energia geotérmica aproveita o calor natural armazenado no interior da Terra, muitas vezes por meio de fontes termais ou géiseres, para gerar vapor que movimenta turbinas e produz eletricidade."
+  },
+  {
+    "id": "cie-154",
+    "materia": "ciencias",
+    "topico": "Energia - Eficiência energética",
+    "pergunta": "O que significa dizer que um eletrodoméstico tem boa eficiência energética?",
+    "alternativas": [
+      "Que ele consome mais energia do que outros aparelhos semelhantes para realizar a mesma função",
+      "Que ele realiza sua função consumindo menos energia, desperdiçando menos",
+      "Que ele não utiliza nenhum tipo de energia elétrica",
+      "Que ele é fabricado apenas com materiais reciclados"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Um aparelho eficiente do ponto de vista energético realiza sua função (como resfriar alimentos ou iluminar um ambiente) consumindo menos energia elétrica, o que reduz o desperdício e a conta de luz, além do impacto ambiental."
+  },
+  {
+    "id": "cie-155",
+    "materia": "ciencias",
+    "topico": "Energia - Consumo doméstico de energia",
+    "pergunta": "Qual atitude simples ajuda a reduzir o consumo desnecessário de energia elétrica em casa?",
+    "alternativas": [
+      "Deixar luzes e aparelhos ligados mesmo sem uso",
+      "Apagar as luzes e desligar aparelhos eletrônicos quando não estão em uso",
+      "Usar lâmpadas incandescentes ao invés de lâmpadas LED",
+      "Manter a geladeira aberta por longos períodos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Apagar luzes e desligar aparelhos que não estão sendo usados é uma das formas mais simples de reduzir o desperdício de energia elétrica em casa, contribuindo para economia e menor impacto ambiental."
+  },
+  {
+    "id": "cie-156",
+    "materia": "ciencias",
+    "topico": "Energia - Lâmpadas LED x incandescentes",
+    "pergunta": "Por que as lâmpadas de LED são consideradas mais eficientes energeticamente do que as lâmpadas incandescentes tradicionais?",
+    "alternativas": [
+      "Porque não emitem luz nenhuma",
+      "Porque consomem muito mais energia para produzir a mesma quantidade de luz",
+      "Porque funcionam apenas com energia solar",
+      "Porque convertem uma parte maior da energia elétrica em luz, desperdiçando menos energia na forma de calor"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As lâmpadas incandescentes transformam grande parte da energia elétrica em calor, desperdiçando energia. Já as lâmpadas de LED convertem a energia elétrica em luz de forma mais eficiente, gerando menos calor e consumindo menos energia para a mesma luminosidade."
+  },
+  {
+    "id": "cie-157",
+    "materia": "ciencias",
+    "topico": "Energia - Parafuso como máquina simples",
+    "pergunta": "O parafuso é considerado uma máquina simples derivada de qual outro tipo básico de máquina?",
+    "alternativas": [
+      "Da alavanca",
+      "Da roldana",
+      "Do plano inclinado, enrolado em torno de um eixo",
+      "Da engrenagem"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O parafuso pode ser entendido como um plano inclinado enrolado em espiral ao redor de um eixo central, o que permite converter um movimento de rotação em uma força de avanço, facilitando a fixação de materiais."
+  },
+  {
+    "id": "cie-158",
+    "materia": "ciencias",
+    "topico": "Energia - Cunha como máquina simples",
+    "pergunta": "Um machado, usado para cortar madeira, funciona como qual tipo de máquina simples?",
+    "alternativas": [
+      "Engrenagem",
+      "Roldana",
+      "Cunha, que concentra a força aplicada em uma ponta fina para separar materiais",
+      "Alavanca interfixa"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A cunha é uma máquina simples formada por duas superfícies inclinadas unidas em uma ponta fina. Ferramentas como machados e facas usam esse princípio para concentrar a força e facilitar o corte ou a separação de materiais."
+  },
+  {
+    "id": "cie-159",
+    "materia": "ciencias",
+    "topico": "Energia - Roldana fixa x móvel",
+    "pergunta": "Qual é a principal diferença entre uma roldana fixa e uma roldana móvel?",
+    "alternativas": [
+      "A roldana móvel nunca é usada para levantar objetos",
+      "A roldana fixa sempre reduz o peso do objeto levantado",
+      "Não existe diferença entre elas",
+      "A roldana fixa apenas muda a direção da força, enquanto a roldana móvel também pode reduzir a força necessária para levantar um peso"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A roldana fixa, presa a um suporte, muda a direção da força aplicada, mas não reduz o esforço necessário. Já a roldana móvel, presa ao próprio objeto, pode reduzir a força necessária para levantá-lo, embora seja preciso puxar a corda por uma distância maior."
+  },
+  {
+    "id": "cie-160",
+    "materia": "ciencias",
+    "topico": "Energia - Alavanca interfixa, interpotente e inter-resistente",
+    "pergunta": "Em uma alavanca interfixa, como a tesoura, onde se localiza o ponto de apoio (fulcro) em relação à força e à resistência?",
+    "alternativas": [
+      "O ponto de apoio fica entre a força aplicada e a resistência",
+      "A força fica entre o ponto de apoio e a resistência",
+      "A resistência fica entre o ponto de apoio e a força",
+      "Não existe ponto de apoio nesse tipo de alavanca"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Na alavanca interfixa, o ponto de apoio (fulcro) está localizado entre o ponto onde se aplica a força e o ponto onde está a resistência, como ocorre em uma tesoura ou em uma gangorra."
+  },
+  {
+    "id": "cie-161",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Limites convergentes",
+    "pergunta": "O que ocorre em um limite convergente entre placas tectônicas, onde duas placas se movem uma em direção à outra?",
+    "alternativas": [
+      "Nenhuma atividade geológica ocorre nesse tipo de limite",
+      "As placas se afastam, formando novo assoalho oceânico",
+      "As placas colidem, podendo formar cadeias de montanhas ou uma placa afundar sob a outra (subducção)",
+      "As placas deslizam lateralmente sem interação vertical"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Em limites convergentes, as placas tectônicas se chocam. Dependendo da densidade das placas envolvidas, uma pode afundar sob a outra (subducção, formando vulcões e fossas) ou ambas podem se comprimir, formando cadeias de montanhas, como os Himalaias."
+  },
+  {
+    "id": "cie-162",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Limites divergentes",
+    "pergunta": "O que caracteriza um limite divergente entre placas tectônicas?",
+    "alternativas": [
+      "As placas colidem formando montanhas",
+      "As placas deslizam horizontalmente uma em relação à outra",
+      "Uma placa sempre afunda completamente sob a outra",
+      "As placas se afastam uma da outra, permitindo a subida de magma e a formação de nova crosta oceânica"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Em limites divergentes, as placas tectônicas se afastam, permitindo que o magma suba do manto e se solidifique, formando nova crosta oceânica, como ocorre na Dorsal Mesoatlântica, no meio do Oceano Atlântico."
+  },
+  {
+    "id": "cie-163",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Limites transformantes",
+    "pergunta": "O que ocorre em um limite transformante entre placas tectônicas, como a famosa Falha de Santo André, na Califórnia?",
+    "alternativas": [
+      "As placas deslizam lateralmente uma em relação à outra, sem formar nem destruir crosta",
+      "As placas se fundem em uma única placa",
+      "As placas se afastam formando um novo oceano",
+      "Uma placa afunda completamente sob a outra"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Em limites transformantes, as placas deslizam horizontalmente uma em relação à outra, sem criar ou destruir crosta terrestre. O atrito acumulado nesse deslizamento é uma importante causa de terremotos, como ocorre na Falha de Santo André."
+  },
+  {
+    "id": "cie-164",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Escala Richter",
+    "pergunta": "Para que serve a escala Richter, usada em relação aos terremotos?",
+    "alternativas": [
+      "Para prever com exatidão a data de um terremoto",
+      "Para medir a profundidade dos oceanos",
+      "Para medir a temperatura do magma vulcânico",
+      "Para medir a magnitude, ou seja, a quantidade de energia liberada por um terremoto"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A escala Richter mede a magnitude de um terremoto, ou seja, a quantidade de energia liberada durante o evento. Quanto maior o número na escala, maior a energia liberada e, geralmente, maior o potencial de destruição."
+  },
+  {
+    "id": "cie-165",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Vulcões ativos, inativos e extintos",
+    "pergunta": "Um vulcão que não entra em erupção há muito tempo, mas ainda apresenta atividade magmática interna e pode voltar a entrar em erupção no futuro, é classificado como:",
+    "alternativas": [
+      "Vulcão extinto",
+      "Vulcão inativo (ou adormecido)",
+      "Vulcão ativo em erupção constante",
+      "Vulcão submarino apenas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Vulcões inativos, também chamados de adormecidos, não entram em erupção há muito tempo, mas ainda apresentam atividade magmática interna, podendo voltar a entrar em erupção. Já os vulcões extintos não possuem mais atividade e dificilmente entrarão em erupção novamente."
+  },
+  {
+    "id": "cie-166",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Tipos de vulcão",
+    "pergunta": "Vulcões com erupções explosivas, formadas por lava muito viscosa que se solidifica rapidamente, tendem a formar qual tipo de estrutura?",
+    "alternativas": [
+      "Vales profundos sem nenhuma elevação",
+      "Cavernas subterrâneas apenas",
+      "Cones vulcânicos altos e íngremes, com encostas acentuadas",
+      "Extensas planícies planas, sem elevação"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Vulcões com lava mais viscosa (grossa), que se solidifica rapidamente perto da cratera, tendem a formar cones vulcânicos altos e de encostas íngremes, associados a erupções mais explosivas, diferente de vulcões com lava mais fluida, que formam estruturas mais planas."
+  },
+  {
+    "id": "cie-167",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Ciclo das rochas",
+    "pergunta": "O ciclo das rochas descreve como um tipo de rocha pode se transformar em outro ao longo do tempo geológico. Nesse ciclo, uma rocha ígnea pode se transformar em rocha sedimentar por meio de qual processo?",
+    "alternativas": [
+      "Intemperismo (desgaste), erosão, transporte e deposição de seus fragmentos, seguidos de compactação",
+      "Explosão vulcânica direta sem qualquer transporte",
+      "Congelamento repentino no interior da Terra",
+      "Fusão instantânea seguida de resfriamento rápido"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "No ciclo das rochas, uma rocha ígnea exposta na superfície pode sofrer intemperismo e erosão, sendo fragmentada e transportada por agentes como vento e água. Esses sedimentos se depositam e, com o tempo e a compactação, podem formar uma rocha sedimentar."
+  },
+  {
+    "id": "cie-168",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Estratosfera e camada de ozônio",
+    "pergunta": "A camada de ozônio está localizada em qual camada da atmosfera terrestre?",
+    "alternativas": [
+      "Estratosfera",
+      "Mesosfera",
+      "Exosfera",
+      "Troposfera"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A camada de ozônio está localizada na estratosfera, camada da atmosfera situada acima da troposfera, onde o gás ozônio (O3) se concentra e absorve grande parte da radiação ultravioleta proveniente do Sol."
+  },
+  {
+    "id": "cie-169",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Mesosfera",
+    "pergunta": "A mesosfera, camada da atmosfera localizada acima da estratosfera, é conhecida por qual característica?",
+    "alternativas": [
+      "Ser a camada onde a maioria dos meteoros se desintegra ao entrar na atmosfera terrestre",
+      "Conter a maior parte do vapor de água da atmosfera",
+      "Ser a camada mais próxima da superfície terrestre",
+      "Ser a camada mais quente da atmosfera"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A mesosfera é a camada da atmosfera onde a maioria dos meteoros se desintegra ao entrar em alta velocidade, devido ao atrito com o ar, produzindo o efeito visual conhecido como 'estrela cadente'."
+  },
+  {
+    "id": "cie-170",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Termosfera",
+    "pergunta": "Na termosfera, camada da atmosfera onde ocorrem as auroras polares, o que caracteriza essa camada em relação à temperatura?",
+    "alternativas": [
+      "Não há variação de temperatura nessa camada",
+      "É a camada mais fria de toda a atmosfera",
+      "A temperatura é sempre extremamente baixa e constante",
+      "A temperatura pode se elevar bastante devido à absorção de radiação solar de alta energia"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A termosfera absorve radiação solar de alta energia, o que faz com que a temperatura das partículas presentes nessa camada, muito rarefeita, possa se elevar bastante, apesar de o ar ali ser extremamente rarefeito."
+  },
+  {
+    "id": "cie-171",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Exosfera",
+    "pergunta": "A exosfera, camada mais externa da atmosfera terrestre, é caracterizada por:",
+    "alternativas": [
+      "Ser extremamente rarefeita, com poucas partículas de gás, fazendo a transição para o espaço sideral",
+      "Ser a camada onde se formam as nuvens de chuva",
+      "Conter a camada de ozônio",
+      "Concentrar a maior parte do ar que respiramos"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A exosfera é a camada mais externa e rarefeita da atmosfera, com pouquíssimas partículas de gás, marcando a transição gradual entre a atmosfera terrestre e o espaço sideral."
+  },
+  {
+    "id": "cie-172",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Manto terrestre",
+    "pergunta": "O manto, camada da Terra localizada entre a crosta e o núcleo, é formado principalmente por:",
+    "alternativas": [
+      "Água líquida",
+      "Rochas em estado sólido e pastoso (semiplástico), com movimentação lenta que influencia as placas tectônicas",
+      "Gases atmosféricos",
+      "Gelo permanente"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O manto é composto por rochas em altas temperaturas, que se comportam de forma sólida e ao mesmo tempo pastosa (semiplástica), permitindo lentos movimentos de convecção que influenciam o deslocamento das placas tectônicas na superfície."
+  },
+  {
+    "id": "cie-173",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Núcleo terrestre",
+    "pergunta": "O núcleo da Terra é composto principalmente por quais elementos?",
+    "alternativas": [
+      "Oxigênio e nitrogênio",
+      "Ferro e níquel",
+      "Carbono e hidrogênio",
+      "Silício e alumínio apenas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O núcleo terrestre é formado principalmente por ferro e níquel, em altíssimas temperaturas e pressões. Ele é dividido em núcleo externo (líquido) e núcleo interno (sólido), e sua movimentação está relacionada à geração do campo magnético da Terra."
+  },
+  {
+    "id": "cie-174",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Campo magnético terrestre",
+    "pergunta": "Qual é a importância do campo magnético da Terra para a vida no planeta?",
+    "alternativas": [
+      "Ele é responsável exclusivamente por causar terremotos",
+      "Ele impede totalmente a formação de nuvens",
+      "Ele não tem nenhuma função relevante para a vida na Terra",
+      "Ele ajuda a proteger a atmosfera e os seres vivos de partículas nocivas vindas do vento solar"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O campo magnético terrestre, gerado principalmente pelo movimento do núcleo externo líquido de ferro, ajuda a desviar partículas carregadas vindas do vento solar, protegendo a atmosfera e os seres vivos de radiação prejudicial."
+  },
+  {
+    "id": "cie-175",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Minerais (quartzo)",
+    "pergunta": "O quartzo é um mineral muito comum na crosta terrestre, presente, por exemplo, na areia das praias. Ele é composto basicamente por:",
+    "alternativas": [
+      "Cálcio puro",
+      "Carbono puro",
+      "Sílica (dióxido de silício)",
+      "Ferro puro"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O quartzo é um dos minerais mais abundantes da crosta terrestre, formado por sílica (dióxido de silício, SiO2). É um dos principais componentes da areia e de rochas como o granito."
+  },
+  {
+    "id": "cie-176",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Minério de ferro",
+    "pergunta": "O Brasil é um dos maiores produtores mundiais de minério de ferro, principalmente extraído em qual estado?",
+    "alternativas": [
+      "Amazonas",
+      "Santa Catarina",
+      "Minas Gerais",
+      "Rio Grande do Sul"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Minas Gerais é o principal estado produtor de minério de ferro do Brasil, com grandes jazidas exploradas há décadas, sendo o ferro uma matéria-prima essencial para a produção de aço."
+  },
+  {
+    "id": "cie-177",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Intemperismo físico x químico",
+    "pergunta": "Qual é a diferença entre intemperismo físico e intemperismo químico na formação do solo?",
+    "alternativas": [
+      "O intemperismo físico fragmenta a rocha sem alterar sua composição química, enquanto o intemperismo químico altera a composição das rochas",
+      "Não existe diferença entre os dois tipos",
+      "O intemperismo químico ocorre apenas em regiões polares",
+      "O intemperismo físico só acontece no fundo dos oceanos"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O intemperismo físico (como a variação de temperatura e o congelamento da água em fendas) fragmenta as rochas em pedaços menores sem alterar sua composição química. Já o intemperismo químico, causado por reações com água, ar e ácidos, altera a composição mineral das rochas."
+  },
+  {
+    "id": "cie-178",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Camadas do solo (horizontes)",
+    "pergunta": "A camada superficial do solo, mais rica em matéria orgânica (húmus) e fundamental para a agricultura, é chamada de:",
+    "alternativas": [
+      "Crosta oceânica",
+      "Rocha matriz",
+      "Horizonte A (camada superficial)",
+      "Manto terrestre"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O horizonte A é a camada mais superficial do solo, rica em matéria orgânica decomposta (húmus), sendo geralmente a mais fértil e importante para o desenvolvimento das plantas e para a agricultura."
+  },
+  {
+    "id": "cie-179",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Erosão do solo",
+    "pergunta": "Qual prática agrícola ajuda a reduzir a erosão do solo em terrenos inclinados?",
+    "alternativas": [
+      "A impermeabilização completa do solo com concreto",
+      "O plantio em curvas de nível, acompanhando o relevo do terreno",
+      "A retirada total da vegetação da área",
+      "O plantio sempre no sentido do declive do terreno"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O plantio em curvas de nível, que acompanha os contornos do relevo, ajuda a reduzir a velocidade de escoamento da água da chuva, diminuindo a erosão do solo em terrenos inclinados, ao contrário do plantio no sentido do declive, que facilita o carreamento do solo."
+  },
+  {
+    "id": "cie-180",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Fósseis e rochas sedimentares",
+    "pergunta": "Por que a maioria dos fósseis de seres vivos antigos é encontrada em rochas sedimentares?",
+    "alternativas": [
+      "Porque as rochas sedimentares nunca contêm nenhum vestígio de seres vivos",
+      "Porque as rochas sedimentares se formam pelo acúmulo gradual de sedimentos, que podem preservar restos de organismos ao longo do tempo",
+      "Porque as rochas ígneas preservam fósseis com mais facilidade",
+      "Porque fósseis só se formam em rochas metamórficas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "As rochas sedimentares se formam pelo lento acúmulo e compactação de sedimentos, o que favorece a preservação de restos de organismos (como conchas, ossos e pegadas) que ficam soterrados e, ao longo do tempo, podem se transformar em fósseis."
+  },
+  {
+    "id": "cie-181",
+    "materia": "ciencias",
+    "topico": "Matéria - Ponto de fusão",
+    "pergunta": "O que representa o ponto de fusão de uma substância?",
+    "alternativas": [
+      "A temperatura em que uma substância passa do estado líquido para o gasoso",
+      "A temperatura em que uma substância se torna radioativa",
+      "A pressão exercida por um gás em um recipiente fechado",
+      "A temperatura em que uma substância passa do estado sólido para o líquido"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O ponto de fusão é a temperatura na qual uma substância passa do estado sólido para o estado líquido, sob determinada pressão. Cada substância pura tem um ponto de fusão característico, que pode ser usado para identificá-la."
+  },
+  {
+    "id": "cie-182",
+    "materia": "ciencias",
+    "topico": "Matéria - Ponto de ebulição",
+    "pergunta": "O ponto de ebulição da água ao nível do mar é de aproximadamente:",
+    "alternativas": [
+      "100°C",
+      "200°C",
+      "0°C",
+      "50°C"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Ao nível do mar, sob pressão atmosférica normal, a água entra em ebulição (passa do estado líquido para o gasoso) a aproximadamente 100°C. Esse valor pode variar em altitudes diferentes, onde a pressão atmosférica é menor."
+  },
+  {
+    "id": "cie-183",
+    "materia": "ciencias",
+    "topico": "Matéria - Substâncias simples e compostas",
+    "pergunta": "Qual é a diferença entre uma substância simples e uma substância composta?",
+    "alternativas": [
+      "A substância simples é formada por apenas um tipo de elemento químico, e a composta é formada pela combinação de dois ou mais elementos diferentes",
+      "A substância simples sempre está no estado líquido",
+      "A substância composta nunca pode ser separada em outras substâncias",
+      "Não existe diferença entre elas"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Substâncias simples, como o oxigênio (O2) e o hidrogênio (H2), são formadas por átomos de um único elemento químico. Já as substâncias compostas, como a água (H2O), são formadas pela combinação de átomos de dois ou mais elementos diferentes."
+  },
+  {
+    "id": "cie-184",
+    "materia": "ciencias",
+    "topico": "Matéria - Fenômenos físicos",
+    "pergunta": "Derreter um cubo de gelo é um exemplo de qual tipo de fenômeno, no qual a substância não se transforma em outra?",
+    "alternativas": [
+      "Fenômeno físico, pois apenas o estado físico da água muda, sem formar uma nova substância",
+      "Reação nuclear",
+      "Fenômeno biológico",
+      "Fenômeno químico"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O derretimento do gelo é um fenômeno físico: a água apenas muda de estado físico (de sólido para líquido), mas continua sendo a mesma substância (H2O), sem formar um novo material."
+  },
+  {
+    "id": "cie-185",
+    "materia": "ciencias",
+    "topico": "Matéria - Fenômenos químicos",
+    "pergunta": "A queima (combustão) de um pedaço de papel é um exemplo de qual tipo de fenômeno?",
+    "alternativas": [
+      "Fenômeno químico, pois novas substâncias (como cinzas e gases) são formadas, diferentes do papel original",
+      "Fenômeno nuclear",
+      "Fenômeno que não envolve transformação de matéria",
+      "Fenômeno físico, pois o papel apenas muda de estado físico"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A queima do papel é um fenômeno químico, pois ocorre uma reação (combustão) que transforma o papel em novas substâncias, como cinzas, gás carbônico e vapor de água, diferentes da substância original."
+  },
+  {
+    "id": "cie-186",
+    "materia": "ciencias",
+    "topico": "Matéria - Elementos químicos comuns",
+    "pergunta": "Qual elemento químico é o mais abundante no corpo humano em termos de massa, presente principalmente na água e em moléculas orgânicas?",
+    "alternativas": [
+      "Ouro",
+      "Oxigênio",
+      "Ferro",
+      "Sódio"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O oxigênio é o elemento mais abundante no corpo humano em massa, presente principalmente na água (que compõe boa parte do corpo) e em diversas moléculas orgânicas, como carboidratos e proteínas."
+  },
+  {
+    "id": "cie-187",
+    "materia": "ciencias",
+    "topico": "Matéria - Tabela periódica (símbolos)",
+    "pergunta": "Na tabela periódica dos elementos químicos, qual é o símbolo que representa o elemento oxigênio?",
+    "alternativas": [
+      "O",
+      "H",
+      "Fe",
+      "Au"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O símbolo químico do oxigênio é a letra 'O'. Cada elemento químico é representado por um símbolo próprio na tabela periódica, geralmente derivado de seu nome em latim ou em outro idioma."
+  },
+  {
+    "id": "cie-188",
+    "materia": "ciencias",
+    "topico": "Matéria - Tabela periódica (hidrogênio)",
+    "pergunta": "O hidrogênio é considerado o elemento químico mais simples e abundante no universo. Qual é o seu símbolo na tabela periódica?",
+    "alternativas": [
+      "He",
+      "Hg",
+      "Hi",
+      "H"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O hidrogênio é representado pelo símbolo 'H' na tabela periódica. É o elemento mais simples, com apenas um próton, e o mais abundante no universo, sendo um componente fundamental da molécula de água."
+  },
+  {
+    "id": "cie-189",
+    "materia": "ciencias",
+    "topico": "Matéria - Mistura homogênea x heterogênea",
+    "pergunta": "Uma mistura de água e óleo, na qual é possível distinguir visualmente duas camadas separadas, é classificada como:",
+    "alternativas": [
+      "Mistura homogênea",
+      "Substância pura",
+      "Mistura heterogênea",
+      "Elemento químico simples"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A mistura de água e óleo é heterogênea porque é possível distinguir visualmente suas diferentes fases (camadas), já que o óleo não se dissolve na água, permanecendo separado dela."
+  },
+  {
+    "id": "cie-190",
+    "materia": "ciencias",
+    "topico": "Matéria - Separação por destilação",
+    "pergunta": "A destilação é um método de separação de misturas mais indicado para separar:",
+    "alternativas": [
+      "Um gás de outro gás usando ímãs",
+      "Um sólido insolúvel de um líquido, como areia e água",
+      "Dois líquidos miscíveis com pontos de ebulição diferentes, como água e álcool",
+      "Dois sólidos com tamanhos de partículas diferentes"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A destilação separa líquidos misturados (miscíveis) que possuem pontos de ebulição diferentes: ao aquecer a mistura, o líquido com menor ponto de ebulição evapora primeiro e é condensado separadamente, permitindo a separação dos componentes."
+  },
+  {
+    "id": "cie-191",
+    "materia": "ciencias",
+    "topico": "Matéria - Separação por catação",
+    "pergunta": "A catação, método simples de separação de misturas, consiste em:",
+    "alternativas": [
+      "Filtrar a mistura usando papel de filtro",
+      "Aquecer a mistura até a evaporação completa de um dos componentes",
+      "Separar manualmente ou com auxílio de uma pinça os componentes sólidos de uma mistura, como pedrinhas em um saco de feijão",
+      "Usar um ímã para atrair materiais metálicos"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A catação é um método manual de separação usado para retirar objetos ou partículas de uma mistura sólida, como separar pedrinhas ou impurezas de grãos de feijão ou arroz, geralmente feito à mão ou com uma pinça."
+  },
+  {
+    "id": "cie-192",
+    "materia": "ciencias",
+    "topico": "Matéria - Separação magnética",
+    "pergunta": "A separação magnética é um método utilizado para separar misturas que contenham:",
+    "alternativas": [
+      "Gases de diferentes densidades",
+      "Apenas substâncias solúveis em água",
+      "Apenas líquidos miscíveis",
+      "Materiais com propriedades magnéticas, como limalha de ferro, de materiais não magnéticos"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A separação magnética utiliza um ímã para atrair e remover materiais com propriedades magnéticas (como o ferro) de uma mistura com outros materiais que não são atraídos por ímãs."
+  },
+  {
+    "id": "cie-193",
+    "materia": "ciencias",
+    "topico": "Matéria - Estado gasoso",
+    "pergunta": "Qual característica é típica do estado gasoso da matéria?",
+    "alternativas": [
+      "As partículas se movem livremente e rapidamente, ocupando todo o espaço disponível no recipiente, sem forma ou volume fixos",
+      "As partículas ficam completamente imóveis",
+      "O material sempre mantém a mesma forma independente do recipiente",
+      "As partículas ficam muito próximas e organizadas, mantendo forma fixa"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "No estado gasoso, as partículas têm grande liberdade de movimento e se afastam bastante umas das outras, fazendo com que o gás ocupe todo o espaço do recipiente em que está contido, sem forma ou volume fixos."
+  },
+  {
+    "id": "cie-194",
+    "materia": "ciencias",
+    "topico": "Matéria - Fusão e solidificação",
+    "pergunta": "Qual é a relação entre os processos de fusão e solidificação de uma substância pura?",
+    "alternativas": [
+      "A fusão sempre ocorre a uma temperatura muito mais alta que a solidificação",
+      "Ambos os processos representam a passagem do estado líquido para o gasoso",
+      "São processos completamente independentes, sem relação entre si",
+      "São processos opostos que ocorrem, para uma substância pura, na mesma temperatura: fusão é de sólido para líquido, e solidificação é de líquido para sólido"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Para uma substância pura, a fusão (passagem de sólido para líquido) e a solidificação (passagem de líquido para sólido) ocorrem à mesma temperatura, chamada de ponto de fusão/solidificação, mas em sentidos opostos."
+  },
+  {
+    "id": "cie-195",
+    "materia": "ciencias",
+    "topico": "Matéria - Densidade e flutuação",
+    "pergunta": "Um objeto de metal, mesmo sendo mais pesado que um pedaço de isopor do mesmo tamanho, pode afundar na água, enquanto o isopor flutua. Isso ocorre principalmente por causa de qual propriedade?",
+    "alternativas": [
+      "A cor dos materiais",
+      "A densidade dos materiais em relação à densidade da água",
+      "A temperatura da água",
+      "O formato exato do objeto, exclusivamente"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A densidade relaciona a massa de um material ao seu volume. Materiais com densidade maior que a da água tendem a afundar, enquanto materiais com densidade menor, como o isopor, flutuam, independentemente do peso total do objeto."
+  },
+  {
+    "id": "cie-196",
+    "materia": "ciencias",
+    "topico": "Matéria - Solubilidade",
+    "pergunta": "O que significa dizer que o sal é solúvel em água?",
+    "alternativas": [
+      "Que o sal flutua na superfície da água sem se misturar",
+      "Que o sal transforma a água em outro líquido diferente",
+      "Que o sal nunca se mistura com a água",
+      "Que o sal se dissolve na água, formando uma mistura homogênea (solução)"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Dizer que o sal é solúvel em água significa que ele se dissolve completamente nela, formando uma mistura homogênea chamada solução, na qual não é possível distinguir visualmente as partículas de sal separadas da água."
+  },
+  {
+    "id": "cie-197",
+    "materia": "ciencias",
+    "topico": "Matéria - Massa e volume",
+    "pergunta": "Em física e química, o que representa o volume de um objeto?",
+    "alternativas": [
+      "A quantidade de matéria que o objeto possui",
+      "O espaço que o objeto ocupa",
+      "A força da gravidade que atua sobre o objeto",
+      "A temperatura do objeto"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O volume representa o espaço ocupado por um objeto ou substância, enquanto a massa representa a quantidade de matéria que o compõe. A densidade relaciona essas duas grandezas (massa dividida pelo volume)."
+  },
+  {
+    "id": "cie-198",
+    "materia": "ciencias",
+    "topico": "Matéria - Mistura coloidal",
+    "pergunta": "O leite é um exemplo de qual tipo especial de mistura, na qual pequenas partículas ficam dispersas sem se depositar rapidamente?",
+    "alternativas": [
+      "Substância pura",
+      "Elemento químico",
+      "Mistura heterogênea grosseira, com partículas visíveis a olho nu",
+      "Mistura coloidal"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O leite é um exemplo de mistura coloidal (ou colóide), em que partículas pequenas (como gotículas de gordura) ficam dispersas no líquido sem se depositarem rapidamente, apresentando aspecto visualmente uniforme, mas não sendo uma solução verdadeira."
+  },
+  {
+    "id": "cie-199",
+    "materia": "ciencias",
+    "topico": "Matéria - Sublimação do gelo-seco",
+    "pergunta": "O gelo-seco (dióxido de carbono sólido), muito usado para criar efeitos de fumaça, passa diretamente para o estado gasoso à temperatura ambiente. Esse processo é chamado de:",
+    "alternativas": [
+      "Condensação",
+      "Solidificação",
+      "Fusão",
+      "Sublimação"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O gelo-seco sublima, ou seja, passa diretamente do estado sólido para o gasoso, sem passar pelo estado líquido, à temperatura ambiente e pressão atmosférica normal, o que causa o efeito visual de 'fumaça' característico."
+  },
+  {
+    "id": "cie-200",
+    "materia": "ciencias",
+    "topico": "Matéria - Condensação",
+    "pergunta": "As gotículas de água que se formam do lado de fora de um copo com bebida gelada são resultado de qual processo?",
+    "alternativas": [
+      "Condensação do vapor de água presente no ar, que esfria ao encostar no copo gelado",
+      "Sublimação do gelo do copo",
+      "Fusão do vidro do copo",
+      "Evaporação da água de dentro do copo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O vapor de água presente no ar, ao entrar em contato com a superfície fria do copo, perde calor e se condensa, passando do estado gasoso para o líquido, formando as gotículas visíveis do lado externo do copo."
+  },
+  {
+    "id": "cie-201",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Reino Animalia",
+    "pergunta": "Qual característica é comum a todos os seres vivos classificados no Reino Animalia?",
+    "alternativas": [
+      "São seres pluricelulares, heterótrofos, que precisam se alimentar de outros seres vivos para obter energia",
+      "Realizam fotossíntese para produzir seu próprio alimento",
+      "São sempre unicelulares e microscópicos",
+      "Possuem parede celular rígida como as plantas"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Os animais são seres pluricelulares e heterótrofos, ou seja, não produzem seu próprio alimento e precisam obter nutrientes se alimentando de outros seres vivos, diferentemente das plantas, que são autótrofas."
+  },
+  {
+    "id": "cie-202",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Reino Plantae",
+    "pergunta": "Qual é a principal característica que diferencia os seres do Reino Plantae dos animais?",
+    "alternativas": [
+      "As plantas sempre se locomovem de um lugar para outro",
+      "As plantas são heterótrofas, como os animais",
+      "As plantas são autótrofas, produzindo seu próprio alimento por meio da fotossíntese",
+      "As plantas não possuem células"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As plantas são seres autótrofos fotossintetizantes, capazes de produzir seu próprio alimento (glicose) a partir de luz solar, água e gás carbônico, ao contrário dos animais, que são heterótrofos."
+  },
+  {
+    "id": "cie-203",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Reino Fungi",
+    "pergunta": "Cogumelos, bolores e leveduras pertencem a qual reino de seres vivos?",
+    "alternativas": [
+      "Reino Animalia",
+      "Reino Plantae",
+      "Reino Fungi",
+      "Reino Monera"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Cogumelos, bolores e leveduras são fungos, seres que, apesar de parecerem plantas em alguns casos, formam um reino próprio (Fungi), sendo geralmente heterótrofos e obtendo nutrientes por absorção, muitos atuando como decompositores."
+  },
+  {
+    "id": "cie-204",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Reino Monera",
+    "pergunta": "As bactérias são classificadas em qual reino de seres vivos, caracterizado por organismos unicelulares sem núcleo definido?",
+    "alternativas": [
+      "Reino Fungi",
+      "Reino Plantae",
+      "Reino Monera",
+      "Reino Animalia"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As bactérias pertencem ao Reino Monera, formado por organismos unicelulares procariontes, ou seja, sem núcleo organizado e envolto por membrana, diferente das células de plantas, animais e fungos."
+  },
+  {
+    "id": "cie-205",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Reino Protista",
+    "pergunta": "As algas unicelulares e os protozoários, como a ameba, pertencem a qual reino de seres vivos?",
+    "alternativas": [
+      "Reino Protista",
+      "Reino Monera",
+      "Reino Animalia",
+      "Reino Fungi"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Reino Protista reúne organismos eucariontes (com núcleo definido) relativamente simples, como protozoários (por exemplo, a ameba) e algas unicelulares, que não se encaixam nos critérios dos reinos animal, vegetal ou fungo."
+  },
+  {
+    "id": "cie-206",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Cloroplastos",
+    "pergunta": "Em qual estrutura das células vegetais ocorre a fotossíntese?",
+    "alternativas": [
+      "No núcleo celular",
+      "Nos cloroplastos, organelas que contêm clorofila",
+      "Na parede celular",
+      "Nas mitocôndrias"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A fotossíntese ocorre nos cloroplastos, organelas presentes nas células das plantas e de algas, que contêm a clorofila, pigmento verde responsável por captar a energia da luz solar."
+  },
+  {
+    "id": "cie-207",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Estômatos",
+    "pergunta": "Os estômatos, pequenas aberturas presentes principalmente nas folhas das plantas, têm qual função?",
+    "alternativas": [
+      "Armazenar água para uso exclusivo da raiz",
+      "Produzir flores e frutos",
+      "Transportar seiva bruta até as raízes",
+      "Permitir a troca de gases, como a entrada de gás carbônico e a saída de oxigênio e vapor de água"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Os estômatos são pequenos poros, geralmente na face inferior das folhas, que permitem a troca de gases entre a planta e o ambiente, essenciais para a fotossíntese e para a transpiração da planta."
+  },
+  {
+    "id": "cie-208",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Mitocôndrias",
+    "pergunta": "As mitocôndrias, presentes nas células de praticamente todos os seres vivos eucariontes, são responsáveis por:",
+    "alternativas": [
+      "Armazenar o material genético da célula",
+      "Produzir a parede celular",
+      "Realizar a fotossíntese",
+      "Realizar a respiração celular, liberando energia da glicose para as atividades da célula"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As mitocôndrias são organelas responsáveis pela respiração celular, processo em que a energia armazenada na glicose é liberada, na presença de oxigênio, para ser usada nas atividades da célula."
+  },
+  {
+    "id": "cie-209",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Fotossíntese x respiração celular",
+    "pergunta": "Qual é uma diferença fundamental entre a fotossíntese e a respiração celular?",
+    "alternativas": [
+      "A respiração celular ocorre apenas durante o dia",
+      "A fotossíntese e a respiração celular são exatamente o mesmo processo",
+      "A fotossíntese consome energia luminosa para produzir glicose, enquanto a respiração celular libera a energia armazenada na glicose",
+      "As plantas só realizam fotossíntese e nunca respiração celular"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Na fotossíntese, a energia da luz é usada para produzir glicose a partir de água e gás carbônico. Já na respiração celular, a energia armazenada na glicose é liberada para uso da célula, processo realizado por praticamente todos os seres vivos, inclusive as plantas."
+  },
+  {
+    "id": "cie-210",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Vertebrados x invertebrados",
+    "pergunta": "Qual é a principal característica que diferencia os animais vertebrados dos invertebrados?",
+    "alternativas": [
+      "Os vertebrados possuem coluna vertebral (esqueleto interno articulado), enquanto os invertebrados não possuem",
+      "Os invertebrados são sempre maiores que os vertebrados",
+      "Somente os vertebrados podem viver na água",
+      "Os invertebrados sempre possuem quatro patas"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Os animais vertebrados possuem uma coluna vertebral, parte de um esqueleto interno que sustenta o corpo, como peixes, anfíbios, répteis, aves e mamíferos. Já os invertebrados, como insetos e minhocas, não possuem essa estrutura."
+  },
+  {
+    "id": "cie-211",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Peixes",
+    "pergunta": "Qual estrutura é responsável pela respiração da maioria dos peixes, permitindo que retirem oxigênio dissolvido na água?",
+    "alternativas": [
+      "Pulmões",
+      "Brânquias",
+      "Pele apenas",
+      "Traqueias"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A maioria dos peixes respira por meio de brânquias, estruturas ricas em vasos sanguíneos que retiram o oxigênio dissolvido na água à medida que ela passa por elas."
+  },
+  {
+    "id": "cie-212",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Anfíbios",
+    "pergunta": "Por que os anfíbios, como sapos e rãs, geralmente passam por metamorfose ao longo da vida, alternando entre um estágio aquático e um terrestre?",
+    "alternativas": [
+      "Porque nascem já com pulmões totalmente desenvolvidos",
+      "Porque vivem exclusivamente no ambiente terrestre desde o nascimento",
+      "Porque não possuem nenhuma fase larval",
+      "Porque seu ciclo de vida envolve uma fase jovem aquática (girino), que depois se transforma na fase adulta, capaz de viver em terra"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Muitos anfíbios nascem na água como girinos, respirando por brânquias, e depois passam por metamorfose, desenvolvendo pulmões e patas, o que lhes permite viver também em ambiente terrestre na fase adulta."
+  },
+  {
+    "id": "cie-213",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Répteis",
+    "pergunta": "Qual característica da pele dos répteis, como lagartos e cobras, ajuda a evitar a perda excessiva de água do corpo?",
+    "alternativas": [
+      "A pele é sempre úmida e sem nenhuma proteção",
+      "A pele é coberta por escamas, que ajudam a impermeabilizar o corpo",
+      "A pele é coberta por penas",
+      "A pele produz muco constantemente"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Os répteis possuem pele seca coberta por escamas, o que ajuda a reduzir a perda de água por evaporação, sendo uma importante adaptação que permitiu a esses animais viverem em ambientes terrestres mais secos."
+  },
+  {
+    "id": "cie-214",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Aves",
+    "pergunta": "Qual adaptação é comum na maioria das aves e está diretamente relacionada à capacidade de voar?",
+    "alternativas": [
+      "Pele coberta por pelos densos",
+      "Ossos pesados e maciços",
+      "Ossos ocos e leves, além de corpo revestido por penas",
+      "Ausência total de asas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As aves possuem diversas adaptações para o voo, como ossos ocos (mais leves), penas que ajudam na sustentação no ar e músculos peitorais fortes, embora nem todas as aves sejam capazes de voar, como avestruzes e pinguins."
+  },
+  {
+    "id": "cie-215",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Mamíferos",
+    "pergunta": "Qual característica é exclusiva dos mamíferos entre os animais vertebrados?",
+    "alternativas": [
+      "Alimentar os filhotes com leite produzido por glândulas mamárias",
+      "Respirar exclusivamente por brânquias",
+      "Colocar sempre ovos com casca dura",
+      "Possuir escamas"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A presença de glândulas mamárias, que produzem leite para alimentar os filhotes, é uma característica exclusiva dos mamíferos entre os vertebrados, o que inclusive dá nome a esse grupo de animais."
+  },
+  {
+    "id": "cie-216",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Adaptação dos cactos",
+    "pergunta": "Os espinhos dos cactos são, na verdade, folhas modificadas ao longo da evolução. Qual é a vantagem dessa adaptação para a planta em ambientes secos?",
+    "alternativas": [
+      "Reduzir a perda de água por transpiração, já que os espinhos têm menor superfície do que folhas comuns",
+      "Impedir totalmente a realização de fotossíntese",
+      "Atrair grandes herbívoros para se alimentarem da planta",
+      "Aumentar a perda de água pela planta"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Ao transformar as folhas em espinhos, os cactos reduzem bastante a área de superfície exposta, o que diminui a perda de água por transpiração, uma importante adaptação para sobreviver em ambientes áridos, como os desertos. Nesses casos, o caule verde e grosso assume a função de realizar a fotossíntese."
+  },
+  {
+    "id": "cie-217",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Camuflagem",
+    "pergunta": "Alguns animais, como certos camaleões e insetos-folha, possuem a capacidade de se camuflar no ambiente. Qual é a principal vantagem dessa adaptação?",
+    "alternativas": [
+      "Aumentar a velocidade de locomoção do animal",
+      "Impedir a reprodução do animal",
+      "Facilitar que o animal seja rapidamente visto por predadores",
+      "Ajudar o animal a se esconder de predadores ou a se aproximar de suas presas sem ser percebido"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A camuflagem é uma adaptação que permite ao animal se confundir com o ambiente ao redor, dificultando que seja notado por predadores ou ajudando-o a se aproximar de presas sem ser percebido, aumentando suas chances de sobrevivência."
+  },
+  {
+    "id": "cie-218",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Migração de aves",
+    "pergunta": "Por que algumas espécies de aves realizam grandes migrações sazonais entre diferentes regiões do planeta?",
+    "alternativas": [
+      "Para escapar de condições climáticas desfavoráveis e buscar locais com mais alimento ou condições melhores para reprodução",
+      "Porque perdem a capacidade de voar em certas épocas do ano",
+      "Porque são obrigadas por outras espécies a se deslocarem",
+      "Porque não conseguem se reproduzir em nenhum lugar fixo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A migração é uma estratégia adaptativa em que aves se deslocam por longas distâncias, geralmente em busca de climas mais favoráveis, maior disponibilidade de alimento ou locais adequados para reprodução, retornando muitas vezes à mesma região de origem."
+  },
+  {
+    "id": "cie-219",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Hibernação",
+    "pergunta": "A hibernação, comportamento observado em alguns mamíferos como ursos, é uma estratégia para:",
+    "alternativas": [
+      "Aumentar a atividade e o gasto de energia durante o inverno",
+      "Reduzir o metabolismo e economizar energia durante períodos de frio intenso e escassez de alimento",
+      "Migrar para regiões mais quentes durante o verão",
+      "Produzir mais filhotes durante o inverno"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Durante a hibernação, o metabolismo do animal diminui bastante, reduzindo a temperatura corporal, a frequência cardíaca e o gasto de energia, o que permite sobreviver a períodos de frio intenso e pouca disponibilidade de alimento, sem precisar se alimentar."
+  },
+  {
+    "id": "cie-220",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Respiração das plantas",
+    "pergunta": "Além de realizarem fotossíntese, as plantas também realizam respiração celular. Em que momento a respiração celular ocorre nas plantas?",
+    "alternativas": [
+      "O tempo todo, tanto de dia quanto de noite, assim como ocorre nos animais",
+      "Somente nas raízes das plantas",
+      "As plantas nunca realizam respiração celular",
+      "Apenas durante a noite, quando não há luz"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "As plantas realizam respiração celular continuamente, de dia e de noite, para obter energia da glicose. Durante o dia, porém, a taxa de fotossíntese costuma ser maior que a de respiração, resultando em liberação líquida de oxigênio."
+  },
+  {
+    "id": "cie-221",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Tipos de músculos",
+    "pergunta": "Além dos músculos esqueléticos, que movimentam o corpo de forma voluntária, quais outros dois tipos de tecido muscular existem no corpo humano?",
+    "alternativas": [
+      "Músculo digestório e músculo respiratório apenas",
+      "Não existem outros tipos de músculo além do esquelético",
+      "Músculo liso (presente em órgãos internos) e músculo cardíaco (presente no coração)",
+      "Músculo ósseo e músculo nervoso"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Além do músculo esquelético, de controle voluntário, o corpo possui o músculo liso, presente em órgãos internos como o intestino e os vasos sanguíneos (controle involuntário), e o músculo cardíaco, exclusivo do coração, também de controle involuntário."
+  },
+  {
+    "id": "cie-222",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Cãibras musculares",
+    "pergunta": "As cãibras, contrações musculares involuntárias e dolorosas, podem ser causadas principalmente por:",
+    "alternativas": [
+      "Excesso de sono",
+      "Consumo elevado de fibras alimentares",
+      "Excesso de vitamina C na dieta",
+      "Desidratação, fadiga muscular ou desequilíbrio de sais minerais durante o esforço físico"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As cãibras costumam ocorrer devido à fadiga muscular, à desidratação ou à perda de sais minerais importantes (como sódio e potássio) durante exercícios físicos intensos, causando uma contração muscular involuntária e dolorosa."
+  },
+  {
+    "id": "cie-223",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Visão",
+    "pergunta": "Qual estrutura do olho humano é responsável por captar a luz e converter os estímulos luminosos em impulsos nervosos enviados ao cérebro?",
+    "alternativas": [
+      "A retina",
+      "A pupila",
+      "A íris",
+      "A córnea"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A retina, localizada no fundo do olho, contém células fotorreceptoras (cones e bastonetes) que captam a luz e a convertem em impulsos nervosos, enviados pelo nervo óptico até o cérebro, onde a imagem é interpretada."
+  },
+  {
+    "id": "cie-224",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Audição",
+    "pergunta": "Qual estrutura do ouvido é responsável por converter as vibrações sonoras em impulsos nervosos que o cérebro interpreta como som?",
+    "alternativas": [
+      "A cóclea, localizada no ouvido interno",
+      "O pavilhão auditivo (orelha externa)",
+      "As bochechas",
+      "O tímpano"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A cóclea, estrutura em forma de espiral localizada no ouvido interno, contém células sensíveis que convertem as vibrações sonoras transmitidas pelo tímpano e pelos ossículos em impulsos nervosos, enviados ao cérebro pelo nervo auditivo."
+  },
+  {
+    "id": "cie-225",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Tato",
+    "pergunta": "O sentido do tato é captado principalmente por receptores localizados em qual órgão do corpo?",
+    "alternativas": [
+      "No fígado",
+      "Na pele",
+      "Nos pulmões",
+      "No estômago"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A pele é o principal órgão responsável pelo sentido do tato, contendo diversos receptores sensíveis a pressão, temperatura, textura e dor, que enviam essas informações ao sistema nervoso central."
+  },
+  {
+    "id": "cie-226",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Olfato",
+    "pergunta": "Os receptores responsáveis pelo sentido do olfato estão localizados principalmente em qual estrutura?",
+    "alternativas": [
+      "Na língua",
+      "Nos ouvidos",
+      "Na pele das mãos",
+      "Na mucosa localizada no interior do nariz"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O olfato é captado por receptores especializados localizados na mucosa olfativa, no interior do nariz, que identificam substâncias químicas voláteis presentes no ar e enviam essas informações ao cérebro."
+  },
+  {
+    "id": "cie-227",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Paladar",
+    "pergunta": "As papilas gustativas, responsáveis pelo sentido do paladar, estão localizadas principalmente em qual órgão?",
+    "alternativas": [
+      "Nos ouvidos",
+      "No nariz",
+      "Na língua",
+      "Nos olhos"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As papilas gustativas estão distribuídas principalmente na língua e são capazes de identificar diferentes sabores básicos, como doce, salgado, azedo, amargo e umami, enviando essas informações ao cérebro."
+  },
+  {
+    "id": "cie-228",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Flúor e saúde bucal",
+    "pergunta": "Por que o flúor é frequentemente adicionado a cremes dentais e, em alguns lugares, à água tratada?",
+    "alternativas": [
+      "Porque ele elimina totalmente a necessidade de escovação",
+      "Porque ele substitui a função da saliva",
+      "Porque ele enfraquece o esmalte dos dentes",
+      "Porque ele ajuda a fortalecer o esmalte dos dentes, tornando-os mais resistentes às cáries"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O flúor ajuda a fortalecer o esmalte dos dentes, tornando-os mais resistentes ao ataque dos ácidos produzidos pelas bactérias da placa bacteriana, o que reduz o risco de formação de cáries."
+  },
+  {
+    "id": "cie-229",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Gengivite",
+    "pergunta": "A gengivite, inflamação das gengivas, é geralmente causada por:",
+    "alternativas": [
+      "Excesso de escovação dos dentes",
+      "Acúmulo de placa bacteriana nas margens dos dentes, devido à higiene bucal inadequada",
+      "Consumo excessivo de água",
+      "Uso regular de fio dental"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A gengivite é causada principalmente pelo acúmulo de placa bacteriana próximo às gengivas, resultado de uma higiene bucal inadequada, podendo causar vermelhidão, inchaço e sangramento se não for tratada."
+  },
+  {
+    "id": "cie-230",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Pulso e batimentos cardíacos",
+    "pergunta": "O que representa o pulso, que pode ser sentido, por exemplo, no pulso do braço ou no pescoço?",
+    "alternativas": [
+      "A temperatura do sangue",
+      "A quantidade de urina produzida pelos rins",
+      "A quantidade de ar que entra nos pulmões",
+      "As ondas de pressão causadas pelos batimentos do coração, transmitidas pelas artérias"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O pulso é a sensação percebida ao pressionar levemente uma artéria próxima da pele, resultado das ondas de pressão geradas a cada batimento do coração, permitindo medir a frequência cardíaca."
+  },
+  {
+    "id": "cie-231",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Exercício físico e capacidade pulmonar",
+    "pergunta": "Como a prática regular de exercícios físicos aeróbicos, como corrida e natação, geralmente afeta a capacidade pulmonar?",
+    "alternativas": [
+      "Não causa nenhuma alteração no sistema respiratório",
+      "Faz com que os pulmões parem de crescer",
+      "Reduz drasticamente a capacidade pulmonar",
+      "Tende a aumentar a capacidade pulmonar e a eficiência do sistema respiratório ao longo do tempo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A prática regular de exercícios aeróbicos estimula o sistema respiratório e cardiovascular, podendo aumentar a capacidade pulmonar e melhorar a eficiência das trocas gasosas e do transporte de oxigênio pelo corpo."
+  },
+  {
+    "id": "cie-232",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Alergias",
+    "pergunta": "O que ocorre no corpo durante uma reação alérgica, como a causada por poeira ou pólen?",
+    "alternativas": [
+      "O sistema digestório para de funcionar completamente",
+      "O sistema imunológico reage de forma exagerada a uma substância geralmente inofensiva, causando sintomas como espirros e coceira",
+      "O corpo perde totalmente a capacidade de se defender de infecções",
+      "Os ossos do corpo se tornam mais fracos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Em uma reação alérgica, o sistema imunológico identifica uma substância normalmente inofensiva (alérgeno), como pólen ou poeira, como uma ameaça e reage de forma exagerada, causando sintomas como espirros, coceira e inchaço."
+  },
+  {
+    "id": "cie-233",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Dengue",
+    "pergunta": "A dengue é uma doença transmitida principalmente pela picada de qual mosquito?",
+    "alternativas": [
+      "Mosquito-palha",
+      "Pernilongo comum (Culex)",
+      "Anopheles",
+      "Aedes aegypti"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A dengue é transmitida principalmente pela picada da fêmea do mosquito Aedes aegypti, que também pode transmitir outras doenças, como zika e chikungunya. Eliminar água parada é uma das principais formas de prevenção, pois impede a reprodução do mosquito."
+  },
+  {
+    "id": "cie-234",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Verminoses",
+    "pergunta": "Muitas verminoses, como a causada pela lombriga, podem ser prevenidas principalmente por meio de:",
+    "alternativas": [
+      "Evitar completamente o consumo de frutas e verduras",
+      "Uso constante de antibióticos, mesmo sem indicação médica",
+      "Consumo exclusivo de água mineral engarrafada",
+      "Higiene adequada, como lavar bem os alimentos e as mãos, e saneamento básico"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Muitas verminoses são transmitidas por ovos ou larvas presentes em água ou alimentos contaminados, ou pelo contato com solo contaminado. A boa higiene pessoal, o saneamento básico e o cuidado ao lavar alimentos ajudam a prevenir essas infecções."
+  },
+  {
+    "id": "cie-235",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Lavagem das mãos",
+    "pergunta": "Por que lavar as mãos com água e sabão regularmente é uma medida importante de prevenção de doenças?",
+    "alternativas": [
+      "Porque fortalece diretamente os ossos",
+      "Porque elimina totalmente a necessidade de vacinação",
+      "Porque ajuda a remover microrganismos causadores de doenças que podem estar presentes nas mãos",
+      "Porque aumenta a temperatura corporal"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As mãos entram em contato com diversas superfícies ao longo do dia e podem acumular microrganismos causadores de doenças. Lavá-las regularmente com água e sabão ajuda a remover esses agentes, prevenindo a transmissão de infecções."
+  },
+  {
+    "id": "cie-236",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Uso consciente da água",
+    "pergunta": "Qual atitude simples ajuda a economizar água no dia a dia?",
+    "alternativas": [
+      "Lavar a calçada com mangueira aberta constantemente",
+      "Deixar a torneira aberta desnecessariamente enquanto escova os dentes",
+      "Fechar a torneira enquanto ensaboa a louça ou escova os dentes",
+      "Tomar banhos muito mais longos que o necessário"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Fechar a torneira em momentos em que a água não está sendo diretamente utilizada, como ao escovar os dentes ou ensaboar a louça, é uma atitude simples que ajuda a evitar o desperdício desse recurso natural limitado."
+  },
+  {
+    "id": "cie-237",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Poluição luminosa",
+    "pergunta": "A poluição luminosa, causada pelo excesso de iluminação artificial nas cidades, pode prejudicar principalmente:",
+    "alternativas": [
+      "A quantidade de oxigênio na atmosfera",
+      "Exclusivamente a temperatura do planeta",
+      "Apenas a qualidade da água dos rios",
+      "A observação do céu noturno e o comportamento de diversos animais, como aves migratórias e insetos"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O excesso de luz artificial durante a noite dificulta a observação do céu estrelado e pode confundir o comportamento de diversos animais, como aves migratórias que se orientam por luz natural, e insetos atraídos por luzes artificiais."
+  },
+  {
+    "id": "cie-238",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Reflorestamento",
+    "pergunta": "Qual é o principal objetivo do reflorestamento em áreas que sofreram desmatamento?",
+    "alternativas": [
+      "Recuperar a vegetação nativa, restaurando funções ecológicas como proteção do solo e da água",
+      "Substituir toda a vegetação nativa por construções urbanas",
+      "Eliminar totalmente a fauna local",
+      "Aumentar ainda mais a degradação do solo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O reflorestamento busca recuperar áreas degradadas por meio do plantio de espécies vegetais, muitas vezes nativas, restaurando funções ecológicas importantes, como a proteção do solo contra erosão, a manutenção de nascentes e o abrigo para a fauna local."
+  },
+  {
+    "id": "cie-239",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Mudanças climáticas e mitigação",
+    "pergunta": "O que significa 'mitigar' as mudanças climáticas, um dos objetivos de acordos internacionais sobre o clima?",
+    "alternativas": [
+      "Aumentar ao máximo a emissão de gases do efeito estufa",
+      "Construir mais usinas movidas a carvão mineral",
+      "Ignorar completamente o problema das mudanças climáticas",
+      "Reduzir as emissões de gases do efeito estufa e adotar práticas que diminuam o aquecimento global"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Mitigar as mudanças climáticas significa adotar ações para reduzir as causas do aquecimento global, como diminuir a emissão de gases do efeito estufa por meio do uso de energias renováveis, redução do desmatamento e maior eficiência energética."
+  },
+  {
+    "id": "cie-240",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Energia solar residencial",
+    "pergunta": "Uma das vantagens de instalar painéis solares fotovoltaicos em residências é:",
+    "alternativas": [
+      "Gerar parte da própria energia elétrica a partir de uma fonte limpa e renovável, podendo reduzir a conta de luz",
+      "Eliminar totalmente a necessidade de qualquer manutenção",
+      "Funcionar exclusivamente durante a noite",
+      "Aumentar a dependência exclusiva de combustíveis fósseis"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Painéis solares fotovoltaicos instalados em residências convertem a luz do Sol diretamente em energia elétrica, permitindo que a casa gere parte de sua própria energia de forma limpa e renovável, o que pode reduzir os custos com eletricidade a longo prazo."
+  },
+  {
+    "id": "cie-241",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Coleta seletiva",
+    "pergunta": "Na coleta seletiva de lixo no Brasil, qual cor de lixeira é geralmente usada para o descarte de papel?",
+    "alternativas": [
+      "Verde",
+      "Vermelha",
+      "Amarela",
+      "Azul"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "No padrão de cores adotado no Brasil para coleta seletiva, a cor azul é destinada ao descarte de papel, enquanto vermelho é usado para plástico, verde para vidro e amarelo para metal."
+  },
+  {
+    "id": "cie-242",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Aterro sanitário x lixão",
+    "pergunta": "Qual é a principal diferença entre um aterro sanitário e um lixão a céu aberto?",
+    "alternativas": [
+      "O aterro sanitário é usado apenas para lixo hospitalar",
+      "Não existe diferença entre eles",
+      "O aterro sanitário possui técnicas de engenharia para reduzir a contaminação do solo e da água, enquanto o lixão não possui esse controle",
+      "O lixão é sempre mais seguro ambientalmente do que o aterro sanitário"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O aterro sanitário é projetado com técnicas de engenharia, como impermeabilização do solo e tratamento de gases e líquidos gerados pelo lixo, para reduzir a contaminação ambiental. Já o lixão é um depósito de lixo a céu aberto, sem esses cuidados, contaminando solo e água."
+  },
+  {
+    "id": "cie-243",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Anfíbios como bioindicadores",
+    "pergunta": "Por que os anfíbios, como sapos e rãs, são frequentemente usados como 'bioindicadores' da qualidade ambiental?",
+    "alternativas": [
+      "Porque não têm nenhuma relação com a qualidade da água",
+      "Porque vivem exclusivamente em ambientes já poluídos",
+      "Porque são completamente imunes a qualquer tipo de poluição",
+      "Porque possuem pele permeável, sensível a poluentes presentes na água e no ar, refletindo rapidamente mudanças no ambiente"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Os anfíbios possuem pele fina e permeável, por onde podem absorver substâncias do ambiente, o que os torna muito sensíveis a poluentes. Por isso, uma queda na população de anfíbios em uma região pode indicar problemas na qualidade ambiental."
+  },
+  {
+    "id": "cie-244",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Clima x tempo",
+    "pergunta": "Qual é a diferença entre clima e tempo (meteorológico), dois conceitos frequentemente confundidos?",
+    "alternativas": [
+      "Tempo se refere às condições atmosféricas em curto prazo em um local, enquanto clima é o padrão médio dessas condições ao longo de muitos anos",
+      "Clima se refere apenas a um único dia, e tempo a vários anos",
+      "Tempo é medido apenas nos polos, e clima apenas no equador",
+      "Não há diferença: são sinônimos"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O tempo meteorológico descreve as condições atmosféricas (temperatura, chuva, vento) em um curto período, como um dia. Já o clima representa o padrão médio dessas condições em uma região, observado ao longo de muitos anos."
+  },
+  {
+    "id": "cie-245",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Impacto ambiental da energia eólica",
+    "pergunta": "Apesar de ser uma fonte de energia limpa, qual é um possível impacto ambiental negativo associado a parques eólicos?",
+    "alternativas": [
+      "A produção de resíduos radioativos",
+      "O esgotamento do vento como recurso natural",
+      "A emissão de grandes quantidades de gás carbônico durante a operação",
+      "O risco de colisão de aves e morcegos com as pás dos aerogeradores"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Embora a energia eólica não emita gases poluentes durante sua operação, um dos impactos ambientais associados é o risco de colisão de aves e morcegos com as pás dos aerogeradores, o que exige estudos e cuidados no planejamento dos parques eólicos."
+  },
+  {
+    "id": "cie-246",
+    "materia": "ciencias",
+    "topico": "Nutrição - Obesidade e sedentarismo",
+    "pergunta": "Qual é uma das principais causas do aumento dos casos de obesidade infantil nas últimas décadas?",
+    "alternativas": [
+      "A prática excessiva de esportes",
+      "O consumo elevado de água",
+      "O aumento do consumo de frutas e verduras",
+      "A combinação de alimentação rica em ultraprocessados e a redução da prática de atividades físicas (sedentarismo)"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O aumento da obesidade infantil está frequentemente relacionado ao consumo elevado de alimentos ultraprocessados, ricos em açúcar e gordura, combinado com a redução de atividades físicas, substituídas por hábitos mais sedentários, como o uso excessivo de telas."
+  },
+  {
+    "id": "cie-247",
+    "materia": "ciencias",
+    "topico": "Nutrição - Importância da água",
+    "pergunta": "Além de matar a sede, qual é uma importante função da água no organismo humano?",
+    "alternativas": [
+      "Servir exclusivamente como lubrificante para os ossos",
+      "Fornecer grande quantidade de energia calórica",
+      "Participar de praticamente todas as funções do corpo, como transporte de nutrientes, regulação da temperatura e eliminação de resíduos",
+      "Substituir totalmente a necessidade de vitaminas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A água é essencial para praticamente todas as funções do corpo, participando do transporte de nutrientes e substâncias pelo sangue, da regulação da temperatura corporal (por meio do suor) e da eliminação de resíduos pela urina, entre outras funções vitais."
+  },
+  {
+    "id": "cie-248",
+    "materia": "ciencias",
+    "topico": "Nutrição - Rotulagem nutricional",
+    "pergunta": "Para que serve a tabela de informação nutricional presente nos rótulos de alimentos industrializados?",
+    "alternativas": [
+      "Para substituir a necessidade de orientação de um nutricionista em qualquer situação",
+      "Para informar apenas o preço do produto",
+      "Para informar a quantidade de nutrientes, como calorias, carboidratos, proteínas, gorduras e sódio, presentes no alimento",
+      "Para indicar exclusivamente a data de fabricação"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A tabela de informação nutricional informa a quantidade de calorias e nutrientes (como carboidratos, proteínas, gorduras, fibras e sódio) presentes em uma porção do alimento, ajudando o consumidor a fazer escolhas alimentares mais conscientes."
+  },
+  {
+    "id": "cie-249",
+    "materia": "ciencias",
+    "topico": "Nutrição - Alimentos ultraprocessados",
+    "pergunta": "O que caracteriza os alimentos ultraprocessados, como salgadinhos, refrigerantes e biscoitos recheados?",
+    "alternativas": [
+      "São sempre mais nutritivos que alimentos in natura",
+      "São produzidos exclusivamente com ingredientes frescos e naturais",
+      "Não contêm nenhum tipo de conservante",
+      "São produtos fabricados a partir de vários ingredientes industriais, muitas vezes com excesso de açúcar, gordura, sódio e aditivos químicos"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Alimentos ultraprocessados passam por diversas etapas industriais e geralmente contêm muitos ingredientes, incluindo açúcares, gorduras, sódio e aditivos artificiais, sendo o consumo excessivo associado a maior risco de obesidade e outras doenças."
+  },
+  {
+    "id": "cie-250",
+    "materia": "ciencias",
+    "topico": "Nutrição - Açúcar em excesso",
+    "pergunta": "O consumo excessivo de açúcar na alimentação está associado ao maior risco de quais problemas de saúde?",
+    "alternativas": [
+      "Obesidade, cáries dentárias e maior risco de desenvolver diabetes tipo 2",
+      "Melhora da visão noturna",
+      "Aumento da densidade óssea",
+      "Fortalecimento automático do sistema imunológico"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O consumo excessivo de açúcar está relacionado ao ganho de peso e à obesidade, à formação de cáries (pois alimenta as bactérias da boca) e a um maior risco de desenvolver diabetes tipo 2 ao longo da vida, entre outros problemas de saúde."
+  },
+  {
+    "id": "cie-251",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Sistema linfático",
+    "pergunta": "Qual é uma das principais funções do sistema linfático no corpo humano?",
+    "alternativas": [
+      "Produzir o suco gástrico",
+      "Realizar a fotossíntese celular",
+      "Bombear sangue diretamente para os pulmões",
+      "Ajudar na defesa do organismo e no equilíbrio de líquidos, coletando o excesso de fluido dos tecidos"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O sistema linfático coleta o excesso de líquido dos tecidos do corpo, filtra substâncias estranhas por meio dos linfonodos e participa da produção de células de defesa, trabalhando em conjunto com o sistema imunológico."
+  },
+  {
+    "id": "cie-252",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Baço",
+    "pergunta": "Qual é uma das funções do baço no corpo humano?",
+    "alternativas": [
+      "Digerir proteínas no estômago",
+      "Controlar os batimentos cardíacos",
+      "Produzir a urina",
+      "Filtrar o sangue, removendo células sanguíneas velhas ou danificadas, e auxiliar na defesa do organismo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O baço atua filtrando o sangue, removendo hemácias velhas ou defeituosas, além de armazenar células de defesa e ajudar o corpo a combater infecções, sendo parte importante do sistema imunológico e circulatório."
+  },
+  {
+    "id": "cie-253",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Medula óssea",
+    "pergunta": "Qual é a principal função da medula óssea, tecido encontrado no interior de certos ossos?",
+    "alternativas": [
+      "Digerir os alimentos",
+      "Armazenar o ar inspirado",
+      "Produzir a saliva",
+      "Produzir a maior parte das células sanguíneas do corpo, como hemácias, leucócitos e plaquetas"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A medula óssea, presente no interior de ossos como o fêmur e o esterno, é o principal local de produção das células sanguíneas: hemácias, leucócitos e plaquetas, um processo chamado hematopoese."
+  },
+  {
+    "id": "cie-254",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Fator Rh",
+    "pergunta": "Além do sistema ABO, o sangue humano também é classificado quanto ao fator Rh. O que indica quando uma pessoa é 'Rh positivo'?",
+    "alternativas": [
+      "Que a pessoa não pode receber nenhuma transfusão de sangue",
+      "Que a pessoa possui apenas glóbulos brancos no sangue",
+      "Que a pessoa não possui nenhum tipo sanguíneo definido",
+      "Que a pessoa possui uma proteína específica (antígeno Rh) na superfície das hemácias"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O fator Rh se refere à presença (Rh positivo) ou ausência (Rh negativo) de uma proteína específica, o antígeno Rh, na superfície das hemácias. Essa classificação é importante, junto ao sistema ABO, para garantir a compatibilidade em transfusões de sangue."
+  },
+  {
+    "id": "cie-255",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Pressão arterial",
+    "pergunta": "O que a medida da pressão arterial representa, quando o médico verifica, por exemplo, '12 por 8'?",
+    "alternativas": [
+      "A força exercida pelo sangue contra as paredes das artérias durante os batimentos do coração",
+      "A temperatura do sangue",
+      "A quantidade de oxigênio dissolvido no sangue",
+      "A quantidade de glóbulos vermelhos no sangue"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A pressão arterial mede a força que o sangue exerce contra as paredes das artérias, sendo composta por dois valores: a pressão sistólica (quando o coração se contrai) e a diastólica (quando o coração relaxa entre os batimentos)."
+  },
+  {
+    "id": "cie-256",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Colesterol",
+    "pergunta": "Por que o excesso de colesterol 'ruim' (LDL) no sangue é considerado prejudicial à saúde?",
+    "alternativas": [
+      "Porque melhora a digestão dos alimentos",
+      "Porque ele fortalece automaticamente o sistema imunológico",
+      "Porque pode se acumular nas paredes das artérias, formando placas que dificultam a circulação do sangue",
+      "Porque reduz a produção de hemácias"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O excesso de colesterol LDL (chamado de colesterol 'ruim') pode se depositar nas paredes internas das artérias, formando placas de gordura que estreitam os vasos sanguíneos, dificultando a circulação e aumentando o risco de doenças cardiovasculares."
+  },
+  {
+    "id": "cie-257",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Infarto do miocárdio",
+    "pergunta": "O infarto do miocárdio ocorre principalmente devido a qual problema?",
+    "alternativas": [
+      "A falta de ar causada por asma",
+      "O excesso de vitamina C no organismo",
+      "O aumento excessivo da produção de saliva",
+      "A obstrução de uma artéria que leva sangue ao próprio coração, interrompendo o fornecimento de oxigênio a parte do músculo cardíaco"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O infarto do miocárdio acontece quando uma artéria coronária, responsável por levar sangue ao coração, fica obstruída (geralmente por uma placa de gordura), interrompendo o fornecimento de oxigênio a uma parte do músculo cardíaco, que pode ser danificada."
+  },
+  {
+    "id": "cie-258",
+    "materia": "ciencias",
+    "topico": "Corpo humano - AVC",
+    "pergunta": "O Acidente Vascular Cerebral (AVC) ocorre quando há:",
+    "alternativas": [
+      "O crescimento normal dos ossos do crânio",
+      "A digestão inadequada de gorduras",
+      "Interrupção do fluxo sanguíneo para uma parte do cérebro, seja por obstrução ou rompimento de um vaso sanguíneo",
+      "Um simples resfriado comum"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O AVC ocorre quando o fluxo sanguíneo para uma região do cérebro é interrompido, seja pela obstrução de um vaso (AVC isquêmico) ou pelo rompimento de um vaso sanguíneo (AVC hemorrágico), o que pode causar danos às células cerebrais dessa área."
+  },
+  {
+    "id": "cie-259",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Diabetes tipo 1 e tipo 2",
+    "pergunta": "Qual é uma diferença comum entre o diabetes tipo 1 e o diabetes tipo 2?",
+    "alternativas": [
+      "O diabetes tipo 2 ocorre exclusivamente em crianças pequenas",
+      "O diabetes tipo 1 é causado apenas pelo excesso de açúcar na dieta",
+      "O diabetes tipo 1 geralmente está associado à ausência de produção de insulina pelo pâncreas, enquanto o tipo 2 está mais associado à resistência do corpo à ação da insulina, frequentemente ligada a hábitos de vida",
+      "Não existe nenhuma diferença entre os dois tipos"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "No diabetes tipo 1, o pâncreas geralmente para de produzir insulina, muitas vezes por uma reação do próprio sistema imunológico. Já no diabetes tipo 2, mais comum em adultos, o corpo produz insulina, mas as células respondem menos a ela (resistência à insulina), frequentemente associado a fatores como obesidade e sedentarismo."
+  },
+  {
+    "id": "cie-260",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Tabagismo",
+    "pergunta": "Qual é um dos principais efeitos do tabagismo sobre o sistema respiratório?",
+    "alternativas": [
+      "Aumenta a produção de oxigênio pelo corpo",
+      "Melhora a capacidade dos pulmões de realizar trocas gasosas",
+      "Danifica os alvéolos pulmonares e os cílios das vias respiratórias, aumentando o risco de doenças como bronquite crônica e câncer de pulmão",
+      "Fortalece as cordas vocais"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As substâncias presentes na fumaça do cigarro danificam os alvéolos pulmonares e destroem os cílios que protegem as vias respiratórias, aumentando significativamente o risco de doenças como bronquite crônica, enfisema pulmonar e câncer de pulmão."
+  },
+  {
+    "id": "cie-261",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Efeitos do álcool no corpo",
+    "pergunta": "O consumo excessivo e prolongado de bebidas alcoólicas pode causar danos importantes principalmente a quais órgãos?",
+    "alternativas": [
+      "Apenas às unhas",
+      "Exclusivamente ao sistema excretor, sem afetar outros órgãos",
+      "Ao fígado e ao sistema nervoso",
+      "Exclusivamente aos ossos"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O consumo excessivo de álcool pode causar sérios danos ao fígado (como a cirrose) e ao sistema nervoso, além de afetar o julgamento, os reflexos e a coordenação motora, sendo especialmente prejudicial durante a adolescência, fase de desenvolvimento do organismo."
+  },
+  {
+    "id": "cie-262",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Importância do sono",
+    "pergunta": "Por que dormir bem é fundamental para a saúde, especialmente durante a infância e a adolescência?",
+    "alternativas": [
+      "Porque o sono serve apenas para passar o tempo",
+      "Porque o sono não tem nenhuma relação com a saúde do corpo",
+      "Porque durante o sono ocorrem processos importantes de recuperação do corpo, consolidação da memória e liberação de hormônios do crescimento",
+      "Porque dormir aumenta diretamente o risco de doenças"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Durante o sono, o corpo realiza importantes processos de recuperação física, o cérebro consolida memórias e aprendizados, e há liberação de hormônios essenciais para o crescimento, principalmente durante a infância e a adolescência."
+  },
+  {
+    "id": "cie-263",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Postura e mochilas escolares",
+    "pergunta": "Por que carregar uma mochila escolar muito pesada, ou de forma inadequada, pode prejudicar a saúde da coluna vertebral de crianças e adolescentes?",
+    "alternativas": [
+      "Porque não existe nenhum risco relacionado ao peso das mochilas",
+      "Porque isso afeta exclusivamente a visão",
+      "Porque mochilas sempre fortalecem a coluna, independentemente do peso",
+      "Porque o peso excessivo mal distribuído pode forçar a coluna, contribuindo para dores e má postura ao longo do tempo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Mochilas muito pesadas ou carregadas de forma incorreta (como em apenas um ombro) podem sobrecarregar a coluna vertebral, favorecendo dores nas costas e má postura, por isso recomenda-se usar as duas alças e evitar excesso de peso."
+  },
+  {
+    "id": "cie-264",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Exposição solar e câncer de pele",
+    "pergunta": "A exposição excessiva e sem proteção aos raios ultravioleta do Sol está diretamente relacionada a qual risco para a saúde da pele?",
+    "alternativas": [
+      "O fortalecimento automático do sistema imunológico",
+      "A cura de doenças respiratórias",
+      "A redução do risco de câncer de pele",
+      "O aumento do risco de câncer de pele e envelhecimento precoce da pele"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A exposição excessiva à radiação ultravioleta do Sol, sem proteção adequada como protetor solar, aumenta o risco de danos às células da pele, podendo causar queimaduras, envelhecimento precoce e maior risco de desenvolver câncer de pele."
+  },
+  {
+    "id": "cie-265",
+    "materia": "ciencias",
+    "topico": "Corpo humano - Imunização coletiva",
+    "pergunta": "O que é a chamada 'imunidade de rebanho' (ou imunização coletiva), relacionada à vacinação em larga escala de uma população?",
+    "alternativas": [
+      "Quando uma grande parte da população está imunizada contra uma doença, dificultando sua propagação e protegendo indiretamente quem não pode ser vacinado",
+      "Quando ninguém em uma comunidade é vacinado",
+      "Quando a vacinação é obrigatória apenas para idosos",
+      "Quando apenas animais são vacinados contra doenças"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A imunidade de rebanho ocorre quando uma parcela suficientemente grande da população está imunizada (por vacinação ou infecção anterior) contra uma doença, o que reduz sua circulação e ajuda a proteger indiretamente pessoas que não podem ser vacinadas, como bebês muito pequenos ou pessoas imunossuprimidas."
+  },
+  {
+    "id": "cie-266",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Acordo de Paris",
+    "pergunta": "O Acordo de Paris, firmado por diversos países em 2015, tem como principal objetivo:",
+    "alternativas": [
+      "Proibir totalmente o uso de qualquer fonte de energia",
+      "Regular exclusivamente o comércio de produtos agrícolas",
+      "Aumentar livremente a emissão de gases do efeito estufa por qualquer país",
+      "Estabelecer metas internacionais para limitar o aumento da temperatura média global e reduzir as emissões de gases do efeito estufa"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O Acordo de Paris é um tratado internacional no qual diversos países se comprometeram a adotar medidas para limitar o aumento da temperatura média global, reduzindo as emissões de gases do efeito estufa, como forma de conter as mudanças climáticas."
+  },
+  {
+    "id": "cie-267",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Pegada ecológica",
+    "pergunta": "O que representa o conceito de 'pegada ecológica' de uma pessoa ou de um país?",
+    "alternativas": [
+      "O tamanho literal dos pés de uma pessoa",
+      "A quantidade de água doce disponível em um território",
+      "A quantidade de espécies animais extintas em um território",
+      "Uma medida do impacto ambiental gerado pelo consumo de recursos naturais e pela geração de resíduos"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A pegada ecológica é um indicador que estima a área de terra e água necessária para produzir os recursos consumidos por uma pessoa, cidade ou país, e para absorver os resíduos gerados, refletindo o impacto ambiental desse consumo."
+  },
+  {
+    "id": "cie-268",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Manguezais",
+    "pergunta": "Os manguezais, ecossistemas costeiros encontrados na transição entre o ambiente terrestre e o marinho, são importantes principalmente porque:",
+    "alternativas": [
+      "Impedem totalmente a existência de peixes na região",
+      "Não abrigam nenhuma forma de vida",
+      "Servem de berçário para diversas espécies marinhas e protegem a costa contra erosão",
+      "Aumentam a poluição da água do mar"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Os manguezais são ecossistemas ricos em biodiversidade que funcionam como berçário para diversas espécies de peixes, crustáceos e moluscos, além de proteger a linha costeira contra a erosão e ajudar a filtrar poluentes antes que cheguem ao mar."
+  },
+  {
+    "id": "cie-269",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Desertificação",
+    "pergunta": "A desertificação, processo de degradação de solos em regiões áridas e semiáridas, pode ser agravada por qual atividade humana?",
+    "alternativas": [
+      "A redução do uso de agrotóxicos",
+      "O reflorestamento excessivo",
+      "O desmatamento, o superpastoreio e práticas agrícolas inadequadas, que degradam a vegetação e o solo",
+      "A criação de unidades de conservação"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A desertificação pode ser intensificada por atividades humanas como o desmatamento, o pastoreio excessivo de animais e práticas agrícolas inadequadas, que degradam a vegetação protetora do solo, tornando regiões áridas e semiáridas ainda mais suscetíveis à perda de fertilidade."
+  },
+  {
+    "id": "cie-270",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Erosão costeira",
+    "pergunta": "A retirada da vegetação natural de dunas e restingas ao longo do litoral pode contribuir para qual problema ambiental?",
+    "alternativas": [
+      "O aumento imediato da biodiversidade marinha",
+      "A formação de novos recifes de coral",
+      "O aumento da erosão costeira, deixando a costa mais vulnerável à ação das ondas e do vento",
+      "A redução da erosão costeira"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A vegetação de dunas e restingas ajuda a fixar a areia e proteger a costa. Quando é retirada, o solo fica mais exposto à ação das ondas e do vento, aumentando o risco de erosão costeira e a perda de áreas litorâneas."
+  },
+  {
+    "id": "cie-271",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Tartarugas marinhas",
+    "pergunta": "As tartarugas marinhas, algumas espécies ameaçadas de extinção no litoral brasileiro, enfrentam qual ameaça relacionada à poluição dos oceanos?",
+    "alternativas": [
+      "Nenhuma ameaça relacionada à poluição",
+      "A redução da temperatura da água do mar",
+      "O aumento da quantidade de algas em seu habitat",
+      "A ingestão de sacolas plásticas, que podem ser confundidas com águas-vivas, seu alimento natural"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As tartarugas marinhas frequentemente confundem sacolas e outros fragmentos de plástico flutuando na água com águas-vivas, seu alimento natural, e podem ingeri-los, o que causa sérios problemas de saúde e pode levá-las à morte."
+  },
+  {
+    "id": "cie-272",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Baleias e conservação",
+    "pergunta": "A caça comercial de baleias, que reduziu drasticamente as populações de várias espécies no século XX, levou à criação de qual tipo de medida internacional de proteção?",
+    "alternativas": [
+      "A proibição da observação de baleias em seu habitat natural",
+      "O incentivo à caça em maior escala",
+      "Uma moratória internacional que proibiu a caça comercial de baleias na maioria dos países",
+      "A extinção proposital de todas as espécies de baleias"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Diante da drástica redução das populações de baleias causada pela caça comercial, a Comissão Baleeira Internacional estabeleceu uma moratória que proibiu a caça comercial na maioria dos países, ajudando na recuperação de algumas espécies."
+  },
+  {
+    "id": "cie-273",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Unidades de proteção integral e uso sustentável",
+    "pergunta": "Qual é a diferença entre uma unidade de conservação de proteção integral e uma de uso sustentável?",
+    "alternativas": [
+      "O uso sustentável proíbe totalmente a presença de seres humanos",
+      "Não existe diferença entre esses dois tipos de unidades",
+      "Na proteção integral, o uso direto dos recursos naturais é muito restrito, enquanto na de uso sustentável é permitida a exploração controlada dos recursos",
+      "A proteção integral permite qualquer tipo de exploração comercial"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Nas unidades de proteção integral, como parques nacionais, o objetivo principal é preservar a natureza com uso indireto (como pesquisa e turismo ecológico), sendo restrita a exploração de recursos. Já nas unidades de uso sustentável, é permitida a exploração controlada dos recursos naturais, conciliando conservação e uso econômico."
+  },
+  {
+    "id": "cie-274",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Extrativismo sustentável",
+    "pergunta": "O extrativismo sustentável, como a coleta de látex da seringueira ou de castanha-do-pará na Amazônia, é considerado uma prática ambientalmente positiva porque:",
+    "alternativas": [
+      "Elimina toda a biodiversidade da região explorada",
+      "Substitui totalmente a necessidade de áreas protegidas",
+      "Exige a derrubada total das árvores para a coleta dos produtos",
+      "Permite gerar renda para comunidades locais sem a necessidade de desmatar a floresta, mantendo-a em pé"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "No extrativismo sustentável, produtos como látex, castanhas e frutos são coletados sem a necessidade de derrubar as árvores, permitindo que comunidades locais obtenham renda enquanto a floresta permanece preservada, o que é uma alternativa ao desmatamento para uso agropecuário."
+  },
+  {
+    "id": "cie-275",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Terras indígenas e conservação",
+    "pergunta": "Estudos mostram que áreas de terras indígenas frequentemente apresentam índices de desmatamento menores do que áreas ao redor. Isso está relacionado principalmente a:",
+    "alternativas": [
+      "A ausência total de qualquer forma de vida nessas áreas",
+      "A inexistência de fiscalização nessas áreas",
+      "A proibição total de qualquer atividade humana nessas terras",
+      "Práticas tradicionais de manejo sustentável e à proteção exercida pelos povos indígenas sobre seus territórios"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Muitos povos indígenas mantêm práticas tradicionais de manejo sustentável dos recursos naturais e atuam na proteção de seus territórios, o que contribui para que as terras indígenas frequentemente apresentem índices de desmatamento e degradação ambiental menores do que áreas vizinhas."
+  },
+  {
+    "id": "cie-276",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Transporte público e emissões",
+    "pergunta": "Por que o uso de transporte público ou bicicleta, em vez de carros individuais, é frequentemente incentivado como prática sustentável nas cidades?",
+    "alternativas": [
+      "Porque tende a reduzir a emissão de poluentes e gases do efeito estufa por pessoa transportada, além de diminuir congestionamentos",
+      "Porque não traz nenhum benefício ambiental",
+      "Porque elimina totalmente a necessidade de energia",
+      "Porque aumenta a quantidade de poluentes emitidos por pessoa transportada"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O transporte público e a bicicleta permitem transportar mais pessoas com menor emissão de poluentes e gases do efeito estufa por passageiro, em comparação ao uso individual de carros, além de ajudarem a reduzir congestionamentos e a poluição do ar nas cidades."
+  },
+  {
+    "id": "cie-277",
+    "materia": "ciencias",
+    "topico": "Energia - Hidrogênio verde",
+    "pergunta": "O chamado 'hidrogênio verde', apontado como uma fonte de energia promissora para o futuro, é produzido principalmente por meio de:",
+    "alternativas": [
+      "Extração direta de poços de petróleo",
+      "Fissão nuclear de átomos de urânio",
+      "Queima direta de carvão mineral",
+      "Um processo (eletrólise) que separa a água em hidrogênio e oxigênio, utilizando eletricidade proveniente de fontes renováveis"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O hidrogênio verde é obtido pela eletrólise da água (separação em hidrogênio e oxigênio) utilizando eletricidade gerada por fontes renováveis, como solar e eólica, resultando em um combustível que, ao ser usado, não emite gases poluentes."
+  },
+  {
+    "id": "cie-278",
+    "materia": "ciencias",
+    "topico": "Energia - Usinas termoelétricas",
+    "pergunta": "Como as usinas termoelétricas tradicionais, movidas a carvão ou gás natural, geram eletricidade?",
+    "alternativas": [
+      "Queimando combustíveis para produzir calor, que aquece água e gera vapor capaz de movimentar turbinas conectadas a geradores",
+      "Utilizando apenas a luz solar diretamente",
+      "Aproveitando o movimento das marés",
+      "Utilizando exclusivamente a força do vento"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Nas usinas termoelétricas, a queima de combustíveis (como carvão, gás natural ou óleo) gera calor, que é usado para aquecer água e produzir vapor. Esse vapor movimenta turbinas conectadas a geradores, que produzem eletricidade."
+  },
+  {
+    "id": "cie-279",
+    "materia": "ciencias",
+    "topico": "Energia - Matriz energética brasileira",
+    "pergunta": "Diferentemente de muitos outros países, qual fonte de energia representa historicamente a maior parte da geração de eletricidade no Brasil?",
+    "alternativas": [
+      "Carvão mineral",
+      "Energia eólica",
+      "Energia nuclear",
+      "Energia hidrelétrica"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O Brasil possui uma matriz elétrica com forte predomínio de fontes renováveis, sendo a energia hidrelétrica historicamente a principal fonte de geração de eletricidade do país, devido à grande quantidade de rios com potencial para a construção de usinas."
+  },
+  {
+    "id": "cie-280",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Maior floresta tropical do mundo",
+    "pergunta": "A Floresta Amazônica é considerada a maior floresta tropical úmida contígua do mundo. Além do Brasil, ela se estende por quais outros territórios da América do Sul?",
+    "alternativas": [
+      "Ela se estende também por outros países da América do Sul, como Peru, Colômbia e Bolívia",
+      "Ela se estende apenas até a Argentina",
+      "Ela ocupa todo o continente americano",
+      "Ela existe exclusivamente em território brasileiro"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Apesar de a maior parte estar em território brasileiro, a Floresta Amazônica se estende por outros países sul-americanos, como Peru, Colômbia, Bolívia, Equador, Venezuela, Guiana, Suriname e Guiana Francesa, formando a maior floresta tropical contígua do planeta."
+  },
+  {
+    "id": "cie-281",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Anel de Fogo do Pacífico",
+    "pergunta": "O que é o 'Anel de Fogo do Pacífico', região conhecida pela intensa atividade vulcânica e sísmica?",
+    "alternativas": [
+      "Uma faixa ao redor do Oceano Pacífico onde se concentra grande parte dos vulcões e terremotos do mundo, devido ao encontro de diversas placas tectônicas",
+      "Um fenômeno relacionado apenas às marés altas",
+      "Uma corrente marítima quente que circula o planeta",
+      "Uma camada da atmosfera terrestre"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Anel de Fogo do Pacífico é uma extensa região que contorna o Oceano Pacífico, onde se concentram diversas fronteiras de placas tectônicas, resultando em intensa atividade vulcânica e grande número de terremotos, incluindo áreas do Japão, Chile e costa oeste dos Estados Unidos."
+  },
+  {
+    "id": "cie-282",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Tsunami",
+    "pergunta": "Um tsunami, onda gigante que pode causar grande destruição em áreas costeiras, é frequentemente causado por:",
+    "alternativas": [
+      "O aumento gradual da maré ao longo do dia",
+      "A poluição da água do mar",
+      "Ventos fortes na superfície do oceano apenas",
+      "Terremotos submarinos ou outros deslocamentos bruscos do fundo do oceano, que deslocam grande volume de água"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Os tsunamis são geralmente causados por terremotos submarinos que deslocam bruscamente grandes volumes de água, gerando ondas que se propagam pelo oceano e podem se tornar extremamente destrutivas ao atingir a costa."
+  },
+  {
+    "id": "cie-283",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Dorsal oceânica",
+    "pergunta": "As dorsais oceânicas, como a Dorsal Mesoatlântica, são formações geológicas que ocorrem principalmente em qual tipo de limite entre placas tectônicas?",
+    "alternativas": [
+      "Limites divergentes, onde o magma sobe e forma nova crosta oceânica",
+      "Limites transformantes apenas",
+      "Regiões sem nenhuma atividade tectônica",
+      "Limites convergentes"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "As dorsais oceânicas se formam em limites divergentes, onde as placas tectônicas se afastam e o magma sobe pelo fundo do oceano, solidificando-se e formando novas cadeias de montanhas submarinas ao longo do afastamento das placas."
+  },
+  {
+    "id": "cie-284",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Formação do carvão mineral",
+    "pergunta": "O carvão mineral, combustível fóssil não renovável, se forma principalmente a partir de:",
+    "alternativas": [
+      "Restos de plantas soterradas e compactadas ao longo de milhões de anos, sob condições específicas de calor e pressão",
+      "Restos de animais marinhos soterrados no fundo dos oceanos",
+      "A cristalização direta de minerais metálicos",
+      "O resfriamento de lava vulcânica"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O carvão mineral se forma a partir do soterramento e compactação de restos de vegetais ao longo de milhões de anos, sob condições de calor e pressão que transformam gradualmente a matéria orgânica vegetal em carvão."
+  },
+  {
+    "id": "cie-285",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Formação do petróleo",
+    "pergunta": "O petróleo, diferentemente do carvão mineral, se forma principalmente a partir de:",
+    "alternativas": [
+      "Cristais de sal acumulados no fundo do oceano",
+      "Restos exclusivamente de grandes árvores terrestres",
+      "Água do mar evaporada",
+      "Restos de organismos marinhos microscópicos, como o plâncton, acumulados e transformados ao longo de milhões de anos"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O petróleo se origina principalmente da decomposição de organismos marinhos microscópicos, como o plâncton, que se acumularam no fundo de antigos mares e, sob calor e pressão ao longo de milhões de anos, se transformaram nesse combustível fóssil."
+  },
+  {
+    "id": "cie-286",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Solo fértil e húmus",
+    "pergunta": "Por que solos ricos em húmus, matéria orgânica em decomposição, costumam ser mais férteis para a agricultura?",
+    "alternativas": [
+      "Porque o húmus fornece nutrientes importantes às plantas e melhora a estrutura e a retenção de água do solo",
+      "Porque o húmus impede totalmente a absorção de água pelas raízes",
+      "Porque o húmus é composto exclusivamente por rochas",
+      "Porque o húmus elimina qualquer microrganismo do solo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O húmus, formado pela decomposição de matéria orgânica, enriquece o solo com nutrientes essenciais para as plantas, além de melhorar sua estrutura, capacidade de retenção de água e de abrigar microrganismos benéficos, tornando-o mais fértil."
+  },
+  {
+    "id": "cie-287",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Erosão eólica",
+    "pergunta": "A erosão eólica, um dos processos que desgastam o solo e as rochas, é causada principalmente pela ação de:",
+    "alternativas": [
+      "Correntes elétricas na atmosfera",
+      "Águas subterrâneas",
+      "Organismos decompositores",
+      "Ventos, que carregam partículas de solo e rocha, desgastando superfícies ao longo do tempo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A erosão eólica é causada pela ação do vento, que transporta partículas de areia e poeira, desgastando rochas e solos ao longo do tempo, sendo mais intensa em regiões áridas ou com pouca cobertura vegetal, como desertos."
+  },
+  {
+    "id": "cie-288",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Erosão hídrica",
+    "pergunta": "A erosão hídrica, causada principalmente pela ação da água da chuva e dos rios, é intensificada especialmente em terrenos:",
+    "alternativas": [
+      "Sem cobertura vegetal e com relevo inclinado, onde a água escoa com mais força, carregando partículas do solo",
+      "Completamente planos e cobertos por gelo permanente",
+      "Localizados exclusivamente no fundo do oceano",
+      "Com vegetação densa e raízes que fixam o solo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A erosão hídrica é intensificada em terrenos sem cobertura vegetal (que normalmente protege e fixa o solo) e com relevo inclinado, pois a água da chuva escoa com mais força e velocidade, carregando consigo partículas de solo e agravando o desgaste."
+  },
+  {
+    "id": "cie-289",
+    "materia": "ciencias",
+    "topico": "Terra e Universo - Atividade sísmica no Brasil",
+    "pergunta": "Por que o Brasil apresenta relativamente poucos terremotos de grande magnitude, se comparado a países como Japão e Chile?",
+    "alternativas": [
+      "Porque a maior parte do território brasileiro está localizada no interior de uma placa tectônica (a Placa Sul-Americana), longe das bordas mais ativas entre placas",
+      "Porque o Brasil não possui nenhuma atividade geológica",
+      "Porque o Brasil fica localizado sobre um vulcão ativo permanentemente",
+      "Porque o Brasil está localizado próximo ao Anel de Fogo do Pacífico"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O território brasileiro está localizado majoritariamente no interior da Placa Sul-Americana, longe das bordas onde as placas tectônicas colidem, se afastam ou deslizam entre si, regiões com maior atividade sísmica. Por isso, o Brasil registra terremotos geralmente de menor magnitude e com menos frequência."
+  },
+  {
+    "id": "cie-290",
+    "materia": "ciencias",
+    "topico": "Meio ambiente - Bioma mundial (taiga)",
+    "pergunta": "A taiga, também chamada de floresta boreal, encontrada em regiões frias do Hemisfério Norte, é caracterizada principalmente por:",
+    "alternativas": [
+      "Grandes áreas de florestas de coníferas (como pinheiros), adaptadas a invernos longos e rigorosos",
+      "Predomínio de vegetação rasteira tropical",
+      "Vegetação típica de desertos quentes",
+      "Recifes de coral em águas rasas"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A taiga (ou floresta boreal) é dominada por árvores coníferas, como pinheiros e abetos, adaptadas para suportar invernos longos, frios e com neve, sendo o maior bioma florestal terrestre do planeta, encontrado principalmente na Rússia, no Canadá e nos países escandinavos."
+  },
+  {
+    "id": "cie-291",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Ecolocalização",
+    "pergunta": "Morcegos e golfinhos usam a ecolocalização (ou ecolocação) principalmente para:",
+    "alternativas": [
+      "Orientar-se e localizar presas ou obstáculos por meio da emissão de sons e da interpretação do eco que retorna",
+      "Regular a temperatura do corpo",
+      "Se comunicar exclusivamente com plantas",
+      "Produzir seu próprio alimento por fotossíntese"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Na ecolocalização, o animal emite sons (muitas vezes em frequências que os humanos não conseguem ouvir) que se propagam pelo ambiente e retornam como eco ao atingir objetos ou presas, permitindo ao animal 'enxergar' por meio do som, útil especialmente em ambientes escuros ou na água."
+  },
+  {
+    "id": "cie-292",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Liquens",
+    "pergunta": "Os liquens, organismos frequentemente encontrados sobre rochas e troncos de árvores, resultam de qual tipo de associação biológica?",
+    "alternativas": [
+      "Uma espécie única de planta com flores",
+      "Um mineral formado por processos geológicos",
+      "Um tipo de animal invertebrado solitário",
+      "Uma associação mutualística entre um fungo e uma alga (ou cianobactéria)"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Os liquens resultam de uma associação mutualística entre um fungo e uma alga (ou cianobactéria): o fungo fornece proteção e absorve água e minerais, enquanto a alga (ou cianobactéria), por meio da fotossíntese, fornece nutrientes orgânicos para ambos."
+  },
+  {
+    "id": "cie-293",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Polinização",
+    "pergunta": "Além dos animais, como abelhas e beija-flores, algumas plantas dependem de qual outro agente natural para realizar a polinização?",
+    "alternativas": [
+      "Do vento, que carrega os grãos de pólen de uma flor a outra",
+      "Exclusivamente da água do subsolo",
+      "Da luz da lua",
+      "Do gelo das geleiras"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Além da polinização realizada por animais (polinização biótica), muitas plantas, como gramíneas e algumas árvores, dependem do vento para transportar o pólen entre as flores, processo conhecido como polinização anemófila (pelo vento)."
+  },
+  {
+    "id": "cie-294",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Dispersão de sementes",
+    "pergunta": "Muitas frutas coloridas e saborosas atraem animais que, ao comê-las, ajudam a dispersar as sementes das plantas. Qual é a vantagem dessa estratégia para a planta?",
+    "alternativas": [
+      "Permitir que as sementes sejam transportadas para longe da planta original, aumentando as chances de germinação em novos locais, com menos competição",
+      "Fazer com que a planta pare de produzir flores",
+      "Reduzir a quantidade de frutos produzidos pela planta",
+      "Impedir totalmente a germinação das sementes"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Quando animais comem frutos e depois eliminam as sementes (que muitas vezes resistem à digestão) em locais distantes da planta-mãe, isso ajuda a dispersar as sementes, reduzindo a competição entre plantas da mesma espécie e aumentando as chances de sobrevivência em novos ambientes."
+  },
+  {
+    "id": "cie-295",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Germinação",
+    "pergunta": "Quais são as condições geralmente necessárias para que uma semente germine e comece a se desenvolver em uma nova planta?",
+    "alternativas": [
+      "Água, temperatura adequada e, geralmente, oxigênio",
+      "Escuridão absoluta e ausência total de água",
+      "Apenas luz solar direta, sem necessidade de água",
+      "Congelamento completo da semente"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Para germinar, a maioria das sementes precisa de água (que ativa processos internos), temperatura adequada (nem muito fria nem muito quente) e oxigênio disponível, condições que permitem o desenvolvimento do embrião contido na semente."
+  },
+  {
+    "id": "cie-296",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Metamorfose completa das borboletas",
+    "pergunta": "Qual é a sequência correta das fases do ciclo de vida de uma borboleta, um exemplo de metamorfose completa?",
+    "alternativas": [
+      "Ovo, larva (lagarta), pupa (crisálida) e adulto (borboleta)",
+      "Pupa, ovo, adulto e larva",
+      "Adulto, ovo, pupa e larva",
+      "Larva, adulto, ovo e pupa"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "No ciclo de vida da borboleta, ocorre metamorfose completa: o inseto passa pelas fases de ovo, larva (lagarta), pupa (crisálida, fase de intensa transformação interna) e, por fim, torna-se um indivíduo adulto (a borboleta)."
+  },
+  {
+    "id": "cie-297",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Organização social das abelhas",
+    "pergunta": "Em uma colmeia de abelhas, qual é o papel principal da abelha-rainha?",
+    "alternativas": [
+      "Ser a principal responsável pela reprodução da colônia, colocando a maioria dos ovos",
+      "Defender a colmeia contra predadores",
+      "Produzir a cera usada na construção dos favos",
+      "Coletar néctar das flores diariamente"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A abelha-rainha é a principal (e geralmente única) fêmea reprodutora da colônia, responsável por colocar a grande maioria dos ovos que originam as demais abelhas, enquanto as abelhas operárias realizam tarefas como coleta de néctar, defesa e construção da colmeia."
+  },
+  {
+    "id": "cie-298",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Fungos decompositores",
+    "pergunta": "Como os fungos decompositores obtêm seus nutrientes a partir da matéria orgânica morta?",
+    "alternativas": [
+      "Liberando enzimas que digerem a matéria orgânica externamente e depois absorvendo os nutrientes já digeridos",
+      "Realizando fotossíntese, como as plantas",
+      "Capturando e engolindo presas vivas, como animais",
+      "Absorvendo diretamente a luz solar como fonte de energia"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Os fungos decompositores liberam enzimas digestivas sobre a matéria orgânica morta, degradando-a externamente em substâncias mais simples, que são então absorvidas pelo fungo, um processo chamado digestão extracorpórea (fora do corpo do fungo)."
+  },
+  {
+    "id": "cie-299",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Bactérias decompositoras",
+    "pergunta": "Assim como os fungos, as bactérias decompositoras desempenham papel fundamental nos ecossistemas ao:",
+    "alternativas": [
+      "Produzir apenas toxinas prejudiciais ao ambiente",
+      "Substituir totalmente a função dos produtores na cadeia alimentar",
+      "Impedir totalmente a reciclagem de nutrientes",
+      "Decompor matéria orgânica morta, contribuindo para a reciclagem de nutrientes essenciais aos ecossistemas"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As bactérias decompositoras, junto com os fungos, degradam a matéria orgânica de seres vivos mortos, liberando nutrientes de volta ao ambiente (solo, água e ar), o que permite que esses nutrientes sejam reaproveitados pelos produtores nos ecossistemas."
+  },
+  {
+    "id": "cie-300",
+    "materia": "ciencias",
+    "topico": "Seres vivos - Ciclo da matéria orgânica no solo",
+    "pergunta": "De forma geral, como ocorre o ciclo da matéria orgânica no solo, envolvendo produtores, consumidores e decompositores?",
+    "alternativas": [
+      "Somente os animais participam desse ciclo, sem envolvimento de plantas ou decompositores",
+      "O ciclo ocorre apenas em ambientes aquáticos, nunca no solo",
+      "Os nutrientes do solo desaparecem definitivamente após serem usados uma única vez pelas plantas",
+      "As plantas absorvem nutrientes do solo, os animais se alimentam das plantas (ou de outros animais), e os decompositores devolvem os nutrientes da matéria orgânica morta de volta ao solo, reiniciando o ciclo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "No ciclo da matéria orgânica, as plantas (produtores) absorvem nutrientes do solo para se desenvolver, os animais (consumidores) se alimentam delas ou de outros animais, e ao morrerem, seus restos são decompostos por fungos e bactérias, que devolvem os nutrientes ao solo, permitindo que o ciclo se reinicie continuamente."
   }
 ]

@@ -2,7 +2,7 @@
 
 Aplicativo web para treinar para provas, feito para uma aluna do 7º ano. Escolha a matéria, responda as questões de múltipla escolha e veja a correção detalhada ao final. Os responsáveis podem acompanhar o histórico de todas as provas realizadas, de qualquer lugar.
 
-Matérias com banco de até 50 questões cada, cobrindo o currículo do 7º ano (BNCC): **Ciências, Matemática, Português, História e Geografia**. A cada prova, o app sorteia 15 questões do banco da matéria e embaralha a ordem das perguntas e das alternativas — então repetir a mesma matéria em semanas diferentes normalmente não cai exatamente nas mesmas questões.
+Matérias com banco de 300 questões cada, cobrindo o currículo do 7º ano (BNCC): **Ciências, Matemática, Português, História e Geografia**. A cada prova, o app sorteia 15 questões do banco da matéria e embaralha a ordem das perguntas e das alternativas — com 300 por matéria, dá pra fazer prova todo dia por semanas sem repetir.
 
 ## Como funciona
 
@@ -58,11 +58,11 @@ Sem o `.env` configurado, o app inicia normalmente e o quiz funciona, mas salvar
 ```
 questions/            -> banco de questões (fonte da verdade, usado só pelo servidor)
   subjects.js          -> lista de matérias disponíveis
-  ciencias.json         -> até 50 questões de Ciências
-  matematica.json       -> até 50 questões de Matemática
-  portugues.json        -> até 50 questões de Português
-  historia.json         -> até 50 questões de História
-  geografia.json        -> até 50 questões de Geografia
+  ciencias.json         -> 300 questões de Ciências
+  matematica.json       -> 300 questões de Matemática
+  portugues.json        -> 300 questões de Português
+  historia.json         -> 300 questões de História
+  geografia.json        -> 300 questões de Geografia
   index.js              -> junta tudo e expõe funções auxiliares
 
 server/
@@ -91,7 +91,7 @@ Cada matéria tem seu próprio arquivo `.json` dentro da pasta `questions/`. Par
 
 ```json
 {
-  "id": "mat-51",
+  "id": "mat-301",
   "materia": "matematica",
   "topico": "Frações",
   "pergunta": "Quanto é 1/2 + 1/4?",
@@ -103,7 +103,7 @@ Cada matéria tem seu próprio arquivo `.json` dentro da pasta `questions/`. Par
 
 Regras importantes:
 
-- `id`: precisa ser único dentro do arquivo (sugestão: prefixo da matéria + número, seguindo a numeração já usada, ex: `mat-51`, `mat-52`)
+- `id`: precisa ser único dentro do arquivo (sugestão: prefixo da matéria + número, seguindo a numeração já usada, ex: `mat-301`, `mat-302`)
 - `alternativas`: sempre um array com exatamente 4 opções
 - `respostaCorreta`: índice (0, 1, 2 ou 3) da alternativa certa dentro do array `alternativas`
 - `explicacao`: texto curto que aparece na correção, explicando o conteúdo

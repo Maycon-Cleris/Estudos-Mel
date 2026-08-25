@@ -4,7 +4,12 @@
     "materia": "geografia",
     "topico": "Regiões do Brasil",
     "pergunta": "Segundo a divisão oficial do IBGE, em quantas regiões o território brasileiro é dividido?",
-    "alternativas": ["3", "5", "7", "9"],
+    "alternativas": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
     "respostaCorreta": 1,
     "explicacao": "O Brasil é dividido oficialmente em 5 regiões pelo IBGE: Norte, Nordeste, Centro-Oeste, Sudeste e Sul, que agrupam estados com características econômicas, sociais e físicas semelhantes."
   },
@@ -13,7 +18,12 @@
     "materia": "geografia",
     "topico": "Relevo brasileiro",
     "pergunta": "Qual é a forma de relevo predominante no território brasileiro?",
-    "alternativas": ["Montanhas muito altas", "Planaltos", "Desertos", "Vulcões ativos"],
+    "alternativas": [
+      "Montanhas muito altas",
+      "Planaltos",
+      "Desertos",
+      "Vulcões ativos"
+    ],
     "respostaCorreta": 1,
     "explicacao": "A maior parte do relevo brasileiro é formada por planaltos, áreas mais antigas e erodidas, sem grandes cadeias de montanhas jovens como os Andes ou o Himalaia."
   },
@@ -22,7 +32,12 @@
     "materia": "geografia",
     "topico": "Clima do Brasil",
     "pergunta": "Qual tipo de clima predomina na região amazônica, caracterizado por altas temperaturas e chuvas abundantes o ano todo?",
-    "alternativas": ["Clima semiárido", "Clima temperado", "Clima equatorial", "Clima polar"],
+    "alternativas": [
+      "Clima semiárido",
+      "Clima temperado",
+      "Clima equatorial",
+      "Clima polar"
+    ],
     "respostaCorreta": 2,
     "explicacao": "O clima equatorial, presente na região Norte, tem temperaturas altas e constantes, além de chuvas frequentes durante praticamente todo o ano, favorecendo a vegetação densa da floresta amazônica."
   },
@@ -31,7 +46,12 @@
     "materia": "geografia",
     "topico": "Hidrografia - Bacias hidrográficas",
     "pergunta": "Qual é a maior bacia hidrográfica do Brasil e do mundo em volume de água?",
-    "alternativas": ["Bacia do São Francisco", "Bacia do Paraná", "Bacia Amazônica", "Bacia do Tocantins-Araguaia"],
+    "alternativas": [
+      "Bacia do São Francisco",
+      "Bacia do Paraná",
+      "Bacia Amazônica",
+      "Bacia do Tocantins-Araguaia"
+    ],
     "respostaCorreta": 2,
     "explicacao": "A Bacia Amazônica é a maior do mundo em volume de água e extensão, formada pelo Rio Amazonas e seus afluentes, cobrindo grande parte da região Norte do Brasil."
   },
@@ -40,7 +60,12 @@
     "materia": "geografia",
     "topico": "Biomas brasileiros - Amazônia",
     "pergunta": "Qual bioma brasileiro é conhecido por abrigar a maior floresta tropical do planeta, com grande biodiversidade?",
-    "alternativas": ["Caatinga", "Pampa", "Amazônia", "Pantanal"],
+    "alternativas": [
+      "Caatinga",
+      "Pampa",
+      "Amazônia",
+      "Pantanal"
+    ],
     "respostaCorreta": 2,
     "explicacao": "O bioma Amazônia concentra a maior floresta tropical do mundo, com clima quente e úmido, sendo um dos ambientes com maior biodiversidade do planeta."
   },
@@ -49,7 +74,12 @@
     "materia": "geografia",
     "topico": "Biomas brasileiros - Mata Atlântica",
     "pergunta": "Qual bioma brasileiro, hoje muito reduzido devido à ocupação urbana desde o período colonial, se estende principalmente pelo litoral do país?",
-    "alternativas": ["Mata Atlântica", "Cerrado", "Caatinga", "Amazônia"],
+    "alternativas": [
+      "Mata Atlântica",
+      "Cerrado",
+      "Caatinga",
+      "Amazônia"
+    ],
     "respostaCorreta": 0,
     "explicacao": "A Mata Atlântica se estendia originalmente por boa parte do litoral brasileiro, mas foi muito desmatada desde a colonização por conta da ocupação urbana e agrícola, restando hoje pequenos fragmentos preservados."
   },
@@ -114,7 +144,12 @@
     "materia": "geografia",
     "topico": "Industrialização brasileira",
     "pergunta": "Qual região brasileira concentrou historicamente o maior polo industrial do país, com destaque para o estado de São Paulo?",
-    "alternativas": ["Norte", "Nordeste", "Sudeste", "Centro-Oeste"],
+    "alternativas": [
+      "Norte",
+      "Nordeste",
+      "Sudeste",
+      "Centro-Oeste"
+    ],
     "respostaCorreta": 2,
     "explicacao": "A região Sudeste, especialmente o estado de São Paulo, concentrou historicamente o maior parque industrial do Brasil, favorecido por fatores como infraestrutura, mão de obra e proximidade de mercados consumidores."
   },
@@ -179,7 +214,12 @@
     "materia": "geografia",
     "topico": "Biomas brasileiros - Cerrado",
     "pergunta": "Qual bioma brasileiro, conhecido como a 'savana brasileira', ocupa grande parte do Planalto Central e é caracterizado por árvores de troncos tortuosos e vegetação rasteira adaptada ao fogo?",
-    "alternativas": ["Pantanal", "Pampa", "Cerrado", "Mata Atlântica"],
+    "alternativas": [
+      "Pantanal",
+      "Pampa",
+      "Cerrado",
+      "Mata Atlântica"
+    ],
     "respostaCorreta": 2,
     "explicacao": "O Cerrado é o segundo maior bioma do Brasil, presente principalmente na região Centro-Oeste. Sua vegetação de árvores baixas e retorcidas e gramíneas é adaptada a solos ácidos e a queimadas naturais."
   },
@@ -188,7 +228,12 @@
     "materia": "geografia",
     "topico": "Biomas brasileiros - Caatinga",
     "pergunta": "Qual bioma exclusivamente brasileiro, típico do interior do Nordeste, apresenta vegetação adaptada à seca, com plantas de espinhos e caules que armazenam água?",
-    "alternativas": ["Caatinga", "Amazônia", "Pantanal", "Cerrado"],
+    "alternativas": [
+      "Caatinga",
+      "Amazônia",
+      "Pantanal",
+      "Cerrado"
+    ],
     "respostaCorreta": 0,
     "explicacao": "A Caatinga é o único bioma exclusivamente brasileiro, presente no interior do Nordeste sob clima semiárido. Suas plantas, como cactos e xique-xiques, são adaptadas a longos períodos de estiagem."
   },
@@ -197,7 +242,12 @@
     "materia": "geografia",
     "topico": "Biomas brasileiros - Pampa",
     "pergunta": "Qual bioma brasileiro é formado principalmente por campos de vegetação rasteira (gramíneas), concentrando-se no Rio Grande do Sul, e é tradicionalmente associado à pecuária?",
-    "alternativas": ["Pantanal", "Cerrado", "Caatinga", "Pampa"],
+    "alternativas": [
+      "Pantanal",
+      "Cerrado",
+      "Caatinga",
+      "Pampa"
+    ],
     "respostaCorreta": 3,
     "explicacao": "O Pampa é o menor bioma brasileiro em extensão, restrito principalmente ao Rio Grande do Sul. Sua paisagem de campos abertos favoreceu historicamente a criação de gado, tradição da cultura gaúcha."
   },
@@ -206,7 +256,12 @@
     "materia": "geografia",
     "topico": "Biomas brasileiros - Pantanal",
     "pergunta": "Qual bioma brasileiro é a maior planície alagável contínua do planeta, sofrendo cheias e secas periódicas que moldam sua rica fauna, como jacarés e aves aquáticas?",
-    "alternativas": ["Cerrado", "Pantanal", "Mata Atlântica", "Amazônia"],
+    "alternativas": [
+      "Cerrado",
+      "Pantanal",
+      "Mata Atlântica",
+      "Amazônia"
+    ],
     "respostaCorreta": 1,
     "explicacao": "O Pantanal, localizado principalmente em Mato Grosso e Mato Grosso do Sul, é a maior planície alagável contínua do mundo. Suas cheias sazonais renovam os nutrientes do solo e sustentam grande biodiversidade."
   },
@@ -243,7 +298,12 @@
     "materia": "geografia",
     "topico": "Clima do Brasil - Subtropical",
     "pergunta": "Em qual região do Brasil predomina o clima subtropical, que apresenta as quatro estações do ano bem definidas e temperaturas mais baixas, com possibilidade de geadas no inverno?",
-    "alternativas": ["Norte", "Nordeste", "Centro-Oeste", "Sul"],
+    "alternativas": [
+      "Norte",
+      "Nordeste",
+      "Centro-Oeste",
+      "Sul"
+    ],
     "respostaCorreta": 3,
     "explicacao": "A região Sul do Brasil é a única onde predomina o clima subtropical, com as quatro estações bem marcadas e invernos mais frios, podendo ocorrer geadas e, ocasionalmente, neve nas áreas mais altas."
   },
@@ -532,7 +592,12 @@
     "materia": "geografia",
     "topico": "Usina hidrelétrica de Itaipu",
     "pergunta": "A Usina Hidrelétrica de Itaipu, uma das maiores do mundo em geração de energia, está localizada no rio Paraná, na fronteira entre o Brasil e qual outro país?",
-    "alternativas": ["Argentina", "Paraguai", "Uruguai", "Bolívia"],
+    "alternativas": [
+      "Argentina",
+      "Paraguai",
+      "Uruguai",
+      "Bolívia"
+    ],
     "respostaCorreta": 1,
     "explicacao": "A Usina de Itaipu foi construída em parceria entre Brasil e Paraguai, no rio Paraná, e é uma das maiores hidrelétricas do mundo em geração de energia, fornecendo eletricidade para os dois países."
   },
@@ -633,5 +698,3505 @@
     ],
     "respostaCorreta": 3,
     "explicacao": "Como a Terra é uma esfera (na verdade um geoide), qualquer tentativa de representá-la em uma superfície plana, como um mapa, exige uma projeção cartográfica que necessariamente gera algum tipo de distorção de área, forma, distância ou direção."
+  },
+  {
+    "id": "geo-51",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Norte (Acre)",
+    "pergunta": "Qual é a capital do estado do Acre?",
+    "alternativas": [
+      "Cruzeiro do Sul",
+      "Rio Branco",
+      "Porto Velho",
+      "Sena Madureira"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Rio Branco é a capital e a cidade mais populosa do estado do Acre, localizado na região Norte do Brasil."
+  },
+  {
+    "id": "geo-52",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Norte (Amazonas)",
+    "pergunta": "Qual é a capital do estado do Amazonas?",
+    "alternativas": [
+      "Manaus",
+      "Boa Vista",
+      "Macapá",
+      "Santarém"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Manaus é a capital do Amazonas, o maior estado brasileiro em extensão territorial, e é conhecida por sediar a Zona Franca de Manaus."
+  },
+  {
+    "id": "geo-53",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Norte (Amapá)",
+    "pergunta": "Qual é a capital do estado do Amapá?",
+    "alternativas": [
+      "Belém",
+      "Macapá",
+      "Manaus",
+      "Santarém"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Macapá é a capital do Amapá e é cortada pela Linha do Equador, sendo uma das poucas capitais brasileiras localizadas no Hemisfério Norte."
+  },
+  {
+    "id": "geo-54",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Norte (Pará)",
+    "pergunta": "Qual é a capital do estado do Pará?",
+    "alternativas": [
+      "Belém",
+      "Marabá",
+      "Santarém",
+      "Macapá"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Belém é a capital do Pará, importante porto fluvial próximo à foz do Rio Amazonas."
+  },
+  {
+    "id": "geo-55",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Norte (Rondônia)",
+    "pergunta": "Qual é a capital do estado de Rondônia?",
+    "alternativas": [
+      "Rio Branco",
+      "Cuiabá",
+      "Porto Velho",
+      "Ji-Paraná"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Porto Velho é a capital de Rondônia, estado localizado na região Norte, na fronteira com a Bolívia."
+  },
+  {
+    "id": "geo-56",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Norte (Roraima)",
+    "pergunta": "Qual é a capital do estado de Roraima?",
+    "alternativas": [
+      "Boa Vista",
+      "Manaus",
+      "Macapá",
+      "Rio Branco"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Boa Vista é a capital de Roraima, o estado brasileiro mais ao norte do país, fazendo fronteira com Venezuela e Guiana."
+  },
+  {
+    "id": "geo-57",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Norte (Tocantins)",
+    "pergunta": "Qual é a capital do estado do Tocantins?",
+    "alternativas": [
+      "Araguaína",
+      "Palmas",
+      "Gurupi",
+      "Porto Nacional"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Palmas é a capital do Tocantins, estado criado pela Constituição de 1988 e planejado como cidade nos anos 1990."
+  },
+  {
+    "id": "geo-58",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Nordeste (Alagoas)",
+    "pergunta": "Qual é a capital do estado de Alagoas?",
+    "alternativas": [
+      "Maceió",
+      "Aracaju",
+      "Recife",
+      "Natal"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Maceió é a capital de Alagoas, estado litorâneo da região Nordeste."
+  },
+  {
+    "id": "geo-59",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Nordeste (Bahia)",
+    "pergunta": "Qual é a capital do estado da Bahia?",
+    "alternativas": [
+      "Feira de Santana",
+      "Ilhéus",
+      "Salvador",
+      "Vitória da Conquista"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Salvador é a capital da Bahia, maior estado do Nordeste em população e território."
+  },
+  {
+    "id": "geo-60",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Nordeste (Ceará)",
+    "pergunta": "Qual é a capital do estado do Ceará?",
+    "alternativas": [
+      "Fortaleza",
+      "Sobral",
+      "Juazeiro do Norte",
+      "Teresina"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Fortaleza é a capital do Ceará, um dos maiores polos turísticos do litoral nordestino."
+  },
+  {
+    "id": "geo-61",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Nordeste (Maranhão)",
+    "pergunta": "Qual é a capital do estado do Maranhão?",
+    "alternativas": [
+      "Imperatriz",
+      "São Luís",
+      "Teresina",
+      "Parnaíba"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "São Luís é a capital do Maranhão e uma das poucas cidades brasileiras fundadas por franceses, com centro histórico tombado pela UNESCO."
+  },
+  {
+    "id": "geo-62",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Nordeste (Paraíba)",
+    "pergunta": "Qual é a capital do estado da Paraíba?",
+    "alternativas": [
+      "Campina Grande",
+      "João Pessoa",
+      "Recife",
+      "Natal"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "João Pessoa é a capital da Paraíba, conhecida por estar próxima à Ponta do Seixas, ponto mais oriental das Américas."
+  },
+  {
+    "id": "geo-63",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Nordeste (Pernambuco)",
+    "pergunta": "Qual é a capital do estado de Pernambuco?",
+    "alternativas": [
+      "Recife",
+      "Olinda",
+      "Caruaru",
+      "João Pessoa"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Recife é a capital de Pernambuco e um importante centro econômico e cultural do Nordeste."
+  },
+  {
+    "id": "geo-64",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Nordeste (Piauí)",
+    "pergunta": "Qual é a capital do estado do Piauí?",
+    "alternativas": [
+      "Parnaíba",
+      "Teresina",
+      "São Luís",
+      "Picos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Teresina é a capital do Piauí e uma das poucas capitais brasileiras que não fica no litoral."
+  },
+  {
+    "id": "geo-65",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Nordeste (Rio Grande do Norte)",
+    "pergunta": "Qual é a capital do estado do Rio Grande do Norte?",
+    "alternativas": [
+      "Natal",
+      "Mossoró",
+      "João Pessoa",
+      "Fortaleza"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Natal é a capital do Rio Grande do Norte, conhecida por suas dunas e proximidade com a linha do Equador."
+  },
+  {
+    "id": "geo-66",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Nordeste (Sergipe)",
+    "pergunta": "Qual é a capital do estado de Sergipe?",
+    "alternativas": [
+      "Aracaju",
+      "Maceió",
+      "Salvador",
+      "Itabaiana"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Aracaju é a capital de Sergipe, o menor estado brasileiro em extensão territorial."
+  },
+  {
+    "id": "geo-67",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Centro-Oeste (Goiás)",
+    "pergunta": "Qual é a capital do estado de Goiás?",
+    "alternativas": [
+      "Goiânia",
+      "Anápolis",
+      "Brasília",
+      "Cuiabá"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Goiânia é a capital de Goiás, cidade planejada fundada na década de 1930."
+  },
+  {
+    "id": "geo-68",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Centro-Oeste (Mato Grosso)",
+    "pergunta": "Qual é a capital do estado de Mato Grosso?",
+    "alternativas": [
+      "Campo Grande",
+      "Cuiabá",
+      "Goiânia",
+      "Rondonópolis"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Cuiabá é a capital de Mato Grosso e uma das cidades mais quentes do Brasil, situada próxima ao centro geodésico da América do Sul."
+  },
+  {
+    "id": "geo-69",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Centro-Oeste (Mato Grosso do Sul)",
+    "pergunta": "Qual é a capital do estado de Mato Grosso do Sul?",
+    "alternativas": [
+      "Cuiabá",
+      "Dourados",
+      "Campo Grande",
+      "Corumbá"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Campo Grande é a capital de Mato Grosso do Sul, estado onde se concentra grande parte do bioma Pantanal."
+  },
+  {
+    "id": "geo-70",
+    "materia": "geografia",
+    "topico": "Distrito Federal e capital do Brasil",
+    "pergunta": "Qual cidade é a capital federal do Brasil, sede dos Poderes Executivo, Legislativo e Judiciário?",
+    "alternativas": [
+      "Goiânia",
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Brasília, localizada no Distrito Federal, é a capital do Brasil desde 1960, planejada por Lúcio Costa e Oscar Niemeyer."
+  },
+  {
+    "id": "geo-71",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Sudeste (Espírito Santo)",
+    "pergunta": "Qual é a capital do estado do Espírito Santo?",
+    "alternativas": [
+      "Vitória",
+      "Vila Velha",
+      "Cariacica",
+      "Linhares"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Vitória é a capital do Espírito Santo, menor estado da região Sudeste em população."
+  },
+  {
+    "id": "geo-72",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Sudeste (Minas Gerais)",
+    "pergunta": "Qual é a capital do estado de Minas Gerais?",
+    "alternativas": [
+      "Uberlândia",
+      "Belo Horizonte",
+      "Juiz de Fora",
+      "Contagem"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Belo Horizonte é a capital de Minas Gerais, primeira cidade brasileira planejada, inaugurada em 1897."
+  },
+  {
+    "id": "geo-73",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Sudeste (Rio de Janeiro)",
+    "pergunta": "Qual é a capital do estado do Rio de Janeiro?",
+    "alternativas": [
+      "Niterói",
+      "Rio de Janeiro",
+      "Duque de Caxias",
+      "Petrópolis"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A cidade do Rio de Janeiro é a capital do estado homônimo e foi capital do Brasil entre 1763 e 1960."
+  },
+  {
+    "id": "geo-74",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Sudeste (São Paulo)",
+    "pergunta": "Qual é a capital do estado de São Paulo?",
+    "alternativas": [
+      "Campinas",
+      "Santos",
+      "São Paulo",
+      "Guarulhos"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A cidade de São Paulo é a capital do estado homônimo e a cidade mais populosa do Brasil e da América do Sul."
+  },
+  {
+    "id": "geo-75",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Sul (Paraná)",
+    "pergunta": "Qual é a capital do estado do Paraná?",
+    "alternativas": [
+      "Londrina",
+      "Curitiba",
+      "Maringá",
+      "Foz do Iguaçu"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Curitiba é a capital do Paraná, reconhecida internacionalmente por seu planejamento urbano e sistema de transporte público."
+  },
+  {
+    "id": "geo-76",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Sul (Santa Catarina)",
+    "pergunta": "Qual é a capital do estado de Santa Catarina?",
+    "alternativas": [
+      "Joinville",
+      "Blumenau",
+      "Florianópolis",
+      "Chapecó"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Florianópolis é a capital de Santa Catarina, cidade insular conhecida por suas praias e polo de tecnologia."
+  },
+  {
+    "id": "geo-77",
+    "materia": "geografia",
+    "topico": "Estados e capitais - Sul (Rio Grande do Sul)",
+    "pergunta": "Qual é a capital do estado do Rio Grande do Sul?",
+    "alternativas": [
+      "Caxias do Sul",
+      "Porto Alegre",
+      "Pelotas",
+      "Santa Maria"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Porto Alegre é a capital do Rio Grande do Sul, estado mais ao sul do território brasileiro."
+  },
+  {
+    "id": "geo-78",
+    "materia": "geografia",
+    "topico": "Estados brasileiros - área territorial",
+    "pergunta": "Qual é o maior estado brasileiro em extensão territorial?",
+    "alternativas": [
+      "Pará",
+      "Mato Grosso",
+      "Amazonas",
+      "Minas Gerais"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Amazonas é o maior estado brasileiro em área, ocupando cerca de 18% do território nacional, seguido por Pará e Mato Grosso."
+  },
+  {
+    "id": "geo-79",
+    "materia": "geografia",
+    "topico": "Estados brasileiros - área territorial",
+    "pergunta": "Qual é o menor estado brasileiro em extensão territorial?",
+    "alternativas": [
+      "Sergipe",
+      "Alagoas",
+      "Rio de Janeiro",
+      "Espírito Santo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Sergipe é o menor estado brasileiro em área territorial, localizado na região Nordeste."
+  },
+  {
+    "id": "geo-80",
+    "materia": "geografia",
+    "topico": "Estados brasileiros - população",
+    "pergunta": "Qual é o estado brasileiro mais populoso do país?",
+    "alternativas": [
+      "Minas Gerais",
+      "Rio de Janeiro",
+      "Bahia",
+      "São Paulo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "São Paulo é o estado mais populoso do Brasil, concentrando o maior contingente populacional e o maior PIB do país."
+  },
+  {
+    "id": "geo-81",
+    "materia": "geografia",
+    "topico": "Estados brasileiros - população",
+    "pergunta": "Qual é o estado brasileiro menos populoso do país?",
+    "alternativas": [
+      "Roraima",
+      "Amapá",
+      "Acre",
+      "Tocantins"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Roraima é o estado brasileiro com menor população, apesar de outros estados do Norte também terem baixa densidade demográfica."
+  },
+  {
+    "id": "geo-82",
+    "materia": "geografia",
+    "topico": "Divisão regional - Nordeste",
+    "pergunta": "Quantos estados compõem a região Nordeste do Brasil?",
+    "alternativas": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A região Nordeste é composta por 9 estados: Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe."
+  },
+  {
+    "id": "geo-83",
+    "materia": "geografia",
+    "topico": "Divisão regional - Norte",
+    "pergunta": "Quantos estados compõem a região Norte do Brasil?",
+    "alternativas": [
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A região Norte é composta por 7 estados: Acre, Amazonas, Amapá, Pará, Rondônia, Roraima e Tocantins."
+  },
+  {
+    "id": "geo-84",
+    "materia": "geografia",
+    "topico": "Divisão regional - Sul",
+    "pergunta": "Quantos estados compõem a região Sul do Brasil?",
+    "alternativas": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A região Sul é a que possui o menor número de estados: Paraná, Santa Catarina e Rio Grande do Sul."
+  },
+  {
+    "id": "geo-85",
+    "materia": "geografia",
+    "topico": "Divisão regional - Sudeste",
+    "pergunta": "Quantos estados compõem a região Sudeste do Brasil?",
+    "alternativas": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A região Sudeste é composta por 4 estados: Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo."
+  },
+  {
+    "id": "geo-86",
+    "materia": "geografia",
+    "topico": "Divisão regional - Centro-Oeste",
+    "pergunta": "Como é composta a região Centro-Oeste do Brasil em termos de unidades federativas?",
+    "alternativas": [
+      "2 estados e 1 Distrito Federal",
+      "3 estados e 1 Distrito Federal",
+      "4 estados e 1 Distrito Federal",
+      "3 estados, sem Distrito Federal"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O Centro-Oeste é formado por 3 estados (Goiás, Mato Grosso e Mato Grosso do Sul) e pelo Distrito Federal, onde está localizada Brasília."
+  },
+  {
+    "id": "geo-87",
+    "materia": "geografia",
+    "topico": "Principais cidades brasileiras",
+    "pergunta": "Qual é a cidade mais populosa do Brasil?",
+    "alternativas": [
+      "Rio de Janeiro",
+      "Brasília",
+      "São Paulo",
+      "Salvador"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "São Paulo é a cidade mais populosa do Brasil e da América do Sul, além de ser o principal centro financeiro e industrial do país."
+  },
+  {
+    "id": "geo-88",
+    "materia": "geografia",
+    "topico": "Principais cidades brasileiras",
+    "pergunta": "Qual é a segunda cidade mais populosa do Brasil?",
+    "alternativas": [
+      "Rio de Janeiro",
+      "Belo Horizonte",
+      "Fortaleza",
+      "Brasília"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Rio de Janeiro é a segunda cidade mais populosa do Brasil, atrás apenas de São Paulo."
+  },
+  {
+    "id": "geo-89",
+    "materia": "geografia",
+    "topico": "Principais cidades brasileiras - Nordeste",
+    "pergunta": "Qual é a cidade mais populosa da região Nordeste?",
+    "alternativas": [
+      "Recife",
+      "Fortaleza",
+      "Salvador",
+      "São Luís"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Salvador, capital da Bahia, é a cidade mais populosa da região Nordeste."
+  },
+  {
+    "id": "geo-90",
+    "materia": "geografia",
+    "topico": "Principais cidades brasileiras - Norte",
+    "pergunta": "Qual é a cidade mais populosa da região Norte?",
+    "alternativas": [
+      "Belém",
+      "Manaus",
+      "Porto Velho",
+      "Macapá"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Manaus, capital do Amazonas, é a cidade mais populosa da região Norte do Brasil."
+  },
+  {
+    "id": "geo-91",
+    "materia": "geografia",
+    "topico": "Zona Franca de Manaus",
+    "pergunta": "O que é a Zona Franca de Manaus?",
+    "alternativas": [
+      "Uma área de proteção ambiental total, sem nenhuma atividade econômica",
+      "Uma área com incentivos fiscais que atraiu indústrias, especialmente de eletroeletrônicos, para a capital do Amazonas",
+      "Uma reserva exclusiva destinada apenas a povos indígenas",
+      "Um porto exclusivo para exportação de grãos do agronegócio"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Criada em 1967, a Zona Franca de Manaus é um polo industrial com incentivos fiscais que atrai empresas, especialmente do setor eletroeletrônico, contribuindo para o desenvolvimento econômico da região Norte."
+  },
+  {
+    "id": "geo-92",
+    "materia": "geografia",
+    "topico": "Fronteiras internacionais - região Norte",
+    "pergunta": "Qual é o único estado da região Norte que não faz fronteira com nenhum país estrangeiro?",
+    "alternativas": [
+      "Tocantins",
+      "Amazonas",
+      "Acre",
+      "Roraima"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Tocantins é o único estado da região Norte totalmente cercado por outros estados brasileiros, sem fronteira internacional."
+  },
+  {
+    "id": "geo-93",
+    "materia": "geografia",
+    "topico": "Fronteiras internacionais do Brasil",
+    "pergunta": "Qual estado brasileiro faz fronteira com o maior número de países estrangeiros (Peru, Colômbia e Venezuela)?",
+    "alternativas": [
+      "Mato Grosso",
+      "Pará",
+      "Amazonas",
+      "Rondônia"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Amazonas faz fronteira com três países: Peru, Colômbia e Venezuela, sendo o estado brasileiro com mais fronteiras internacionais."
+  },
+  {
+    "id": "geo-94",
+    "materia": "geografia",
+    "topico": "Distrito Federal e os Três Poderes",
+    "pergunta": "O Distrito Federal, onde está localizada Brasília, reúne as sedes de quais poderes da República?",
+    "alternativas": [
+      "Apenas o Poder Executivo",
+      "Apenas o Poder Legislativo",
+      "Os três poderes: Executivo, Legislativo e Judiciário",
+      "Nenhum poder, apenas órgãos de administração local"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Brasília concentra as sedes dos três Poderes da República: o Executivo (Palácio do Planalto), o Legislativo (Congresso Nacional) e o Judiciário (Supremo Tribunal Federal)."
+  },
+  {
+    "id": "geo-95",
+    "materia": "geografia",
+    "topico": "Cidades históricas - Ouro Preto",
+    "pergunta": "Qual afirmação está correta sobre a cidade de Ouro Preto?",
+    "alternativas": [
+      "Fica em Minas Gerais e foi importante centro de extração de ouro no período colonial, sendo hoje Patrimônio Mundial da UNESCO",
+      "Fica no Pará e é o principal centro atual de extração de minério de ferro do Brasil",
+      "Fica na Bahia e foi a primeira capital do Brasil colonial",
+      "Fica no Amazonas e foi o principal centro do ciclo econômico da borracha"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Ouro Preto, em Minas Gerais, foi o principal centro de mineração de ouro no Brasil colonial durante o século XVIII e é reconhecida como Patrimônio Cultural da Humanidade pela UNESCO."
+  },
+  {
+    "id": "geo-96",
+    "materia": "geografia",
+    "topico": "Localização do bioma Pantanal",
+    "pergunta": "O bioma Pantanal está localizado principalmente em quais estados brasileiros?",
+    "alternativas": [
+      "Amazonas e Pará",
+      "Mato Grosso e Mato Grosso do Sul",
+      "Goiás e Tocantins",
+      "Bahia e Sergipe"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O Pantanal se estende principalmente pelos estados de Mato Grosso e Mato Grosso do Sul, na região Centro-Oeste, além de avançar por partes da Bolívia e do Paraguai."
+  },
+  {
+    "id": "geo-97",
+    "materia": "geografia",
+    "topico": "Brasília - patrimônio urbanístico",
+    "pergunta": "Por que Brasília, inaugurada em 1960, foi reconhecida pela UNESCO como Patrimônio Cultural da Humanidade?",
+    "alternativas": [
+      "Por preservar construções do período colonial português",
+      "Por seu projeto urbanístico e arquitetônico modernista, planejado por Lúcio Costa e Oscar Niemeyer",
+      "Por ser a cidade mais antiga do Brasil",
+      "Por abrigar a maior reserva de biodiversidade do país"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Brasília foi tombada pela UNESCO em 1987 devido ao valor excepcional de seu planejamento urbano e de sua arquitetura modernista, concebidos por Lúcio Costa e Oscar Niemeyer."
+  },
+  {
+    "id": "geo-98",
+    "materia": "geografia",
+    "topico": "Estados mais populosos por região",
+    "pergunta": "Qual é o estado mais populoso da região Nordeste?",
+    "alternativas": [
+      "Bahia",
+      "Pernambuco",
+      "Ceará",
+      "Maranhão"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A Bahia é o estado mais populoso da região Nordeste e um dos mais populosos do Brasil."
+  },
+  {
+    "id": "geo-99",
+    "materia": "geografia",
+    "topico": "Capitais federais do Brasil ao longo da história",
+    "pergunta": "Qual cidade foi a capital do Brasil imediatamente antes da inauguração de Brasília, em 1960?",
+    "alternativas": [
+      "Salvador",
+      "São Paulo",
+      "Rio de Janeiro",
+      "Belo Horizonte"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Rio de Janeiro foi a capital do Brasil de 1763 até 1960, quando a capital foi transferida para a recém-construída Brasília."
+  },
+  {
+    "id": "geo-100",
+    "materia": "geografia",
+    "topico": "Capitais federais do Brasil ao longo da história",
+    "pergunta": "Qual foi a primeira capital do Brasil durante o período colonial?",
+    "alternativas": [
+      "Recife",
+      "Salvador",
+      "Rio de Janeiro",
+      "São Luís"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Salvador foi a primeira capital do Brasil colonial, de 1549 até 1763, quando a sede do governo foi transferida para o Rio de Janeiro."
+  },
+  {
+    "id": "geo-101",
+    "materia": "geografia",
+    "topico": "Fauna da Amazônia",
+    "pergunta": "O bioma Amazônia é considerado um dos mais ricos do planeta em biodiversidade. Qual característica justifica essa afirmação?",
+    "alternativas": [
+      "Possui pouquíssimas espécies, mas todas de grande porte",
+      "Abriga uma enorme variedade de espécies de fauna e flora, muitas ainda não catalogadas pela ciência",
+      "É formada exclusivamente por espécies trazidas de outros continentes",
+      "Não possui predadores de topo de cadeia alimentar"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A Amazônia concentra uma das maiores biodiversidades do planeta, com milhões de espécies de plantas, insetos, aves, peixes e mamíferos, muitas delas ainda desconhecidas pela ciência."
+  },
+  {
+    "id": "geo-102",
+    "materia": "geografia",
+    "topico": "Vegetação em camadas da Amazônia",
+    "pergunta": "A vegetação da Floresta Amazônica é organizada em diferentes camadas verticais. Como se chama a camada mais alta, formada pelas copas das árvores mais altas?",
+    "alternativas": [
+      "Sub-bosque",
+      "Dossel (ou copa)",
+      "Serapilheira",
+      "Camada emergente apenas de arbustos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O dossel, também chamado de copa, é a camada superior da floresta amazônica, formada pelas copas das árvores mais altas, que recebem maior incidência de luz solar."
+  },
+  {
+    "id": "geo-103",
+    "materia": "geografia",
+    "topico": "Rios da Amazônia - classificação das águas",
+    "pergunta": "Os rios da bacia amazônica são classificados, de acordo com sua coloração e origem, em três tipos. Quais são eles?",
+    "alternativas": [
+      "Rios doces, rios salgados e rios gelados",
+      "Rios de águas pretas, brancas e claras",
+      "Rios permanentes, temporários e intermitentes",
+      "Rios navegáveis e rios não navegáveis"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Os rios amazônicos são classificados em águas pretas (como o Rio Negro, escuras por matéria orgânica), águas brancas (barrentas, ricas em sedimentos, como o Rio Amazonas) e águas claras (transparentes, como o Rio Tapajós)."
+  },
+  {
+    "id": "geo-104",
+    "materia": "geografia",
+    "topico": "Fauna da Mata Atlântica",
+    "pergunta": "Qual espécie é considerada símbolo da conservação da Mata Atlântica, sendo um primata ameaçado de extinção encontrado apenas nesse bioma?",
+    "alternativas": [
+      "Lobo-guará",
+      "Mico-leão-dourado",
+      "Tamanduá-bandeira",
+      "Jaguatirica"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O mico-leão-dourado é um pequeno primata endêmico da Mata Atlântica, no Rio de Janeiro, e se tornou símbolo dos esforços de conservação desse bioma altamente ameaçado."
+  },
+  {
+    "id": "geo-105",
+    "materia": "geografia",
+    "topico": "Mata Atlântica - área remanescente",
+    "pergunta": "Devido a mais de 500 anos de ocupação humana intensa, aproximadamente qual porcentagem da cobertura original da Mata Atlântica ainda resta preservada atualmente?",
+    "alternativas": [
+      "Cerca de 90% da cobertura original",
+      "Cerca de 70% da cobertura original",
+      "Menos de 15% da cobertura original",
+      "A totalidade da cobertura original, sem perdas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Devido à intensa ocupação humana desde o período colonial até os dias atuais, restam hoje menos de 15% da cobertura original da Mata Atlântica, em fragmentos florestais."
+  },
+  {
+    "id": "geo-106",
+    "materia": "geografia",
+    "topico": "Fauna do Cerrado",
+    "pergunta": "Qual mamífero de pernas longas e pelagem alaranjada é um dos animais símbolo do bioma Cerrado?",
+    "alternativas": [
+      "Lobo-guará",
+      "Boto-cor-de-rosa",
+      "Mico-leão-dourado",
+      "Ariranha"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O lobo-guará, maior canídeo da América do Sul, é um dos animais símbolo do Cerrado, adaptado aos campos abertos e à vegetação rala desse bioma."
+  },
+  {
+    "id": "geo-107",
+    "materia": "geografia",
+    "topico": "Adaptações da vegetação do Cerrado",
+    "pergunta": "Quais características das plantas do Cerrado são adaptações à seca sazonal e às queimadas naturais dessa região?",
+    "alternativas": [
+      "Raízes profundas que buscam água no subsolo e cascas grossas resistentes ao fogo",
+      "Folhas muito finas e transparentes, sem nenhuma proteção",
+      "Ausência total de raízes",
+      "Caules que armazenam água como os cactos do deserto"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "As plantas do Cerrado desenvolveram raízes profundas para captar água durante a estação seca e cascas grossas (súber) que protegem os troncos das queimadas frequentes na região."
+  },
+  {
+    "id": "geo-108",
+    "materia": "geografia",
+    "topico": "Fauna da Caatinga",
+    "pergunta": "Qual das espécies abaixo é adaptada às condições de seca da Caatinga e é encontrada nesse bioma exclusivamente brasileiro?",
+    "alternativas": [
+      "Veado-catingueiro",
+      "Boto-cor-de-rosa",
+      "Ariranha",
+      "Mico-leão-dourado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O veado-catingueiro é uma espécie adaptada às condições secas da Caatinga, bioma exclusivamente brasileiro marcado pela escassez de água."
+  },
+  {
+    "id": "geo-109",
+    "materia": "geografia",
+    "topico": "Vegetação caducifólia da Caatinga",
+    "pergunta": "O que significa dizer que a vegetação da Caatinga é caducifólia?",
+    "alternativas": [
+      "Que as plantas perdem as folhas durante o período de seca, para reduzir a perda de água",
+      "Que as plantas são sempre verdes, mesmo na estiagem",
+      "Que as plantas não possuem folhas em nenhuma época do ano",
+      "Que as plantas crescem apenas debaixo d'água"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Vegetação caducifólia é aquela que perde as folhas em determinada época do ano. Na Caatinga, isso ocorre durante a estação seca, como estratégia para reduzir a perda de água por transpiração."
+  },
+  {
+    "id": "geo-110",
+    "materia": "geografia",
+    "topico": "Fauna do Pampa",
+    "pergunta": "Qual ave de grande porte, não voadora, é característica das paisagens de campos abertos do bioma Pampa?",
+    "alternativas": [
+      "Ema",
+      "Arara-azul",
+      "Tuiuiú",
+      "Harpia"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A ema é uma ave de grande porte, não voadora, adaptada aos campos abertos do Pampa e de outras áreas de vegetação rasteira do Brasil."
+  },
+  {
+    "id": "geo-111",
+    "materia": "geografia",
+    "topico": "Fauna do Pantanal",
+    "pergunta": "Qual ave de grande porte, com pescoço vermelho e plumagem branca, é considerada símbolo do bioma Pantanal?",
+    "alternativas": [
+      "Tuiuiú (jaburu)",
+      "Ema",
+      "Harpia",
+      "Curicaca"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O tuiuiú, também chamado de jaburu, é uma ave de grande porte símbolo do Pantanal, associada às áreas alagadas e à rica avifauna do bioma."
+  },
+  {
+    "id": "geo-112",
+    "materia": "geografia",
+    "topico": "Pulso de inundação do Pantanal",
+    "pergunta": "O que é o 'pulso de inundação', fenômeno fundamental para o equilíbrio ecológico do Pantanal?",
+    "alternativas": [
+      "A queda constante de chuva ácida sobre a planície",
+      "O ciclo anual de cheias e secas que renova os nutrientes do solo e regula a vida da fauna e flora locais",
+      "O deslocamento anual das populações humanas do Pantanal para outras regiões",
+      "Um fenômeno de terremotos frequentes na região"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O pulso de inundação é o regime sazonal de cheias e secas do Pantanal, que renova os nutrientes do solo, distribui espécies aquáticas pela planície e é essencial para o equilíbrio do ecossistema."
+  },
+  {
+    "id": "geo-113",
+    "materia": "geografia",
+    "topico": "Tipos de vegetação - Mata ciliar",
+    "pergunta": "O que é a mata ciliar, tipo de vegetação encontrado ao longo de diversos rios brasileiros?",
+    "alternativas": [
+      "Uma vegetação que cresce apenas no topo de montanhas",
+      "A vegetação que se desenvolve às margens de rios e nascentes, protegendo os cursos d'água",
+      "Um tipo de vegetação exclusivo de regiões desérticas",
+      "Uma vegetação artificial plantada apenas em áreas urbanas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A mata ciliar é a vegetação que se desenvolve às margens de rios, lagos e nascentes, desempenhando papel importante na proteção do solo contra erosão e na manutenção da qualidade da água."
+  },
+  {
+    "id": "geo-114",
+    "materia": "geografia",
+    "topico": "Tipos de vegetação - Manguezal",
+    "pergunta": "Onde se desenvolvem os manguezais, tipo de vegetação adaptada a solos alagados e à água salobra?",
+    "alternativas": [
+      "No topo de planaltos e serras",
+      "Em áreas de transição entre o continente e o mar, em estuários e regiões costeiras",
+      "No interior do continente, longe do litoral",
+      "Apenas em regiões de clima frio"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Os manguezais se desenvolvem em áreas de transição entre o ambiente terrestre e o marinho, em estuários e regiões costeiras, sendo importantes berçários para diversas espécies marinhas."
+  },
+  {
+    "id": "geo-115",
+    "materia": "geografia",
+    "topico": "Tipos de vegetação - Restinga",
+    "pergunta": "O que caracteriza a vegetação de restinga, comum em diversas praias do litoral brasileiro?",
+    "alternativas": [
+      "Árvores gigantes de mais de 50 metros de altura",
+      "Vegetação adaptada a solos arenosos e ao vento, presente em áreas costeiras próximas ao mar",
+      "Vegetação típica exclusivamente de regiões de altitude elevada",
+      "Vegetação que só existe em regiões de clima semiárido"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A restinga é uma formação vegetal adaptada a solos arenosos, à salinidade e aos ventos fortes, presente em áreas costeiras baixas ao longo do litoral brasileiro."
+  },
+  {
+    "id": "geo-116",
+    "materia": "geografia",
+    "topico": "Mata de Araucárias",
+    "pergunta": "A Mata de Araucárias (Floresta Ombrófila Mista), reconhecida pelas árvores de pinheiro-do-paraná, é característica de qual região do Brasil?",
+    "alternativas": [
+      "Norte",
+      "Nordeste",
+      "Sul",
+      "Centro-Oeste"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A Mata de Araucárias, formação típica da região Sul do Brasil, é marcada pela presença do pinheiro-do-paraná (araucária), árvore adaptada ao clima subtropical mais frio."
+  },
+  {
+    "id": "geo-117",
+    "materia": "geografia",
+    "topico": "Unidades de conservação - conceito",
+    "pergunta": "O que são as unidades de conservação, criadas pelo poder público no Brasil?",
+    "alternativas": [
+      "Áreas urbanas destinadas exclusivamente à construção de indústrias",
+      "Espaços territoriais legalmente protegidos para conservar a natureza e a biodiversidade",
+      "Regiões onde é proibida qualquer forma de pesquisa científica",
+      "Áreas destinadas apenas à exploração mineral"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Unidades de conservação são espaços territoriais protegidos por lei, criados com o objetivo de conservar a natureza, a biodiversidade e os recursos naturais de uma região."
+  },
+  {
+    "id": "geo-118",
+    "materia": "geografia",
+    "topico": "Proteção integral x uso sustentável",
+    "pergunta": "Qual é a principal diferença entre as unidades de conservação de proteção integral e as de uso sustentável?",
+    "alternativas": [
+      "Não existe diferença entre elas",
+      "As de proteção integral permitem apenas pesquisa e visitação controlada; as de uso sustentável permitem também a exploração racional dos recursos naturais por populações locais",
+      "As de uso sustentável proíbem totalmente a presença humana",
+      "As de proteção integral são voltadas exclusivamente à mineração"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Unidades de proteção integral (como Parques Nacionais) visam preservar a natureza com mínima interferência humana, permitindo pesquisa e visitação; já as de uso sustentável (como Reservas Extrativistas) permitem a exploração sustentável dos recursos por comunidades locais."
+  },
+  {
+    "id": "geo-119",
+    "materia": "geografia",
+    "topico": "Parque Nacional do Iguaçu",
+    "pergunta": "O Parque Nacional do Iguaçu, localizado no Paraná, é famoso mundialmente por abrigar qual atrativo natural?",
+    "alternativas": [
+      "As Cataratas do Iguaçu, um dos maiores conjuntos de quedas d'água do mundo",
+      "O maior deserto do Brasil",
+      "A maior geleira da América do Sul",
+      "O ponto mais alto do território brasileiro"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Parque Nacional do Iguaçu abriga as Cataratas do Iguaçu, formadas pelo Rio Iguaçu na fronteira entre Brasil e Argentina, sendo Patrimônio Natural da Humanidade reconhecido pela UNESCO."
+  },
+  {
+    "id": "geo-120",
+    "materia": "geografia",
+    "topico": "Parque Nacional da Chapada dos Veadeiros",
+    "pergunta": "O Parque Nacional da Chapada dos Veadeiros, em Goiás, protege uma área representativa de qual bioma brasileiro?",
+    "alternativas": [
+      "Amazônia",
+      "Cerrado",
+      "Pampa",
+      "Mata Atlântica"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A Chapada dos Veadeiros, em Goiás, protege uma área de Cerrado preservado, com cachoeiras, cânions e formações rochosas antigas, sendo também Patrimônio Natural da Humanidade."
+  },
+  {
+    "id": "geo-121",
+    "materia": "geografia",
+    "topico": "Reserva Extrativista",
+    "pergunta": "O que caracteriza uma Reserva Extrativista (Resex), tipo de unidade de conservação de uso sustentável no Brasil?",
+    "alternativas": [
+      "É uma área onde toda presença humana é proibida",
+      "É uma área destinada exclusivamente à mineração industrial",
+      "É uma área usada por populações tradicionais para extração sustentável de recursos naturais, como látex e castanhas",
+      "É um tipo de reserva usada apenas para testes militares"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As Reservas Extrativistas são criadas para proteger o modo de vida de populações tradicionais que utilizam de forma sustentável os recursos naturais, como a extração de látex e de castanhas na Amazônia."
+  },
+  {
+    "id": "geo-122",
+    "materia": "geografia",
+    "topico": "Área de Preservação Permanente (APP)",
+    "pergunta": "O que é uma Área de Preservação Permanente (APP), conceito importante da legislação ambiental brasileira?",
+    "alternativas": [
+      "Uma área urbana destinada à construção de shoppings",
+      "Uma área protegida por lei, como margens de rios e topos de morros, com a função de preservar recursos hídricos, o solo e a biodiversidade",
+      "Uma área exclusiva para plantio de monoculturas de exportação",
+      "Uma área onde é obrigatória a construção de estradas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "As Áreas de Preservação Permanente (APPs) são espaços protegidos por lei, como margens de rios, nascentes e topos de morros, essenciais para a conservação dos recursos hídricos e da biodiversidade."
+  },
+  {
+    "id": "geo-123",
+    "materia": "geografia",
+    "topico": "Ilhas de calor urbanas",
+    "pergunta": "O que caracteriza o fenômeno das 'ilhas de calor', comum em grandes cidades brasileiras?",
+    "alternativas": [
+      "A formação de geleiras no centro das cidades",
+      "O aumento da temperatura em áreas urbanas centrais em comparação com as áreas rurais ou arborizadas ao redor",
+      "A diminuição da temperatura nas áreas mais construídas das cidades",
+      "A formação de ilhas naturais dentro dos rios urbanos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "As ilhas de calor ocorrem porque o concreto, o asfalto e a falta de vegetação nas áreas urbanas retêm mais calor, elevando a temperatura dessas regiões em comparação com áreas rurais ou mais arborizadas."
+  },
+  {
+    "id": "geo-124",
+    "materia": "geografia",
+    "topico": "Poluição atmosférica nas grandes cidades",
+    "pergunta": "Quais são as principais fontes de poluição atmosférica nas grandes cidades brasileiras?",
+    "alternativas": [
+      "Apenas a fumaça de queimadas florestais distantes",
+      "A emissão de gases por veículos automotores e por atividades industriais",
+      "Exclusivamente a poeira natural do solo",
+      "Somente a evaporação da água dos rios"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Nas grandes cidades, a poluição atmosférica é causada principalmente pela emissão de gases de veículos automotores e por atividades industriais, prejudicando a qualidade do ar e a saúde da população."
+  },
+  {
+    "id": "geo-125",
+    "materia": "geografia",
+    "topico": "Inversão térmica",
+    "pergunta": "O que é a inversão térmica, fenômeno que agrava a poluição do ar em algumas cidades, especialmente no inverno?",
+    "alternativas": [
+      "Quando o ar frio próximo ao solo fica retido sob uma camada de ar mais quente, impedindo a dispersão dos poluentes",
+      "Quando a temperatura da cidade fica igual à do campo",
+      "Quando chove com mais intensidade do que o normal",
+      "Quando o vento aumenta muito, dispersando rapidamente a poluição"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Na inversão térmica, uma camada de ar mais quente fica sobre uma camada de ar mais frio próxima ao solo, impedindo a dispersão vertical dos poluentes e agravando a qualidade do ar nas cidades."
+  },
+  {
+    "id": "geo-126",
+    "materia": "geografia",
+    "topico": "Mobilidade urbana",
+    "pergunta": "O que se entende por mobilidade urbana, tema central no planejamento das cidades brasileiras?",
+    "alternativas": [
+      "A capacidade das pessoas e mercadorias se deslocarem pela cidade de forma eficiente e acessível",
+      "A proibição de qualquer tipo de transporte coletivo",
+      "A quantidade de prédios altos existentes em uma cidade",
+      "O número de parques públicos disponíveis"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Mobilidade urbana refere-se à facilidade de deslocamento de pessoas e mercadorias dentro das cidades, envolvendo transporte público, vias, ciclovias e calçadas, sendo um grande desafio nas metrópoles brasileiras."
+  },
+  {
+    "id": "geo-127",
+    "materia": "geografia",
+    "topico": "Congestionamentos urbanos",
+    "pergunta": "Qual fator é apontado como uma das principais causas dos grandes congestionamentos nas metrópoles brasileiras?",
+    "alternativas": [
+      "O excesso de investimento em transporte público de qualidade",
+      "A dependência excessiva do transporte individual (carros) em detrimento do transporte público eficiente",
+      "A diminuição do número de veículos nas cidades",
+      "O excesso de áreas verdes nos centros urbanos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A grande dependência do transporte individual motorizado, associada à falta de investimento em transporte público de qualidade, é uma das principais causas dos congestionamentos nas grandes cidades brasileiras."
+  },
+  {
+    "id": "geo-128",
+    "materia": "geografia",
+    "topico": "Segregação urbana",
+    "pergunta": "O que é a segregação urbana, fenômeno presente em muitas cidades brasileiras?",
+    "alternativas": [
+      "A divisão do espaço da cidade conforme a renda e a classe social, gerando desigualdade no acesso a serviços e infraestrutura",
+      "A distribuição igualitária de moradias entre todos os grupos sociais",
+      "A ausência total de bairros nas cidades",
+      "A proibição legal de morar em determinados bairros"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A segregação urbana ocorre quando o espaço da cidade se organiza de forma desigual conforme a renda da população, concentrando serviços e infraestrutura em áreas nobres e deixando periferias com menos recursos."
+  },
+  {
+    "id": "geo-129",
+    "materia": "geografia",
+    "topico": "Especulação imobiliária",
+    "pergunta": "O que é a especulação imobiliária, processo que influencia a organização das cidades brasileiras?",
+    "alternativas": [
+      "A valorização de terrenos e imóveis, muitas vezes mantidos vazios, à espera de lucro futuro, o que pode empurrar a população mais pobre para áreas periféricas",
+      "A construção de moradias populares gratuitas em todas as cidades",
+      "A proibição de compra e venda de imóveis urbanos",
+      "O tombamento de todos os imóveis antigos de uma cidade"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A especulação imobiliária ocorre quando terrenos e imóveis são valorizados e às vezes mantidos ociosos à espera de lucro, contribuindo para elevar os preços e empurrar a população de baixa renda para áreas mais distantes e periféricas."
+  },
+  {
+    "id": "geo-130",
+    "materia": "geografia",
+    "topico": "Origem histórica das favelas no Rio de Janeiro",
+    "pergunta": "Qual é considerada uma das primeiras favelas do Brasil, formada no Rio de Janeiro no final do século XIX?",
+    "alternativas": [
+      "Morro da Providência",
+      "Copacabana",
+      "Zona Sul do Rio de Janeiro",
+      "Barra da Tijuca"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Morro da Providência, no Rio de Janeiro, é considerado uma das primeiras favelas do Brasil, ocupado a partir do final do século XIX, entre outros motivos, por ex-soldados e trabalhadores sem moradia."
+  },
+  {
+    "id": "geo-131",
+    "materia": "geografia",
+    "topico": "Conurbação",
+    "pergunta": "O que é a conurbação, fenômeno urbano observado em algumas regiões metropolitanas brasileiras?",
+    "alternativas": [
+      "A união física entre duas ou mais cidades vizinhas devido ao crescimento urbano contínuo, formando uma malha urbana única",
+      "A separação total entre duas cidades por uma área rural extensa",
+      "A criação de um novo estado a partir da junção de dois municípios",
+      "A construção de um único prédio muito grande em uma cidade"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Conurbação é o processo em que o crescimento urbano de cidades vizinhas as une fisicamente, formando uma malha urbana contínua, como ocorre em partes da Grande São Paulo."
+  },
+  {
+    "id": "geo-132",
+    "materia": "geografia",
+    "topico": "Região metropolitana",
+    "pergunta": "O que caracteriza uma região metropolitana, unidade de planejamento comum no Brasil?",
+    "alternativas": [
+      "Um agrupamento de municípios vizinhos, integrados funcionalmente em torno de uma cidade polo",
+      "Uma área composta apenas por zonas rurais isoladas",
+      "Um único bairro de uma grande cidade",
+      "Uma divisão política equivalente a um estado"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Uma região metropolitana é formada por um conjunto de municípios vizinhos, integrados econômica e socialmente em torno de uma cidade polo (metrópole), como a Região Metropolitana de São Paulo."
+  },
+  {
+    "id": "geo-133",
+    "materia": "geografia",
+    "topico": "Conceito de metrópole",
+    "pergunta": "O que define uma cidade como metrópole, dentro da hierarquia urbana?",
+    "alternativas": [
+      "Ser uma cidade pequena com poucos habitantes",
+      "Ser um grande centro urbano com alta influência econômica, política e cultural sobre outras cidades da região",
+      "Ser uma cidade localizada apenas no litoral",
+      "Ser a cidade mais antiga de um estado"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Uma metrópole é um grande centro urbano que exerce forte influência econômica, política e cultural sobre uma extensa área ao seu redor, concentrando serviços especializados e grande população."
+  },
+  {
+    "id": "geo-134",
+    "materia": "geografia",
+    "topico": "Verticalização urbana",
+    "pergunta": "O que é a verticalização urbana, tendência observada em muitas cidades brasileiras de grande porte?",
+    "alternativas": [
+      "A construção de casas cada vez mais baixas e espalhadas",
+      "O crescimento das cidades por meio da construção de prédios cada vez mais altos, otimizando o uso do espaço",
+      "A proibição de construções acima de um andar",
+      "O abandono total dos centros urbanos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A verticalização é o processo de construção de edifícios cada vez mais altos nas cidades, uma forma de otimizar o uso do solo urbano, especialmente em áreas valorizadas e com pouco espaço disponível."
+  },
+  {
+    "id": "geo-135",
+    "materia": "geografia",
+    "topico": "Enchentes urbanas",
+    "pergunta": "Qual fator relacionado à urbanização é apontado como uma das principais causas do aumento de enchentes nas grandes cidades?",
+    "alternativas": [
+      "O excesso de áreas verdes e parques",
+      "A impermeabilização do solo por asfalto e concreto, que dificulta a infiltração da água da chuva",
+      "A diminuição do número de construções",
+      "O aumento da vegetação nativa nas margens dos rios urbanos"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A impermeabilização do solo causada pelo asfalto, pelas calçadas e pelas construções dificulta a infiltração da água da chuva, aumentando o escoamento superficial e contribuindo para as enchentes urbanas."
+  },
+  {
+    "id": "geo-136",
+    "materia": "geografia",
+    "topico": "Impermeabilização do solo",
+    "pergunta": "O que é a impermeabilização do solo urbano e qual sua principal consequência ambiental?",
+    "alternativas": [
+      "É a plantação de árvores nas calçadas, o que reduz enchentes",
+      "É o recobrimento do solo com materiais como asfalto e concreto, o que reduz a infiltração da água e aumenta o risco de enchentes",
+      "É a criação de lagos artificiais, o que aumenta a infiltração de água",
+      "É um processo que só ocorre em áreas rurais"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A impermeabilização do solo ocorre quando áreas antes permeáveis são cobertas por asfalto, concreto ou edificações, reduzindo a infiltração da água da chuva e aumentando o volume de água escoada superficialmente, o que agrava enchentes."
+  },
+  {
+    "id": "geo-137",
+    "materia": "geografia",
+    "topico": "Deslizamentos de terra em encostas urbanas",
+    "pergunta": "Qual é uma das principais causas dos deslizamentos de terra registrados em encostas ocupadas por moradias em cidades brasileiras?",
+    "alternativas": [
+      "A ocupação irregular e desordenada de encostas íngremes, muitas vezes sem infraestrutura adequada de drenagem",
+      "O excesso de vegetação nativa preservada nas encostas",
+      "A proibição de construção em áreas de risco",
+      "O uso exclusivo das encostas para agricultura orgânica"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A ocupação desordenada de encostas íngremes, sem infraestrutura adequada de drenagem e contenção, aumenta significativamente o risco de deslizamentos de terra, especialmente em períodos de fortes chuvas."
+  },
+  {
+    "id": "geo-138",
+    "materia": "geografia",
+    "topico": "Déficit de saneamento e saúde pública",
+    "pergunta": "Qual é uma consequência direta da falta de saneamento básico adequado em áreas urbanas?",
+    "alternativas": [
+      "A redução de doenças transmitidas pela água contaminada",
+      "O aumento do risco de doenças transmitidas pela água contaminada, como diarreias e verminoses",
+      "A melhoria automática da qualidade do ar",
+      "A valorização imediata dos imóveis da região"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A falta de saneamento básico, como coleta e tratamento de esgoto, aumenta o risco de contaminação da água e a proliferação de doenças, como diarreias, verminoses e hepatite."
+  },
+  {
+    "id": "geo-139",
+    "materia": "geografia",
+    "topico": "Poluição de rios urbanos",
+    "pergunta": "Qual é uma das principais causas da poluição de rios que atravessam grandes cidades brasileiras, como o Rio Tietê e o Rio Pinheiros?",
+    "alternativas": [
+      "O lançamento de esgoto doméstico e industrial sem tratamento adequado",
+      "O excesso de peixes nesses rios",
+      "A ausência total de construções nas margens",
+      "O uso exclusivo dos rios para lazer"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O lançamento de esgoto doméstico e industrial sem tratamento adequado é uma das principais causas da poluição de rios urbanos, como o Tietê e o Pinheiros, na região metropolitana de São Paulo."
+  },
+  {
+    "id": "geo-140",
+    "materia": "geografia",
+    "topico": "Arborização e ilhas de calor",
+    "pergunta": "De que forma a arborização urbana pode ajudar a reduzir o efeito das ilhas de calor nas cidades?",
+    "alternativas": [
+      "As árvores aumentam a retenção de calor pelo asfalto",
+      "As árvores proporcionam sombra e liberam umidade para o ar, ajudando a reduzir a temperatura local",
+      "As árvores não têm nenhum efeito sobre a temperatura urbana",
+      "As árvores aumentam a poluição do ar nas cidades"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A arborização urbana ajuda a reduzir as ilhas de calor porque as árvores fornecem sombra e liberam umidade por meio da transpiração, contribuindo para amenizar a temperatura nas áreas urbanas."
+  },
+  {
+    "id": "geo-141",
+    "materia": "geografia",
+    "topico": "Benefícios da arborização urbana",
+    "pergunta": "Além de reduzir a temperatura, quais outros benefícios a arborização traz para as cidades?",
+    "alternativas": [
+      "Aumenta a poluição sonora e visual",
+      "Melhora a qualidade do ar, ajuda na absorção de água das chuvas e proporciona bem-estar à população",
+      "Impede totalmente a circulação de pessoas nas calçadas",
+      "Reduz a biodiversidade urbana"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Além de amenizar a temperatura, a arborização urbana melhora a qualidade do ar, auxilia na absorção da água das chuvas, reduzindo enchentes, e contribui para o bem-estar físico e mental da população."
+  },
+  {
+    "id": "geo-142",
+    "materia": "geografia",
+    "topico": "Coleta seletiva de lixo",
+    "pergunta": "O que é a coleta seletiva de lixo, prática incentivada em muitas cidades brasileiras?",
+    "alternativas": [
+      "A separação dos resíduos sólidos conforme seu tipo (papel, plástico, vidro, metal, orgânico), facilitando a reciclagem",
+      "A coleta de lixo apenas uma vez por ano",
+      "A proibição total de produção de resíduos",
+      "O descarte de todo tipo de lixo em um único local, sem separação"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A coleta seletiva consiste na separação dos resíduos sólidos conforme seu tipo (como papel, plástico, vidro e metal), facilitando o processo de reciclagem e reduzindo o volume de lixo enviado a aterros."
+  },
+  {
+    "id": "geo-143",
+    "materia": "geografia",
+    "topico": "Aterro sanitário x lixão",
+    "pergunta": "Qual é a principal diferença entre um aterro sanitário e um lixão a céu aberto?",
+    "alternativas": [
+      "Não existe diferença entre eles",
+      "O aterro sanitário possui técnicas de engenharia para tratar o solo e os líquidos gerados pelo lixo, enquanto o lixão descarta os resíduos sem nenhum tratamento, contaminando o ambiente",
+      "O lixão é mais seguro para o meio ambiente do que o aterro sanitário",
+      "O aterro sanitário só pode ser usado para lixo hospitalar"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O aterro sanitário utiliza técnicas de engenharia, como impermeabilização do solo e tratamento do chorume, para reduzir os impactos ambientais, enquanto o lixão é um descarte irregular de resíduos, sem nenhum tratamento, contaminando o solo e a água."
+  },
+  {
+    "id": "geo-144",
+    "materia": "geografia",
+    "topico": "Perda de habitat e extinção de espécies",
+    "pergunta": "De que forma o desmatamento contribui para a extinção de espécies da fauna brasileira?",
+    "alternativas": [
+      "O desmatamento não afeta a fauna de nenhuma maneira",
+      "O desmatamento destrói o habitat natural das espécies, reduzindo áreas de alimentação, reprodução e abrigo",
+      "O desmatamento sempre aumenta a quantidade de alimento disponível para os animais",
+      "O desmatamento só afeta espécies de plantas, nunca animais"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O desmatamento destrói o habitat natural de diversas espécies, reduzindo áreas de alimentação, reprodução e abrigo, o que pode levar à diminuição das populações e, em casos extremos, à extinção de espécies."
+  },
+  {
+    "id": "geo-145",
+    "materia": "geografia",
+    "topico": "Corredores ecológicos",
+    "pergunta": "O que são os corredores ecológicos, estratégia usada para a conservação da biodiversidade?",
+    "alternativas": [
+      "Estradas construídas exclusivamente para o transporte de cargas",
+      "Faixas de vegetação que conectam fragmentos de habitat isolados, permitindo o deslocamento e a reprodução de espécies da fauna",
+      "Áreas urbanas destinadas à construção civil",
+      "Túneis subterrâneos usados apenas pelo transporte público"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Corredores ecológicos são faixas de vegetação que conectam fragmentos isolados de habitat natural, permitindo que animais se desloquem entre eles, favorecendo a reprodução e reduzindo os efeitos negativos da fragmentação florestal."
+  },
+  {
+    "id": "geo-146",
+    "materia": "geografia",
+    "topico": "Espécies endêmicas",
+    "pergunta": "O que caracteriza uma espécie endêmica, conceito importante para entender a biodiversidade dos biomas brasileiros?",
+    "alternativas": [
+      "Uma espécie encontrada em todos os continentes do planeta",
+      "Uma espécie que ocorre naturalmente apenas em uma determinada região ou bioma, não sendo encontrada em nenhum outro lugar do mundo",
+      "Uma espécie extinta há milhares de anos",
+      "Uma espécie criada exclusivamente em cativeiro"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Uma espécie endêmica é aquela que ocorre naturalmente apenas em determinada região geográfica ou bioma, não sendo encontrada em nenhum outro lugar do mundo, como muitas espécies exclusivas da Caatinga ou da Mata Atlântica."
+  },
+  {
+    "id": "geo-147",
+    "materia": "geografia",
+    "topico": "Biodiversidade - conceito",
+    "pergunta": "O que significa o termo biodiversidade e por que sua conservação é importante para o planeta?",
+    "alternativas": [
+      "Refere-se apenas à quantidade de água doce disponível em uma região",
+      "É a variedade de formas de vida (animais, plantas, microrganismos) existentes em um ambiente, essencial para o equilíbrio dos ecossistemas",
+      "É um conceito usado apenas para descrever espécies domesticadas",
+      "Refere-se exclusivamente ao clima de uma região"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Biodiversidade é a variedade de formas de vida existentes em um ambiente, incluindo animais, plantas e microrganismos. Sua conservação é essencial para manter o equilíbrio dos ecossistemas e os serviços ambientais que eles oferecem."
+  },
+  {
+    "id": "geo-148",
+    "materia": "geografia",
+    "topico": "Vegetação nativa e sequestro de carbono",
+    "pergunta": "Qual é o papel das florestas e da vegetação nativa na mitigação do aquecimento global?",
+    "alternativas": [
+      "As florestas liberam grandes quantidades de gases poluentes constantemente",
+      "As florestas absorvem gás carbônico da atmosfera durante a fotossíntese, ajudando a reduzir o volume de gases de efeito estufa",
+      "As florestas não têm nenhuma relação com o clima do planeta",
+      "As florestas aumentam a temperatura média da Terra"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Durante a fotossíntese, as florestas absorvem gás carbônico (CO2) da atmosfera, funcionando como sumidouros de carbono e ajudando a reduzir a concentração de gases de efeito estufa, o que contribui para mitigar o aquecimento global."
+  },
+  {
+    "id": "geo-149",
+    "materia": "geografia",
+    "topico": "Reflorestamento",
+    "pergunta": "O que é o reflorestamento, prática cada vez mais incentivada como resposta ao desmatamento no Brasil?",
+    "alternativas": [
+      "O corte total da vegetação de uma área para uso agrícola",
+      "O plantio de árvores em áreas anteriormente desmatadas, buscando recuperar a cobertura vegetal e os serviços ambientais",
+      "A construção de estradas dentro de áreas florestais",
+      "A proibição definitiva de qualquer atividade em áreas de floresta"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O reflorestamento consiste no plantio de árvores em áreas que sofreram desmatamento, com o objetivo de recuperar a cobertura vegetal, proteger o solo, os recursos hídricos e a biodiversidade local."
+  },
+  {
+    "id": "geo-150",
+    "materia": "geografia",
+    "topico": "Onça-pintada",
+    "pergunta": "A onça-pintada, maior felino das Américas e espécie ameaçada de extinção, é encontrada principalmente em quais biomas brasileiros?",
+    "alternativas": [
+      "Apenas no Pampa",
+      "Amazônia e Pantanal",
+      "Apenas em regiões urbanas",
+      "Exclusivamente na Mata de Araucárias"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A onça-pintada é o maior felino das Américas e está presente principalmente na Amazônia e no Pantanal, embora ocorra, em menor número, em outros biomas brasileiros. É uma espécie ameaçada devido à perda de habitat."
+  },
+  {
+    "id": "geo-151",
+    "materia": "geografia",
+    "topico": "Setores da economia - Setor primário",
+    "pergunta": "O que caracteriza o setor primário da economia?",
+    "alternativas": [
+      "Atividades ligadas à extração de recursos naturais, como agricultura, pecuária, pesca e mineração",
+      "Atividades de transformação de matérias-primas em produtos industrializados",
+      "Atividades relacionadas à prestação de serviços, como comércio e educação",
+      "Atividades exclusivamente ligadas à tecnologia da informação"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O setor primário reúne as atividades econômicas ligadas à extração direta de recursos da natureza, como agricultura, pecuária, pesca, extrativismo e mineração."
+  },
+  {
+    "id": "geo-152",
+    "materia": "geografia",
+    "topico": "Setores da economia - Setor secundário",
+    "pergunta": "O que caracteriza o setor secundário da economia?",
+    "alternativas": [
+      "A extração direta de recursos naturais sem nenhum processamento",
+      "A transformação de matérias-primas em produtos industrializados, por meio da indústria",
+      "A prestação de serviços, como transporte e comércio",
+      "Apenas o cultivo de produtos agrícolas para exportação"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O setor secundário corresponde às atividades industriais, que transformam matérias-primas (produzidas pelo setor primário) em produtos manufaturados, como veículos, roupas e alimentos industrializados."
+  },
+  {
+    "id": "geo-153",
+    "materia": "geografia",
+    "topico": "Setores da economia - Setor terciário",
+    "pergunta": "O que caracteriza o setor terciário da economia, hoje o que mais emprega no Brasil?",
+    "alternativas": [
+      "A extração de minérios e petróleo",
+      "A produção agrícola em larga escala",
+      "A prestação de serviços, como comércio, educação, saúde, transporte e turismo",
+      "Exclusivamente a fabricação de máquinas industriais"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O setor terciário reúne as atividades de prestação de serviços, como comércio, educação, saúde, transporte, turismo e serviços financeiros, sendo hoje o setor que mais emprega no Brasil."
+  },
+  {
+    "id": "geo-154",
+    "materia": "geografia",
+    "topico": "Setor quaternário da economia",
+    "pergunta": "Alguns geógrafos e economistas utilizam o conceito de setor quaternário para se referir a quais atividades?",
+    "alternativas": [
+      "Atividades ligadas à agricultura de subsistência",
+      "Atividades baseadas em pesquisa, tecnologia da informação e produção de conhecimento",
+      "Atividades exclusivamente de mineração",
+      "Atividades ligadas apenas ao transporte rodoviário"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O setor quaternário é um conceito usado para descrever atividades ligadas à pesquisa científica, ao desenvolvimento de tecnologia e à produção e gestão do conhecimento, cada vez mais relevantes na economia atual."
+  },
+  {
+    "id": "geo-155",
+    "materia": "geografia",
+    "topico": "Indústria de base",
+    "pergunta": "O que caracteriza a indústria de base (ou indústria pesada), como a siderúrgica?",
+    "alternativas": [
+      "Produz bens de consumo final, como roupas e alimentos",
+      "Produz insumos e matérias-primas processadas que servem de base para outras indústrias, como aço e alumínio",
+      "Presta apenas serviços financeiros",
+      "Produz exclusivamente produtos agrícolas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A indústria de base produz insumos essenciais, como aço, alumínio e produtos químicos, que servem de matéria-prima para outras indústrias fabricarem seus produtos finais."
+  },
+  {
+    "id": "geo-156",
+    "materia": "geografia",
+    "topico": "Indústria de bens de consumo",
+    "pergunta": "O que produz a indústria de bens de consumo, um dos tipos de indústria de transformação?",
+    "alternativas": [
+      "Máquinas e equipamentos usados por outras indústrias",
+      "Produtos destinados diretamente ao consumidor final, como roupas, calçados e alimentos industrializados",
+      "Exclusivamente matérias-primas não processadas",
+      "Apenas serviços de manutenção industrial"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A indústria de bens de consumo fabrica produtos destinados diretamente ao consumidor final, como alimentos industrializados, roupas, calçados e eletrodomésticos."
+  },
+  {
+    "id": "geo-157",
+    "materia": "geografia",
+    "topico": "Indústria de bens de capital",
+    "pergunta": "O que produz a indústria de bens de capital?",
+    "alternativas": [
+      "Produtos agrícolas destinados à exportação",
+      "Máquinas, equipamentos e ferramentas utilizados por outras indústrias em seus processos produtivos",
+      "Alimentos prontos para consumo imediato",
+      "Serviços de transporte de passageiros"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A indústria de bens de capital produz máquinas, equipamentos e ferramentas que são utilizados por outras indústrias em seus próprios processos de produção."
+  },
+  {
+    "id": "geo-158",
+    "materia": "geografia",
+    "topico": "Polo industrial do ABC Paulista",
+    "pergunta": "A região conhecida como ABC Paulista, no estado de São Paulo, é historicamente um importante polo de qual setor industrial?",
+    "alternativas": [
+      "Petroquímico",
+      "Automobilístico",
+      "Têxtil",
+      "Extrativismo mineral"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O ABC Paulista (Santo André, São Bernardo do Campo e São Caetano do Sul) é historicamente um dos principais polos automobilísticos do Brasil, concentrando grandes montadoras."
+  },
+  {
+    "id": "geo-159",
+    "materia": "geografia",
+    "topico": "Polo Petroquímico de Camaçari",
+    "pergunta": "O Polo Petroquímico de Camaçari, um dos maiores complexos industriais do Brasil, está localizado em qual estado?",
+    "alternativas": [
+      "Pernambuco",
+      "Bahia",
+      "Ceará",
+      "Sergipe"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O Polo Petroquímico de Camaçari, na Bahia, é um dos maiores complexos industriais integrados do Brasil, representando a diversificação da indústria no Nordeste."
+  },
+  {
+    "id": "geo-160",
+    "materia": "geografia",
+    "topico": "Complexo Industrial de Suape",
+    "pergunta": "O Complexo Industrial Portuário de Suape, importante polo de desenvolvimento do Nordeste, está localizado em qual estado?",
+    "alternativas": [
+      "Pernambuco",
+      "Bahia",
+      "Maranhão",
+      "Piauí"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Complexo de Suape está localizado em Pernambuco e reúne atividades portuárias, industriais (como estaleiros e refinaria) e logísticas, sendo um importante polo de desenvolvimento regional."
+  },
+  {
+    "id": "geo-161",
+    "materia": "geografia",
+    "topico": "Agricultura familiar",
+    "pergunta": "O que caracteriza a agricultura familiar, modalidade importante para a produção de alimentos no Brasil?",
+    "alternativas": [
+      "É praticada em grandes propriedades, com uso intensivo de maquinário e voltada exclusivamente à exportação",
+      "É praticada principalmente por famílias em pequenas propriedades, com mão de obra familiar, produzindo boa parte dos alimentos consumidos internamente no país",
+      "É proibida por lei no território brasileiro",
+      "É voltada exclusivamente para a criação de gado de corte em larga escala"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "A agricultura familiar é praticada majoritariamente em pequenas propriedades, com predominância de mão de obra da própria família, sendo responsável por parte significativa dos alimentos consumidos no mercado interno brasileiro, como feijão, mandioca e hortaliças."
+  },
+  {
+    "id": "geo-162",
+    "materia": "geografia",
+    "topico": "Agronegócio x agricultura familiar",
+    "pergunta": "Qual é uma diferença importante entre o agronegócio e a agricultura familiar?",
+    "alternativas": [
+      "Não existe nenhuma diferença entre eles",
+      "O agronegócio caracteriza-se por grandes propriedades e produção voltada à exportação, enquanto a agricultura familiar predomina em pequenas propriedades e abastece principalmente o mercado interno",
+      "A agricultura familiar é sempre mais mecanizada que o agronegócio",
+      "O agronegócio não utiliza nenhuma tecnologia em sua produção"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "O agronegócio caracteriza-se por grandes propriedades, alta mecanização e produção voltada principalmente à exportação, enquanto a agricultura familiar predomina em pequenas propriedades e é essencial para o abastecimento do mercado interno."
+  },
+  {
+    "id": "geo-163",
+    "materia": "geografia",
+    "topico": "Cultura da soja no Brasil",
+    "pergunta": "Em qual região do Brasil se concentra a maior produção de soja, principal grão exportado pelo país?",
+    "alternativas": [
+      "Norte",
+      "Nordeste",
+      "Centro-Oeste",
+      "Sul apenas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A região Centro-Oeste, especialmente o estado de Mato Grosso, concentra a maior produção de soja do Brasil, principal produto agrícola exportado pelo país."
+  },
+  {
+    "id": "geo-164",
+    "materia": "geografia",
+    "topico": "Cultura do café no Brasil",
+    "pergunta": "Qual estado brasileiro é historicamente o maior produtor de café do país?",
+    "alternativas": [
+      "Bahia",
+      "Minas Gerais",
+      "Rio Grande do Sul",
+      "Amazonas"
+    ],
+    "respostaCorreta": 1,
+    "explicacao": "Minas Gerais é o maior produtor de café do Brasil, com destaque para regiões como o Sul de Minas e o Cerrado Mineiro."
+  },
+  {
+    "id": "geo-165",
+    "materia": "geografia",
+    "topico": "Cultura da cana-de-açúcar no Brasil",
+    "pergunta": "Qual estado brasileiro é o maior produtor de cana-de-açúcar, matéria-prima usada na produção de açúcar e etanol?",
+    "alternativas": [
+      "São Paulo",
+      "Pará",
+      "Amazonas",
+      "Rio Grande do Sul"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "São Paulo é o maior produtor de cana-de-açúcar do Brasil, sendo essa cultura fundamental para a produção de açúcar e de etanol combustível."
+  },
+  {
+    "id": "geo-166",
+    "materia": "geografia",
+    "topico": "Cultura do milho - safrinha",
+    "pergunta": "O que é a 'safrinha' do milho, prática comum no calendário agrícola brasileiro?",
+    "alternativas": [
+      "Uma segunda safra de milho, plantada logo após a colheita da soja, especialmente no Centro-Oeste",
+      "Uma variedade geneticamente modificada de milho menor que o normal",
+      "Um tipo de milho cultivado exclusivamente para consumo animal na Europa",
+      "Uma praga que ataca as plantações de milho no Brasil"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A 'safrinha' é a segunda safra de milho do ano, plantada geralmente logo após a colheita da soja, sobretudo nas regiões Centro-Oeste e Sul, aproveitando o mesmo período agrícola."
+  },
+  {
+    "id": "geo-167",
+    "materia": "geografia",
+    "topico": "Pecuária de corte no Brasil",
+    "pergunta": "Em qual região do Brasil se concentra o maior rebanho bovino de corte do país?",
+    "alternativas": [
+      "Sul",
+      "Sudeste",
+      "Centro-Oeste",
+      "Norte apenas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A região Centro-Oeste concentra o maior rebanho bovino de corte do Brasil, favorecida pelas grandes extensões de pastagens no bioma Cerrado."
+  },
+  {
+    "id": "geo-168",
+    "materia": "geografia",
+    "topico": "Pecuária leiteira no Brasil",
+    "pergunta": "Qual estado brasileiro é tradicionalmente um dos maiores produtores de leite do país?",
+    "alternativas": [
+      "Minas Gerais",
+      "Amazonas",
+      "Roraima",
+      "Amapá"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Minas Gerais é tradicionalmente um dos maiores produtores de leite do Brasil, com forte presença da bacia leiteira em diversas regiões do estado."
+  },
+  {
+    "id": "geo-169",
+    "materia": "geografia",
+    "topico": "Mineração - minério de ferro",
+    "pergunta": "Qual estado brasileiro é historicamente um dos maiores produtores de minério de ferro do país?",
+    "alternativas": [
+      "Minas Gerais",
+      "Rio Grande do Sul",
+      "Santa Catarina",
+      "Sergipe"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Minas Gerais é um dos maiores produtores de minério de ferro do Brasil, com destaque para a região do Quadrilátero Ferrífero."
+  },
+  {
+    "id": "geo-170",
+    "materia": "geografia",
+    "topico": "Quadrilátero Ferrífero",
+    "pergunta": "O Quadrilátero Ferrífero, uma das principais áreas de mineração de ferro do Brasil, está localizado em qual estado?",
+    "alternativas": [
+      "Minas Gerais",
+      "Pará",
+      "Bahia",
+      "Goiás"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Quadrilátero Ferrífero é uma região de Minas Gerais rica em jazidas de minério de ferro, sendo historicamente uma das principais áreas de mineração do Brasil."
+  },
+  {
+    "id": "geo-171",
+    "materia": "geografia",
+    "topico": "Mina de Carajás",
+    "pergunta": "A mina de Carajás, considerada uma das maiores minas de minério de ferro a céu aberto do mundo, está localizada em qual estado?",
+    "alternativas": [
+      "Pará",
+      "Minas Gerais",
+      "Mato Grosso",
+      "Tocantins"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A mina de Carajás, no Pará, é uma das maiores reservas de minério de ferro do mundo, sendo fundamental para a economia da região Norte e para as exportações brasileiras."
+  },
+  {
+    "id": "geo-172",
+    "materia": "geografia",
+    "topico": "Extração de petróleo - Bacia de Campos",
+    "pergunta": "A Bacia de Campos, uma das principais áreas de extração de petróleo do Brasil, está localizada no litoral de qual estado?",
+    "alternativas": [
+      "Rio de Janeiro",
+      "Bahia",
+      "Ceará",
+      "Amapá"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A Bacia de Campos, no litoral do Rio de Janeiro, é uma das principais áreas de extração de petróleo do Brasil, concentrando diversas plataformas marítimas."
+  },
+  {
+    "id": "geo-173",
+    "materia": "geografia",
+    "topico": "Pré-sal",
+    "pergunta": "O que é a camada do pré-sal, importante fonte de petróleo descoberta no litoral brasileiro?",
+    "alternativas": [
+      "Uma reserva de água doce localizada no interior do Nordeste",
+      "Uma reserva de minério de ferro localizada na Amazônia",
+      "Um tipo de solo agrícola muito fértil encontrado no Cerrado",
+      "Uma camada de rochas ricas em petróleo e gás natural localizada abaixo de uma extensa camada de sal, no fundo do oceano"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O pré-sal é uma camada de rochas rica em petróleo e gás natural, localizada a grandes profundidades no fundo do oceano, abaixo de uma extensa camada de sal, sendo uma importante fonte de recursos energéticos do Brasil."
+  },
+  {
+    "id": "geo-174",
+    "materia": "geografia",
+    "topico": "Energia eólica no Nordeste",
+    "pergunta": "Por que a região Nordeste, especialmente o litoral, tornou-se um dos principais polos de energia eólica do Brasil?",
+    "alternativas": [
+      "Porque possui o maior volume de chuvas do país",
+      "Porque não possui nenhuma outra fonte de energia disponível",
+      "Porque é a região mais fria do Brasil",
+      "Porque apresenta ventos fortes e constantes ao longo de boa parte do ano, ideais para a geração de energia eólica"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O litoral do Nordeste apresenta ventos fortes e constantes, especialmente durante boa parte do ano, condições favoráveis para a instalação de parques eólicos, o que tornou a região um dos principais polos dessa fonte de energia no Brasil."
+  },
+  {
+    "id": "geo-175",
+    "materia": "geografia",
+    "topico": "Energia solar no Brasil",
+    "pergunta": "Por que o Brasil, especialmente a região Nordeste, apresenta grande potencial para a geração de energia solar?",
+    "alternativas": [
+      "Por apresentar índices elevados de radiação solar durante boa parte do ano",
+      "Por ter clima predominantemente frio e nublado",
+      "Por estar localizado próximo aos polos terrestres",
+      "Por não receber luz solar direta em nenhuma época do ano"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Brasil, sobretudo a região Nordeste, apresenta índices elevados de radiação solar ao longo do ano, o que representa um grande potencial ainda pouco explorado para a geração de energia solar."
+  },
+  {
+    "id": "geo-176",
+    "materia": "geografia",
+    "topico": "Energia de biomassa",
+    "pergunta": "O que é a energia de biomassa, fonte renovável utilizada no Brasil, especialmente a partir do bagaço de cana-de-açúcar?",
+    "alternativas": [
+      "Energia gerada a partir da queima de combustíveis fósseis, como o carvão mineral",
+      "Energia produzida apenas a partir da força dos ventos",
+      "Energia gerada exclusivamente por reatores nucleares",
+      "Energia obtida a partir da queima ou processamento de matéria orgânica, como resíduos agrícolas e florestais"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A energia de biomassa é obtida a partir da queima ou processamento de matéria orgânica, como o bagaço da cana-de-açúcar, resíduos agrícolas e florestais, sendo uma fonte renovável utilizada na geração de energia elétrica no Brasil."
+  },
+  {
+    "id": "geo-177",
+    "materia": "geografia",
+    "topico": "Etanol e o Proálcool",
+    "pergunta": "O que foi o Proálcool, programa criado pelo governo brasileiro na década de 1970?",
+    "alternativas": [
+      "Um programa de incentivo à produção de etanol a partir da cana-de-açúcar, como alternativa aos combustíveis derivados do petróleo",
+      "Um programa de combate ao desmatamento na Amazônia",
+      "Um programa de incentivo à produção de energia nuclear",
+      "Um programa de construção de hidrelétricas na região Norte"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Proálcool, criado em 1975, foi um programa do governo brasileiro que incentivou a produção de etanol a partir da cana-de-açúcar, como alternativa aos combustíveis derivados do petróleo, especialmente após a crise do petróleo da época."
+  },
+  {
+    "id": "geo-178",
+    "materia": "geografia",
+    "topico": "Matriz energética x matriz elétrica",
+    "pergunta": "Qual é a diferença entre matriz energética e matriz elétrica de um país?",
+    "alternativas": [
+      "São exatamente a mesma coisa",
+      "A matriz energética se refere apenas à energia elétrica residencial",
+      "A matriz elétrica engloba apenas fontes não renováveis",
+      "A matriz energética engloba todas as fontes de energia usadas no país (incluindo combustíveis para transporte); a matriz elétrica se refere apenas às fontes usadas para gerar eletricidade"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A matriz energética engloba todas as fontes de energia utilizadas em um país, incluindo combustíveis usados no transporte, enquanto a matriz elétrica se refere especificamente às fontes usadas para a geração de eletricidade."
+  },
+  {
+    "id": "geo-179",
+    "materia": "geografia",
+    "topico": "Produto Interno Bruto (PIB)",
+    "pergunta": "O que mede o Produto Interno Bruto (PIB) de um país ou região?",
+    "alternativas": [
+      "Apenas o número de habitantes de um território",
+      "Exclusivamente o valor das exportações de um país",
+      "Somente a quantidade de dinheiro guardada nos bancos",
+      "A soma de todas as riquezas (bens e serviços) produzidas em um território durante um determinado período"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O PIB (Produto Interno Bruto) mede a soma de todas as riquezas produzidas (bens e serviços) em um território durante um determinado período, geralmente um ano, sendo um dos principais indicadores econômicos."
+  },
+  {
+    "id": "geo-180",
+    "materia": "geografia",
+    "topico": "Desigualdade regional do PIB brasileiro",
+    "pergunta": "Qual região brasileira concentra historicamente a maior parcela do PIB nacional?",
+    "alternativas": [
+      "Norte",
+      "Nordeste",
+      "Sudeste",
+      "Centro-Oeste"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A região Sudeste concentra historicamente a maior parcela do PIB nacional, refletindo sua forte industrialização e concentração de serviços e capital."
+  },
+  {
+    "id": "geo-181",
+    "materia": "geografia",
+    "topico": "Índice de Desenvolvimento Humano (IDH)",
+    "pergunta": "O que é o Índice de Desenvolvimento Humano (IDH), utilizado para comparar o desenvolvimento entre países e regiões?",
+    "alternativas": [
+      "Um indicador que considera apenas a renda per capita de um país",
+      "Um indicador exclusivo para medir a poluição ambiental",
+      "Um indicador que mede apenas o tamanho do território de um país",
+      "Um indicador que combina renda, educação e expectativa de vida para avaliar o nível de desenvolvimento humano de um lugar"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O IDH é um indicador que combina três dimensões: renda, educação (anos de estudo) e saúde (expectativa de vida), sendo usado para comparar o nível de desenvolvimento humano entre diferentes países e regiões."
+  },
+  {
+    "id": "geo-182",
+    "materia": "geografia",
+    "topico": "Desigualdade social e distribuição de renda",
+    "pergunta": "O que caracteriza a desigualdade social do ponto de vista da distribuição de renda em um país como o Brasil?",
+    "alternativas": [
+      "Uma situação em que todos os habitantes possuem exatamente a mesma renda",
+      "Um fenômeno que não tem relação com acesso a educação e saúde",
+      "Uma situação exclusiva de países muito pequenos em território",
+      "Uma situação em que a riqueza produzida é distribuída de forma muito desigual entre a população, concentrando-se em poucas mãos"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A desigualdade social se manifesta quando a riqueza produzida por um país é distribuída de forma muito desigual entre sua população, concentrando renda em uma pequena parcela e deixando grande parte com pouco acesso a bens e serviços."
+  },
+  {
+    "id": "geo-183",
+    "materia": "geografia",
+    "topico": "Comércio exterior - principal parceiro comercial",
+    "pergunta": "Nas últimas décadas, qual país se tornou o principal parceiro comercial do Brasil, tanto em exportações quanto em importações?",
+    "alternativas": [
+      "Estados Unidos",
+      "Alemanha",
+      "China",
+      "Argentina"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Nas últimas décadas, a China se tornou o principal parceiro comercial do Brasil, sendo o maior destino das exportações brasileiras, especialmente de commodities como soja e minério de ferro."
+  },
+  {
+    "id": "geo-184",
+    "materia": "geografia",
+    "topico": "Balança comercial",
+    "pergunta": "O que é a balança comercial de um país?",
+    "alternativas": [
+      "O total de dinheiro que um país tem guardado em seus bancos",
+      "Um indicador exclusivo da qualidade de vida da população",
+      "Um documento que lista apenas os produtos fabricados internamente",
+      "O registro das relações comerciais entre um país e o restante do mundo, comparando o valor das exportações com o das importações"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A balança comercial registra as relações comerciais entre um país e o resto do mundo, comparando o valor das exportações e importações. Quando as exportações superam as importações, diz-se que a balança é superavitária."
+  },
+  {
+    "id": "geo-185",
+    "materia": "geografia",
+    "topico": "Crescimento do setor de serviços no Brasil",
+    "pergunta": "Qual tendência é observada na economia brasileira nas últimas décadas em relação à distribuição da mão de obra entre os setores econômicos?",
+    "alternativas": [
+      "Aumento constante da mão de obra empregada exclusivamente na agricultura",
+      "Diminuição contínua da população urbana",
+      "Desaparecimento total do setor industrial",
+      "Crescimento da participação do setor terciário (serviços) na geração de empregos, superando os setores primário e secundário"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Nas últimas décadas, o setor terciário (serviços) tornou-se o que mais emprega no Brasil, superando os setores primário e secundário, refletindo a tendência de terceirização da economia observada em diversos países."
+  },
+  {
+    "id": "geo-186",
+    "materia": "geografia",
+    "topico": "Terceirização da economia",
+    "pergunta": "O que significa dizer que a economia brasileira passou por um processo de 'terceirização' nas últimas décadas?",
+    "alternativas": [
+      "Que o setor de serviços (terciário) ganhou cada vez mais importância na geração de empregos e riqueza",
+      "Que todas as empresas passaram a ser controladas por um terceiro país",
+      "Que a agricultura se tornou a atividade econômica mais importante do país",
+      "Que a população brasileira triplicou de tamanho"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A terceirização da economia se refere ao crescimento da importância do setor terciário (serviços) na geração de empregos e de riqueza, tendência observada em diversos países, incluindo o Brasil."
+  },
+  {
+    "id": "geo-187",
+    "materia": "geografia",
+    "topico": "Polo metal-mecânico do Sul",
+    "pergunta": "A cidade de Caxias do Sul, no Rio Grande do Sul, é conhecida por ser um importante polo de qual setor industrial?",
+    "alternativas": [
+      "Petroquímico",
+      "Mineração de ferro",
+      "Extração de petróleo",
+      "Metal-mecânico, com destaque para fabricação de máquinas e veículos"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Caxias do Sul é um dos principais polos metal-mecânicos do Brasil, com forte presença de indústrias de máquinas, autopeças e veículos, refletindo a diversificação industrial da região Sul."
+  },
+  {
+    "id": "geo-188",
+    "materia": "geografia",
+    "topico": "SUDENE",
+    "pergunta": "O que foi a SUDENE (Superintendência do Desenvolvimento do Nordeste), criada em 1959?",
+    "alternativas": [
+      "Um órgão federal criado para incentivar o desenvolvimento econômico e reduzir as desigualdades da região Nordeste",
+      "Uma empresa privada de mineração",
+      "Um órgão responsável exclusivamente pela fiscalização ambiental na Amazônia",
+      "Uma organização internacional voltada ao comércio exterior"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A SUDENE foi criada em 1959 como um órgão federal para planejar e incentivar o desenvolvimento econômico do Nordeste, oferecendo incentivos fiscais para atrair indústrias e reduzir as desigualdades regionais."
+  },
+  {
+    "id": "geo-189",
+    "materia": "geografia",
+    "topico": "Distritos industriais",
+    "pergunta": "O que são os distritos industriais, comuns em diversas cidades brasileiras?",
+    "alternativas": [
+      "Áreas urbanas planejadas e destinadas à instalação de indústrias, geralmente afastadas de zonas residenciais",
+      "Bairros exclusivamente residenciais",
+      "Áreas de proteção ambiental total",
+      "Regiões destinadas apenas ao plantio de hortaliças"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Distritos industriais são áreas planejadas pelo poder público para a instalação de indústrias, geralmente afastadas de zonas residenciais, contando com infraestrutura de energia, transporte e saneamento adequadas às atividades industriais."
+  },
+  {
+    "id": "geo-190",
+    "materia": "geografia",
+    "topico": "Terra roxa",
+    "pergunta": "A 'terra roxa', tipo de solo muito fértil associado à cafeicultura em São Paulo e no Paraná, deve sua fertilidade a qual origem?",
+    "alternativas": [
+      "À decomposição de rochas vulcânicas (basálticas), rica em nutrientes",
+      "Ao acúmulo de areia trazida pelo vento do deserto",
+      "À presença exclusiva de sal marinho no solo",
+      "Ao congelamento constante do solo"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A 'terra roxa' é um solo muito fértil originado da decomposição de rochas vulcânicas (basálticas), rico em nutrientes, o que historicamente favoreceu o cultivo de café em áreas de São Paulo e do Paraná."
+  },
+  {
+    "id": "geo-191",
+    "materia": "geografia",
+    "topico": "Latossolo",
+    "pergunta": "O latossolo, tipo de solo predominante em grande parte do território brasileiro, especialmente no Cerrado, se caracteriza por:",
+    "alternativas": [
+      "Ser extremamente fértil naturalmente, sem necessidade de correção",
+      "Ser um solo congelado presente apenas em regiões polares",
+      "Ser encontrado apenas em regiões montanhosas",
+      "Ser profundo e bem drenado, mas naturalmente pouco fértil e ácido, exigindo correção e adubação para uso agrícola"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O latossolo é o tipo de solo predominante em grande parte do Brasil, especialmente no Cerrado. Embora seja profundo e bem drenado, é naturalmente pouco fértil e ácido, exigindo correção (calagem) e adubação para viabilizar a agricultura moderna."
+  },
+  {
+    "id": "geo-192",
+    "materia": "geografia",
+    "topico": "Erosão do solo",
+    "pergunta": "Quais fatores humanos contribuem para acelerar a erosão do solo em áreas agrícolas e urbanas?",
+    "alternativas": [
+      "O desmatamento e o manejo inadequado do solo, sem técnicas de conservação",
+      "A manutenção da vegetação nativa nas encostas",
+      "O uso de técnicas de rotação de culturas",
+      "A ausência total de atividades humanas na área"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O desmatamento e o manejo inadequado do solo, sem técnicas de conservação como o plantio em curvas de nível, aceleram os processos de erosão, causando a perda da camada fértil do solo."
+  },
+  {
+    "id": "geo-193",
+    "materia": "geografia",
+    "topico": "Voçorocas",
+    "pergunta": "O que são as voçorocas, formações resultantes de processos erosivos intensos observadas em algumas áreas do Brasil?",
+    "alternativas": [
+      "Grandes crateras ou sulcos profundos formados pela ação erosiva intensa da água em solos desprotegidos",
+      "Pequenas elevações de terreno formadas por vulcões extintos",
+      "Áreas permanentemente cobertas por gelo",
+      "Rios subterrâneos que nunca afloram à superfície"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "As voçorocas são grandes sulcos ou crateras formados pela ação erosiva intensa da água da chuva em solos desprotegidos, geralmente associadas ao desmatamento e ao manejo inadequado do solo."
+  },
+  {
+    "id": "geo-194",
+    "materia": "geografia",
+    "topico": "Desertificação no semiárido",
+    "pergunta": "O que é a desertificação, processo observado em algumas áreas do semiárido nordestino?",
+    "alternativas": [
+      "A transformação natural e espontânea de qualquer bioma em deserto, sem relação com ações humanas",
+      "Um fenômeno exclusivo de regiões litorâneas úmidas",
+      "O aumento da vegetação em áreas antes desérticas",
+      "A degradação do solo em áreas secas, muitas vezes causada por desmatamento, uso inadequado da terra e superpastoreio, que pode levar à perda da capacidade produtiva do solo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A desertificação é o processo de degradação do solo em áreas secas, geralmente intensificado por ações humanas como desmatamento, superpastoreio e uso inadequado da terra, podendo comprometer a capacidade produtiva do solo em áreas do semiárido nordestino."
+  },
+  {
+    "id": "geo-195",
+    "materia": "geografia",
+    "topico": "Agricultura de precisão",
+    "pergunta": "O que é a agricultura de precisão, tecnologia cada vez mais usada no agronegócio brasileiro?",
+    "alternativas": [
+      "Uma técnica antiga de plantio manual, sem uso de máquinas",
+      "Uma proibição legal do uso de máquinas agrícolas",
+      "Um tipo de agricultura praticada exclusivamente em pequenas hortas urbanas",
+      "O uso de tecnologias como GPS, sensores e drones para monitorar e otimizar a produção agrícola"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A agricultura de precisão utiliza tecnologias como GPS, sensores e imagens de satélite ou drones para monitorar as lavouras e otimizar o uso de insumos, aumentando a produtividade e reduzindo desperdícios."
+  },
+  {
+    "id": "geo-196",
+    "materia": "geografia",
+    "topico": "Expansão da fronteira agrícola",
+    "pergunta": "O que se entende por 'fronteira agrícola' no contexto da expansão do agronegócio brasileiro para áreas do Centro-Oeste e do Norte?",
+    "alternativas": [
+      "Uma linha imaginária que separa o Brasil de outros países",
+      "Uma área destinada exclusivamente à preservação ambiental",
+      "Um tipo de cerca usada para dividir propriedades rurais",
+      "As novas áreas incorporadas à produção agropecuária, muitas vezes avançando sobre biomas como o Cerrado e a Amazônia"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A fronteira agrícola se refere às novas áreas incorporadas à produção agropecuária, especialmente no Centro-Oeste e no Norte do Brasil, processo que muitas vezes avança sobre biomas nativos, como o Cerrado e a Amazônia."
+  },
+  {
+    "id": "geo-197",
+    "materia": "geografia",
+    "topico": "MATOPIBA",
+    "pergunta": "O que é a região conhecida como MATOPIBA, considerada a nova fronteira agrícola do Brasil?",
+    "alternativas": [
+      "Uma região formada por áreas dos estados do Maranhão, Tocantins, Piauí e Bahia, com expansão da produção de grãos sobre o Cerrado",
+      "Uma sigla que representa os principais portos brasileiros",
+      "Uma região localizada exclusivamente na Amazônia",
+      "Um bioma exclusivo da região Sul do Brasil"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "MATOPIBA é o nome dado à região que abrange partes do Maranhão, Tocantins, Piauí e Bahia, área de Cerrado que se tornou a principal nova fronteira agrícola do Brasil nas últimas décadas."
+  },
+  {
+    "id": "geo-198",
+    "materia": "geografia",
+    "topico": "Importância da soja para o Brasil",
+    "pergunta": "Qual é a importância econômica atual da soja para o Brasil no cenário internacional?",
+    "alternativas": [
+      "O Brasil não produz soja em quantidade relevante",
+      "A soja é cultivada apenas em pequenas hortas familiares",
+      "A soja é usada exclusivamente para consumo interno, sem exportação",
+      "O Brasil é um dos maiores produtores e exportadores mundiais de soja, sendo esse grão um dos principais produtos da pauta de exportações do país"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O Brasil é um dos maiores produtores e exportadores mundiais de soja, sendo esse grão um dos principais produtos da pauta de exportações do país, com destino especialmente para a China."
+  },
+  {
+    "id": "geo-199",
+    "materia": "geografia",
+    "topico": "Cadeia produtiva do agronegócio",
+    "pergunta": "O que envolve a cadeia produtiva do agronegócio, além da produção agrícola no campo?",
+    "alternativas": [
+      "Apenas o plantio e a colheita, sem qualquer outra etapa",
+      "Exclusivamente a exportação, sem etapas anteriores",
+      "Somente a venda direta ao consumidor final na propriedade rural",
+      "Também envolve o fornecimento de insumos, o processamento (agroindústria), o armazenamento, o transporte e a comercialização dos produtos"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A cadeia produtiva do agronegócio envolve diversas etapas além da produção no campo, incluindo o fornecimento de insumos (sementes, fertilizantes), a agroindústria (processamento), o armazenamento, o transporte e a comercialização dos produtos até o consumidor ou o mercado externo."
+  },
+  {
+    "id": "geo-200",
+    "materia": "geografia",
+    "topico": "Concentração industrial e desigualdade regional",
+    "pergunta": "A forte concentração histórica da indústria na região Sudeste contribuiu para qual fenômeno observado no território brasileiro?",
+    "alternativas": [
+      "A redução das diferenças econômicas entre todas as regiões do país",
+      "A transferência total da população do Sudeste para o Nordeste",
+      "O desaparecimento completo da indústria nas demais regiões",
+      "O aprofundamento das desigualdades regionais, com o Sudeste concentrando mais empregos, renda e infraestrutura do que outras regiões"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A forte concentração histórica da indústria no Sudeste contribuiu para o aprofundamento das desigualdades regionais no Brasil, já que essa região passou a concentrar mais empregos, renda e infraestrutura em comparação com outras regiões do país, embora esse quadro venha se transformando nas últimas décadas."
+  },
+  {
+    "id": "geo-201",
+    "materia": "geografia",
+    "topico": "Rodovia BR-101",
+    "pergunta": "A BR-101 é uma das rodovias mais importantes do Brasil por qual característica?",
+    "alternativas": [
+      "É a única rodovia que atravessa a Floresta Amazônica de norte a sul",
+      "É a rodovia mais curta do território brasileiro",
+      "É uma rodovia exclusiva para transporte de passageiros internacionais",
+      "É a principal rodovia litorânea do país, ligando estados de várias regiões ao longo do litoral"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A BR-101 é a principal rodovia litorânea do Brasil, percorrendo o território ao longo da costa e ligando estados de diferentes regiões, sendo essencial para o transporte de pessoas e mercadorias."
+  },
+  {
+    "id": "geo-202",
+    "materia": "geografia",
+    "topico": "Rodovia Transamazônica",
+    "pergunta": "A Rodovia Transamazônica (BR-230), construída durante o governo militar, tinha como um de seus principais objetivos:",
+    "alternativas": [
+      "Ligar exclusivamente as capitais do Sul do país",
+      "Conectar o Brasil à Europa por via terrestre",
+      "Servir apenas ao transporte ferroviário de passageiros",
+      "Integrar a região amazônica ao restante do país, incentivando a ocupação e o povoamento da área"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Transamazônica foi construída nas décadas de 1970 com o objetivo de integrar a região amazônica ao restante do país, incentivando a ocupação, a colonização e o desenvolvimento econômico da área, o que também gerou impactos ambientais significativos."
+  },
+  {
+    "id": "geo-203",
+    "materia": "geografia",
+    "topico": "Estrada de Ferro Carajás",
+    "pergunta": "A Estrada de Ferro Carajás, uma das principais ferrovias de carga do Brasil, é utilizada principalmente para transportar qual produto?",
+    "alternativas": [
+      "Passageiros em viagens turísticas",
+      "Produtos eletrônicos fabricados em Manaus",
+      "Grãos de soja produzidos no Rio Grande do Sul",
+      "Minério de ferro extraído da mina de Carajás até o Porto de Itaqui, no Maranhão"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Estrada de Ferro Carajás liga a mina de Carajás, no Pará, ao Porto de Itaqui, no Maranhão, sendo fundamental para o escoamento do minério de ferro extraído na região."
+  },
+  {
+    "id": "geo-204",
+    "materia": "geografia",
+    "topico": "Malha ferroviária brasileira",
+    "pergunta": "Em comparação com países como Estados Unidos e China, como se caracteriza a malha ferroviária do Brasil?",
+    "alternativas": [
+      "É proporcionalmente muito mais extensa e utilizada do que a malha rodoviária",
+      "É usada exclusivamente para o transporte de passageiros em longas distâncias",
+      "Não existe nenhuma ferrovia em funcionamento no Brasil",
+      "É relativamente pouco desenvolvida e utilizada, sendo o transporte rodoviário historicamente predominante no país"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Apesar de seu grande território, o Brasil possui uma malha ferroviária relativamente pouco desenvolvida em comparação com países como Estados Unidos e China, sendo o transporte rodoviário historicamente predominante para cargas."
+  },
+  {
+    "id": "geo-205",
+    "materia": "geografia",
+    "topico": "Porto de Santos",
+    "pergunta": "O Porto de Santos, localizado no litoral de São Paulo, se destaca por qual característica?",
+    "alternativas": [
+      "É o maior porto da América Latina em movimentação de cargas",
+      "É um porto usado exclusivamente para pesca artesanal",
+      "É o único porto brasileiro localizado na região Norte",
+      "Está localizado na fronteira com o Uruguai"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Porto de Santos é o maior porto da América Latina em movimentação de cargas, sendo fundamental para o comércio exterior brasileiro, especialmente na exportação e importação de contêineres."
+  },
+  {
+    "id": "geo-206",
+    "materia": "geografia",
+    "topico": "Porto de Paranaguá",
+    "pergunta": "O Porto de Paranaguá, no Paraná, é um dos principais portos do Brasil especialmente para o escoamento de qual tipo de produto?",
+    "alternativas": [
+      "Petróleo bruto extraído no litoral do Rio de Janeiro",
+      "Produtos eletrônicos importados da Ásia",
+      "Minério de ferro extraído na Amazônia",
+      "Grãos, como soja e milho, produzidos nas regiões Sul e Centro-Oeste"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O Porto de Paranaguá é um dos principais portos graneleiros do Brasil, especializado no escoamento de grãos, como soja e milho, produzidos nas regiões Sul e Centro-Oeste."
+  },
+  {
+    "id": "geo-207",
+    "materia": "geografia",
+    "topico": "Porto de Itaqui",
+    "pergunta": "O Porto de Itaqui, importante porto do Maranhão, tem grande relevância econômica principalmente por escoar qual produto vindo da região Norte?",
+    "alternativas": [
+      "Automóveis fabricados no ABC Paulista",
+      "Petróleo extraído no litoral do Espírito Santo",
+      "Produtos têxteis do Ceará",
+      "Minério de ferro extraído da mina de Carajás, no Pará"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O Porto de Itaqui, no Maranhão, é o destino final da Estrada de Ferro Carajás, sendo fundamental para a exportação do minério de ferro extraído na mina de Carajás, no Pará."
+  },
+  {
+    "id": "geo-208",
+    "materia": "geografia",
+    "topico": "Hidrovia Tietê-Paraná",
+    "pergunta": "A Hidrovia Tietê-Paraná é utilizada principalmente para transportar qual tipo de carga entre estados do Centro-Sul do Brasil?",
+    "alternativas": [
+      "Passageiros em cruzeiros de luxo",
+      "Petróleo bruto do pré-sal",
+      "Minério de ferro extraído na Amazônia",
+      "Grãos e outras cargas agrícolas, aproveitando o transporte fluvial de baixo custo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Hidrovia Tietê-Paraná é utilizada principalmente para o transporte de grãos e outras cargas agrícolas entre estados do Centro-Sul do Brasil, aproveitando o menor custo do transporte fluvial em relação ao rodoviário."
+  },
+  {
+    "id": "geo-209",
+    "materia": "geografia",
+    "topico": "Hidrovia do Rio Madeira",
+    "pergunta": "A hidrovia do Rio Madeira é uma importante via de transporte para qual região do Brasil?",
+    "alternativas": [
+      "Região Sul, ligando Porto Alegre a Curitiba",
+      "Região Sudeste, ligando São Paulo ao Rio de Janeiro",
+      "Região Nordeste, ligando o Ceará à Bahia",
+      "Região Norte, sendo essencial para o escoamento de grãos e outras cargas produzidas em Rondônia e Mato Grosso"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A hidrovia do Rio Madeira, na região Norte, é uma importante via de transporte fluvial para o escoamento de grãos e outras cargas produzidas em Rondônia e no norte de Mato Grosso."
+  },
+  {
+    "id": "geo-210",
+    "materia": "geografia",
+    "topico": "Transporte dutoviário",
+    "pergunta": "O que é o transporte dutoviário, um dos modais de transporte de cargas usados no Brasil?",
+    "alternativas": [
+      "O transporte de passageiros por meio de trens de alta velocidade",
+      "O transporte de mercadorias em pequenos barcos de pesca",
+      "O transporte exclusivo de cargas leves por avião",
+      "O transporte de líquidos e gases, como petróleo e gás natural, por meio de tubulações (oleodutos e gasodutos)"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O transporte dutoviário utiliza tubulações, como oleodutos e gasodutos, para transportar líquidos e gases, como petróleo, seus derivados e gás natural, de forma contínua e eficiente."
+  },
+  {
+    "id": "geo-211",
+    "materia": "geografia",
+    "topico": "Transporte aéreo de cargas",
+    "pergunta": "Qual é a principal vantagem do transporte aéreo de cargas, apesar de seu custo elevado?",
+    "alternativas": [
+      "É o modal mais barato para transportar grandes volumes de commodities",
+      "É o modal mais utilizado para o transporte de minério de ferro",
+      "É o único modal que não depende de nenhuma infraestrutura",
+      "É o modal mais rápido, sendo indicado para produtos de alto valor agregado ou perecíveis que precisam chegar rapidamente ao destino"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Apesar do custo elevado, o transporte aéreo é o modal mais rápido, sendo indicado para produtos de alto valor agregado ou perecíveis, como remédios, componentes eletrônicos e flores, que precisam chegar rapidamente ao destino."
+  },
+  {
+    "id": "geo-212",
+    "materia": "geografia",
+    "topico": "Modal de transporte mais econômico",
+    "pergunta": "Para o transporte de grandes volumes de carga a longas distâncias, qual modal costuma apresentar o menor custo por tonelada transportada?",
+    "alternativas": [
+      "Transporte aéreo",
+      "Transporte por bicicleta",
+      "Transporte rodoviário",
+      "Transporte aquaviário (fluvial ou marítimo)"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O transporte aquaviário, seja fluvial ou marítimo, costuma apresentar o menor custo por tonelada transportada em grandes distâncias, sendo mais econômico do que o transporte rodoviário ou aéreo, embora seja mais lento."
+  },
+  {
+    "id": "geo-213",
+    "materia": "geografia",
+    "topico": "Países vizinhos do Brasil",
+    "pergunta": "Com quantos países da América do Sul o Brasil faz fronteira?",
+    "alternativas": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Brasil faz fronteira com 10 países da América do Sul: Uruguai, Argentina, Paraguai, Bolívia, Peru, Colômbia, Venezuela, Guiana, Suriname e Guiana Francesa (território francês)."
+  },
+  {
+    "id": "geo-214",
+    "materia": "geografia",
+    "topico": "Fronteira Brasil-Uruguai",
+    "pergunta": "O Brasil faz fronteira, ao sul, com qual país, situado na região mais austral da América do Sul?",
+    "alternativas": [
+      "Argentina",
+      "Chile",
+      "Paraguai",
+      "Uruguai"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O Uruguai faz fronteira com o extremo sul do Brasil, na região do Rio Grande do Sul, sendo um dos países fundadores do Mercosul junto com o Brasil."
+  },
+  {
+    "id": "geo-215",
+    "materia": "geografia",
+    "topico": "Fronteira Brasil-Argentina",
+    "pergunta": "A fronteira entre Brasil e Argentina é marcada por qual importante atrativo natural, formado pelo Rio Iguaçu?",
+    "alternativas": [
+      "O Deserto do Atacama",
+      "A Cordilheira dos Andes",
+      "O Lago Titicaca",
+      "As Cataratas do Iguaçu"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "As Cataratas do Iguaçu, formadas pelo Rio Iguaçu, marcam parte da fronteira entre Brasil e Argentina, sendo um dos principais atrativos turísticos naturais da América do Sul."
+  },
+  {
+    "id": "geo-216",
+    "materia": "geografia",
+    "topico": "Fronteira Brasil-Paraguai",
+    "pergunta": "A cidade de Foz do Iguaçu, no Paraná, faz fronteira direta com qual país, além de estar próxima à Argentina?",
+    "alternativas": [
+      "Bolívia",
+      "Peru",
+      "Uruguai",
+      "Paraguai"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Foz do Iguaçu, no Paraná, faz fronteira direta com o Paraguai (cidade de Ciudad del Este) e está muito próxima da Argentina, formando a famosa tríplice fronteira."
+  },
+  {
+    "id": "geo-217",
+    "materia": "geografia",
+    "topico": "Fronteira Brasil-Bolívia",
+    "pergunta": "A fronteira entre Brasil e Bolívia é uma das mais extensas do território brasileiro, atravessando quais regiões?",
+    "alternativas": [
+      "Apenas a região Sul",
+      "Somente estados do Nordeste",
+      "Apenas o estado de São Paulo",
+      "Estados como Acre, Rondônia, Mato Grosso e Mato Grosso do Sul, nas regiões Norte e Centro-Oeste"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A fronteira entre Brasil e Bolívia é uma das mais extensas do país, passando por estados das regiões Norte e Centro-Oeste, como Acre, Rondônia, Mato Grosso e Mato Grosso do Sul."
+  },
+  {
+    "id": "geo-218",
+    "materia": "geografia",
+    "topico": "Fronteira Brasil-Peru",
+    "pergunta": "O Peru faz fronteira com o Brasil principalmente na região de qual estado, no extremo oeste do país?",
+    "alternativas": [
+      "Acre",
+      "Bahia",
+      "Paraná",
+      "Sergipe"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Peru faz fronteira com o Brasil principalmente na região do estado do Acre, no extremo oeste do país, na região Norte."
+  },
+  {
+    "id": "geo-219",
+    "materia": "geografia",
+    "topico": "Fronteira Brasil-Colômbia",
+    "pergunta": "A fronteira entre Brasil e Colômbia está localizada principalmente em qual estado brasileiro?",
+    "alternativas": [
+      "Amazonas",
+      "Rio Grande do Sul",
+      "Minas Gerais",
+      "Bahia"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A fronteira entre Brasil e Colômbia está localizada principalmente no estado do Amazonas, na região Norte, em área de densa cobertura florestal."
+  },
+  {
+    "id": "geo-220",
+    "materia": "geografia",
+    "topico": "Fronteira Brasil-Venezuela",
+    "pergunta": "Qual estado brasileiro faz fronteira com a Venezuela, no extremo norte do país?",
+    "alternativas": [
+      "Roraima",
+      "Amapá",
+      "Pará",
+      "Tocantins"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O estado de Roraima faz fronteira com a Venezuela, no extremo norte do Brasil, sendo uma região marcada por intensos fluxos migratórios nos últimos anos."
+  },
+  {
+    "id": "geo-221",
+    "materia": "geografia",
+    "topico": "Fronteira Brasil-Guiana",
+    "pergunta": "Além da Venezuela, com qual outro país o estado de Roraima faz fronteira?",
+    "alternativas": [
+      "Suriname",
+      "Peru",
+      "Colômbia",
+      "Guiana"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Além de fazer fronteira com a Venezuela, o estado de Roraima também faz fronteira com a Guiana, país localizado ao norte da América do Sul."
+  },
+  {
+    "id": "geo-222",
+    "materia": "geografia",
+    "topico": "Fronteira Brasil-Suriname",
+    "pergunta": "O estado do Amapá faz fronteira com quais territórios ao norte do Brasil?",
+    "alternativas": [
+      "Suriname e Guiana Francesa",
+      "Uruguai e Argentina",
+      "Bolívia e Peru",
+      "Chile e Paraguai"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O estado do Amapá faz fronteira com o Suriname e com a Guiana Francesa (território ultramarino da França), no extremo norte do Brasil."
+  },
+  {
+    "id": "geo-223",
+    "materia": "geografia",
+    "topico": "Guiana Francesa",
+    "pergunta": "O que é a Guiana Francesa, território que faz fronteira com o Brasil, no estado do Amapá?",
+    "alternativas": [
+      "Um país totalmente independente da América do Sul",
+      "Uma colônia britânica na América do Sul",
+      "Um estado brasileiro localizado na região Norte",
+      "Um departamento ultramarino da França, ou seja, parte do território francês na América do Sul"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Guiana Francesa é um departamento ultramarino da França, ou seja, parte oficial do território francês, localizado na América do Sul e fazendo fronteira com o Brasil, no estado do Amapá."
+  },
+  {
+    "id": "geo-224",
+    "materia": "geografia",
+    "topico": "Tríplice fronteira de Foz do Iguaçu",
+    "pergunta": "A região conhecida como 'tríplice fronteira', na cidade de Foz do Iguaçu, é formada pelo encontro de quais três países?",
+    "alternativas": [
+      "Brasil, Argentina e Paraguai",
+      "Brasil, Bolívia e Peru",
+      "Brasil, Uruguai e Chile",
+      "Brasil, Colômbia e Venezuela"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A tríplice fronteira de Foz do Iguaçu é formada pelo encontro de Brasil, Argentina e Paraguai, sendo uma importante região de intercâmbio comercial, cultural e turístico entre os três países."
+  },
+  {
+    "id": "geo-225",
+    "materia": "geografia",
+    "topico": "Países sul-americanos sem fronteira com o Brasil",
+    "pergunta": "Quais são os dois únicos países da América do Sul que não fazem fronteira com o território brasileiro?",
+    "alternativas": [
+      "Chile e Equador",
+      "Argentina e Uruguai",
+      "Peru e Bolívia",
+      "Colômbia e Venezuela"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O Chile e o Equador são os dois únicos países da América do Sul que não fazem fronteira com o Brasil, estando localizados no lado oeste do continente, separados por outros países."
+  },
+  {
+    "id": "geo-226",
+    "materia": "geografia",
+    "topico": "Oceano Atlântico",
+    "pergunta": "O Oceano Atlântico, que banha todo o litoral brasileiro, é o segundo maior oceano do planeta. Qual oceano é considerado o maior?",
+    "alternativas": [
+      "Oceano Índico",
+      "Oceano Antártico",
+      "Oceano Ártico",
+      "Oceano Pacífico"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O Oceano Pacífico é o maior oceano do planeta, seguido pelo Oceano Atlântico, que banha todo o litoral brasileiro e separa as Américas da Europa e da África."
+  },
+  {
+    "id": "geo-227",
+    "materia": "geografia",
+    "topico": "Plataforma continental",
+    "pergunta": "O que é a plataforma continental, importante feição do relevo submarino próxima ao litoral brasileiro?",
+    "alternativas": [
+      "Uma cadeia de montanhas muito altas no centro do oceano",
+      "Uma ilha vulcânica isolada no oceano",
+      "Uma fossa muito profunda localizada no meio do oceano",
+      "A extensão submersa e rasa do continente, que se estende da costa até uma quebra mais acentuada de profundidade"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A plataforma continental é a extensão submersa e relativamente rasa do continente, estendendo-se da costa até uma quebra mais acentuada de profundidade, sendo importante para a pesca e para a exploração de petróleo, como no pré-sal."
+  },
+  {
+    "id": "geo-228",
+    "materia": "geografia",
+    "topico": "Dorsal Meso-Atlântica",
+    "pergunta": "O que é a Dorsal Meso-Atlântica, importante feição do relevo submarino do Oceano Atlântico?",
+    "alternativas": [
+      "Uma extensa cordilheira de montanhas submarinas que percorre o meio do Oceano Atlântico, de norte a sul",
+      "Um deserto localizado no fundo do oceano",
+      "Um conjunto de ilhas vulcânicas extintas no litoral brasileiro",
+      "Uma área de gelo permanente no fundo do Atlântico"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "A Dorsal Meso-Atlântica é uma extensa cordilheira de montanhas submarinas que percorre o meio do Oceano Atlântico, de norte a sul, formada pelo afastamento das placas tectônicas americana, europeia e africana."
+  },
+  {
+    "id": "geo-229",
+    "materia": "geografia",
+    "topico": "Correntes marítimas",
+    "pergunta": "O que são as correntes marítimas, fenômeno que influencia o clima e a navegação nos oceanos?",
+    "alternativas": [
+      "Movimentos contínuos e organizados das águas oceânicas, que podem ser quentes ou frias",
+      "Pequenas ondas formadas apenas por ventos locais",
+      "Marés causadas exclusivamente pela rotação da Terra",
+      "Rios que nascem no fundo do oceano"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "As correntes marítimas são movimentos contínuos e organizados das águas oceânicas, que podem ser quentes ou frias, influenciando o clima das regiões costeiras e as rotas de navegação."
+  },
+  {
+    "id": "geo-230",
+    "materia": "geografia",
+    "topico": "Corrente do Brasil",
+    "pergunta": "A Corrente do Brasil, que percorre parte do litoral brasileiro no Oceano Atlântico, é classificada como uma corrente marítima de que tipo?",
+    "alternativas": [
+      "Fria",
+      "Subterrânea",
+      "Congelada",
+      "Quente"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Corrente do Brasil é uma corrente marítima quente que percorre parte do litoral brasileiro no Oceano Atlântico Sul, influenciando as condições climáticas e oceânicas da região."
+  },
+  {
+    "id": "geo-231",
+    "materia": "geografia",
+    "topico": "Camadas da atmosfera - Troposfera",
+    "pergunta": "Em qual camada da atmosfera terrestre ocorrem os principais fenômenos climáticos, como chuvas, ventos e formação de nuvens?",
+    "alternativas": [
+      "Estratosfera",
+      "Termosfera",
+      "Mesosfera",
+      "Troposfera"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A troposfera é a camada mais próxima da superfície terrestre, onde ocorrem os principais fenômenos climáticos, como chuvas, ventos, formação de nuvens e variações de temperatura que definem o tempo."
+  },
+  {
+    "id": "geo-232",
+    "materia": "geografia",
+    "topico": "Camadas da atmosfera - Estratosfera",
+    "pergunta": "Qual camada da atmosfera terrestre concentra a camada de ozônio, essencial para filtrar os raios ultravioleta do Sol?",
+    "alternativas": [
+      "Troposfera",
+      "Termosfera",
+      "Exosfera",
+      "Estratosfera"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A estratosfera é a camada da atmosfera que concentra a camada de ozônio, essencial para filtrar boa parte dos raios ultravioleta nocivos provenientes do Sol, protegendo a vida na Terra."
+  },
+  {
+    "id": "geo-233",
+    "materia": "geografia",
+    "topico": "Importância da camada de ozônio",
+    "pergunta": "Por que a camada de ozônio é considerada essencial para a vida na Terra?",
+    "alternativas": [
+      "Porque ela aquece diretamente a superfície terrestre, como o efeito estufa",
+      "Porque ela impede totalmente a entrada de luz solar na Terra",
+      "Porque ela é a principal responsável pela formação das chuvas",
+      "Porque ela filtra e absorve grande parte da radiação ultravioleta prejudicial emitida pelo Sol"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A camada de ozônio, localizada na estratosfera, filtra e absorve grande parte da radiação ultravioleta emitida pelo Sol, protegendo os seres vivos de danos causados por essa radiação, como certos tipos de câncer de pele."
+  },
+  {
+    "id": "geo-234",
+    "materia": "geografia",
+    "topico": "Efeito estufa natural x efeito estufa intensificado",
+    "pergunta": "Qual é a diferença entre o efeito estufa natural e o efeito estufa intensificado pela ação humana?",
+    "alternativas": [
+      "Não existe diferença entre eles",
+      "O efeito estufa intensificado sempre resfria o planeta",
+      "O efeito estufa natural só ocorre nos polos",
+      "O efeito estufa natural é essencial para manter a Terra aquecida e habitável; já o efeito estufa intensificado, causado por atividades humanas, eleva excessivamente a temperatura do planeta"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O efeito estufa natural é um processo essencial que mantém a Terra aquecida o suficiente para a vida existir. Já o efeito estufa intensificado, causado pelo aumento de gases poluentes emitidos por atividades humanas, eleva excessivamente a temperatura média do planeta, contribuindo para o aquecimento global."
+  },
+  {
+    "id": "geo-235",
+    "materia": "geografia",
+    "topico": "GPS e cartografia",
+    "pergunta": "O que é o GPS (Sistema de Posicionamento Global), tecnologia amplamente usada hoje em conjunto com mapas?",
+    "alternativas": [
+      "Um sistema de satélites que permite determinar a localização exata de um ponto na superfície terrestre",
+      "Um tipo antigo de bússola usado apenas por navegadores do século XV",
+      "Um programa de computador usado exclusivamente para editar fotos",
+      "Um tipo de papel especial usado para imprimir mapas"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O GPS (Global Positioning System) é um sistema de satélites que permite determinar com precisão a localização geográfica de qualquer ponto na superfície da Terra, sendo amplamente utilizado em celulares, veículos e na cartografia."
+  },
+  {
+    "id": "geo-236",
+    "materia": "geografia",
+    "topico": "Sensoriamento remoto",
+    "pergunta": "O que é o sensoriamento remoto, técnica muito utilizada atualmente para o estudo do território, incluindo o monitoramento do desmatamento?",
+    "alternativas": [
+      "A obtenção de informações sobre a superfície terrestre por meio de imagens captadas por satélites ou aeronaves, sem contato físico direto",
+      "Uma técnica de medição de distâncias usando apenas trena e régua",
+      "Um método de previsão do tempo baseado somente na observação de nuvens a olho nu",
+      "Um tipo de mapa antigo desenhado à mão"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "O sensoriamento remoto é a técnica de obter informações sobre a superfície terrestre por meio de imagens captadas por satélites, drones ou aeronaves, sem contato físico direto, sendo muito usado para monitorar o desmatamento e outras mudanças no território."
+  },
+  {
+    "id": "geo-237",
+    "materia": "geografia",
+    "topico": "Legenda de mapas",
+    "pergunta": "Qual é a função da legenda em um mapa?",
+    "alternativas": [
+      "Indicar a data de criação do mapa",
+      "Indicar a temperatura média da região representada",
+      "Mostrar apenas o nome do autor do mapa",
+      "Explicar o significado dos símbolos, cores e outros elementos representados no mapa"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A legenda de um mapa explica o significado dos símbolos, cores e outros elementos gráficos utilizados na representação, sendo essencial para a correta interpretação das informações do mapa."
+  },
+  {
+    "id": "geo-238",
+    "materia": "geografia",
+    "topico": "Mapas temáticos",
+    "pergunta": "O que são os mapas temáticos, muito utilizados no estudo da geografia?",
+    "alternativas": [
+      "Mapas que representam apenas as fronteiras políticas de um país, sem outras informações",
+      "Mapas que só podem ser usados por especialistas em astronomia",
+      "Mapas desenhados exclusivamente à mão, sem uso de tecnologia",
+      "Mapas que representam informações específicas sobre um determinado tema, como clima, relevo, densidade demográfica ou vegetação"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Mapas temáticos são aqueles que representam informações específicas sobre determinado tema, como o mapa climático, o mapa de relevo, o mapa de densidade demográfica ou o mapa de vegetação de uma região."
+  },
+  {
+    "id": "geo-239",
+    "materia": "geografia",
+    "topico": "Fuso horário de Brasília",
+    "pergunta": "O horário oficial de Brasília está, na maior parte do ano, quantas horas atrasado em relação ao Meridiano de Greenwich?",
+    "alternativas": [
+      "1 hora",
+      "2 horas",
+      "3 horas",
+      "5 horas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O horário de Brasília está, na maior parte do ano, 3 horas atrasado em relação ao Meridiano de Greenwich (fuso horário de referência mundial), o que corresponde ao fuso -3."
+  },
+  {
+    "id": "geo-240",
+    "materia": "geografia",
+    "topico": "Cálculo prático de fuso horário",
+    "pergunta": "Se em Brasília (fuso -3 em relação a Greenwich) são 10 horas da manhã, que horas são, aproximadamente, em Londres, que segue o horário de Greenwich (fuso 0)?",
+    "alternativas": [
+      "7 horas",
+      "10 horas",
+      "13 horas",
+      "16 horas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Como Brasília está 3 horas atrasada em relação a Greenwich, quando são 10h em Brasília, são 13h em Londres (10h + 3h de diferença), pois Londres está à frente no fuso horário."
+  },
+  {
+    "id": "geo-241",
+    "materia": "geografia",
+    "topico": "Linha Internacional de Data",
+    "pergunta": "O que é a Linha Internacional de Data, utilizada como referência para a contagem dos dias no mundo?",
+    "alternativas": [
+      "Uma linha imaginária que separa o Hemisfério Norte do Hemisfério Sul",
+      "Uma linha usada apenas para calcular a temperatura média do planeta",
+      "Uma linha que representa a fronteira entre países vizinhos",
+      "Uma linha imaginária, próxima ao Meridiano de 180°, que marca a mudança de data entre um dia e o seguinte"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Linha Internacional de Data é uma linha imaginária, próxima ao Meridiano de 180°, utilizada como referência para a mudança de um dia para o outro, servindo de base para a organização dos fusos horários no mundo."
+  },
+  {
+    "id": "geo-242",
+    "materia": "geografia",
+    "topico": "ONU - noções básicas",
+    "pergunta": "O que é a ONU (Organização das Nações Unidas), organização internacional da qual o Brasil é membro?",
+    "alternativas": [
+      "Um bloco econômico exclusivo de países da América do Sul",
+      "Um órgão exclusivo para regular o comércio de petróleo",
+      "Uma empresa multinacional de tecnologia",
+      "Uma organização internacional que reúne a maioria dos países do mundo, com o objetivo de promover a paz, a cooperação e o desenvolvimento entre as nações"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A ONU é uma organização internacional que reúne a maioria dos países do mundo, incluindo o Brasil, com o objetivo de promover a paz, a segurança, a cooperação internacional e o desenvolvimento entre as nações."
+  },
+  {
+    "id": "geo-243",
+    "materia": "geografia",
+    "topico": "Blocos econômicos - conceito geral",
+    "pergunta": "O que são os blocos econômicos, como o Mercosul e a União Europeia?",
+    "alternativas": [
+      "Grupos de países que se unem para facilitar o comércio e a cooperação econômica entre seus membros",
+      "Organizações exclusivamente militares",
+      "Empresas privadas que controlam o comércio mundial",
+      "Grupos que proíbem qualquer relação comercial entre seus países membros"
+    ],
+    "respostaCorreta": 0,
+    "explicacao": "Blocos econômicos são grupos de países que se unem por meio de acordos para facilitar o comércio, reduzir tarifas e promover a cooperação econômica entre seus membros, como é o caso do Mercosul e da União Europeia."
+  },
+  {
+    "id": "geo-244",
+    "materia": "geografia",
+    "topico": "Porto seco",
+    "pergunta": "O que é um 'porto seco', estrutura utilizada no comércio exterior brasileiro?",
+    "alternativas": [
+      "Um porto marítimo que não recebe navios há muitos anos",
+      "Um porto exclusivo para embarcações de pesca artesanal",
+      "Um tipo de porto usado exclusivamente durante períodos de seca",
+      "Um terminal alfandegado localizado no interior do país, distante do litoral, que realiza os procedimentos de desembaraço aduaneiro de mercadorias"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O porto seco é um terminal alfandegado localizado no interior do país, longe do litoral, onde são realizados os procedimentos de desembaraço aduaneiro (fiscalização e liberação) de mercadorias importadas ou destinadas à exportação."
+  },
+  {
+    "id": "geo-245",
+    "materia": "geografia",
+    "topico": "Superávit e déficit comercial",
+    "pergunta": "O que significa dizer que um país teve superávit em sua balança comercial em determinado período?",
+    "alternativas": [
+      "Que o valor das importações foi maior do que o valor das exportações",
+      "Que o país não possui moeda própria",
+      "Que o país não realizou nenhuma exportação",
+      "Que o valor das exportações foi maior do que o valor das importações"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O superávit na balança comercial ocorre quando o valor das exportações de um país é maior do que o valor das importações em determinado período. Quando ocorre o contrário, fala-se em déficit comercial."
+  },
+  {
+    "id": "geo-246",
+    "materia": "geografia",
+    "topico": "Exportação de manufaturados x commodities",
+    "pergunta": "Qual é a diferença entre exportar produtos manufaturados e exportar commodities?",
+    "alternativas": [
+      "Não existe diferença entre esses dois tipos de produtos",
+      "Manufaturados referem-se apenas a produtos agrícolas",
+      "Commodities sempre têm maior valor agregado do que produtos manufaturados",
+      "Produtos manufaturados passaram por processo de industrialização e possuem maior valor agregado; commodities são produtos primários, geralmente vendidos sem grande processamento"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Produtos manufaturados passaram por processos de industrialização e possuem maior valor agregado, como automóveis e eletrônicos, enquanto commodities são produtos primários, como soja, minério de ferro e petróleo bruto, geralmente vendidos com pouco ou nenhum processamento."
+  },
+  {
+    "id": "geo-247",
+    "materia": "geografia",
+    "topico": "Corredor de exportação",
+    "pergunta": "O que é um corredor de exportação, conceito relacionado ao escoamento da produção agrícola brasileira?",
+    "alternativas": [
+      "Um caminho exclusivo para pedestres nas cidades",
+      "Um tipo de vegetação encontrado apenas no litoral",
+      "Uma rua estreita usada apenas para o comércio local",
+      "A integração de diferentes modais de transporte (rodovias, ferrovias, hidrovias e portos) para escoar a produção até os mercados consumidores ou portos de exportação"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Um corredor de exportação é a integração planejada de diferentes modais de transporte, como rodovias, ferrovias, hidrovias e portos, formando uma rota eficiente para escoar a produção agrícola e outras cargas até os mercados consumidores ou portos de exportação."
+  },
+  {
+    "id": "geo-248",
+    "materia": "geografia",
+    "topico": "Transporte multimodal",
+    "pergunta": "O que é o transporte multimodal, estratégia logística cada vez mais utilizada no Brasil?",
+    "alternativas": [
+      "O uso de um único modal de transporte durante todo o trajeto de uma mercadoria",
+      "A proibição do uso de mais de um veículo no transporte de cargas",
+      "Um tipo de transporte exclusivo para animais",
+      "A combinação de diferentes modais de transporte (como rodoviário, ferroviário e aquaviário) em um mesmo trajeto, buscando reduzir custos e aumentar a eficiência"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O transporte multimodal é a combinação de diferentes modais (como rodoviário, ferroviário e aquaviário) em um mesmo trajeto de transporte de cargas, buscando reduzir custos, aumentar a eficiência e diminuir os impactos ambientais."
+  },
+  {
+    "id": "geo-249",
+    "materia": "geografia",
+    "topico": "Relevo submarino - talude continental",
+    "pergunta": "O que é o talude continental, feição do relevo submarino localizada logo após a plataforma continental?",
+    "alternativas": [
+      "Uma área extremamente rasa próxima à praia",
+      "Um tipo de vegetação que cresce no fundo do oceano",
+      "Uma cordilheira de montanhas localizada acima do nível do mar",
+      "Uma área de transição com forte declive, que liga a plataforma continental às grandes profundidades oceânicas"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O talude continental é a área de transição com forte declive que liga a plataforma continental, mais rasa, às grandes profundidades da planície abissal oceânica."
+  },
+  {
+    "id": "geo-250",
+    "materia": "geografia",
+    "topico": "Arco Norte de exportação",
+    "pergunta": "O que representa o chamado 'Arco Norte', conjunto de portos localizados nas regiões Norte e Nordeste que ganhou importância no escoamento da produção agrícola do Centro-Oeste?",
+    "alternativas": [
+      "Uma nova capital planejada para substituir Brasília",
+      "Um conjunto de parques nacionais localizados na Amazônia",
+      "Uma alternativa aos portos do Sudeste e Sul, aproveitando rios e portos do Norte e Nordeste para reduzir distâncias e custos no escoamento de grãos",
+      "Um bloco econômico formado apenas por países da América Central"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Arco Norte é o conjunto de portos localizados nas regiões Norte e Nordeste (como Itaqui, Santarém e Barcarena) que vem ganhando importância como alternativa aos portos do Sudeste e Sul, aproveitando rios e menores distâncias para reduzir custos no escoamento da produção agrícola do Centro-Oeste, especialmente da soja."
+  },
+  {
+    "id": "geo-251",
+    "materia": "geografia",
+    "topico": "Massas de ar - conceito geral",
+    "pergunta": "O que são as massas de ar, elementos fundamentais para entender a variação climática no território brasileiro?",
+    "alternativas": [
+      "Correntes marítimas que circulam apenas no Hemisfério Sul",
+      "Nuvens formadas exclusivamente sobre o oceano",
+      "Grandes porções de ar com características semelhantes de temperatura e umidade, que se deslocam e influenciam o clima das regiões por onde passam",
+      "Camadas fixas da atmosfera que nunca se movimentam"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Massas de ar são grandes porções de ar com temperatura e umidade relativamente uniformes, que se formam em determinadas regiões e se deslocam, influenciando fortemente o clima das áreas por onde passam, como ocorre no Brasil."
+  },
+  {
+    "id": "geo-252",
+    "materia": "geografia",
+    "topico": "Massa Equatorial Continental",
+    "pergunta": "A Massa Equatorial Continental, que se forma sobre a Floresta Amazônica, é caracterizada por ser:",
+    "alternativas": [
+      "Fria e seca",
+      "Seca e associada a longos períodos de estiagem",
+      "Extremamente fria, com formação de neve",
+      "Quente e úmida, contribuindo para as chuvas frequentes na região amazônica"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Massa Equatorial Continental se forma sobre a Floresta Amazônica e é quente e úmida, contribuindo para os altos índices de chuva característicos do clima equatorial da região Norte."
+  },
+  {
+    "id": "geo-253",
+    "materia": "geografia",
+    "topico": "Massa Tropical Atlântica",
+    "pergunta": "A Massa Tropical Atlântica, que se forma sobre o Oceano Atlântico próximo ao Trópico de Capricórnio, atua principalmente sobre qual parte do território brasileiro?",
+    "alternativas": [
+      "Apenas sobre o deserto do Atacama",
+      "Exclusivamente sobre o Polo Sul",
+      "Sobre o litoral leste do país, contribuindo com umidade para áreas como o Sudeste",
+      "Somente sobre o extremo norte da Amazônia"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A Massa Tropical Atlântica se forma sobre o Oceano Atlântico e atua principalmente sobre o litoral leste do Brasil, sendo quente e úmida, contribuindo com chuvas para áreas do Sudeste e do Nordeste."
+  },
+  {
+    "id": "geo-254",
+    "materia": "geografia",
+    "topico": "Massa Polar Atlântica",
+    "pergunta": "A Massa Polar Atlântica, originada em regiões próximas à Antártida, é responsável por qual fenômeno comum no Sul e Sudeste do Brasil durante o inverno?",
+    "alternativas": [
+      "O aumento das temperaturas e a formação de secas prolongadas",
+      "A formação exclusiva de furacões",
+      "O aumento da umidade sem alteração na temperatura",
+      "A queda brusca de temperatura, associada à entrada de frentes frias"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Massa Polar Atlântica, fria e originada em regiões próximas à Antártida, avança sobre o Brasil principalmente no inverno, provocando quedas bruscas de temperatura, geadas e frentes frias, sobretudo no Sul e Sudeste."
+  },
+  {
+    "id": "geo-255",
+    "materia": "geografia",
+    "topico": "Massa Equatorial Atlântica",
+    "pergunta": "A Massa Equatorial Atlântica, que se forma sobre o Oceano Atlântico próximo à Linha do Equador, influencia principalmente o clima de qual parte do Brasil?",
+    "alternativas": [
+      "Do extremo Sul do país",
+      "Somente das áreas de altitude elevada de Minas Gerais",
+      "Exclusivamente da região central da Bahia",
+      "Do litoral Norte e parte do Nordeste, contribuindo com umidade e chuvas"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Massa Equatorial Atlântica se forma sobre o Oceano Atlântico próximo à Linha do Equador e influencia principalmente o litoral Norte e parte do Nordeste do Brasil, trazendo umidade e contribuindo para as chuvas dessas áreas."
+  },
+  {
+    "id": "geo-256",
+    "materia": "geografia",
+    "topico": "El Niño",
+    "pergunta": "O que é o fenômeno El Niño e como ele costuma afetar o clima do Brasil?",
+    "alternativas": [
+      "É um fenômeno exclusivo do Oceano Atlântico, sem relação com o clima brasileiro",
+      "É um tipo de vulcão submarino que só afeta a costa do Pacífico",
+      "É o aquecimento anormal das águas do Oceano Pacífico, que costuma provocar chuvas acima da média no Sul e secas no Norte e Nordeste do Brasil",
+      "É a diminuição da temperatura das águas do Oceano Pacífico"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O El Niño é o aquecimento anormal das águas superficiais do Oceano Pacífico, fenômeno que altera padrões climáticos globais e costuma provocar chuvas acima da média na região Sul e períodos de seca mais intensa no Norte e Nordeste do Brasil."
+  },
+  {
+    "id": "geo-257",
+    "materia": "geografia",
+    "topico": "La Niña",
+    "pergunta": "O que é o fenômeno La Niña, associado ao resfriamento das águas do Oceano Pacífico?",
+    "alternativas": [
+      "É o mesmo fenômeno que o El Niño, apenas com outro nome",
+      "É um tipo de corrente marítima quente que só afeta a Europa",
+      "É um fenômeno que ocorre exclusivamente no Oceano Índico",
+      "É o resfriamento anormal das águas do Oceano Pacífico, que costuma provocar efeitos climáticos geralmente opostos aos do El Niño no Brasil"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A La Niña é o resfriamento anormal das águas superficiais do Oceano Pacífico, provocando efeitos climáticos geralmente opostos aos do El Niño, como secas mais intensas no Sul e chuvas mais volumosas no Norte e Nordeste do Brasil."
+  },
+  {
+    "id": "geo-258",
+    "materia": "geografia",
+    "topico": "Vocabulário fluvial - nascente",
+    "pergunta": "O que é a nascente de um rio?",
+    "alternativas": [
+      "O local onde um rio desagua no mar ou em outro rio",
+      "O caminho percorrido pelo rio até chegar ao oceano",
+      "Um pequeno rio que se junta a um rio maior",
+      "O local de origem de um rio, onde ele começa a se formar"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A nascente é o local de origem de um rio, onde ele começa a se formar, podendo surgir de uma fonte de água subterrânea, do derretimento de neve/gelo ou de outras fontes de água doce."
+  },
+  {
+    "id": "geo-259",
+    "materia": "geografia",
+    "topico": "Vocabulário fluvial - foz",
+    "pergunta": "O que é a foz de um rio?",
+    "alternativas": [
+      "O ponto de origem do rio",
+      "A parte mais estreita do leito do rio",
+      "Um pequeno curso de água que nunca chega ao mar",
+      "O local onde o rio termina, desaguando no mar, em um lago ou em outro rio"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A foz é o ponto final de um rio, local onde ele desagua no mar, em um lago ou em outro rio maior, podendo se apresentar na forma de estuário ou delta."
+  },
+  {
+    "id": "geo-260",
+    "materia": "geografia",
+    "topico": "Vocabulário fluvial - afluente",
+    "pergunta": "O que é um afluente, em relação a um rio principal?",
+    "alternativas": [
+      "Um lago formado próximo à nascente de um rio",
+      "O ponto final de qualquer rio",
+      "Um rio menor que deságua em um rio maior, contribuindo com suas águas",
+      "Uma barragem construída para gerar energia"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Um afluente é um rio menor que deságua em um rio principal, contribuindo com suas águas, como ocorre com o Rio Negro e o Rio Madeira em relação ao Rio Amazonas."
+  },
+  {
+    "id": "geo-261",
+    "materia": "geografia",
+    "topico": "Rio perene x rio temporário",
+    "pergunta": "Qual é a diferença entre um rio perene e um rio temporário (ou intermitente), como os encontrados no semiárido nordestino?",
+    "alternativas": [
+      "Não existe diferença entre eles",
+      "O rio perene só existe em regiões de clima frio",
+      "O rio temporário sempre tem mais água do que o rio perene",
+      "O rio perene tem água durante todo o ano; o rio temporário seca em determinadas épocas, geralmente durante a estação seca"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "Rios perenes possuem água durante todo o ano, enquanto rios temporários (ou intermitentes) secam em determinadas épocas, geralmente durante a estação seca, sendo comuns em regiões de clima semiárido, como o interior do Nordeste."
+  },
+  {
+    "id": "geo-262",
+    "materia": "geografia",
+    "topico": "Rio Amazonas - maior vazão do mundo",
+    "pergunta": "Em qual aspecto o Rio Amazonas é considerado o maior rio do mundo?",
+    "alternativas": [
+      "Em profundidade em toda a sua extensão",
+      "Em quantidade de peixes, sendo o único rio do mundo com vida aquática",
+      "Em vazão (volume de água), sendo responsável por parcela significativa de toda a água doce despejada nos oceanos do planeta",
+      "Em número de pontes construídas sobre ele"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Rio Amazonas é considerado o maior rio do mundo em vazão (volume de água), despejando uma quantidade de água doce nos oceanos muito superior à de qualquer outro rio do planeta."
+  },
+  {
+    "id": "geo-263",
+    "materia": "geografia",
+    "topico": "Encontro das águas em Manaus",
+    "pergunta": "O que é o fenômeno conhecido como 'Encontro das Águas', que ocorre próximo a Manaus?",
+    "alternativas": [
+      "A confluência dos rios São Francisco e Paraná",
+      "Um fenômeno que ocorre apenas durante furacões",
+      "A junção das águas escuras do Rio Negro com as águas barrentas do Rio Solimões, que correm lado a lado por vários quilômetros sem se misturar completamente devido a diferenças de temperatura, velocidade e densidade",
+      "Um evento que ocorre apenas uma vez por século"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Encontro das Águas é o fenômeno em que as águas escuras do Rio Negro se encontram com as águas barrentas do Rio Solimões, próximo a Manaus, correndo lado a lado por vários quilômetros sem se misturar completamente, devido a diferenças de temperatura, velocidade e densidade."
+  },
+  {
+    "id": "geo-264",
+    "materia": "geografia",
+    "topico": "Delta de rio",
+    "pergunta": "O que caracteriza a foz em delta, tipo de desembocadura observada em alguns rios do mundo, como o Rio Nilo?",
+    "alternativas": [
+      "A ausência total de água na desembocadura do rio",
+      "Um único canal estreito e profundo, sem nenhuma ramificação",
+      "A divisão do rio em vários braços antes de desaguar, formando uma área de sedimentação em formato triangular",
+      "Um fenômeno que ocorre apenas em rios de água salgada"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A foz em delta ocorre quando o rio se divide em vários braços antes de desaguar, formando uma área de sedimentação em formato triangular, como acontece no Rio Nilo. A maioria dos grandes rios brasileiros, como o Amazonas, desagua principalmente em estuários."
+  },
+  {
+    "id": "geo-265",
+    "materia": "geografia",
+    "topico": "Ilha de Marajó",
+    "pergunta": "A Ilha de Marajó, localizada na foz do Rio Amazonas, no Pará, é reconhecida por qual característica?",
+    "alternativas": [
+      "Por ser a menor ilha do mundo",
+      "Por estar localizada no Oceano Pacífico",
+      "Por ser uma ilha totalmente desabitada",
+      "Por ser considerada a maior ilha fluviomarítima do mundo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Ilha de Marajó, localizada na foz do Rio Amazonas, no estado do Pará, é considerada a maior ilha fluviomarítima do mundo, com uma área que combina influências fluviais e marítimas."
+  },
+  {
+    "id": "geo-266",
+    "materia": "geografia",
+    "topico": "Baía de Guanabara",
+    "pergunta": "A Baía de Guanabara, uma das maiores baías do mundo, está localizada em qual cidade brasileira?",
+    "alternativas": [
+      "Salvador",
+      "Fortaleza",
+      "Recife",
+      "Rio de Janeiro"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Baía de Guanabara está localizada na cidade do Rio de Janeiro, sendo uma das maiores baías do mundo, embora enfrente sérios problemas de poluição devido ao despejo de esgoto e resíduos ao longo das décadas."
+  },
+  {
+    "id": "geo-267",
+    "materia": "geografia",
+    "topico": "Divisor de águas",
+    "pergunta": "O que é um divisor de águas, conceito importante para entender a organização das bacias hidrográficas?",
+    "alternativas": [
+      "Uma barragem construída pelo homem para dividir um rio em dois",
+      "Um instrumento usado para medir a profundidade dos rios",
+      "Um tipo de ponte usada para atravessar rios",
+      "Uma elevação do relevo (como uma serra ou planalto) que separa duas bacias hidrográficas distintas, direcionando o escoamento das águas para lados opostos"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "O divisor de águas é uma elevação do relevo, como uma serra ou um planalto, que separa duas bacias hidrográficas distintas, fazendo com que as águas escoem para direções diferentes a partir desse ponto."
+  },
+  {
+    "id": "geo-268",
+    "materia": "geografia",
+    "topico": "Serra do Mar",
+    "pergunta": "A Serra do Mar, formação de relevo que acompanha grande parte do litoral das regiões Sul e Sudeste, é caracterizada por:",
+    "alternativas": [
+      "Ser uma extensa planície litorânea totalmente plana",
+      "Ser uma formação vulcânica ativa",
+      "Estar localizada exclusivamente no interior da Amazônia",
+      "Formar escarpas íngremes próximas ao litoral, funcionando como uma barreira natural entre o litoral e o planalto interior"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Serra do Mar forma escarpas íngremes que acompanham grande parte do litoral das regiões Sul e Sudeste, funcionando como uma barreira natural entre a estreita faixa litorânea e o planalto do interior."
+  },
+  {
+    "id": "geo-269",
+    "materia": "geografia",
+    "topico": "Serra da Mantiqueira",
+    "pergunta": "A Serra da Mantiqueira, importante formação de relevo do Sudeste brasileiro, está localizada entre quais estados?",
+    "alternativas": [
+      "Amazonas, Pará e Roraima",
+      "Bahia, Sergipe e Alagoas",
+      "Minas Gerais, São Paulo e Rio de Janeiro",
+      "Rio Grande do Sul, Santa Catarina e Paraná"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A Serra da Mantiqueira está localizada entre os estados de Minas Gerais, São Paulo e Rio de Janeiro, sendo uma importante formação de relevo do Sudeste brasileiro, com altitudes elevadas e clima mais frio."
+  },
+  {
+    "id": "geo-270",
+    "materia": "geografia",
+    "topico": "Planalto das Guianas",
+    "pergunta": "O Planalto das Guianas, localizado ao norte da Bacia Amazônica, se estende pelo território de quais estados brasileiros?",
+    "alternativas": [
+      "Rio Grande do Sul e Santa Catarina",
+      "São Paulo, Rio de Janeiro e Minas Gerais",
+      "Roraima, Amapá e norte do Amazonas e do Pará",
+      "Bahia e Sergipe"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Planalto das Guianas se estende ao norte da Bacia Amazônica, abrangendo partes de Roraima, Amapá e do norte do Amazonas e do Pará, além de se estender por outros países, como Venezuela, Guiana e Suriname."
+  },
+  {
+    "id": "geo-271",
+    "materia": "geografia",
+    "topico": "Pico da Neblina",
+    "pergunta": "O Pico da Neblina, ponto culminante (mais alto) do território brasileiro, está localizado em qual estado?",
+    "alternativas": [
+      "Rio de Janeiro",
+      "Minas Gerais",
+      "Amazonas",
+      "Santa Catarina"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Pico da Neblina, com quase 3 mil metros de altitude, é o ponto culminante do Brasil e está localizado no estado do Amazonas, próximo à fronteira com a Venezuela."
+  },
+  {
+    "id": "geo-272",
+    "materia": "geografia",
+    "topico": "Linha do Equador no Brasil",
+    "pergunta": "A Linha do Equador atravessa o território de quais estados brasileiros?",
+    "alternativas": [
+      "Apenas o Rio Grande do Sul",
+      "Bahia e Minas Gerais",
+      "São Paulo e Rio de Janeiro",
+      "Amapá, Pará, Amazonas e Roraima"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A Linha do Equador atravessa o território brasileiro passando pelos estados do Amapá, Pará, Amazonas e Roraima, todos na região Norte."
+  },
+  {
+    "id": "geo-273",
+    "materia": "geografia",
+    "topico": "Trópico de Capricórnio no Brasil",
+    "pergunta": "A linha do Trópico de Capricórnio, importante paralelo usado como referência geográfica, passa muito próxima de qual capital brasileira?",
+    "alternativas": [
+      "Manaus",
+      "Boa Vista",
+      "Belém",
+      "São Paulo"
+    ],
+    "respostaCorreta": 3,
+    "explicacao": "A linha do Trópico de Capricórnio passa muito próxima da cidade de São Paulo, havendo inclusive um marco geográfico na cidade que assinala essa passagem."
+  },
+  {
+    "id": "geo-274",
+    "materia": "geografia",
+    "topico": "Amazônia Legal x bioma Amazônia",
+    "pergunta": "Qual é a diferença entre a 'Amazônia Legal' e o bioma Amazônia?",
+    "alternativas": [
+      "São exatamente a mesma coisa, apenas com nomes diferentes",
+      "O bioma Amazônia é maior do que a Amazônia Legal",
+      "A Amazônia Legal é uma divisão político-administrativa criada por lei, que engloba todos os estados da região Norte mais partes do Mato Grosso e do Maranhão, sendo mais ampla do que a área ocupada pelo bioma Amazônia",
+      "A Amazônia Legal se refere apenas a áreas fora do Brasil"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A Amazônia Legal é uma divisão político-administrativa criada por lei para fins de planejamento e desenvolvimento regional, englobando todos os estados da região Norte além de partes do Mato Grosso e do Maranhão. Já o bioma Amazônia se refere à área de vegetação e ecossistema amazônico, que não coincide exatamente com os limites da Amazônia Legal."
+  },
+  {
+    "id": "geo-275",
+    "materia": "geografia",
+    "topico": "Desastre ambiental de Mariana",
+    "pergunta": "O rompimento da barragem de rejeitos de mineração em Mariana, Minas Gerais, em 2015, teve qual grave consequência ambiental?",
+    "alternativas": [
+      "Nenhum impacto relevante, já que a área era pouco povoada",
+      "Apenas a interrupção temporária do fornecimento de energia elétrica",
+      "A liberação de grande volume de rejeitos de mineração que poluiu o Rio Doce ao longo de centenas de quilômetros, até o Oceano Atlântico",
+      "A criação de uma nova reserva florestal na região"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O rompimento da barragem de rejeitos em Mariana, em 2015, liberou um grande volume de lama de rejeitos de mineração que poluiu o Rio Doce ao longo de centenas de quilômetros, até desaguar no Oceano Atlântico, sendo considerado um dos maiores desastres ambientais da história do Brasil."
+  },
+  {
+    "id": "geo-276",
+    "materia": "geografia",
+    "topico": "Desastre ambiental de Brumadinho",
+    "pergunta": "O rompimento da barragem de rejeitos em Brumadinho, Minas Gerais, em 2019, é lembrado principalmente por qual motivo?",
+    "alternativas": [
+      "Por ter sido um evento sem nenhuma vítima",
+      "Por ter ocorrido em uma área totalmente desabitada, sem nenhum impacto",
+      "Por ter causado centenas de mortes e grande destruição ambiental, tornando-se um dos maiores desastres relacionados à mineração no Brasil",
+      "Por ter melhorado a qualidade da água do Rio Paraopeba"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O rompimento da barragem de rejeitos em Brumadinho, em 2019, causou centenas de mortes e grande destruição ambiental na bacia do Rio Paraopeba, sendo um dos maiores desastres relacionados à atividade de mineração já registrados no Brasil."
+  },
+  {
+    "id": "geo-277",
+    "materia": "geografia",
+    "topico": "Taxa de natalidade",
+    "pergunta": "O que é a taxa de natalidade, indicador demográfico importante para entender o crescimento populacional?",
+    "alternativas": [
+      "O número de mortes registradas em um ano, a cada mil habitantes",
+      "A quantidade total de habitantes de um país",
+      "O número de nascimentos registrados em um determinado período, geralmente a cada mil habitantes",
+      "A quantidade de pessoas que migram para um país em um ano"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A taxa de natalidade indica o número de nascimentos registrados em um determinado período (geralmente um ano), calculado a cada mil habitantes, sendo um dos principais indicadores usados para analisar o crescimento populacional."
+  },
+  {
+    "id": "geo-278",
+    "materia": "geografia",
+    "topico": "Taxa de mortalidade",
+    "pergunta": "O que é a taxa de mortalidade, indicador demográfico usado para analisar a dinâmica populacional?",
+    "alternativas": [
+      "A proporção de pessoas que vivem em áreas urbanas",
+      "O número de nascimentos registrados em um ano",
+      "O número de óbitos registrados em um determinado período, geralmente a cada mil habitantes",
+      "A quantidade de casamentos realizados em um ano"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A taxa de mortalidade indica o número de óbitos registrados em um determinado período, geralmente calculado a cada mil habitantes, sendo, junto com a taxa de natalidade, um dos principais indicadores do crescimento populacional."
+  },
+  {
+    "id": "geo-279",
+    "materia": "geografia",
+    "topico": "Transição demográfica",
+    "pergunta": "O que é a transição demográfica, processo pelo qual o Brasil vem passando nas últimas décadas?",
+    "alternativas": [
+      "O processo de urbanização exclusivamente",
+      "A migração em massa da população para outros países",
+      "A mudança de altas taxas de natalidade e mortalidade para taxas mais baixas, alterando o ritmo de crescimento populacional e a estrutura etária da população",
+      "A transferência da capital do país para outra cidade"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A transição demográfica é o processo pelo qual uma população passa de altas taxas de natalidade e mortalidade para taxas mais baixas, resultando em mudanças no ritmo de crescimento populacional e no envelhecimento gradual da estrutura etária, como vem ocorrendo no Brasil."
+  },
+  {
+    "id": "geo-280",
+    "materia": "geografia",
+    "topico": "Envelhecimento populacional no Brasil",
+    "pergunta": "O que caracteriza o processo de envelhecimento populacional que o Brasil vem apresentando nas últimas décadas?",
+    "alternativas": [
+      "A diminuição contínua da proporção de idosos na população",
+      "O aumento exclusivo da população infantil",
+      "O aumento da proporção de idosos na população total, associado à queda da natalidade e ao aumento da expectativa de vida",
+      "A estagnação total do número de habitantes do país"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O envelhecimento populacional se caracteriza pelo aumento da proporção de idosos na população total, resultado da queda da taxa de natalidade combinada com o aumento da expectativa de vida, tendência observada no Brasil nas últimas décadas."
+  },
+  {
+    "id": "geo-281",
+    "materia": "geografia",
+    "topico": "Expectativa de vida no Brasil",
+    "pergunta": "Qual tem sido a tendência da expectativa de vida da população brasileira ao longo das últimas décadas?",
+    "alternativas": [
+      "Tem diminuído continuamente desde o século XX",
+      "Permanece exatamente igual há mais de cem anos",
+      "Tem aumentado, refletindo melhorias nas condições de saúde, saneamento e qualidade de vida",
+      "É a menor entre todos os países do mundo"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A expectativa de vida da população brasileira tem aumentado ao longo das últimas décadas, refletindo melhorias nas condições de saúde, saneamento básico, alimentação e acesso a serviços médicos."
+  },
+  {
+    "id": "geo-282",
+    "materia": "geografia",
+    "topico": "Censo demográfico do IBGE",
+    "pergunta": "O que é o Censo Demográfico, realizado periodicamente pelo IBGE (Instituto Brasileiro de Geografia e Estatística)?",
+    "alternativas": [
+      "Uma pesquisa de opinião sobre política realizada apenas nas capitais",
+      "Um exame aplicado apenas a estudantes do ensino médio",
+      "Um levantamento detalhado que busca contar e caracterizar toda a população do país, coletando dados sobre moradia, renda, escolaridade e outros aspectos",
+      "Um mapa que representa somente o relevo do Brasil"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Censo Demográfico é um levantamento detalhado realizado periodicamente pelo IBGE, que busca contar e caracterizar toda a população brasileira, coletando dados sobre moradia, renda, escolaridade, entre outros aspectos, sendo fundamental para o planejamento de políticas públicas."
+  },
+  {
+    "id": "geo-283",
+    "materia": "geografia",
+    "topico": "População indígena no Brasil",
+    "pergunta": "Em qual região do Brasil se concentra proporcionalmente a maior parte da população indígena do país?",
+    "alternativas": [
+      "Sul",
+      "Sudeste",
+      "Norte",
+      "Nordeste apenas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A região Norte concentra proporcionalmente a maior parte da população indígena do Brasil, refletindo a presença histórica de diversos povos originários na Amazônia, embora existam comunidades indígenas em todas as regiões do país."
+  },
+  {
+    "id": "geo-284",
+    "materia": "geografia",
+    "topico": "Comunidades quilombolas",
+    "pergunta": "O que são as comunidades quilombolas, reconhecidas e protegidas pela legislação brasileira?",
+    "alternativas": [
+      "Comunidades formadas por imigrantes europeus recentes",
+      "Comunidades formadas exclusivamente por povos indígenas",
+      "Comunidades descendentes de escravizados que resistiram à escravidão, historicamente organizadas em quilombos, muitas das quais preservam até hoje tradições culturais próprias",
+      "Comunidades localizadas apenas em áreas urbanas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "As comunidades quilombolas são descendentes de povos escravizados que resistiram à escravidão, historicamente organizados em quilombos. Muitas dessas comunidades preservam até hoje tradições culturais próprias e têm direitos territoriais reconhecidos pela Constituição brasileira."
+  },
+  {
+    "id": "geo-285",
+    "materia": "geografia",
+    "topico": "Formatos de pirâmide etária",
+    "pergunta": "Como costuma ser o formato de uma pirâmide etária de uma população jovem, em comparação com o de uma população envelhecida?",
+    "alternativas": [
+      "A população jovem tem topo largo e base estreita",
+      "Ambas apresentam exatamente o mesmo formato",
+      "A população jovem tem pirâmide com base larga (muitas crianças) e topo estreito; a população envelhecida tem base mais estreita e topo mais largo",
+      "O formato da pirâmide não tem relação com a idade da população"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Uma população jovem apresenta pirâmide etária com base larga (muitas crianças e jovens) e topo estreito (poucos idosos), enquanto uma população envelhecida apresenta base mais estreita, refletindo a queda da natalidade, e topo mais largo, refletindo maior proporção de idosos."
+  },
+  {
+    "id": "geo-286",
+    "materia": "geografia",
+    "topico": "Escala cartográfica - grande x pequena",
+    "pergunta": "Em cartografia, o que significa dizer que um mapa está em 'grande escala'?",
+    "alternativas": [
+      "Que o mapa representa uma área muito extensa, com pouco detalhamento",
+      "Que o mapa é fisicamente muito grande em tamanho de papel",
+      "Que o mapa representa uma área menor, mas com maior riqueza de detalhes",
+      "Que o mapa não possui nenhuma legenda"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Em cartografia, um mapa de grande escala representa uma área menor do território, mas com maior riqueza de detalhes (como o mapa de um bairro), enquanto um mapa de pequena escala representa uma área mais extensa, com menos detalhamento (como o mapa-múndi)."
+  },
+  {
+    "id": "geo-287",
+    "materia": "geografia",
+    "topico": "Projeção de Mercator",
+    "pergunta": "Qual é uma das principais críticas feitas à projeção cartográfica de Mercator, muito utilizada em mapas-múndi?",
+    "alternativas": [
+      "Ela distorce as distâncias entre continentes de forma aleatória e imprevisível",
+      "Ela é a única projeção que representa corretamente todas as áreas",
+      "Ela aumenta visualmente o tamanho de países e continentes próximos aos polos (como Europa e América do Norte) em relação a áreas próximas à linha do Equador (como a África), mesmo quando estas são maiores na realidade",
+      "Ela não pode ser usada para navegação"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A projeção de Mercator, embora preserve bem os ângulos (sendo útil para navegação), distorce as áreas, fazendo com que regiões próximas aos polos, como Europa e América do Norte, pareçam maiores do que realmente são, em comparação com áreas próximas à Linha do Equador, como a África, que é maior na realidade."
+  },
+  {
+    "id": "geo-288",
+    "materia": "geografia",
+    "topico": "Projeção de Peters",
+    "pergunta": "Qual é a principal característica da projeção de Peters, criada como alternativa à projeção de Mercator?",
+    "alternativas": [
+      "Ela distorce ainda mais as áreas dos continentes do que a projeção de Mercator",
+      "Ela é usada exclusivamente para mapas do sistema solar",
+      "Ela busca representar as áreas dos continentes de forma proporcionalmente mais fiel ao tamanho real, mesmo distorcendo um pouco as formas",
+      "Ela não pode ser usada para representar o território brasileiro"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A projeção de Peters é uma projeção equivalente, que busca representar as áreas dos continentes de forma proporcionalmente mais fiel ao tamanho real, ainda que distorça um pouco as formas, sendo criada como alternativa às distorções de área da projeção de Mercator."
+  },
+  {
+    "id": "geo-289",
+    "materia": "geografia",
+    "topico": "Presença brasileira na Antártida",
+    "pergunta": "O que é a Estação Antártica Comandante Ferraz, mantida pelo Brasil?",
+    "alternativas": [
+      "Uma base militar brasileira localizada na Amazônia",
+      "Um porto brasileiro localizado no extremo sul do Rio Grande do Sul",
+      "Uma base de pesquisa científica brasileira localizada na Antártida, usada para estudos sobre clima, geologia e biodiversidade da região",
+      "Uma usina hidrelétrica construída na fronteira com o Uruguai"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A Estação Antártica Comandante Ferraz é uma base de pesquisa científica mantida pelo Brasil na Antártida, usada para estudos sobre clima, geologia, biodiversidade e outros temas, refletindo a participação brasileira no Tratado da Antártida."
+  },
+  {
+    "id": "geo-290",
+    "materia": "geografia",
+    "topico": "Hora legal x hora solar",
+    "pergunta": "Qual é a diferença entre a hora legal (usada oficialmente) e a hora solar de um lugar?",
+    "alternativas": [
+      "Não existe diferença entre elas",
+      "A hora solar só existe em países tropicais",
+      "A hora legal é definida por convenção, sendo igual para toda uma faixa de fuso horário; a hora solar varia continuamente conforme a posição exata do Sol em cada longitude, mesmo dentro de um mesmo fuso",
+      "A hora legal muda a cada minuto, enquanto a solar é sempre fixa"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A hora legal é definida por convenção e lei, sendo igual para toda uma faixa de fuso horário, enquanto a hora solar varia continuamente conforme a posição exata do Sol em cada longitude específica, podendo diferir ligeiramente da hora legal mesmo dentro de um mesmo fuso."
+  },
+  {
+    "id": "geo-291",
+    "materia": "geografia",
+    "topico": "Horário de verão no Brasil",
+    "pergunta": "O que foi o horário de verão, medida adotada por muitos anos em parte do território brasileiro e descontinuada em 2019?",
+    "alternativas": [
+      "Um feriado nacional comemorado apenas no verão",
+      "Uma mudança permanente no fuso horário de Brasília",
+      "O adiantamento dos relógios em uma hora durante os meses mais quentes do ano, buscando aproveitar melhor a luz solar e economizar energia elétrica",
+      "Um evento esportivo realizado anualmente no litoral brasileiro"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O horário de verão consistia no adiantamento dos relógios em uma hora durante os meses mais quentes do ano em parte do território brasileiro, buscando aproveitar melhor a luz solar no fim do dia e reduzir o consumo de energia elétrica. A medida foi descontinuada em 2019."
+  },
+  {
+    "id": "geo-292",
+    "materia": "geografia",
+    "topico": "Transposição do Rio São Francisco",
+    "pergunta": "Qual é o principal objetivo do Projeto de Integração do Rio São Francisco (transposição), obra de infraestrutura hídrica no Nordeste?",
+    "alternativas": [
+      "Aumentar a navegação de grandes navios entre a Bahia e Pernambuco",
+      "Gerar energia elétrica exclusivamente para exportação",
+      "Levar água do Rio São Francisco, por meio de canais, para áreas do semiárido nordestino que sofrem com a escassez de água",
+      "Reduzir o volume de água do Rio São Francisco para fins de segurança"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O Projeto de Integração do Rio São Francisco (transposição) tem como principal objetivo levar água do rio, por meio de canais, para áreas do semiárido nordestino que sofrem com a escassez de água, especialmente em períodos de estiagem prolongada."
+  },
+  {
+    "id": "geo-293",
+    "materia": "geografia",
+    "topico": "Regime fluvial",
+    "pergunta": "O que é o regime fluvial de um rio, conceito relacionado à variação de seu volume de água ao longo do ano?",
+    "alternativas": [
+      "Um conjunto de leis que regulam a pesca em rios",
+      "O nome dado exclusivamente à velocidade da correnteza de um rio",
+      "A variação do volume de água (vazão) de um rio ao longo do ano, geralmente relacionada às estações chuvosas e secas de sua bacia",
+      "Um tipo de embarcação usada para navegação fluvial"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "O regime fluvial refere-se à variação do volume de água (vazão) de um rio ao longo do ano, geralmente influenciada pelas estações chuvosas e secas de sua bacia hidrográfica, o que faz o nível dos rios subir ou descer em diferentes épocas."
+  },
+  {
+    "id": "geo-294",
+    "materia": "geografia",
+    "topico": "Amplitude térmica",
+    "pergunta": "O que é a amplitude térmica de uma região?",
+    "alternativas": [
+      "A velocidade média dos ventos em uma região",
+      "A quantidade total de chuva registrada em uma região",
+      "A diferença entre a temperatura mais alta e a mais baixa registradas em um determinado período, seja ao longo de um dia ou de um ano",
+      "A altitude média de uma região em relação ao nível do mar"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A amplitude térmica é a diferença entre a temperatura mais alta e a mais baixa registradas em um determinado período (diária ou anual). Regiões tropicais, como grande parte do Brasil, geralmente apresentam menor amplitude térmica anual do que regiões de clima temperado."
+  },
+  {
+    "id": "geo-295",
+    "materia": "geografia",
+    "topico": "Umidade relativa do ar",
+    "pergunta": "O que é a umidade relativa do ar, elemento climático que varia bastante entre diferentes regiões do Brasil?",
+    "alternativas": [
+      "A quantidade de poeira presente no ar de uma região",
+      "A velocidade com que as nuvens se movem no céu",
+      "A quantidade de vapor de água presente no ar em relação à quantidade máxima que ele poderia conter naquela temperatura",
+      "A pressão atmosférica de uma região"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A umidade relativa do ar indica a quantidade de vapor de água presente no ar em relação à quantidade máxima que ele poderia conter em determinada temperatura. Regiões como a Amazônia apresentam umidade relativa muito alta, enquanto o semiárido nordestino apresenta índices bem mais baixos."
+  },
+  {
+    "id": "geo-296",
+    "materia": "geografia",
+    "topico": "Frente fria",
+    "pergunta": "O que é uma frente fria, fenômeno climático comum no Sul e Sudeste do Brasil, especialmente no outono e inverno?",
+    "alternativas": [
+      "Um fenômeno que só ocorre próximo à Linha do Equador",
+      "Um período de seca prolongada sem nenhuma chuva",
+      "O encontro entre uma massa de ar frio e uma massa de ar mais quente, que costuma provocar queda de temperatura, ventos e chuvas",
+      "Um tipo de corrente marítima quente"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Uma frente fria ocorre quando uma massa de ar frio avança e se encontra com uma massa de ar mais quente, provocando queda de temperatura, aumento dos ventos e, geralmente, chuvas, sendo um fenômeno comum no Sul e Sudeste do Brasil, especialmente no outono e inverno."
+  },
+  {
+    "id": "geo-297",
+    "materia": "geografia",
+    "topico": "Friagem na Amazônia",
+    "pergunta": "O que é a 'friagem', fenômeno que ocorre ocasionalmente na região amazônica e no Centro-Oeste?",
+    "alternativas": [
+      "Um período de calor intenso e seca prolongada",
+      "Um tipo de chuva de granizo comum apenas no litoral",
+      "A queda brusca e temporária da temperatura em áreas normalmente quentes, causada pelo avanço de massas de ar frio vindas do Sul",
+      "Um fenômeno que só ocorre em regiões desérticas"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A friagem é a queda brusca e temporária da temperatura em áreas normalmente quentes, como a Amazônia e o Centro-Oeste, causada pelo avanço de massas de ar frio (Massa Polar Atlântica) vindas do sul do continente."
+  },
+  {
+    "id": "geo-298",
+    "materia": "geografia",
+    "topico": "Estuário",
+    "pergunta": "O que é um estuário, tipo de foz comum na maioria dos grandes rios brasileiros?",
+    "alternativas": [
+      "Uma área alagada apenas durante o inverno",
+      "Um tipo de cachoeira muito alta",
+      "A região onde as águas doces de um rio se encontram e se misturam com as águas salgadas do mar, formando um ambiente de transição rico em biodiversidade",
+      "Uma ilha localizada no meio do oceano"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Um estuário é a região onde as águas doces de um rio se encontram e se misturam com as águas salgadas do mar, formando um ambiente de transição rico em biodiversidade, sendo o tipo de foz mais comum entre os grandes rios brasileiros."
+  },
+  {
+    "id": "geo-299",
+    "materia": "geografia",
+    "topico": "Rios voadores",
+    "pergunta": "O que são os chamados 'rios voadores', fenômeno relacionado à Floresta Amazônica e ao clima de outras regiões do Brasil?",
+    "alternativas": [
+      "Rios subterrâneos que atravessam o território brasileiro sem afluentes",
+      "Um tipo de avião usado para monitorar rios da Amazônia",
+      "Grandes volumes de vapor de água liberados pela floresta através da evapotranspiração, que formam correntes de umidade na atmosfera e levam chuva para outras regiões, como o Sudeste",
+      "Um fenômeno que ocorre exclusivamente no litoral do Nordeste"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "Os 'rios voadores' são grandes volumes de vapor de água liberados pela Floresta Amazônica por meio da evapotranspiração das árvores, formando correntes de umidade na atmosfera que se deslocam e contribuem para as chuvas em outras regiões do Brasil, como o Sudeste e o Sul."
+  },
+  {
+    "id": "geo-300",
+    "materia": "geografia",
+    "topico": "Marcha para o Oeste",
+    "pergunta": "O que foi a 'Marcha para o Oeste', política adotada no Brasil a partir da década de 1930?",
+    "alternativas": [
+      "Um movimento de emigração de brasileiros para os Estados Unidos",
+      "Um plano para transferir toda a população brasileira para o litoral",
+      "Uma política de incentivo à ocupação e ao povoamento do interior do país, especialmente das regiões Centro-Oeste e Norte, ainda pouco povoadas na época",
+      "Uma expedição militar para conquistar territórios de países vizinhos"
+    ],
+    "respostaCorreta": 2,
+    "explicacao": "A 'Marcha para o Oeste' foi uma política adotada a partir da década de 1930, no governo de Getúlio Vargas, com o objetivo de incentivar a ocupação e o povoamento do interior do país, especialmente das regiões Centro-Oeste e Norte, até então pouco povoadas, contribuindo posteriormente para decisões como a construção de Brasília."
   }
 ]
