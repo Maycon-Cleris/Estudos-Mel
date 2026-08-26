@@ -114,6 +114,8 @@ Regras importantes:
 
 Se uma matéria tiver questões com `capitulo` preenchido em mais de um valor distinto, a tela inicial mostra automaticamente uma lista de capítulos com checkboxes para a aluna escolher quais quer praticar — a prova sorteia só entre as questões dos capítulos marcados. Matérias sem capítulos cadastrados (ou com um só capítulo) continuam funcionando normalmente, sem esse seletor aparecer.
 
+Geografia já usa esse recurso: o banco (`questions/geografia.json`, 192 questões) foi escrito seguindo as 8 unidades do livro didático usado pela aluna (O território brasileiro, A população brasileira, Industrialização/consumo/redes, e as cinco regiões do país), então o seletor de capítulos aparece normalmente para essa matéria. As demais matérias (Ciências, Matemática, Português, História) ainda usam o banco genérico de 300 questões por matéria, sem capítulos — à medida que os índices desses livros forem enviados, o mesmo processo pode ser repetido para eles.
+
 Não precisa se preocupar com quantas questões caem em cada prova — o servidor sempre sorteia 15 do banco da matéria (constante `QUIZ_LENGTH` em `server/app.js`, ajustável se quiser outro número). Se a matéria tiver 15 ou menos questões, todas aparecem, só que embaralhadas.
 
 Depois de editar o arquivo, salve, rode `npm run dev` de novo localmente para conferir, e depois faça `git push` — a Vercel publica a atualização automaticamente.
