@@ -119,8 +119,9 @@ Geografia, Matemática e Ciências já usam esse recurso:
 - `questions/geografia.json` (192 questões) segue as 8 unidades do livro de Geografia da aluna (O território brasileiro, A população brasileira, Industrialização/consumo/redes, e as cinco regiões do país).
 - `questions/matematica.json` (216 questões) segue as 9 unidades do livro de Matemática dela (Números naturais, Números inteiros, Simetria e transformações geométricas, Números racionais, Linguagem algébrica e equações, Figuras geométricas planas, Grandezas proporcionais, Porcentagem/probabilidade/estatística, Área e volume).
 - `questions/ciencias.json` (264 questões) segue os 11 capítulos do livro de Ciências dela (Placas tectônicas, Atmosfera, Seres vivos, Ecossistemas terrestres, Ambiente aquático e região costeira, Condições de saúde, Doenças transmissíveis, Máquinas simples, Calor, Equilíbrio do planeta/combustíveis/máquinas térmicas, e Tecnologia e sociedade).
+- `questions/historia.json` (288 questões) segue os 12 capítulos do livro de História dela (Povos indígenas, Povos e culturas africanas, Mudanças na Europa feudal, Renascimento e humanismo, Reforma e Contrarreforma, Estado Moderno/absolutismo/mercantilismo, Grandes Navegações, Conquista e colonização da América, América portuguesa: colonização, Africanos no Brasil, Europeus disputam o mundo Atlântico, e A formação do território da América portuguesa).
 
-Nessas três matérias o seletor de capítulos aparece normalmente. Português e História ainda usam o banco genérico de 300 questões por matéria, sem capítulos — à medida que os índices desses livros forem enviados, o mesmo processo pode ser repetido para eles.
+Nessas quatro matérias o seletor de capítulos aparece normalmente. Português ainda usa o banco genérico de 300 questões, sem capítulos — quando o índice desse livro for enviado, o mesmo processo pode ser repetido para ele.
 
 Não precisa se preocupar com quantas questões caem em cada prova — o servidor sempre sorteia 15 do banco da matéria (constante `QUIZ_LENGTH` em `server/app.js`, ajustável se quiser outro número). Se a matéria tiver 15 ou menos questões, todas aparecem, só que embaralhadas.
 
