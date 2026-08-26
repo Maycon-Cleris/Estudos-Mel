@@ -93,6 +93,7 @@ Cada matéria tem seu próprio arquivo `.json` dentro da pasta `questions/`. Par
 {
   "id": "mat-301",
   "materia": "matematica",
+  "capitulo": "Capítulo 5 - Frações",
   "topico": "Frações",
   "pergunta": "Quanto é 1/2 + 1/4?",
   "alternativas": ["1/6", "2/6", "3/4", "1"],
@@ -104,9 +105,14 @@ Cada matéria tem seu próprio arquivo `.json` dentro da pasta `questions/`. Par
 Regras importantes:
 
 - `id`: precisa ser único dentro do arquivo (sugestão: prefixo da matéria + número, seguindo a numeração já usada, ex: `mat-301`, `mat-302`)
+- `capitulo`: nome do capítulo do livro ao qual a questão pertence (use o mesmo texto do índice do livro, para o filtro de capítulos ficar consistente). Campo opcional — questões sem `capitulo` caem no grupo "Geral"
 - `alternativas`: sempre um array com exatamente 4 opções
 - `respostaCorreta`: índice (0, 1, 2 ou 3) da alternativa certa dentro do array `alternativas`
 - `explicacao`: texto curto que aparece na correção, explicando o conteúdo
+
+### Filtro por capítulo
+
+Se uma matéria tiver questões com `capitulo` preenchido em mais de um valor distinto, a tela inicial mostra automaticamente uma lista de capítulos com checkboxes para a aluna escolher quais quer praticar — a prova sorteia só entre as questões dos capítulos marcados. Matérias sem capítulos cadastrados (ou com um só capítulo) continuam funcionando normalmente, sem esse seletor aparecer.
 
 Não precisa se preocupar com quantas questões caem em cada prova — o servidor sempre sorteia 15 do banco da matéria (constante `QUIZ_LENGTH` em `server/app.js`, ajustável se quiser outro número). Se a matéria tiver 15 ou menos questões, todas aparecem, só que embaralhadas.
 

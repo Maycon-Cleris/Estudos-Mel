@@ -30,3 +30,16 @@ export function getQuestionsBySubject(subjectId) {
 export function getQuestionById(subjectId, questionId) {
   return getQuestionsBySubject(subjectId).find((q) => q.id === questionId);
 }
+
+// Lista os capítulos presentes no banco de uma matéria, na ordem em que
+// aparecem no arquivo (ordem do livro), com a quantidade de questões de cada.
+// Questões sem "capitulo" definido caem no grupo "Geral".
+export function getChaptersBySubject(subjectId) {
+  const bank = getQuestionsBySubject(subjectId);
+  const counts = new Map();
+  for (const q of bank) {
+    const capitulo = q.capitulo || "Geral";
+    counts.set(capitulo, (counts.get(capitulo) || 0) + 1);
+  }
+  return Array.from(counts.entries()).map(([capitulo, total]) => ({ capitulo, total }));
+}

@@ -16,8 +16,15 @@ export function getSubjects() {
   return request("/subjects");
 }
 
-export function getQuestions(subjectId) {
-  return request(`/questions/${subjectId}`);
+export function getChapters(subjectId) {
+  return request(`/subjects/${subjectId}/capitulos`);
+}
+
+export function getQuestions(subjectId, capitulos) {
+  const params = new URLSearchParams();
+  if (capitulos && capitulos.length > 0) params.set("capitulos", capitulos.join(","));
+  const query = params.toString();
+  return request(`/questions/${subjectId}${query ? `?${query}` : ""}`);
 }
 
 export function saveResult(payload) {

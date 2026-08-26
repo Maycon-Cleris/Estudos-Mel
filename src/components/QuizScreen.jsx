@@ -19,10 +19,14 @@ export default function QuizScreen() {
       navigate("/", { replace: true });
       return;
     }
-    getQuestions(state.subject)
+    getQuestions(state.subject, state.capitulos)
       .then((data) => {
         if (data.length === 0) {
-          setError("Essa matéria ainda não tem questões cadastradas.");
+          setError(
+            state.capitulos?.length
+              ? "Nenhuma questão encontrada para os capítulos selecionados."
+              : "Essa matéria ainda não tem questões cadastradas."
+          );
         }
         setQuestions(data);
       })

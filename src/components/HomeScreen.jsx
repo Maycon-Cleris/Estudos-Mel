@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
-import { getSubjects } from "../api/client.js";
+import { getSubjects, getChapters } from "../api/client.js";
 
 const QUIZ_LENGTH = 15;
 
@@ -15,6 +15,8 @@ export default function HomeScreen() {
   const [subjects, setSubjects] = useState([]);
   const [studentName, setStudentName] = useState("");
   const [subjectId, setSubjectId] = useState("");
+  const [chapters, setChapters] = useState([]);
+  const [selectedChapters, setSelectedChapters] = useState([]);
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(true);
 
@@ -29,7 +31,24 @@ export default function HomeScreen() {
       .finally(() => setLoading(false));
   }, []);
 
+  useEffect(() => {
+    if (!subjectId) return;
+    getChapters(subjectId)
+      .then((data) => {
+        setChapters(data);
+        setSelectedChapters(data.map((c) => c.capitulo));
+      })
+      .catch(() => setChapters([]));
+  }, [subjectId]);
+
   const selectedSubject = subjects.find((s) => s.id === subjectId);
+  const hasChapterChoice = chapters.length > 1;
+
+  function toggleChapter(capitulo) {
+    setSelectedChapters((prev) =>
+      prev.includes(capitulo) ? prev.filter((c) => c !== capitulo) : [...prev, capitulo]
+    );
+  }
 
   function handleSubmit(e) {
     e.preventDefault();
@@ -41,12 +60,17 @@ export default function HomeScreen() {
       setError("Essa matéria ainda não tem questões cadastradas.");
       return;
     }
+    if (hasChapterChoice && selectedChapters.length === 0) {
+      setError("Selecione pelo menos um capítulo.");
+      return;
+    }
     setError("");
     navigate("/quiz", {
       state: {
         studentName: studentName.trim(),
         subject: selectedSubject.id,
         subjectLabel: selectedSubject.label,
+        capitulos: hasChapterChoice ? selectedChapters : undefined,
       },
     });
   }
@@ -82,6 +106,24 @@ export default function HomeScreen() {
                 ))}
               </select>
             </label>
+
+            {hasChapterChoice && (
+              <div className="field">
+                <span>Capítulos</span>
+                <div className="chapter-list">
+                  {chapters.map((c) => (
+                    <label key={c.capitulo} className="chapter-checkbox">
+                      <input
+                        type="checkbox"
+                        checked={selectedChapters.includes(c.capitulo)}
+                        onChange={() => toggleChapter(c.capitulo)}
+                      />
+                      {c.capitulo} ({c.total})
+                    </label>
+                  ))}
+                </div>
+              </div>
+            )}
 
             {error && <p className="error-text">{error}</p>}
 

@@ -5,6 +5,7 @@ import {
   getSubjects,
   getQuestionsBySubject,
   getQuestionById,
+  getChaptersBySubject,
 } from "../questions/index.js";
 import { insertResult, listResults, getResultById } from "./db.js";
 
@@ -30,13 +31,29 @@ app.get("/api/subjects", (req, res) => {
   res.json(getSubjects());
 });
 
+// Lista os capítulos cadastrados para uma matéria (com a quantidade de
+// questões de cada), na ordem em que aparecem no banco.
+app.get("/api/subjects/:subjectId/capitulos", (req, res) => {
+  res.json(getChaptersBySubject(req.params.subjectId));
+});
+
 // Sorteia QUIZ_LENGTH questões da matéria, embaralha a ordem das perguntas
 // e das alternativas, e não revela a resposta correta nem a explicação.
 // Assim, cada prova fica diferente, mesmo repetindo a matéria na mesma semana.
+// Aceita "?capitulos=Capítulo 1,Capítulo 2" para restringir o sorteio apenas
+// aos capítulos escolhidos; sem esse parâmetro, sorteia do banco inteiro.
 app.get("/api/questions/:subjectId", (req, res) => {
   const bank = getQuestionsBySubject(req.params.subjectId);
-  const selected = shuffle(bank).slice(0, QUIZ_LENGTH);
-  const quizQuestions = selected.map(({ id, materia, topico, pergunta, alternativas }) => ({
+  const { capitulos } = req.query;
+
+  let pool = bank;
+  if (capitulos) {
+    const selectedChapters = new Set(String(capitulos).split(",").filter(Boolean));
+    pool = bank.filter((q) => selectedChapters.has(q.capitulo || "Geral"));
+  }
+
+  const selectedQuestions = shuffle(pool).slice(0, QUIZ_LENGTH);
+  const quizQuestions = selectedQuestions.map(({ id, materia, topico, pergunta, alternativas }) => ({
     id,
     materia,
     topico,
