@@ -2,7 +2,7 @@
 
 Aplicativo web para treinar para provas, feito para uma aluna do 7º ano. Escolha a matéria, responda as questões de múltipla escolha e veja a correção detalhada ao final. Os responsáveis podem acompanhar o histórico de todas as provas realizadas, de qualquer lugar.
 
-Matérias com banco de 300 questões cada, cobrindo o currículo do 7º ano (BNCC): **Ciências, Matemática, Português, História e Geografia**. A cada prova, o app sorteia 15 questões do banco da matéria e embaralha a ordem das perguntas e das alternativas — com 300 por matéria, dá pra fazer prova todo dia por semanas sem repetir.
+Matérias com banco de questões organizado pelos capítulos dos livros didáticos da aluna: **Ciências, Matemática, Português, História e Geografia**. A cada prova, o app sorteia 15 questões do banco da matéria (ou dos capítulos escolhidos) e embaralha a ordem das perguntas e das alternativas.
 
 ## Como funciona
 
@@ -58,11 +58,11 @@ Sem o `.env` configurado, o app inicia normalmente e o quiz funciona, mas salvar
 ```
 questions/            -> banco de questões (fonte da verdade, usado só pelo servidor)
   subjects.js          -> lista de matérias disponíveis
-  ciencias.json         -> 300 questões de Ciências
-  matematica.json       -> 300 questões de Matemática
-  portugues.json        -> 300 questões de Português
-  historia.json         -> 300 questões de História
-  geografia.json        -> 300 questões de Geografia
+  ciencias.json         -> 264 questões de Ciências, por capítulo
+  matematica.json       -> 216 questões de Matemática, por capítulo
+  portugues.json        -> 192 questões de Português, por capítulo
+  historia.json         -> 288 questões de História, por capítulo
+  geografia.json        -> 192 questões de Geografia, por capítulo
   index.js              -> junta tudo e expõe funções auxiliares
 
 server/
@@ -120,8 +120,9 @@ Geografia, Matemática e Ciências já usam esse recurso:
 - `questions/matematica.json` (216 questões) segue as 9 unidades do livro de Matemática dela (Números naturais, Números inteiros, Simetria e transformações geométricas, Números racionais, Linguagem algébrica e equações, Figuras geométricas planas, Grandezas proporcionais, Porcentagem/probabilidade/estatística, Área e volume).
 - `questions/ciencias.json` (264 questões) segue os 11 capítulos do livro de Ciências dela (Placas tectônicas, Atmosfera, Seres vivos, Ecossistemas terrestres, Ambiente aquático e região costeira, Condições de saúde, Doenças transmissíveis, Máquinas simples, Calor, Equilíbrio do planeta/combustíveis/máquinas térmicas, e Tecnologia e sociedade).
 - `questions/historia.json` (288 questões) segue os 12 capítulos do livro de História dela (Povos indígenas, Povos e culturas africanas, Mudanças na Europa feudal, Renascimento e humanismo, Reforma e Contrarreforma, Estado Moderno/absolutismo/mercantilismo, Grandes Navegações, Conquista e colonização da América, América portuguesa: colonização, Africanos no Brasil, Europeus disputam o mundo Atlântico, e A formação do território da América portuguesa).
+- `questions/portugues.json` (192 questões) segue as 8 unidades do livro de Português dela (Criar com palavras, Ler para se informar, Entrevista, Foco na informação, Histórias para ler e representar, Histórias para estimular a imaginação, Reclamar/propor/garantir direitos, e Defender ideias e opiniões).
 
-Nessas quatro matérias o seletor de capítulos aparece normalmente. Português ainda usa o banco genérico de 300 questões, sem capítulos — quando o índice desse livro for enviado, o mesmo processo pode ser repetido para ele.
+Agora as cinco matérias usam o seletor de capítulos normalmente.
 
 Não precisa se preocupar com quantas questões caem em cada prova — o servidor sempre sorteia 15 do banco da matéria (constante `QUIZ_LENGTH` em `server/app.js`, ajustável se quiser outro número). Se a matéria tiver 15 ou menos questões, todas aparecem, só que embaralhadas.
 
